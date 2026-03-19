@@ -1,0 +1,684 @@
+{
+    "exercises": [
+        {
+            "number": 1,
+            "type": "select",
+            "header": "___ άντρας είναι ψηλός.",
+            "translations": "The man is tall.",
+            "options": { "a": "Ο", "b": "Η", "c": "Το", "d": "Οι" },
+            "answer": "a",
+            "explanation": "Masculine singular nominative nouns require the article 'Ο'."
+        },
+        {
+            "number": 2,
+            "type": "fill",
+            "header": "Οι ___ (γυναίκα) είναι εδώ.",
+            "translations": "The women are here.",
+            "answer": "γυναίκες",
+            "explanation": "The feminine plural of 'γυναίκα' is 'γυναίκες'."
+        },
+        {
+            "number": 3,
+            "type": "select",
+            "header": "Βλέπω ___ παιδιά.",
+            "translations": "I see the children.",
+            "options": { "a": "ο", "b": "τα", "c": "τη", "d": "το" },
+            "answer": "b",
+            "explanation": "Neuter plural accusative nouns take the article 'τα'."
+        },
+        {
+            "number": 4,
+            "type": "fill",
+            "header": "Το ___ (σπίτι) είναι μεγάλο.",
+            "translations": "The house is big.",
+            "answer": "σπίτι",
+            "explanation": "Neuter singular nominative form of the noun."
+        },
+        {
+            "number": 5,
+            "type": "select",
+            "header": "___ θάλασσα είναι μπλε.",
+            "translations": "The sea is blue.",
+            "options": { "a": "Ο", "b": "Η", "c": "Το", "d": "Τα" },
+            "answer": "b",
+            "explanation": "Feminine singular nominative nouns require the article 'Η'."
+        },
+        {
+            "number": 6,
+            "type": "fill",
+            "header": "Οι ___ (άντρας) δουλεύουν.",
+            "translations": "The men are working.",
+            "answer": "άντρες",
+            "explanation": "The plural of 'άντρας' is 'άντρες'."
+        },
+        {
+            "number": 7,
+            "type": "select",
+            "header": "Έχω ___ βιβλίο.",
+            "translations": "I have the book.",
+            "options": { "a": "το", "b": "τον", "c": "τη", "d": "τα" },
+            "answer": "a",
+            "explanation": "Neuter singular accusative nouns take the article 'το'."
+        },
+        {
+            "number": 8,
+            "type": "fill",
+            "header": "Τα ___ (δέντρο) είναι πράσινα.",
+            "translations": "The trees are green.",
+            "answer": "δέντρα",
+            "explanation": "The neuter plural ending for -ο nouns is -α."
+        },
+        {
+            "number": 9,
+            "type": "select",
+            "header": "___ ουρανός είναι καθαρός.",
+            "translations": "The sky is clear.",
+            "options": { "a": "Η", "b": "Το", "c": "Ο", "d": "Οι" },
+            "answer": "c",
+            "explanation": "Masculine singular nominative."
+        },
+        {
+            "number": 10,
+            "type": "fill",
+            "header": "Η ___ (κοπέλα) τραγουδάει.",
+            "translations": "The girl is singing.",
+            "answer": "κοπέλα",
+            "explanation": "Feminine singular nominative form."
+        },
+        {
+            "number": 11,
+            "type": "select",
+            "header": "Πού είναι ___ κλειδιά μου;",
+            "translations": "Where are my keys?",
+            "options": { "a": "ο", "b": "η", "c": "το", "d": "τα" },
+            "answer": "d",
+            "explanation": "Neuter plural nominative."
+        },
+        {
+            "number": 12,
+            "type": "fill",
+            "header": "Οι ___ (δάσκαλος) είναι καλοί.",
+            "translations": "The teachers are good.",
+            "answer": "δάσκαλοι",
+            "explanation": "Masculine plural ending for -ος is -οι."
+        },
+        {
+            "number": 13,
+            "type": "select",
+            "header": "___ καρέκλα είναι σπασμένη.",
+            "translations": "The chair is broken.",
+            "options": { "a": "Ο", "b": "Η", "c": "Το", "d": "Οι" },
+            "answer": "b",
+            "explanation": "Feminine singular nominative."
+        },
+        {
+            "number": 14,
+            "type": "fill",
+            "header": "Το ___ (νερό) είναι κρύο.",
+            "translations": "The water is cold.",
+            "answer": "νερό",
+            "explanation": "Neuter singular nominative."
+        },
+        {
+            "number": 15,
+            "type": "select",
+            "header": "Θέλω ___ καφέ.",
+            "translations": "I want the coffee.",
+            "options": { "a": "τον", "b": "το", "c": "τη", "d": "τους" },
+            "answer": "a",
+            "explanation": "Masculine singular accusative nouns (ending in -ες/-ας/-ος) take 'τον'."
+        },
+        {
+            "number": 16,
+            "type": "fill",
+            "header": "Οι ___ (μαθητής) διαβάζουν.",
+            "translations": "The students are reading.",
+            "answer": "μαθητές",
+            "explanation": "Masculine plural of 'μαθητής' is 'μαθητές'."
+        },
+        {
+            "number": 17,
+            "type": "select",
+            "header": "___ γάτες κοιμούνται.",
+            "translations": "The cats are sleeping.",
+            "options": { "a": "Ο", "b": "Το", "c": "Οι", "d": "Τα" },
+            "answer": "c",
+            "explanation": "Feminine plural nominative."
+        },
+        {
+            "number": 18,
+            "type": "fill",
+            "header": "Ένα ___ (μήλο) την ημέρα.",
+            "translations": "An apple a day.",
+            "answer": "μήλο",
+            "explanation": "Neuter singular noun."
+        },
+        {
+            "number": 19,
+            "type": "select",
+            "header": "Κλείσε ___ παράθυρο.",
+            "translations": "Close the window.",
+            "options": { "a": "τη", "b": "τον", "c": "το", "d": "τα" },
+            "answer": "c",
+            "explanation": "Neuter singular accusative."
+        },
+        {
+            "number": 20,
+            "type": "fill",
+            "header": "Τα ___ (παιδί) παίζουν.",
+            "translations": "The children are playing.",
+            "answer": "παιδιά",
+            "explanation": "Neuter plural of 'παιδί'."
+        },
+        {
+            "number": 21,
+            "type": "select",
+            "header": "___ ήλιος λάμπει.",
+            "translations": "The sun shines.",
+            "options": { "a": "Ο", "b": "Η", "c": "Το", "d": "Οι" },
+            "answer": "a",
+            "explanation": "Masculine singular nominative."
+        },
+        {
+            "number": 22,
+            "type": "fill",
+            "header": "Η ___ (αδερφή) μου είναι εδώ.",
+            "translations": "My sister is here.",
+            "answer": "αδερφή",
+            "explanation": "Feminine singular nominative."
+        },
+        {
+            "number": 23,
+            "type": "select",
+            "header": "Οι ___ κήποι είναι όμορφοι.",
+            "translations": "The gardens are beautiful.",
+            "options": { "a": "ο", "b": "το", "c": "οι", "d": "τα" },
+            "answer": "c",
+            "explanation": "Masculine plural nominative."
+        },
+        {
+            "number": 24,
+            "type": "fill",
+            "header": "Το ___ (αυτοκίνητο) είναι κόκκινο.",
+            "translations": "The car is red.",
+            "answer": "αυτοκίνητο",
+            "explanation": "Neuter singular nominative."
+        },
+        {
+            "number": 25,
+            "type": "select",
+            "header": "Ακούω ___ μουσική.",
+            "translations": "I listen to the music.",
+            "options": { "a": "το", "b": "τη", "c": "τον", "d": "τις" },
+            "answer": "b",
+            "explanation": "Feminine singular accusative."
+        },
+        {
+            "number": 26,
+            "type": "fill",
+            "header": "Οι ___ (πόλη) είναι μεγάλες.",
+            "translations": "The cities are big.",
+            "answer": "πόλεις",
+            "explanation": "Feminine plural of 'πόλη' is 'πόλεις'."
+        },
+        {
+            "number": 27,
+            "type": "select",
+            "header": "___ μαθητές είναι στην τάξη.",
+            "translations": "The students are in the class.",
+            "options": { "a": "Ο", "b": "Οι", "c": "Το", "d": "Τα" },
+            "answer": "b",
+            "explanation": "Masculine plural nominative."
+        },
+        {
+            "number": 28,
+            "type": "fill",
+            "header": "Ένας ___ (φίλος) ήρθε.",
+            "translations": "A friend came.",
+            "answer": "φίλος",
+            "explanation": "Masculine singular nominative."
+        },
+        {
+            "number": 29,
+            "type": "select",
+            "header": "Φέρε ___ ποτήρια.",
+            "translations": "Bring the glasses.",
+            "options": { "a": "τα", "b": "το", "c": "τους", "d": "τις" },
+            "answer": "a",
+            "explanation": "Neuter plural accusative."
+        },
+        {
+            "number": 30,
+            "type": "fill",
+            "header": "Η ___ (μητέρα) μαγειρεύει.",
+            "translations": "The mother is cooking.",
+            "answer": "μητέρα",
+            "explanation": "Feminine singular nominative."
+        },
+        {
+            "number": 31,
+            "type": "select",
+            "header": "___ δρόμος είναι μακρύς.",
+            "translations": "The road is long.",
+            "options": { "a": "Το", "b": "Η", "c": "Ο", "d": "Οι" },
+            "answer": "c",
+            "explanation": "Masculine singular nominative."
+        },
+        {
+            "number": 32,
+            "type": "fill",
+            "header": "Οι ___ (γείτονας) είναι ευγενικοί.",
+            "translations": "The neighbors are polite.",
+            "answer": "γείτονες",
+            "explanation": "Masculine plural of 'γείτονας'."
+        },
+        {
+            "number": 33,
+            "type": "select",
+            "header": "Βλέπεις ___ αστέρια;",
+            "translations": "Do you see the stars?",
+            "options": { "a": "το", "b": "τα", "c": "τους", "d": "τις" },
+            "answer": "b",
+            "explanation": "Neuter plural accusative."
+        },
+        {
+            "number": 34,
+            "type": "fill",
+            "header": "Το ___ (ψωμί) είναι φρέσκο.",
+            "translations": "The bread is fresh.",
+            "answer": "ψωμί",
+            "explanation": "Neuter singular nominative."
+        },
+        {
+            "number": 35,
+            "type": "select",
+            "header": "___ τσάντα μου είναι βαριά.",
+            "translations": "My bag is heavy.",
+            "options": { "a": "Ο", "b": "Το", "c": "Η", "d": "Οι" },
+            "answer": "c",
+            "explanation": "Feminine singular nominative."
+        },
+        {
+            "number": 36,
+            "type": "fill",
+            "header": "Οι ___ (μάτια) είναι γαλάζια.",
+            "translations": "The eyes are blue.",
+            "answer": "οφθαλμοί",
+            "explanation": "Or 'μάτια' (neuter plural). For masculine 'οφθαλμοί'."
+        },
+        {
+            "number": 37,
+            "type": "select",
+            "header": "___ τηλέφωνο χτυπάει.",
+            "translations": "The phone is ringing.",
+            "options": { "a": "Ο", "b": "Η", "c": "Το", "d": "Τα" },
+            "answer": "c",
+            "explanation": "Neuter singular nominative."
+        },
+        {
+            "number": 38,
+            "type": "fill",
+            "header": "Η ___ (ώρα) πέρασε.",
+            "translations": "The time passed.",
+            "answer": "ώρα",
+            "explanation": "Feminine singular nominative."
+        },
+        {
+            "number": 39,
+            "type": "select",
+            "header": "Θέλετε ___ λογαριασμό;",
+            "translations": "Do you want the bill?",
+            "options": { "a": "το", "b": "τη", "c": "τον", "d": "τους" },
+            "answer": "c",
+            "explanation": "Masculine singular accusative."
+        },
+        {
+            "number": 40,
+            "type": "fill",
+            "header": "Τα ___ (ρούχο) είναι καθαρά.",
+            "translations": "The clothes are clean.",
+            "answer": "ρούχα",
+            "explanation": "Neuter plural of 'ρούχο'."
+        },
+        {
+            "number": 41,
+            "type": "select",
+            "header": "___ φίλοι μου είναι εδώ.",
+            "translations": "My friends are here.",
+            "options": { "a": "Ο", "b": "Οι", "c": "Το", "d": "Τα" },
+            "answer": "b",
+            "explanation": "Masculine plural nominative."
+        },
+        {
+            "number": 42,
+            "type": "fill",
+            "header": "Ο ___ (πατέρας) είναι στη δουλειά.",
+            "translations": "The father is at work.",
+            "answer": "πατέρας",
+            "explanation": "Masculine singular nominative."
+        },
+        {
+            "number": 43,
+            "type": "select",
+            "header": "Άνοιξε ___ βιβλίο.",
+            "translations": "Open the book.",
+            "options": { "a": "τον", "b": "τη", "c": "το", "d": "τα" },
+            "answer": "c",
+            "explanation": "Neuter singular accusative."
+        },
+        {
+            "number": 44,
+            "type": "fill",
+            "header": "Οι ___ (εκδρομή) είναι ωραίες.",
+            "translations": "The excursions are nice.",
+            "answer": "εκδρομές",
+            "explanation": "Feminine plural of 'εκδρομή'."
+        },
+        {
+            "number": 45,
+            "type": "select",
+            "header": "___ φως είναι δυνατό.",
+            "translations": "The light is strong.",
+            "options": { "a": "Το", "b": "Ο", "c": "Η", "d": "Τα" },
+            "answer": "a",
+            "explanation": "Neuter singular nominative."
+        },
+        {
+            "number": 46,
+            "type": "fill",
+            "header": "Η ___ (ελπίδα) πεθαίνει τελευταία.",
+            "translations": "Hope dies last.",
+            "answer": "ελπίδα",
+            "explanation": "Feminine singular nominative."
+        },
+        {
+            "number": 47,
+            "type": "select",
+            "header": "Πάρε ___ ομπρέλα.",
+            "translations": "Take the umbrella.",
+            "options": { "a": "το", "b": "τη", "c": "τον", "d": "τις" },
+            "answer": "b",
+            "explanation": "Feminine singular accusative."
+        },
+        {
+            "number": 48,
+            "type": "fill",
+            "header": "Τα ___ (λουλούδι) μυρίζουν ωραία.",
+            "translations": "The flowers smell nice.",
+            "answer": "λουλούδια",
+            "explanation": "Neuter plural of 'λουλούδι'."
+        },
+        {
+            "number": 49,
+            "type": "select",
+            "header": "___ κόσμος είναι μικρός.",
+            "translations": "The world is small.",
+            "options": { "a": "Η", "b": "Το", "c": "Ο", "d": "Οι" },
+            "answer": "c",
+            "explanation": "Masculine singular nominative."
+        },
+        {
+            "number": 50,
+            "type": "fill",
+            "header": "Οι ___ (μέρα) περνούν γρήγορα.",
+            "translations": "The days pass quickly.",
+            "answer": "μέρες",
+            "explanation": "Feminine plural of 'μέρα'."
+        },
+        {
+            "number": 51,
+            "type": "select",
+            "header": "___ θάλασσες είναι βαθιές.",
+            "translations": "The seas are deep.",
+            "options": { "a": "Οι", "b": "Τα", "c": "Ο", "d": "Το" },
+            "answer": "a",
+            "explanation": "Feminine plural nominative."
+        },
+        {
+            "number": 52,
+            "type": "fill",
+            "header": "Το ___ (γάλα) είναι στο ψυγείο.",
+            "translations": "The milk is in the fridge.",
+            "answer": "γάλα",
+            "explanation": "Neuter singular nominative."
+        },
+        {
+            "number": 53,
+            "type": "select",
+            "header": "Διαβάζω ___ εφημερίδα.",
+            "translations": "I am reading the newspaper.",
+            "options": { "a": "τον", "b": "το", "c": "τη", "d": "τις" },
+            "answer": "c",
+            "explanation": "Feminine singular accusative."
+        },
+        {
+            "number": 54,
+            "type": "fill",
+            "header": "Οι ___ (άνθρωπος) είναι πολλοί.",
+            "translations": "The people are many.",
+            "answer": "άνθρωποι",
+            "explanation": "Masculine plural of 'άνθρωπος'."
+        },
+        {
+            "number": 55,
+            "type": "select",
+            "header": "___ καλοκαίρι έρχεται.",
+            "translations": "Summer is coming.",
+            "options": { "a": "Ο", "b": "Η", "c": "Το", "d": "Τα" },
+            "answer": "c",
+            "explanation": "Neuter singular nominative."
+        },
+        {
+            "number": 56,
+            "type": "fill",
+            "header": "Η ___ (αλήθεια) είναι πικρή.",
+            "translations": "The truth is bitter.",
+            "answer": "αλήθεια",
+            "explanation": "Feminine singular nominative."
+        },
+        {
+            "number": 57,
+            "type": "select",
+            "header": "Φοράω ___ παπούτσια μου.",
+            "translations": "I wear my shoes.",
+            "options": { "a": "το", "b": "τα", "c": "τους", "d": "τις" },
+            "answer": "b",
+            "explanation": "Neuter plural accusative."
+        },
+        {
+            "number": 58,
+            "type": "fill",
+            "header": "Τα ___ (στυλό) είναι πάνω στο γραφείο.",
+            "translations": "The pens are on the desk.",
+            "answer": "στυλό",
+            "explanation": "Neuter plural (indeclinable or -ά)."
+        },
+        {
+            "number": 59,
+            "type": "select",
+            "header": "___ κήπος είναι γεμάτος λουλούδια.",
+            "translations": "The garden is full of flowers.",
+            "options": { "a": "Το", "b": "Η", "c": "Ο", "d": "Οι" },
+            "answer": "c",
+            "explanation": "Masculine singular nominative."
+        },
+        {
+            "number": 60,
+            "type": "fill",
+            "header": "Οι ___ (ερώτηση) είναι δύσκολες.",
+            "translations": "The questions are difficult.",
+            "answer": "ερωτήσεις",
+            "explanation": "Feminine plural of 'ερώτηση'."
+        },
+        {
+            "number": 61,
+            "type": "select",
+            "header": "___ τραπέζι είναι ξύλινο.",
+            "translations": "The table is wooden.",
+            "options": { "a": "Ο", "b": "Η", "c": "Το", "d": "Τα" },
+            "answer": "c",
+            "explanation": "Neuter singular nominative."
+        },
+        {
+            "number": 62,
+            "type": "fill",
+            "header": "Η ___ (καρέκλα) είναι άνετη.",
+            "translations": "The chair is comfortable.",
+            "answer": "καρέκλα",
+            "explanation": "Feminine singular nominative."
+        },
+        {
+            "number": 63,
+            "type": "select",
+            "header": "Θέλω ___ νερό.",
+            "translations": "I want the water.",
+            "options": { "a": "το", "b": "τον", "c": "τη", "d": "τα" },
+            "answer": "a",
+            "explanation": "Neuter singular accusative."
+        },
+        {
+            "number": 64,
+            "type": "fill",
+            "header": "Οι ___ (υπάλληλος) είναι απασχολημένοι.",
+            "translations": "The employees are busy.",
+            "answer": "υπάλληλοι",
+            "explanation": "Masculine plural of 'υπάλληλος'."
+        },
+        {
+            "number": 65,
+            "type": "select",
+            "header": "___ τοίχοι είναι άσπροι.",
+            "translations": "The walls are white.",
+            "options": { "a": "Ο", "b": "Οι", "c": "Το", "d": "Τα" },
+            "answer": "b",
+            "explanation": "Masculine plural nominative."
+        },
+        {
+            "number": 66,
+            "type": "fill",
+            "header": "Το ___ (μάθημα) αρχίζει.",
+            "translations": "The lesson begins.",
+            "answer": "μάθημα",
+            "explanation": "Neuter singular nominative."
+        },
+        {
+            "number": 67,
+            "type": "select",
+            "header": "Πλένω ___ χέρια μου.",
+            "translations": "I wash my hands.",
+            "options": { "a": "το", "b": "τα", "c": "τους", "d": "τις" },
+            "answer": "b",
+            "explanation": "Neuter plural accusative."
+        },
+        {
+            "number": 68,
+            "type": "fill",
+            "header": "Η ___ (τάξη) είναι μεγάλη.",
+            "translations": "The class is big.",
+            "answer": "τάξη",
+            "explanation": "Feminine singular nominative."
+        },
+        {
+            "number": 69,
+            "type": "select",
+            "header": "___ χειμώνας είναι κρύος.",
+            "translations": "Winter is cold.",
+            "options": { "a": "Το", "b": "Η", "c": "Ο", "d": "Οι" },
+            "answer": "c",
+            "explanation": "Masculine singular nominative."
+        },
+        {
+            "number": 70,
+            "type": "fill",
+            "header": "Τα ___ (πράγμα) είναι έτοιμα.",
+            "translations": "The things are ready.",
+            "answer": "πράγματα",
+            "explanation": "Neuter plural of 'πράγμα'."
+        },
+        {
+            "number": 71,
+            "type": "select",
+            "header": "___ ταινία είναι ωραία.",
+            "translations": "The movie is nice.",
+            "options": { "a": "Ο", "b": "Η", "c": "Το", "d": "Οι" },
+            "answer": "b",
+            "explanation": "Feminine singular nominative."
+        },
+        {
+            "number": 72,
+            "type": "fill",
+            "header": "Ο ___ (αέρας) φυσάει.",
+            "translations": "The wind is blowing.",
+            "answer": "αέρας",
+            "explanation": "Masculine singular nominative."
+        },
+        {
+            "number": 73,
+            "type": "select",
+            "header": "Βλέπω ___ πουλιά.",
+            "translations": "I see the birds.",
+            "options": { "a": "το", "b": "τα", "c": "τους", "d": "τις" },
+            "answer": "b",
+            "explanation": "Neuter plural accusative."
+        },
+        {
+            "number": 74,
+            "type": "fill",
+            "header": "Η ___ (λύση) είναι απλή.",
+            "translations": "The solution is simple.",
+            "answer": "λύση",
+            "explanation": "Feminine singular nominative."
+        },
+        {
+            "number": 75,
+            "type": "select",
+            "header": "___ υπολογιστής είναι καινούριος.",
+            "translations": "The computer is new.",
+            "options": { "a": "Το", "b": "Η", "c": "Ο", "d": "Οι" },
+            "answer": "c",
+            "explanation": "Masculine singular nominative."
+        },
+        {
+            "number": 76,
+            "type": "fill",
+            "header": "Οι ___ (αδερφός) μου είναι ψηλοί.",
+            "translations": "My brothers are tall.",
+            "answer": "αδερφοί",
+            "explanation": "Masculine plural of 'αδερφός'."
+        },
+        {
+            "number": 77,
+            "type": "select",
+            "header": "Φέρε ___ κλειδί.",
+            "translations": "Bring the key.",
+            "options": { "a": "τον", "b": "το", "c": "τη", "d": "τα" },
+            "answer": "b",
+            "explanation": "Neuter singular accusative."
+        },
+        {
+            "number": 78,
+            "type": "fill",
+            "header": "Η ___ (δουλειά) είναι δύσκολη.",
+            "translations": "The job is difficult.",
+            "answer": "δουλειά",
+            "explanation": "Feminine singular nominative."
+        },
+        {
+            "number": 79,
+            "type": "select",
+            "header": "___ ασκήσεις είναι εύκολες.",
+            "translations": "The exercises are easy.",
+            "options": { "a": "Οι", "b": "Τα", "c": "Ο", "d": "Το" },
+            "answer": "a",
+            "explanation": "Feminine plural nominative."
+        },
+        {
+            "number": 80,
+            "type": "fill",
+            "header": "Το ___ (νησί) είναι όμορφο.",
+            "translations": "The island is beautiful.",
+            "answer": "νησί",
+            "explanation": "Neuter singular nominative."
+        }
+    ]
+}

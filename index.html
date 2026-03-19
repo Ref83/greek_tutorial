@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Greek Tutorial</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #f5f5f0;
+            color: #1a1a1a;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 60px 20px;
+        }
+
+        h1 {
+            font-size: 2.2rem;
+            font-weight: 700;
+            color: #111;
+            letter-spacing: 0.01em;
+            margin-bottom: 12px;
+            text-align: center;
+        }
+
+        .subtitle {
+            font-size: 1rem;
+            color: #888;
+            margin-bottom: 56px;
+            text-align: center;
+        }
+
+        .sections-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 20px;
+            width: 100%;
+            max-width: 640px;
+        }
+
+        @media (max-width: 480px) {
+            .sections-grid {
+                grid-template-columns: 1fr;
+            }
+
+            h1 {
+                font-size: 1.8rem;
+            }
+        }
+
+        .section-card {
+            background: #fff;
+            border-radius: 14px;
+            padding: 36px 28px;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+            text-decoration: none;
+            color: inherit;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 14px;
+            transition: box-shadow 0.18s, transform 0.18s;
+            cursor: pointer;
+        }
+
+        .section-card:hover {
+            box-shadow: 0 4px 16px rgba(79,70,229,0.13);
+            transform: translateY(-2px);
+        }
+
+        .section-card.disabled {
+            opacity: 0.45;
+            cursor: not-allowed;
+            pointer-events: none;
+        }
+
+        .section-icon {
+            font-size: 2.4rem;
+            line-height: 1;
+        }
+
+        .section-title {
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: #1a1a1a;
+            letter-spacing: 0.01em;
+        }
+
+        .section-badge {
+            font-size: 0.72rem;
+            font-weight: 600;
+            background: #f3f4f6;
+            color: #9ca3af;
+            padding: 3px 10px;
+            border-radius: 20px;
+            letter-spacing: 0.05em;
+            text-transform: uppercase;
+        }
+
+        .section-card:not(.disabled) .section-badge {
+            background: #eef2ff;
+            color: #4f46e5;
+        }
+    </style>
+</head>
+<body>
+    <h1>Greek Tutorial</h1>
+    <p class="subtitle">Choose a section to get started</p>
+
+    <div class="sections-grid">
+        <a class="section-card" href="grammar/grammar.html">
+            <span class="section-icon">📖</span>
+            <span class="section-title">Grammar</span>
+            <span class="section-badge">Available</span>
+        </a>
+
+        <a class="section-card" href="vocabulary/vocabulary.html">
+            <span class="section-icon">📝</span>
+            <span class="section-title">Vocabulary</span>
+            <span class="section-badge">Available</span>
+        </a>
+
+        <div class="section-card disabled">
+            <span class="section-icon">📚</span>
+            <span class="section-title">Reading</span>
+            <span class="section-badge">Coming Soon</span>
+        </div>
+
+        <div class="section-card disabled">
+            <span class="section-icon">✏️</span>
+            <span class="section-title">Writing</span>
+            <span class="section-badge">Coming Soon</span>
+        </div>
+    </div>
+</body>
+</html>
