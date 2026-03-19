@@ -51,34 +51,50 @@
             letter-spacing: 0.02em;
         }
 
-        .content-card {
+        .topics-list {
             max-width: 680px;
             margin: 0 auto;
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+
+        .topic-card {
             background: #fff;
             border-radius: 12px;
-            padding: 48px 40px;
+            padding: 20px 28px;
             box-shadow: 0 1px 4px rgba(0,0,0,0.08);
-            text-align: center;
+            text-decoration: none;
+            color: #1a1a1a;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            transition: box-shadow 0.18s, transform 0.18s;
+            cursor: pointer;
         }
 
-        .placeholder-icon {
-            font-size: 3rem;
-            margin-bottom: 20px;
+        .topic-card:hover {
+            box-shadow: 0 4px 16px rgba(79,70,229,0.13);
+            transform: translateY(-2px);
         }
 
-        .placeholder-text {
-            font-size: 1.05rem;
-            color: #888;
-            line-height: 1.7;
+        .topic-name {
+            font-size: 1rem;
+            font-weight: 500;
+        }
+
+        .topic-arrow {
+            color: #4f46e5;
+            font-size: 1.1rem;
         }
 
         @media (max-width: 480px) {
-            .content-card {
-                padding: 36px 24px;
-            }
-
             h1 {
                 font-size: 1.4rem;
+            }
+
+            .topic-card {
+                padding: 18px 20px;
             }
         }
     </style>
@@ -90,9 +106,21 @@
 
     <h1>Grammar</h1>
 
-    <div class="content-card">
-        <div class="placeholder-icon">📖</div>
-        <p class="placeholder-text">The content will be delivered soon.</p>
-    </div>
+    <div class="topics-list" id="topicsList"></div>
+
+    <script>
+        fetch('../content/grammar/topics.json')
+            .then(r => r.json())
+            .then(data => {
+                const list = document.getElementById('topicsList');
+                data.topics.forEach(topic => {
+                    const a = document.createElement('a');
+                    a.className = 'topic-card';
+                    a.href = `topic.html?id=${topic.id}`;
+                    a.innerHTML = `<span class="topic-name">${topic.name}</span><span class="topic-arrow">→</span>`;
+                    list.appendChild(a);
+                });
+            });
+    </script>
 </body>
 </html>
