@@ -1,0 +1,747 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercises – Greek Tutorial</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #f5f5f0;
+            color: #1a1a1a;
+            min-height: 100vh;
+            padding: 40px 20px;
+        }
+
+        .top-panel {
+            max-width: 680px;
+            margin: 0 auto 20px;
+            background: #fff;
+            border-radius: 12px;
+            padding: 16px 28px;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 12px;
+        }
+
+        .stats {
+            display: flex;
+            gap: 24px;
+        }
+
+        .stat {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .stat-value {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: #1a1a1a;
+            line-height: 1;
+        }
+
+        .stat-label {
+            font-size: 0.72rem;
+            color: #999;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            margin-top: 3px;
+        }
+
+        .stat-error .stat-value {
+            color: #dc2626;
+        }
+
+        .complete-btn {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            text-decoration: none;
+            color: #4f46e5;
+            font-size: 0.9rem;
+            font-weight: 600;
+            padding: 8px 16px;
+            border-radius: 8px;
+            background: #eef2ff;
+            border: none;
+            cursor: pointer;
+            transition: background 0.15s;
+            font-family: inherit;
+        }
+
+        .complete-btn:hover {
+            background: #e0e7ff;
+        }
+
+        .exercise-panel {
+            max-width: 680px;
+            margin: 0 auto;
+            background: #fff;
+            border-radius: 12px;
+            padding: 36px 40px;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+        }
+
+        .exercise-type-badge {
+            display: inline-block;
+            font-size: 0.72rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.07em;
+            color: #4f46e5;
+            background: #eef2ff;
+            border-radius: 6px;
+            padding: 4px 10px;
+            margin-bottom: 20px;
+        }
+
+        .exercise-header {
+            display: flex;
+            align-items: flex-start;
+            gap: 10px;
+            margin-bottom: 8px;
+        }
+
+        .header-text {
+            font-size: 1.15rem;
+            font-weight: 600;
+            color: #111;
+            line-height: 1.5;
+            flex: 1;
+        }
+
+        .hint-btn {
+            background: none;
+            border: 1.5px solid #ccc;
+            border-radius: 50%;
+            width: 26px;
+            height: 26px;
+            font-size: 0.85rem;
+            cursor: pointer;
+            color: #999;
+            flex-shrink: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: border-color 0.15s, color 0.15s;
+            font-family: inherit;
+        }
+
+        .hint-btn:hover {
+            border-color: #4f46e5;
+            color: #4f46e5;
+        }
+
+        .translation-box {
+            background: #f8f8f6;
+            border-radius: 8px;
+            padding: 10px 16px;
+            font-size: 0.9rem;
+            color: #555;
+            margin-bottom: 20px;
+            border-left: 3px solid #4f46e5;
+            display: none;
+        }
+
+        .translation-box.visible {
+            display: block;
+        }
+
+        .options-list {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            margin-bottom: 24px;
+        }
+
+        .option-btn {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            padding: 12px 16px;
+            border: 1.5px solid #e0e0e0;
+            border-radius: 10px;
+            cursor: pointer;
+            background: #fff;
+            font-size: 0.97rem;
+            font-family: inherit;
+            text-align: left;
+            transition: border-color 0.15s, background 0.15s;
+            width: 100%;
+        }
+
+        .option-btn:hover:not(:disabled) {
+            border-color: #4f46e5;
+            background: #f8f7ff;
+        }
+
+        .option-key {
+            font-weight: 700;
+            color: #4f46e5;
+            min-width: 20px;
+            flex-shrink: 0;
+        }
+
+        .option-btn.correct {
+            border-color: #16a34a;
+            background: #f0fdf4;
+        }
+
+        .option-btn.correct .option-key {
+            color: #16a34a;
+        }
+
+        .option-btn.wrong {
+            border-color: #dc2626;
+            background: #fef2f2;
+        }
+
+        .option-btn.wrong .option-key {
+            color: #dc2626;
+        }
+
+        .option-btn:disabled {
+            cursor: default;
+        }
+
+        .fill-input-row {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 24px;
+        }
+
+        .fill-input {
+            flex: 1;
+            padding: 12px 16px;
+            border: 1.5px solid #e0e0e0;
+            border-radius: 10px;
+            font-size: 0.97rem;
+            font-family: inherit;
+            outline: none;
+            transition: border-color 0.15s;
+        }
+
+        .fill-input:focus {
+            border-color: #4f46e5;
+        }
+
+        .fill-input.correct {
+            border-color: #16a34a;
+            background: #f0fdf4;
+        }
+
+        .fill-input.wrong {
+            border-color: #dc2626;
+            background: #fef2f2;
+        }
+
+        .check-btn {
+            padding: 12px 20px;
+            border: none;
+            border-radius: 10px;
+            background: #4f46e5;
+            color: #fff;
+            font-size: 0.95rem;
+            font-weight: 600;
+            font-family: inherit;
+            cursor: pointer;
+            transition: background 0.15s;
+            white-space: nowrap;
+        }
+
+        .check-btn:hover:not(:disabled) {
+            background: #4338ca;
+        }
+
+        .check-btn:disabled {
+            background: #a5b4fc;
+            cursor: default;
+        }
+
+        .explanation-box {
+            background: #fffbeb;
+            border-radius: 8px;
+            padding: 12px 16px;
+            font-size: 0.9rem;
+            color: #78350f;
+            margin-bottom: 20px;
+            border-left: 3px solid #f59e0b;
+            display: none;
+        }
+
+        .explanation-box.visible {
+            display: block;
+        }
+
+        .correct-answer {
+            font-weight: 700;
+            color: #16a34a;
+        }
+
+        .match-columns {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 16px;
+            margin-bottom: 24px;
+        }
+
+        .match-column {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+
+        .match-column-label {
+            font-size: 0.72rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            color: #aaa;
+            margin-bottom: 2px;
+        }
+
+        .match-item {
+            padding: 10px 14px;
+            border: 1.5px solid #e0e0e0;
+            border-radius: 8px;
+            font-size: 0.95rem;
+            cursor: pointer;
+            background: #fff;
+            transition: border-color 0.15s, background 0.15s;
+            text-align: center;
+            user-select: none;
+        }
+
+        .match-item:hover:not(.matched):not(.disabled) {
+            border-color: #4f46e5;
+            background: #f8f7ff;
+        }
+
+        .match-item.selected {
+            border-color: #4f46e5;
+            background: #eef2ff;
+        }
+
+        .match-item.matched {
+            border-color: #16a34a;
+            background: #f0fdf4;
+            color: #16a34a;
+            cursor: default;
+            font-weight: 600;
+        }
+
+        .match-item.wrong-flash {
+            border-color: #dc2626;
+            background: #fef2f2;
+        }
+
+        .next-btn {
+            display: none;
+            padding: 12px 28px;
+            border: none;
+            border-radius: 10px;
+            background: #4f46e5;
+            color: #fff;
+            font-size: 0.97rem;
+            font-weight: 600;
+            font-family: inherit;
+            cursor: pointer;
+            transition: background 0.15s;
+        }
+
+        .next-btn:hover {
+            background: #4338ca;
+        }
+
+        .next-btn.visible {
+            display: inline-block;
+        }
+
+        .finished-msg {
+            text-align: center;
+            padding: 40px 0;
+            display: none;
+        }
+
+        .finished-msg.visible {
+            display: block;
+        }
+
+        .finished-msg h2 {
+            font-size: 1.4rem;
+            color: #111;
+            margin-bottom: 12px;
+        }
+
+        .finished-msg p {
+            color: #666;
+            font-size: 0.97rem;
+        }
+
+        .loading-msg {
+            text-align: center;
+            color: #aaa;
+            font-size: 0.97rem;
+            padding: 40px 0;
+        }
+
+        @media (max-width: 480px) {
+            body {
+                padding: 20px 12px;
+            }
+
+            .exercise-panel {
+                padding: 24px 20px;
+            }
+
+            .top-panel {
+                padding: 14px 20px;
+            }
+
+            .header-text {
+                font-size: 1.05rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="top-panel">
+        <div class="stats">
+            <div class="stat">
+                <span class="stat-value" id="statDone">0</span>
+                <span class="stat-label">Done</span>
+            </div>
+            <div class="stat stat-error">
+                <span class="stat-value" id="statErrors">0</span>
+                <span class="stat-label">Errors</span>
+            </div>
+        </div>
+        <button class="complete-btn" id="completeBtn">← Complete</button>
+    </div>
+
+    <div class="exercise-panel">
+        <div id="exerciseContent"><div class="loading-msg">Loading exercises…</div></div>
+        <div class="finished-msg" id="finishedMsg">
+            <h2>All exercises completed!</h2>
+            <p id="finishedStats"></p>
+        </div>
+    </div>
+
+    <script>
+        const id = new URLSearchParams(window.location.search).get('id');
+        let exercises = [];
+        let current = 0;
+        let done = 0;
+        let errors = 0;
+
+        document.getElementById('completeBtn').addEventListener('click', () => history.back());
+
+        fetch('../content/grammar/topics.json')
+            .then(r => r.json())
+            .then(data => {
+                const topic = data.topics.find(t => t.id === id);
+                if (topic) document.title = `Exercises – ${topic.name}`;
+            });
+
+        async function loadExercises() {
+            const dirUrl = `../content/grammar/${id}/`;
+            const res = await fetch(dirUrl);
+            if (!res.ok) { showExercise(); return; }
+            const html = await res.text();
+            const doc = new DOMParser().parseFromString(html, 'text/html');
+            const files = [...doc.querySelectorAll('a[href]')]
+                .map(a => a.getAttribute('href'))
+                .filter(href => /^exercises.*\.json$/i.test(href.split('/').pop()));
+            await Promise.all(files.map(async file => {
+                const r = await fetch(dirUrl + file.split('/').pop());
+                if (!r.ok) return;
+                const data = await r.json();
+                exercises = exercises.concat(data.exercises);
+            }));
+            shuffle(exercises);
+            showExercise();
+        }
+
+        function shuffle(arr) {
+            for (let i = arr.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [arr[i], arr[j]] = [arr[j], arr[i]];
+            }
+        }
+
+        function updateStats() {
+            document.getElementById('statDone').textContent = done;
+            document.getElementById('statErrors').textContent = errors;
+        }
+
+        function showExercise() {
+            const content = document.getElementById('exerciseContent');
+            if (current >= exercises.length) {
+                content.innerHTML = '';
+                const fin = document.getElementById('finishedMsg');
+                fin.classList.add('visible');
+                document.getElementById('finishedStats').textContent =
+                    `${done} exercise${done !== 1 ? 's' : ''} done, ${errors} error${errors !== 1 ? 's' : ''}.`;
+                return;
+            }
+            content.innerHTML = '';
+            const ex = exercises[current];
+            if (ex.type === 'select') renderSelect(ex, content);
+            else if (ex.type === 'fill') renderFill(ex, content);
+            else if (ex.type === 'match') renderMatch(ex, content);
+        }
+
+        function typeLabel(type) {
+            return { select: 'Multiple Choice', fill: 'Fill in the Blank', match: 'Matching' }[type] || type;
+        }
+
+        function appendHeaderBlock(ex, container) {
+            const badge = document.createElement('div');
+            badge.className = 'exercise-type-badge';
+            badge.textContent = typeLabel(ex.type);
+            container.appendChild(badge);
+
+            const headerRow = document.createElement('div');
+            headerRow.className = 'exercise-header';
+
+            const headerText = document.createElement('div');
+            headerText.className = 'header-text';
+            headerText.textContent = ex.header;
+            headerRow.appendChild(headerText);
+
+            if (ex.translations) {
+                const hintBtn = document.createElement('button');
+                hintBtn.className = 'hint-btn';
+                hintBtn.title = 'Show translation';
+                hintBtn.textContent = '?';
+                headerRow.appendChild(hintBtn);
+
+                container.appendChild(headerRow);
+
+                const tranBox = document.createElement('div');
+                tranBox.className = 'translation-box';
+                tranBox.textContent = ex.translations;
+                container.appendChild(tranBox);
+
+                hintBtn.addEventListener('click', () => tranBox.classList.toggle('visible'));
+            } else {
+                container.appendChild(headerRow);
+            }
+        }
+
+        function makeNextBtn() {
+            const btn = document.createElement('button');
+            btn.className = 'next-btn';
+            btn.textContent = 'Next →';
+            btn.addEventListener('click', () => { current++; showExercise(); });
+            return btn;
+        }
+
+        function renderSelect(ex, container) {
+            appendHeaderBlock(ex, container);
+
+            const optsList = document.createElement('div');
+            optsList.className = 'options-list';
+
+            const explanationBox = document.createElement('div');
+            explanationBox.className = 'explanation-box';
+            explanationBox.innerHTML = `Correct answer: <span class="correct-answer">${ex.answer}) ${ex.options[ex.answer]}</span>. ${ex.explanation || ''}`;
+
+            const nextBtn = makeNextBtn();
+            let answered = false;
+
+            Object.entries(ex.options).forEach(([key, val]) => {
+                const btn = document.createElement('button');
+                btn.className = 'option-btn';
+                btn.innerHTML = `<span class="option-key">${key})</span><span>${val}</span>`;
+                btn.addEventListener('click', () => {
+                    if (answered) return;
+                    answered = true;
+                    done++;
+                    const isCorrect = key === ex.answer;
+                    if (!isCorrect) errors++;
+                    updateStats();
+                    optsList.querySelectorAll('.option-btn').forEach(b => b.disabled = true);
+                    if (isCorrect) {
+                        btn.classList.add('correct');
+                    } else {
+                        btn.classList.add('wrong');
+                        optsList.querySelectorAll('.option-btn').forEach(b => {
+                            const k = b.querySelector('.option-key').textContent.replace(')', '').trim();
+                            if (k === ex.answer) b.classList.add('correct');
+                        });
+                        explanationBox.classList.add('visible');
+                    }
+                    nextBtn.classList.add('visible');
+                });
+                optsList.appendChild(btn);
+            });
+
+            container.appendChild(optsList);
+            container.appendChild(explanationBox);
+            container.appendChild(nextBtn);
+        }
+
+        function renderFill(ex, container) {
+            appendHeaderBlock(ex, container);
+
+            const row = document.createElement('div');
+            row.className = 'fill-input-row';
+
+            const input = document.createElement('input');
+            input.className = 'fill-input';
+            input.type = 'text';
+            input.placeholder = 'Type your answer…';
+
+            const checkBtn = document.createElement('button');
+            checkBtn.className = 'check-btn';
+            checkBtn.textContent = 'Check';
+
+            row.appendChild(input);
+            row.appendChild(checkBtn);
+
+            const explanationBox = document.createElement('div');
+            explanationBox.className = 'explanation-box';
+            explanationBox.innerHTML = `Correct answer: <span class="correct-answer">${ex.answer}</span>. ${ex.explanation || ''}`;
+
+            const nextBtn = makeNextBtn();
+            let answered = false;
+
+            const check = () => {
+                if (answered) return;
+                const val = input.value.trim();
+                if (!val) return;
+                answered = true;
+                done++;
+                const isCorrect = val.toLowerCase() === ex.answer.toLowerCase();
+                if (!isCorrect) errors++;
+                updateStats();
+                input.disabled = true;
+                checkBtn.disabled = true;
+                if (isCorrect) {
+                    input.classList.add('correct');
+                } else {
+                    input.classList.add('wrong');
+                    explanationBox.classList.add('visible');
+                }
+                nextBtn.classList.add('visible');
+            };
+
+            checkBtn.addEventListener('click', check);
+            input.addEventListener('keydown', e => { if (e.key === 'Enter') check(); });
+
+            container.appendChild(row);
+            container.appendChild(explanationBox);
+            container.appendChild(nextBtn);
+
+            setTimeout(() => input.focus(), 0);
+        }
+
+        function renderMatch(ex, container) {
+            const badge = document.createElement('div');
+            badge.className = 'exercise-type-badge';
+            badge.textContent = typeLabel(ex.type);
+            container.appendChild(badge);
+
+            const cols = document.createElement('div');
+            cols.className = 'match-columns';
+
+            const leftCol = document.createElement('div');
+            leftCol.className = 'match-column';
+            const leftLabel = document.createElement('div');
+            leftLabel.className = 'match-column-label';
+            leftLabel.textContent = 'Left';
+            leftCol.appendChild(leftLabel);
+
+            const rightCol = document.createElement('div');
+            rightCol.className = 'match-column';
+            const rightLabel = document.createElement('div');
+            rightLabel.className = 'match-column-label';
+            rightLabel.textContent = 'Right';
+            rightCol.appendChild(rightLabel);
+
+            const nextBtn = makeNextBtn();
+            let selectedLeft = null;
+            let matchedCount = 0;
+            let hadError = false;
+            const totalPairs = Object.keys(ex.answer).length;
+
+            const shuffledRightKeys = Object.keys(ex.right_items).sort(() => Math.random() - 0.5);
+
+            Object.keys(ex.left_items).forEach(key => {
+                const item = document.createElement('div');
+                item.className = 'match-item';
+                item.textContent = ex.left_items[key];
+                item.dataset.key = key;
+                item.addEventListener('click', () => {
+                    if (item.classList.contains('matched')) return;
+                    if (selectedLeft === item) {
+                        item.classList.remove('selected');
+                        selectedLeft = null;
+                        return;
+                    }
+                    if (selectedLeft) selectedLeft.classList.remove('selected');
+                    selectedLeft = item;
+                    item.classList.add('selected');
+                });
+                leftCol.appendChild(item);
+            });
+
+            shuffledRightKeys.forEach(key => {
+                const item = document.createElement('div');
+                item.className = 'match-item';
+                item.textContent = ex.right_items[key];
+                item.dataset.key = key;
+                item.addEventListener('click', () => {
+                    if (item.classList.contains('matched') || !selectedLeft) return;
+                    const leftKey = selectedLeft.dataset.key;
+                    const rightKey = item.dataset.key;
+                    const isCorrect = ex.answer[leftKey] === rightKey;
+                    if (isCorrect) {
+                        selectedLeft.classList.remove('selected');
+                        selectedLeft.classList.add('matched');
+                        item.classList.add('matched');
+                        selectedLeft = null;
+                        matchedCount++;
+                        if (matchedCount === totalPairs) {
+                            done++;
+                            if (hadError) errors++;
+                            updateStats();
+                            nextBtn.classList.add('visible');
+                        }
+                    } else {
+                        hadError = true;
+                        const fl = selectedLeft;
+                        selectedLeft.classList.remove('selected');
+                        selectedLeft = null;
+                        fl.classList.add('wrong-flash');
+                        item.classList.add('wrong-flash');
+                        setTimeout(() => {
+                            fl.classList.remove('wrong-flash');
+                            item.classList.remove('wrong-flash');
+                        }, 600);
+                    }
+                });
+                rightCol.appendChild(item);
+            });
+
+            cols.appendChild(leftCol);
+            cols.appendChild(rightCol);
+            container.appendChild(cols);
+            container.appendChild(nextBtn);
+        }
+
+        loadExercises();
+    </script>
+</body>
+</html>

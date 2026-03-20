@@ -1,7 +1,7 @@
 {
     "exercises": [
         {
-            "number": 1,
+            "id": "2d743b0d-027a-43aa-8781-c1312f1382b5",
             "type": "select",
             "header": "Ο Γιώργος ___ στο σπίτι τώρα.",
             "translations": "Here translations of header to English",
@@ -16,7 +16,7 @@
             "explanation": "Explanation why a is correct answer"
         },
         {
-            "number": 2,
+            "id": "b822ad30-d0b9-4851-b92f-aa686cc11a2e",
             "type": "select",
             "header": "___ στο σπίτι τώρα.",
             "translations": "Here translations of header to English",
@@ -31,7 +31,7 @@
             "explanation": "Explanation why b is correct answer"
         },
         {
-            "number": 3,
+            "id": "6e4c785b-c170-4d3a-914d-acac0e3cb9b4",
             "type": "fill",
             "header": "___ στο σπίτι τώρα.",
             "translations": "Here translations of header to English",

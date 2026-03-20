@@ -19,62 +19,129 @@
             padding: 40px 20px;
         }
 
-        .top-bar {
+        .top-panel {
             max-width: 680px;
-            margin: 0 auto 36px;
+            margin: 0 auto 20px;
+            background: #fff;
+            border-radius: 12px;
+            padding: 16px 28px;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.08);
             display: flex;
             align-items: center;
-            gap: 16px;
+            gap: 12px;
         }
 
-        .back-link {
+        .exercises-btn {
             display: flex;
             align-items: center;
-            gap: 6px;
-            font-size: 0.9rem;
-            font-weight: 500;
-            color: #4f46e5;
+            gap: 8px;
             text-decoration: none;
-            transition: opacity 0.15s;
-        }
-
-        .back-link:hover {
-            opacity: 0.75;
-        }
-
-        h1 {
-            text-align: center;
-            font-size: 1.6rem;
+            color: #4f46e5;
+            font-size: 0.9rem;
             font-weight: 600;
-            margin-bottom: 36px;
+            padding: 8px 16px;
+            border-radius: 8px;
+            background: #eef2ff;
+            transition: background 0.15s;
+        }
+
+        .exercises-btn:hover {
+            background: #e0e7ff;
+        }
+
+        .exercises-btn-icon {
+            font-size: 1.1rem;
+        }
+
+        .content-card {
+            max-width: 680px;
+            margin: 0 auto;
+            background: #fff;
+            border-radius: 12px;
+            padding: 48px 40px;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+        }
+
+        .content-card h1 {
+            font-size: 1.6rem;
+            font-weight: 700;
+            color: #111;
+            margin-bottom: 24px;
+        }
+
+        .content-card h2 {
+            font-size: 1.2rem;
+            font-weight: 600;
             color: #333;
-            letter-spacing: 0.02em;
+            margin-top: 32px;
+            margin-bottom: 12px;
+        }
+
+        .content-card h3 {
+            font-size: 1rem;
+            font-weight: 600;
+            color: #444;
+            margin-top: 24px;
+            margin-bottom: 8px;
+        }
+
+        .content-card p {
+            font-size: 0.97rem;
+            line-height: 1.7;
+            color: #333;
+            margin-bottom: 12px;
+        }
+
+        .content-card ul {
+            padding-left: 20px;
+            margin-bottom: 12px;
+        }
+
+        .content-card li {
+            font-size: 0.97rem;
+            line-height: 1.7;
+            color: #333;
+        }
+
+        .content-card strong {
+            color: #1a1a1a;
         }
 
         @media (max-width: 480px) {
-            h1 {
-                font-size: 1.4rem;
+            .content-card {
+                padding: 32px 20px;
+            }
+
+            .content-card h1 {
+                font-size: 1.3rem;
             }
         }
     </style>
 </head>
 <body>
-    <div class="top-bar">
-        <a class="back-link" href="grammar.html">← Back</a>
+    <div class="top-panel">
+        <a class="exercises-btn" id="exercises-link" href="#">
+            <span class="exercises-btn-icon">✏️</span>
+            Exercises
+        </a>
     </div>
 
-    <h1 id="topicTitle"></h1>
+    <div class="content-card" id="content"></div>
 
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script>
         const id = new URLSearchParams(window.location.search).get('id');
+        document.getElementById('exercises-link').href = `exercises.html?id=${id}`;
         fetch('../content/grammar/topics.json')
             .then(r => r.json())
             .then(data => {
                 const topic = data.topics.find(t => t.id === id);
-                if (topic) {
-                    document.getElementById('topicTitle').textContent = topic.name;
-                    document.title = topic.name + ' – Greek Tutorial';
-                }
+                if (topic) document.title = topic.name + ' – Greek Tutorial';
+            });
+        fetch(`../content/grammar/${id}/explanation.md`)
+            .then(r => r.text())
+            .then(md => {
+                document.getElementById('content').innerHTML = marked.parse(md);
             });
     </script>
 </body>
