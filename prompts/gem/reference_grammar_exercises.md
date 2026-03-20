@@ -51,6 +51,37 @@ d) είμαστε
 
 ---
 
+## Match
+
+**Goal:** Match grammar parts correctly. The exercise consist of two columns by 3 - 5 items. The student have to match items from left column to items from right column.
+
+**Using:** This type of exercise should be used only for appropriate cases of grammar where it possible. For example in verb to be or conjugation of verbs.
+
+**Type** match
+
+**Example**
+
+| number | left           | right       |
+|:-------|:---------------|:------------|
+| 1      | εσύ   | είναι  |
+| 2      | εσύ| είμαι  |
+| 3      | αυτός/αυτή/αυτό | είμαστε |
+| 4      | εμείς | είσαι |
+
+
+**Correct matches left -> right**
+
+1 -> 2
+2 -> 4
+3 -> 1
+4 -> 3
+
+**Explanation**
+
+- Match correct pieces of grammar.
+
+---
+
 ## Verb Conjugation Drill
 
 **Goal:** Practice full verb conjugation. Use this type only if it available for grammar topic

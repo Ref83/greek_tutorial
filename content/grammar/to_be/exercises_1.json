@@ -1,7 +1,7 @@
 {
     "exercises": [
         {
-            "number": 1,
+            "id": "e1a1-001",
             "type": "select",
             "header": "Εγώ ___ ο Νίκος.",
             "translations": "I am Nikos.",
@@ -12,167 +12,65 @@
                 "d": "είμαστε"
             },
             "answer": "a",
-            "explanation": "First person singular (I am)."
+            "explanation": "The first person singular 'I' (εγώ) takes the form 'είμαι'."
         },
         {
-            "number": 2,
-            "type": "select",
-            "header": "Εσύ ___ μαθητής.",
-            "translations": "You are a student.",
-            "options": {
-                "a": "είμαι",
-                "b": "είσαι",
-                "c": "είναι",
-                "d": "είστε"
-            },
-            "answer": "b",
-            "explanation": "Second person singular (You are)."
-        },
-        {
-            "number": 3,
-            "type": "select",
-            "header": "Αυτός ___ γιατρός.",
-            "translations": "He is a doctor.",
-            "options": {
-                "a": "είμαι",
-                "b": "είστε",
-                "c": "είναι",
-                "d": "είμαστε"
-            },
-            "answer": "c",
-            "explanation": "Third person singular (He is)."
-        },
-        {
-            "number": 4,
-            "type": "select",
-            "header": "Εμείς ___ στο σπίτι.",
-            "translations": "We are at home.",
-            "options": {
-                "a": "είμαι",
-                "b": "είσαι",
-                "c": "είναι",
-                "d": "είμαστε"
-            },
-            "answer": "d",
-            "explanation": "First person plural (We are)."
-        },
-        {
-            "number": 5,
-            "type": "select",
-            "header": "Εσείς ___ από την Ελλάδα.",
-            "translations": "You (all) are from Greece.",
-            "options": {
-                "a": "είμαι",
-                "b": "είστε",
-                "c": "είναι",
-                "d": "είμαστε"
-            },
-            "answer": "b",
-            "explanation": "Second person plural (You all are)."
-        },
-        {
-            "number": 6,
-            "type": "select",
-            "header": "Αυτές ___ στο σχολείο.",
-            "translations": "They (feminine) are at school.",
-            "options": {
-                "a": "είμαι",
-                "b": "είσαι",
-                "c": "είναι",
-                "d": "είμαστε"
-            },
-            "answer": "c",
-            "explanation": "Third person plural (They are) uses 'είναι'."
-        },
-        {
-            "number": 7,
+            "id": "e1a1-002",
             "type": "fill",
-            "header": "Εγώ ___ καλά.",
-            "translations": "I am well.",
-            "answer": "είμαι",
-            "explanation": "First person singular form of 'to be'."
-        },
-        {
-            "number": 8,
-            "type": "fill",
-            "header": "Πού ___ εσύ;",
-            "translations": "Where are you?",
+            "header": "Εσύ ___ καλά σήμερα;",
+            "translations": "Are you well today?",
             "answer": "είσαι",
-            "explanation": "Second person singular question form."
+            "explanation": "The second person singular 'you' (εσύ) takes the form 'είσαι'."
         },
         {
-            "number": 9,
-            "type": "fill",
-            "header": "Η Μαρία ___ εδώ.",
-            "translations": "Maria is here.",
-            "answer": "είναι",
-            "explanation": "Third person singular (She is)."
-        },
-        {
-            "number": 10,
-            "type": "fill",
-            "header": "Εμείς δεν ___ έτοιμοι.",
-            "translations": "We are not ready.",
-            "answer": "είμαστε",
-            "explanation": "First person plural negative context."
-        },
-        {
-            "number": 11,
-            "type": "fill",
-            "header": "___ (εσείς) από την Ιταλία;",
-            "translations": "Are you (plural) from Italy?",
-            "answer": "είστε",
-            "explanation": "Second person plural question form."
-        },
-        {
-            "number": 12,
-            "type": "fill",
-            "header": "Τα παιδιά ___ στον κήπο.",
-            "translations": "The children are in the garden.",
-            "answer": "είναι",
-            "explanation": "Third person plural (They are)."
-        },
-        {
-            "number": 13,
+            "id": "e1a1-003",
             "type": "select",
-            "header": "Το βιβλίο ___ καλό.",
-            "translations": "The book is good.",
+            "header": "Αυτός ___ δάσκαλος.",
+            "translations": "He is a teacher.",
             "options": {
                 "a": "είμαι",
-                "b": "είναι",
-                "c": "είμαστε",
-                "d": "είσαι"
-            },
-            "answer": "b",
-            "explanation": "Third person singular for objects."
-        },
-        {
-            "number": 14,
-            "type": "select",
-            "header": "Εσείς ___ πολύ ευγενικοί.",
-            "translations": "You (all) are very polite.",
-            "options": {
-                "a": "είμαστε",
-                "b": "είναι",
-                "c": "είστε",
-                "d": "είμαι"
+                "b": "είστε",
+                "c": "είναι",
+                "d": "είμαστε"
             },
             "answer": "c",
-            "explanation": "Second person plural."
+            "explanation": "The third person singular 'he' (αυτός) takes the form 'είναι'."
         },
         {
-            "number": 15,
+            "id": "e1a1-004",
             "type": "fill",
-            "header": "Εγώ δεν ___ από εδώ.",
-            "translations": "I am not from here.",
-            "answer": "είμαι",
-            "explanation": "First person singular negative statement."
+            "header": "Εμείς ___ στο γραφείο.",
+            "translations": "We are at the office.",
+            "answer": "είμαστε",
+            "explanation": "The first person plural 'we' (εμείς) takes the form 'είμαστε'."
         },
         {
-            "number": 16,
+            "id": "e1a1-005",
             "type": "select",
-            "header": "Ο πατέρας μου ___ γιατρός.",
-            "translations": "My father is a doctor.",
+            "header": "Εσείς ___ από την Ελλάδα;",
+            "translations": "Are you (plural/formal) from Greece?",
+            "options": {
+                "a": "είσαι",
+                "b": "είστε",
+                "c": "είναι",
+                "d": "είμαι"
+            },
+            "answer": "b",
+            "explanation": "The second person plural/formal 'you' (εσείς) takes the form 'είστε'."
+        },
+        {
+            "id": "e1a1-006",
+            "type": "fill",
+            "header": "Αυτοί ___ μαθητές.",
+            "translations": "They are students.",
+            "answer": "είναι",
+            "explanation": "The third person plural 'they' (αυτοί) takes the form 'είναι'."
+        },
+        {
+            "id": "e1a1-007",
+            "type": "select",
+            "header": "Η Μαρία ___ στο σπίτι.",
+            "translations": "Maria is at home.",
             "options": {
                 "a": "είμαι",
                 "b": "είσαι",
@@ -180,65 +78,43 @@
                 "d": "είμαστε"
             },
             "answer": "c",
-            "explanation": "Third person singular masculine."
+            "explanation": "Maria (she) is third person singular, so we use 'είναι'."
         },
         {
-            "number": 17,
+            "id": "e1a1-008",
             "type": "fill",
-            "header": "Πού ___ το κλειδί μου;",
-            "translations": "Where is my key?",
-            "answer": "είναι",
-            "explanation": "Third person singular for a single object."
+            "header": "Ο Γιώργος και εγώ ___ φίλοι.",
+            "translations": "George and I (we) are friends.",
+            "answer": "είμαστε",
+            "explanation": "Since it includes 'I', the subject is 'we' (εμείς), requiring 'είμαστε'."
         },
         {
-            "number": 18,
+            "id": "e1a1-009",
             "type": "select",
-            "header": "Εμείς ___ φοιτητές.",
-            "translations": "We are students.",
-            "options": {
-                "a": "είμαστε",
-                "b": "είναι",
-                "c": "είστε",
-                "d": "είμαι"
-            },
-            "answer": "a",
-            "explanation": "First person plural."
-        },
-        {
-            "number": 19,
-            "type": "fill",
-            "header": "Αυτές οι γυναίκες ___ δασκάλες.",
-            "translations": "These women are teachers.",
-            "answer": "είναι",
-            "explanation": "Third person plural feminine."
-        },
-        {
-            "number": 20,
-            "type": "select",
-            "header": "Εσύ ___ η αδελφή του;",
-            "translations": "Are you his sister?",
+            "header": "Πού ___ εσύ τώρα;",
+            "translations": "Where are you now?",
             "options": {
                 "a": "είμαι",
                 "b": "είσαι",
-                "c": "είναι",
-                "d": "είστε"
+                "c": "είστε",
+                "d": "είναι"
             },
             "answer": "b",
-            "explanation": "Second person singular question."
+            "explanation": "The subject is 'you' (εσύ), so the verb is 'είσαι'."
         },
         {
-            "number": 21,
+            "id": "e1a1-010",
             "type": "fill",
-            "header": "Το αυτοκίνητο ___ έξω.",
-            "translations": "The car is outside.",
+            "header": "Το παιδί ___ στο σχολείο.",
+            "translations": "The child is at school.",
             "answer": "είναι",
-            "explanation": "Third person singular neuter."
+            "explanation": "The child (it) is third person singular, so we use 'είναι'."
         },
         {
-            "number": 22,
+            "id": "e1a1-011",
             "type": "select",
-            "header": "___ κουρασμένος.",
-            "translations": "I am tired.",
+            "header": "Εγώ δεν ___ κουρασμένος.",
+            "translations": "I am not tired.",
             "options": {
                 "a": "είμαι",
                 "b": "είσαι",
@@ -246,175 +122,109 @@
                 "d": "είστε"
             },
             "answer": "a",
-            "explanation": "Implicit first person singular."
+            "explanation": "Negative sentences still use the standard conjugation; 'I' takes 'είμαι'."
         },
         {
-            "number": 23,
+            "id": "e1a1-012",
             "type": "fill",
-            "header": "___ (εσείς) έτοιμοι;",
+            "header": "Εσείς ___ έτοιμοι;",
             "translations": "Are you (plural) ready?",
             "answer": "είστε",
-            "explanation": "Second person plural form."
+            "explanation": "Second person plural (εσείς) requires 'είστε' (or 'είσαστε')."
         },
         {
-            "number": 24,
+            "id": "e1a1-013",
             "type": "select",
-            "header": "Ο καφές ___ ζεστός.",
-            "translations": "The coffee is hot.",
+            "header": "Τα βιβλία ___ στο τραπέζι.",
+            "translations": "The books are on the table.",
             "options": {
-                "a": "είμαι",
-                "b": "είσαι",
+                "a": "είμαστε",
+                "b": "είστε",
                 "c": "είναι",
-                "d": "είμαστε"
+                "d": "είσαι"
             },
             "answer": "c",
-            "explanation": "Third person singular masculine noun."
+            "explanation": "The books (they) are third person plural, requiring 'είναι'."
         },
         {
-            "number": 25,
+            "id": "e1a1-014",
             "type": "fill",
-            "header": "Δεν ___ (εμείς) μόνοι μας.",
-            "translations": "We are not alone.",
-            "answer": "είμαστε",
-            "explanation": "First person plural."
-        },
-        {
-            "number": 26,
-            "type": "select",
-            "header": "Ποιος ___ αυτός ο άντρας;",
-            "translations": "Who is this man?",
-            "options": {
-                "a": "είμαι",
-                "b": "είσαι",
-                "c": "είναι",
-                "d": "είστε"
-            },
-            "answer": "c",
-            "explanation": "Third person singular question."
-        },
-        {
-            "number": 27,
-            "type": "fill",
-            "header": "Οι φίλοι μου ___ στην Αθήνα.",
-            "translations": "My friends are in Athens.",
+            "header": "Ποιος ___ αυτός;",
+            "translations": "Who is he?",
             "answer": "είναι",
-            "explanation": "Third person plural."
+            "explanation": "The subject 'he' (αυτός) is third person singular."
         },
         {
-            "number": 28,
+            "id": "e1a1-015",
             "type": "select",
-            "header": "Γιατί ___ (εσύ) λυπημένος;",
-            "translations": "Why are you sad?",
+            "header": "Εμείς δεν ___ από εδώ.",
+            "translations": "We are not from here.",
             "options": {
-                "a": "είμαι",
-                "b": "είσαι",
+                "a": "είμαστε",
+                "b": "είστε",
                 "c": "είναι",
-                "d": "είστε"
-            },
-            "answer": "b",
-            "explanation": "Second person singular question."
-        },
-        {
-            "number": 29,
-            "type": "fill",
-            "header": "Εδώ ___ το σχολείο.",
-            "translations": "Here is the school.",
-            "answer": "είναι",
-            "explanation": "Third person singular neuter."
-        },
-        {
-            "number": 30,
-            "type": "select",
-            "header": "Εγώ και ο Πέτρος ___ αδέλφια.",
-            "translations": "Peter and I are brothers.",
-            "options": {
-                "a": "είμαι",
-                "b": "είμαστε",
-                "c": "είναι",
-                "d": "είστε"
-            },
-            "answer": "b",
-            "explanation": "Equivalent to 'We are' (1st person plural)."
-        },
-        {
-            "number": 31,
-            "type": "fill",
-            "header": "Η μητέρα μου ___ στο γραφείο.",
-            "translations": "My mother is in the office.",
-            "answer": "είναι",
-            "explanation": "Third person singular feminine."
-        },
-        {
-            "number": 32,
-            "type": "select",
-            "header": "Τα δέντρα ___ πράσινα.",
-            "translations": "The trees are green.",
-            "options": {
-                "a": "είναι",
-                "b": "είμαστε",
-                "c": "είστε",
                 "d": "είμαι"
             },
             "answer": "a",
-            "explanation": "Third person plural neuter."
+            "explanation": "Subject 'we' (εμείς) corresponds with 'είμαστε'."
         },
         {
-            "number": 33,
+            "id": "e1a1-016",
             "type": "fill",
-            "header": "___ (εσύ) σίγουρος;",
-            "translations": "Are you sure?",
-            "answer": "είσαι",
-            "explanation": "Second person singular."
+            "header": "Εσύ και ο Κώστας ___ αδέλφια.",
+            "translations": "You and Kostas (you plural) are brothers.",
+            "answer": "είστε",
+            "explanation": "Since it addresses 'you' and another person, the subject is 'you plural' (εσείς)."
         },
         {
-            "number": 34,
+            "id": "e1a1-017",
             "type": "select",
-            "header": "Αυτά τα φρούτα ___ φρέσκα.",
-            "translations": "These fruits are fresh.",
-            "options": {
-                "a": "είναι",
-                "b": "είμαι",
-                "c": "είσαι",
-                "d": "είμαστε"
-            },
-            "answer": "a",
-            "explanation": "Third person plural."
-        },
-        {
-            "number": 35,
-            "type": "fill",
-            "header": "Δεν ___ (εγώ) πεινασμένος.",
-            "translations": "I am not hungry.",
-            "answer": "είμαι",
-            "explanation": "First person singular."
-        },
-        {
-            "number": 36,
-            "type": "select",
-            "header": "Η ώρα ___ μία.",
-            "translations": "The time is one (o'clock).",
+            "header": "Η Αθήνα ___ μεγάλη πόλη.",
+            "translations": "Athens is a big city.",
             "options": {
                 "a": "είμαι",
-                "b": "είναι",
-                "c": "είστε",
+                "b": "είσαι",
+                "c": "είναι",
                 "d": "είμαστε"
             },
-            "answer": "b",
-            "explanation": "Third person singular for time."
+            "answer": "c",
+            "explanation": "Athens (it) is third person singular."
         },
         {
-            "number": 37,
+            "id": "e1a1-018",
             "type": "fill",
-            "header": "Πού ___ οι γονείς σου;",
-            "translations": "Where are your parents?",
-            "answer": "είναι",
-            "explanation": "Third person plural."
+            "header": "Εγώ ___ εδώ.",
+            "translations": "I am here.",
+            "answer": "είμαι",
+            "explanation": "First person singular 'I' takes 'είμαι'."
         },
         {
-            "number": 38,
+            "id": "e1a1-019",
             "type": "select",
-            "header": "Εσείς ___ πολύ καλοί μαθητές.",
-            "translations": "You (all) are very good students.",
+            "header": "___ η ώρα πέντε.",
+            "translations": "It is five o'clock.",
+            "options": {
+                "a": "Είμαι",
+                "b": "Είσαι",
+                "c": "Είναι",
+                "d": "Είμαστε"
+            },
+            "answer": "c",
+            "explanation": "Telling time uses the third person singular/plural form 'είναι'."
+        },
+        {
+            "id": "e1a1-020",
+            "type": "fill",
+            "header": "Πού ___ τα κλειδιά μου;",
+            "translations": "Where are my keys?",
+            "answer": "είναι",
+            "explanation": "The keys (they) are third person plural, requiring 'είναι'."
+        },
+        {
+            "id": "e1a1-021",
+            "type": "select",
+            "header": "Εσείς ___ γιατροί;",
+            "translations": "Are you (plural) doctors?",
             "options": {
                 "a": "είστε",
                 "b": "είμαστε",
@@ -422,43 +232,43 @@
                 "d": "είσαι"
             },
             "answer": "a",
-            "explanation": "Second person plural."
+            "explanation": "Subject 'you' (εσείς) matches with 'είστε'."
         },
         {
-            "number": 39,
+            "id": "e1a1-022",
             "type": "fill",
-            "header": "Το νερό ___ κρύο.",
-            "translations": "The water is cold.",
+            "header": "Η μητέρα μου ___ ιατρός.",
+            "translations": "My mother is a doctor.",
             "answer": "είναι",
-            "explanation": "Third person singular neuter."
+            "explanation": "Mother (she) is third person singular."
         },
         {
-            "number": 40,
+            "id": "e1a1-023",
             "type": "select",
-            "header": "Εμείς δεν ___ πλούσιοι.",
-            "translations": "We are not rich.",
+            "header": "Εμείς ___ χαρούμενοι.",
+            "translations": "We are happy.",
             "options": {
                 "a": "είμαι",
-                "b": "είσαι",
+                "b": "είστε",
                 "c": "είμαστε",
-                "d": "είστε"
+                "d": "είναι"
             },
             "answer": "c",
-            "explanation": "First person plural negative."
+            "explanation": "Subject 'we' (εμείς) matches with 'είμαστε'."
         },
         {
-            "number": 41,
+            "id": "e1a1-024",
             "type": "fill",
-            "header": "___ (εγώ) ο Γιάννης.",
-            "translations": "I am Giannis.",
+            "header": "___ έτοιμος.",
+            "translations": "I am ready.",
             "answer": "είμαι",
-            "explanation": "First person singular identity."
+            "explanation": "The context implies 'I' (first person singular)."
         },
         {
-            "number": 42,
+            "id": "e1a1-025",
             "type": "select",
-            "header": "___ η Μαρία και η Ελένη.",
-            "translations": "They are Maria and Eleni.",
+            "header": "Αυτές ___ οι αδελφές μου.",
+            "translations": "They are my sisters.",
             "options": {
                 "a": "είναι",
                 "b": "είμαστε",
@@ -466,95 +276,7 @@
                 "d": "είμαι"
             },
             "answer": "a",
-            "explanation": "Third person plural."
-        },
-        {
-            "number": 43,
-            "type": "fill",
-            "header": "Η θάλασσα ___ γαλάζια.",
-            "translations": "The sea is blue.",
-            "answer": "είναι",
-            "explanation": "Third person singular feminine."
-        },
-        {
-            "number": 44,
-            "type": "select",
-            "header": "Πόσο χρονών ___ (εσύ);",
-            "translations": "How old are you?",
-            "options": {
-                "a": "είμαι",
-                "b": "είσαι",
-                "c": "είναι",
-                "d": "είστε"
-            },
-            "answer": "b",
-            "explanation": "Second person singular for age."
-        },
-        {
-            "number": 45,
-            "type": "fill",
-            "header": "Τα παράθυρα ___ ανοιχτά.",
-            "translations": "The windows are open.",
-            "answer": "είναι",
-            "explanation": "Third person plural."
-        },
-        {
-            "number": 46,
-            "type": "select",
-            "header": "___ στο ταξί.",
-            "translations": "We are in the taxi.",
-            "options": {
-                "a": "είμαστε",
-                "b": "είναι",
-                "c": "είστε",
-                "d": "είμαι"
-            },
-            "answer": "a",
-            "explanation": "First person plural location."
-        },
-        {
-            "number": 47,
-            "type": "fill",
-            "header": "Ο καιρός ___ ωραίος σήμερα.",
-            "translations": "The weather is nice today.",
-            "answer": "είναι",
-            "explanation": "Third person singular masculine."
-        },
-        {
-            "number": 48,
-            "type": "select",
-            "header": "Εσείς ___ έτοιμες;",
-            "translations": "Are you (plural feminine) ready?",
-            "options": {
-                "a": "είστε",
-                "b": "είναι",
-                "c": "είμαστε",
-                "d": "είμαι"
-            },
-            "answer": "a",
-            "explanation": "Second person plural question."
-        },
-        {
-            "number": 49,
-            "type": "fill",
-            "header": "Αυτό το σπίτι ___ παλιό.",
-            "translations": "This house is old.",
-            "answer": "είναι",
-            "explanation": "Third person singular neuter."
-        },
-        {
-            "number": 50,
-            "type": "select",
-            "header": "___ ο καλύτερος!",
-            "translations": "You are the best!",
-            "options": {
-                "a": "είμαι",
-                "b": "είσαι",
-                "c": "είναι",
-                "d": "είμαστε"
-            },
-            "answer": "b",
-            "explanation": "Second person singular praise."
+            "explanation": "Subject 'they' (αυτές) matches with 'είναι'."
         }
     ]
 }

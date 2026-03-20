@@ -1,0 +1,832 @@
+{
+    "exercises": [
+        {
+            "id": "f001-26",
+            "type": "select",
+            "header": "___ κόσμος είναι πολύς.",
+            "translations": "The world/people is/are many.",
+            "options": {
+                "a": "Ο",
+                "b": "Η",
+                "c": "Το",
+                "d": "Οι"
+            },
+            "answer": "a",
+            "explanation": "'Κόσμος' is a masculine noun ending in -ος."
+        },
+        {
+            "id": "f002-27",
+            "type": "fill",
+            "header": "Η ___ (εργασία) είναι δύσκολη.",
+            "translations": "The work/job is difficult.",
+            "answer": "εργασία",
+            "explanation": "'Εργασία' is a feminine noun ending in -α."
+        },
+        {
+            "id": "f003-28",
+            "type": "select",
+            "header": "___ σχολείο είναι μεγάλο.",
+            "translations": "The school is big.",
+            "options": {
+                "a": "Ο",
+                "b": "Η",
+                "c": "Το",
+                "d": "Τα"
+            },
+            "answer": "c",
+            "explanation": "'Σχολείο' is a neuter noun ending in -ο."
+        },
+        {
+            "id": "f004-29",
+            "type": "fill",
+            "header": "Οι ___ (αδελφός) παίζουν ποδόσφαιρο.",
+            "translations": "The brothers are playing football.",
+            "answer": "αδελφοί",
+            "explanation": "Masculine nouns ending in -ος change to -οι in plural."
+        },
+        {
+            "id": "f005-30",
+            "type": "select",
+            "header": "Βλέπω ___ νησί.",
+            "translations": "I see an island.",
+            "options": {
+                "a": "ένας",
+                "b": "μία",
+                "c": "ένα",
+                "d": "τα"
+            },
+            "answer": "c",
+            "explanation": "'Νησί' is a neuter noun; the indefinite article is 'ένα'."
+        },
+        {
+            "id": "f006-31",
+            "type": "fill",
+            "header": "Η ___ (οικογένεια) είναι ευτυχισμένη.",
+            "translations": "The family is happy.",
+            "answer": "οικογένεια",
+            "explanation": "'Οικογένεια' is a feminine noun ending in -α."
+        },
+        {
+            "id": "f007-32",
+            "type": "select",
+            "header": "___ φως είναι δυνατό.",
+            "translations": "The light is strong.",
+            "options": {
+                "a": "Ο",
+                "b": "Η",
+                "c": "Το",
+                "d": "Τα"
+            },
+            "answer": "c",
+            "explanation": "'Φως' is a neuter noun."
+        },
+        {
+            "id": "f008-33",
+            "type": "fill",
+            "header": "Οι ___ (πόλη) είναι όμορφες.",
+            "translations": "The cities are beautiful.",
+            "answer": "πόλεις",
+            "explanation": "Feminine nouns ending in -η change to -ες in plural (though 'πόλη' is a special third declension, for A1 level -ες is the standard plural pattern taught for feminine nouns)."
+        },
+        {
+            "id": "f009-34",
+            "type": "select",
+            "header": "___ ψήφος είναι σημαντική.",
+            "translations": "The vote is important.",
+            "options": {
+                "a": "Ο",
+                "b": "Η",
+                "c": "Το",
+                "d": "Τα"
+            },
+            "answer": "b",
+            "explanation": "'Ψήφος' ends in -ος but is feminine."
+        },
+        {
+            "id": "f010-35",
+            "type": "fill",
+            "header": "Το ___ (μέρος) είναι ήσυχο.",
+            "translations": "The place is quiet.",
+            "answer": "μέρος",
+            "explanation": "'Μέρος' ends in -ος but is a neuter exception."
+        },
+        {
+            "id": "f011-36",
+            "type": "select",
+            "header": "___ γιατρός έρχεται.",
+            "translations": "The doctor is coming.",
+            "options": {
+                "a": "Ο",
+                "b": "Η",
+                "c": "Το",
+                "d": "Τα"
+            },
+            "answer": "a",
+            "explanation": "'Γιατρός' is a masculine noun ending in -ος."
+        },
+        {
+            "id": "f012-37",
+            "type": "fill",
+            "header": "___ (μία) γυναίκα περιμένει.",
+            "translations": "A woman is waiting.",
+            "answer": "Μία",
+            "explanation": "The feminine indefinite article is 'μία'."
+        },
+        {
+            "id": "f013-38",
+            "type": "select",
+            "header": "___ έδαφος είναι βρεγμένο.",
+            "translations": "The ground is wet.",
+            "options": {
+                "a": "Ο",
+                "b": "Η",
+                "c": "Το",
+                "d": "Οι"
+            },
+            "answer": "c",
+            "explanation": "'Έδαφος' is a neuter exception ending in -ος."
+        },
+        {
+            "id": "f014-39",
+            "type": "fill",
+            "header": "Τα ___ (βιβλίο) είναι στην τσάντα.",
+            "translations": "The books are in the bag.",
+            "answer": "βιβλία",
+            "explanation": "Neuter nouns ending in -ο change to -α in plural."
+        },
+        {
+            "id": "f015-40",
+            "type": "select",
+            "header": "___ νήσος είναι μεγάλη.",
+            "translations": "The island is large.",
+            "options": {
+                "a": "Ο",
+                "b": "Η",
+                "c": "Το",
+                "d": "Τα"
+            },
+            "answer": "b",
+            "explanation": "'Νήσος' ends in -ος but is feminine."
+        },
+        {
+            "id": "f016-41",
+            "type": "fill",
+            "header": "Οι ___ (άντρας) μιλάνε.",
+            "translations": "The men are talking.",
+            "answer": "άντρες",
+            "explanation": "Masculine nouns ending in -ας change to -ες in plural."
+        },
+        {
+            "id": "f017-42",
+            "type": "select",
+            "header": "Θέλω ___ καφέ.",
+            "translations": "I want a coffee.",
+            "options": {
+                "a": "ένας",
+                "b": "μία",
+                "c": "ένα",
+                "d": "οι"
+            },
+            "answer": "a",
+            "explanation": "'Καφές' is masculine; the indefinite article is 'ένας'."
+        },
+        {
+            "id": "f018-43",
+            "type": "fill",
+            "header": "Η ___ (θάλασσα) είναι ζεστή.",
+            "translations": "The sea is warm.",
+            "answer": "θάλασσα",
+            "explanation": "Feminine noun ending in -α."
+        },
+        {
+            "id": "f019-44",
+            "type": "select",
+            "header": "___ τέλος του έργου.",
+            "translations": "The end of the play.",
+            "options": {
+                "a": "Ο",
+                "b": "Η",
+                "c": "Το",
+                "d": "Οι"
+            },
+            "answer": "c",
+            "explanation": "'Τέλος' is a neuter exception ending in -ος."
+        },
+        {
+            "id": "f020-45",
+            "type": "fill",
+            "header": "___ (ένας) μαθητής γράφει.",
+            "translations": "A student is writing.",
+            "answer": "Ένας",
+            "explanation": "Masculine indefinite article is 'ένας'."
+        },
+        {
+            "id": "f021-46",
+            "type": "select",
+            "header": "___ διάμετρος του κύκλου.",
+            "translations": "The diameter of the circle.",
+            "options": {
+                "a": "Ο",
+                "b": "Η",
+                "c": "Το",
+                "d": "Οι"
+            },
+            "answer": "b",
+            "explanation": "'Διάμετρος' ends in -ος but is feminine."
+        },
+        {
+            "id": "f022-47",
+            "type": "fill",
+            "header": "Τα ___ (όνομα) είναι δύσκολα.",
+            "translations": "The names are difficult.",
+            "answer": "ονόματα",
+            "explanation": "Neuter nouns ending in -μα change to -ματα in plural."
+        },
+        {
+            "id": "f023-48",
+            "type": "select",
+            "header": "___ άμπελος είναι πράσινη.",
+            "translations": "The vine is green.",
+            "options": {
+                "a": "Ο",
+                "b": "Η",
+                "c": "Το",
+                "d": "Τα"
+            },
+            "answer": "b",
+            "explanation": "'Άμπελος' ends in -ος but is feminine."
+        },
+        {
+            "id": "f024-49",
+            "type": "fill",
+            "header": "Η ___ (νύχτα) είναι σκοτεινή.",
+            "translations": "The night is dark.",
+            "answer": "νύχτα",
+            "explanation": "Feminine noun ending in -α."
+        },
+        {
+            "id": "f025-50",
+            "type": "select",
+            "header": "___ κράτος είναι δυνατό.",
+            "translations": "The state is strong.",
+            "options": {
+                "a": "Ο",
+                "b": "Η",
+                "c": "Το",
+                "d": "Οι"
+            },
+            "answer": "c",
+            "explanation": "'Κράτος' is a neuter exception ending in -ος."
+        },
+        {
+            "id": "f026-51",
+            "type": "fill",
+            "header": "Οι ___ (γυναίκα) κάθονται.",
+            "translations": "The women are sitting.",
+            "answer": "γυναίκες",
+            "explanation": "Feminine plural ending is -ες."
+        },
+        {
+            "id": "f027-52",
+            "type": "select",
+            "header": "___ φίλοι μου.",
+            "translations": "The friends of mine.",
+            "options": {
+                "a": "Ο",
+                "b": "Η",
+                "c": "Το",
+                "d": "Οι"
+            },
+            "answer": "d",
+            "explanation": "'Φίλοι' is masculine plural, so it takes 'οι'."
+        },
+        {
+            "id": "f028-53",
+            "type": "fill",
+            "header": "___ (το παιδί) τρέχει.",
+            "translations": "The child is running.",
+            "answer": "Το παιδί",
+            "explanation": "Neuter singular article is 'το'."
+        },
+        {
+            "id": "f029-54",
+            "type": "select",
+            "header": "___ τραπέζι είναι καθαρό.",
+            "translations": "The table is clean.",
+            "options": {
+                "a": "Ο",
+                "b": "Η",
+                "c": "Το",
+                "d": "Τα"
+            },
+            "answer": "c",
+            "explanation": "'Τραπέζι' is neuter singular."
+        },
+        {
+            "id": "f030-55",
+            "type": "fill",
+            "header": "Οι ___ (μητέρα) μιλάνε.",
+            "translations": "The mothers are talking.",
+            "answer": "μητέρες",
+            "explanation": "Feminine plural ending is -ες."
+        },
+        {
+            "id": "f031-56",
+            "type": "select",
+            "header": "___ χρόνοι περνούν.",
+            "translations": "The years pass.",
+            "options": {
+                "a": "Οι",
+                "b": "Τα",
+                "c": "Η",
+                "d": "Ο"
+            },
+            "answer": "a",
+            "explanation": "'Χρόνοι' is masculine plural."
+        },
+        {
+            "id": "f032-57",
+            "type": "fill",
+            "header": "Ένα ___ (γράμμα) για εσένα.",
+            "translations": "A letter for you.",
+            "answer": "γράμμα",
+            "explanation": "Neuter singular noun ending in -μα."
+        },
+        {
+            "id": "f033-58",
+            "type": "select",
+            "header": "___ δάσκαλοι διδάσκουν.",
+            "translations": "The teachers are teaching.",
+            "options": {
+                "a": "Ο",
+                "b": "Η",
+                "c": "Οι",
+                "d": "Τα"
+            },
+            "answer": "c",
+            "explanation": "'Δάσκαλοι' is masculine plural."
+        },
+        {
+            "id": "f034-59",
+            "type": "fill",
+            "header": "Η ___ (ζωή) είναι μικρή.",
+            "translations": "Life is short.",
+            "answer": "ζωή",
+            "explanation": "Feminine singular noun ending in -η."
+        },
+        {
+            "id": "f035-60",
+            "type": "select",
+            "header": "___ μάθημα είναι εύκολο.",
+            "translations": "The lesson is easy.",
+            "options": {
+                "a": "Ο",
+                "b": "Η",
+                "c": "Το",
+                "d": "Τα"
+            },
+            "answer": "c",
+            "explanation": "'Μάθημα' is neuter singular."
+        },
+        {
+            "id": "f036-61",
+            "type": "fill",
+            "header": "Τα ___ (παιδί) γελάνε.",
+            "translations": "The children are laughing.",
+            "answer": "παιδιά",
+            "explanation": "Neuter plural of 'παιδί' is 'παιδιά'."
+        },
+        {
+            "id": "f037-62",
+            "type": "select",
+            "header": "___ οδός είναι μακριά.",
+            "translations": "The street is far.",
+            "options": {
+                "a": "Ο",
+                "b": "Η",
+                "c": "Το",
+                "d": "Τα"
+            },
+            "answer": "b",
+            "explanation": "'Οδός' is feminine."
+        },
+        {
+            "id": "f038-63",
+            "type": "fill",
+            "header": "___ (ένας) πατέρας αγαπάει.",
+            "translations": "A father loves.",
+            "answer": "Ένας",
+            "explanation": "Masculine indefinite article is 'ένας'."
+        },
+        {
+            "id": "f039-64",
+            "type": "select",
+            "header": "___ τραπέζια είναι λευκά.",
+            "translations": "The tables are white.",
+            "options": {
+                "a": "Οι",
+                "b": "Τα",
+                "c": "Η",
+                "d": "Ο"
+            },
+            "answer": "b",
+            "explanation": "'Τραπέζια' is neuter plural."
+        },
+        {
+            "id": "f040-65",
+            "type": "fill",
+            "header": "Η ___ (τάξη) είναι γεμάτη.",
+            "translations": "The class is full.",
+            "answer": "τάξη",
+            "explanation": "Feminine singular noun ending in -η."
+        },
+        {
+            "id": "f041-66",
+            "type": "select",
+            "header": "___ κόσμοι είναι πολλοί.",
+            "translations": "The worlds are many.",
+            "options": {
+                "a": "Οι",
+                "b": "Τα",
+                "c": "Η",
+                "d": "Ο"
+            },
+            "answer": "a",
+            "explanation": "Masculine plural article is 'οι'."
+        },
+        {
+            "id": "f042-67",
+            "type": "fill",
+            "header": "Το ___ (σπίτι) μου.",
+            "translations": "My house.",
+            "answer": "σπίτι",
+            "explanation": "Neuter singular noun ending in -ι."
+        },
+        {
+            "id": "f043-68",
+            "type": "select",
+            "header": "___ πόλεις είναι παλιές.",
+            "translations": "The cities are old.",
+            "options": {
+                "a": "Τα",
+                "b": "Οι",
+                "c": "Η",
+                "d": "Ο"
+            },
+            "answer": "b",
+            "explanation": "Feminine plural article is 'οι'."
+        },
+        {
+            "id": "f044-69",
+            "type": "fill",
+            "header": "___ (μια) φίλη έρχεται.",
+            "translations": "A (female) friend is coming.",
+            "answer": "Μια",
+            "explanation": "Feminine indefinite article."
+        },
+        {
+            "id": "f045-70",
+            "type": "select",
+            "header": "___ γράμματα είναι εδώ.",
+            "translations": "The letters are here.",
+            "options": {
+                "a": "Οι",
+                "b": "Τα",
+                "c": "Η",
+                "d": "Ο"
+            },
+            "answer": "b",
+            "explanation": "'Γράμματα' is neuter plural."
+        },
+        {
+            "id": "f046-71",
+            "type": "fill",
+            "header": "Ο ___ (αδελφός) μου είναι μικρός.",
+            "translations": "My brother is small.",
+            "answer": "αδελφός",
+            "explanation": "Masculine singular noun ending in -ος."
+        },
+        {
+            "id": "f047-72",
+            "type": "select",
+            "header": "___ οικογένειες είναι μαζί.",
+            "translations": "The families are together.",
+            "options": {
+                "a": "Τα",
+                "b": "Οι",
+                "c": "Η",
+                "d": "Ο"
+            },
+            "answer": "b",
+            "explanation": "Feminine plural article is 'οι'."
+        },
+        {
+            "id": "f048-73",
+            "type": "fill",
+            "header": "Ένα ___ (αυτοκίνητο) περνάει.",
+            "translations": "A car is passing.",
+            "answer": "αυτοκίνητο",
+            "explanation": "Neuter singular noun ending in -ο."
+        },
+        {
+            "id": "f049-74",
+            "type": "select",
+            "header": "___ μέρη είναι όμορφα.",
+            "translations": "The places are beautiful.",
+            "options": {
+                "a": "Οι",
+                "b": "Τα",
+                "c": "Η",
+                "d": "Ο"
+            },
+            "answer": "b",
+            "explanation": "Plural of the neuter exception 'μέρος' is 'μέρη', taking 'τα'."
+        },
+        {
+            "id": "f050-75",
+            "type": "fill",
+            "header": "Η ___ (νύχτα) τελειώνει.",
+            "translations": "The night is ending.",
+            "answer": "νύχτα",
+            "explanation": "Feminine singular noun ending in -α."
+        },
+        {
+            "id": "f051-76",
+            "type": "select",
+            "header": "___ κράτη είναι φίλοι.",
+            "translations": "The states are friends.",
+            "options": {
+                "a": "Οι",
+                "b": "Τα",
+                "c": "Η",
+                "d": "Ο"
+            },
+            "answer": "b",
+            "explanation": "Plural of the neuter exception 'κράτος' is 'κράτη', taking 'τα'."
+        },
+        {
+            "id": "f052-77",
+            "type": "fill",
+            "header": "Ο ___ (γιατρός) βοηθάει.",
+            "translations": "The doctor helps.",
+            "answer": "γιατρός",
+            "explanation": "Masculine singular noun ending in -ος."
+        },
+        {
+            "id": "f053-78",
+            "type": "select",
+            "header": "___ θάλασσες είναι βαθιές.",
+            "translations": "The seas are deep.",
+            "options": {
+                "a": "Τα",
+                "b": "Οι",
+                "c": "Η",
+                "d": "Ο"
+            },
+            "answer": "b",
+            "explanation": "Feminine plural article is 'οι'."
+        },
+        {
+            "id": "f054-79",
+            "type": "fill",
+            "header": "Το ___ (φως) της ημέρας.",
+            "translations": "The light of the day.",
+            "answer": "φως",
+            "explanation": "Neuter singular noun."
+        },
+        {
+            "id": "f055-80",
+            "type": "select",
+            "header": "___ άντρες δουλεύουν.",
+            "translations": "The men are working.",
+            "options": {
+                "a": "Ο",
+                "b": "Οι",
+                "c": "Τα",
+                "d": "Η"
+            },
+            "answer": "b",
+            "explanation": "Masculine plural article is 'οι'."
+        },
+        {
+            "id": "f056-81",
+            "type": "fill",
+            "header": "Η ___ (μητέρα) μαγειρεύει.",
+            "translations": "The mother is cooking.",
+            "answer": "μητέρα",
+            "explanation": "Feminine singular noun ending in -α."
+        },
+        {
+            "id": "f057-82",
+            "type": "select",
+            "header": "___ παιδί είναι καλό.",
+            "translations": "The child is good.",
+            "options": {
+                "a": "Ο",
+                "b": "Η",
+                "c": "Το",
+                "d": "Τα"
+            },
+            "answer": "c",
+            "explanation": "Neuter singular article is 'το'."
+        },
+        {
+            "id": "f058-83",
+            "type": "fill",
+            "header": "Τα ___ (μάθημα) τελείωσαν.",
+            "translations": "The lessons finished.",
+            "answer": "μαθήματα",
+            "explanation": "Neuter plural of nouns ending in -μα is -ματα."
+        },
+        {
+            "id": "f059-84",
+            "type": "select",
+            "header": "___ οδοί είναι κλειστοί.",
+            "translations": "The streets are closed.",
+            "options": {
+                "a": "Τα",
+                "b": "Οι",
+                "c": "Η",
+                "d": "Ο"
+            },
+            "answer": "b",
+            "explanation": "'Οδός' is feminine, plural 'οδοί' takes 'οι'."
+        },
+        {
+            "id": "f060-85",
+            "type": "fill",
+            "header": "___ (ένας) μαθητής έρχεται.",
+            "translations": "A student is coming.",
+            "answer": "Ένας",
+            "explanation": "Masculine indefinite article."
+        },
+        {
+            "id": "f061-86",
+            "type": "select",
+            "header": "___ σπίτια είναι όμορφα.",
+            "translations": "The houses are beautiful.",
+            "options": {
+                "a": "Οι",
+                "b": "Τα",
+                "c": "Η",
+                "d": "Ο"
+            },
+            "answer": "b",
+            "explanation": "Neuter plural article is 'τα'."
+        },
+        {
+            "id": "f062-87",
+            "type": "fill",
+            "header": "Ο ___ (πατέρας) διαβάζει.",
+            "translations": "The father is reading.",
+            "answer": "πατέρας",
+            "explanation": "Masculine singular noun ending in -ας."
+        },
+        {
+            "id": "f063-88",
+            "type": "select",
+            "header": "___ γυναίκες είναι εδώ.",
+            "translations": "The women are here.",
+            "options": {
+                "a": "Ο",
+                "b": "Το",
+                "c": "Οι",
+                "d": "Τα"
+            },
+            "answer": "c",
+            "explanation": "Feminine plural article is 'οι'."
+        },
+        {
+            "id": "f064-89",
+            "type": "fill",
+            "header": "Το ___ (βιβλίο) είναι ανοιχτό.",
+            "translations": "The book is open.",
+            "answer": "βιβλίο",
+            "explanation": "Neuter singular noun ending in -ο."
+        },
+        {
+            "id": "f065-90",
+            "type": "select",
+            "header": "___ δάσκαλος είναι καλός.",
+            "translations": "The teacher is good.",
+            "options": {
+                "a": "Ο",
+                "b": "Η",
+                "c": "Το",
+                "d": "Οι"
+            },
+            "answer": "a",
+            "explanation": "Masculine singular article is 'ο'."
+        },
+        {
+            "id": "f066-91",
+            "type": "fill",
+            "header": "Οι ___ (αδελφός) μιλάνε.",
+            "translations": "The brothers are talking.",
+            "answer": "αδελφοί",
+            "explanation": "Masculine plural of nouns ending in -ος is -οι."
+        },
+        {
+            "id": "f067-92",
+            "type": "select",
+            "header": "___ εργασία είναι εύκολη.",
+            "translations": "The job is easy.",
+            "options": {
+                "a": "Ο",
+                "b": "Το",
+                "c": "Η",
+                "d": "Τα"
+            },
+            "answer": "c",
+            "explanation": "Feminine singular article is 'η'."
+        },
+        {
+            "id": "f068-93",
+            "type": "fill",
+            "header": "Το ___ (σχολείο) είναι κλειστό.",
+            "translations": "The school is closed.",
+            "answer": "σχολείο",
+            "explanation": "Neuter singular noun ending in -ο."
+        },
+        {
+            "id": "f069-94",
+            "type": "select",
+            "header": "___ φίλοι είναι καλοί.",
+            "translations": "The friends are good.",
+            "options": {
+                "a": "Ο",
+                "b": "Τα",
+                "c": "Οι",
+                "d": "Η"
+            },
+            "answer": "c",
+            "explanation": "Masculine plural article is 'οι'."
+        },
+        {
+            "id": "f070-95",
+            "type": "fill",
+            "header": "Η ___ (τάξη) μου.",
+            "translations": "My class.",
+            "answer": "τάξη",
+            "explanation": "Feminine singular noun ending in -η."
+        },
+        {
+            "id": "f071-96",
+            "type": "select",
+            "header": "___ όνομα είναι Γιώργος.",
+            "translations": "The name is George.",
+            "options": {
+                "a": "Ο",
+                "b": "Η",
+                "c": "Το",
+                "d": "Τα"
+            },
+            "answer": "c",
+            "explanation": "Neuter singular article is 'το'."
+        },
+        {
+            "id": "f072-97",
+            "type": "fill",
+            "header": "Τα ___ (παιδί) είναι στο πάρκο.",
+            "translations": "The children are in the park.",
+            "answer": "παιδιά",
+            "explanation": "Neuter plural of 'παιδί' is 'παιδιά'."
+        },
+        {
+            "id": "f073-98",
+            "type": "select",
+            "header": "___ ζωή είναι ωραία.",
+            "translations": "Life is beautiful.",
+            "options": {
+                "a": "Ο",
+                "b": "Το",
+                "c": "Η",
+                "d": "Τα"
+            },
+            "answer": "c",
+            "explanation": "Feminine singular article is 'η'."
+        },
+        {
+            "id": "f074-99",
+            "type": "fill",
+            "header": "Ο ___ (άντρας) είναι εδώ.",
+            "translations": "The man is here.",
+            "answer": "άντρας",
+            "explanation": "Masculine singular noun ending in -ας."
+        },
+        {
+            "id": "f075-100",
+            "type": "select",
+            "header": "___ ονόματα είναι ελληνικά.",
+            "translations": "The names are Greek.",
+            "options": {
+                "a": "Οι",
+                "b": "Τα",
+                "c": "Η",
+                "d": "Ο"
+            },
+            "answer": "b",
+            "explanation": "Neuter plural article is 'τα'."
+        }
+    ]
+}

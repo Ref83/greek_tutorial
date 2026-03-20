@@ -1,26 +1,282 @@
 {
     "exercises": [
         {
-            "id": "9f1c2a77-3c4e-4c2b-9c1a-123456789abc",
-            "type": "match",
-            "left_items": {
-                "1": "εσύ",
-                "2": "εσύ",
-                "3": "αυτός/αυτή/αυτό",
-                "4": "εμείς"
+            "id": "e1a1-026",
+            "type": "select",
+            "header": "Εγώ ___ φοιτητής.",
+            "translations": "I am a student.",
+            "options": {
+                "a": "είμαι",
+                "b": "είσαι",
+                "c": "είναι",
+                "d": "είστε"
             },
-            "right_items": {
-                "1": "είναι",
-                "2": "είμαι",
-                "3": "είμαστε",
-                "4": "είσαι"
+            "answer": "a",
+            "explanation": "For the first person singular (εγώ), the correct form is 'είμαι'."
+        },
+        {
+            "id": "e1a1-027",
+            "type": "fill",
+            "header": "Εσύ ___ πολύ ευγενικός.",
+            "translations": "You are very kind.",
+            "answer": "είσαι",
+            "explanation": "The second person singular (εσύ) requires 'είσαι'."
+        },
+        {
+            "id": "e1a1-028",
+            "type": "select",
+            "header": "Το αυτοκίνητο ___ κόκκινο.",
+            "translations": "The car is red.",
+            "options": {
+                "a": "είμαι",
+                "b": "είναι",
+                "c": "είμαστε",
+                "d": "είστε"
             },
-            "answer": {
-                "1": "2",
-                "2": "4",
-                "3": "1",
-                "4": "3"
-            }
+            "answer": "b",
+            "explanation": "The noun 'το αυτοκίνητο' is third person singular, so we use 'είναι'."
+        },
+        {
+            "id": "e1a1-029",
+            "type": "fill",
+            "header": "Εμείς ___ από την Κύπρο.",
+            "translations": "We are from Cyprus.",
+            "answer": "είμαστε",
+            "explanation": "The first person plural (εμείς) uses the form 'είμαστε'."
+        },
+        {
+            "id": "e1a1-030",
+            "type": "select",
+            "header": "Πού ___ εσείς;",
+            "translations": "Where are you (plural)?",
+            "options": {
+                "a": "είσαι",
+                "b": "είμαστε",
+                "c": "είστε",
+                "d": "είμαι"
+            },
+            "answer": "c",
+            "explanation": "For the second person plural (εσείς), the correct form is 'είστε'."
+        },
+        {
+            "id": "e1a1-031",
+            "type": "fill",
+            "header": "Αυτοί ___ οι γονείς μου.",
+            "translations": "They are my parents.",
+            "answer": "είναι",
+            "explanation": "The third person plural uses 'είναι', identical to the third person singular."
+        },
+        {
+            "id": "e1a1-032",
+            "type": "select",
+            "header": "Η θάλασσα ___ ζεστή.",
+            "translations": "The sea is warm.",
+            "options": {
+                "a": "είναι",
+                "b": "είμαι",
+                "c": "είσαι",
+                "d": "είστε"
+            },
+            "answer": "a",
+            "explanation": "Third person singular subjects like 'η θάλασσα' take 'είναι'."
+        },
+        {
+            "id": "e1a1-033",
+            "type": "fill",
+            "header": "Εγώ και η Άννα ___ αδελφές.",
+            "translations": "Anna and I are sisters.",
+            "answer": "είμαστε",
+            "explanation": "The inclusion of 'εγώ' makes the subject 'we' (εμείς)."
+        },
+        {
+            "id": "e1a1-034",
+            "type": "select",
+            "header": "___ έτοιμη, Ελένη;",
+            "translations": "Are you ready, Eleni?",
+            "options": {
+                "a": "Είμαι",
+                "b": "Είσαι",
+                "c": "Είναι",
+                "d": "Είστε"
+            },
+            "answer": "b",
+            "explanation": "Addressing one person directly (second person singular) requires 'είσαι'."
+        },
+        {
+            "id": "e1a1-035",
+            "type": "fill",
+            "header": "Το φαγητό ___ στο τραπέζι.",
+            "translations": "The food is on the table.",
+            "answer": "είναι",
+            "explanation": "The subject 'το φαγητό' is third person singular."
+        },
+        {
+            "id": "e1a1-036",
+            "type": "select",
+            "header": "Εσείς ___ κουρασμένοι;",
+            "translations": "Are you (plural) tired?",
+            "options": {
+                "a": "είστε",
+                "b": "είμαστε",
+                "c": "είναι",
+                "d": "είσαι"
+            },
+            "answer": "a",
+            "explanation": "The second person plural (εσείς) matches 'είστε'."
+        },
+        {
+            "id": "e1a1-037",
+            "type": "fill",
+            "header": "Ο ουρανός ___ μπλε.",
+            "translations": "The sky is blue.",
+            "answer": "είναι",
+            "explanation": "Objects in the singular take the third person form 'είναι'."
+        },
+        {
+            "id": "e1a1-038",
+            "type": "select",
+            "header": "Εγώ δεν ___ από εδώ.",
+            "translations": "I am not from here.",
+            "options": {
+                "a": "είμαι",
+                "b": "είσαι",
+                "c": "είναι",
+                "d": "είμαστε"
+            },
+            "answer": "a",
+            "explanation": "The verb 'to be' follows the subject 'εγώ' regardless of the negative particle."
+        },
+        {
+            "id": "e1a1-039",
+            "type": "fill",
+            "header": "Πού ___ τα παιδιά;",
+            "translations": "Where are the children?",
+            "answer": "είναι",
+            "explanation": "Plural subjects in the third person use 'είναι'."
+        },
+        {
+            "id": "e1a1-040",
+            "type": "select",
+            "header": "Εμείς ___ στο πάρκο.",
+            "translations": "We are in the park.",
+            "options": {
+                "a": "είστε",
+                "b": "είμαστε",
+                "c": "είναι",
+                "d": "είμαι"
+            },
+            "answer": "b",
+            "explanation": "The subject 'εμείς' corresponds to 'είμαστε'."
+        },
+        {
+            "id": "e1a1-041",
+            "type": "fill",
+            "header": "Εσύ ___ η αδελφή του Νίκου;",
+            "translations": "Are you Nikos's sister?",
+            "answer": "είσαι",
+            "explanation": "The subject 'εσύ' requires 'είσαι'."
+        },
+        {
+            "id": "e1a1-042",
+            "type": "select",
+            "header": "Το ξενοδοχείο ___ κοντά.",
+            "translations": "The hotel is nearby.",
+            "options": {
+                "a": "είναι",
+                "b": "είμαι",
+                "c": "είσαι",
+                "d": "είμαστε"
+            },
+            "answer": "a",
+            "explanation": "A singular neuter noun takes the third person singular form."
+        },
+        {
+            "id": "e1a1-043",
+            "type": "fill",
+            "header": "___ ο κύριος Παπαδόπουλος;",
+            "translations": "Are you Mr. Papadopoulos? (formal)",
+            "answer": "είστε",
+            "explanation": "Formal address uses the second person plural 'είστε'."
+        },
+        {
+            "id": "e1a1-044",
+            "type": "select",
+            "header": "Τα λουλούδια ___ όμορφα.",
+            "translations": "The flowers are beautiful.",
+            "options": {
+                "a": "είμαστε",
+                "b": "είστε",
+                "c": "είναι",
+                "d": "είμαι"
+            },
+            "answer": "c",
+            "explanation": "The third person plural uses the form 'είναι'."
+        },
+        {
+            "id": "e1a1-045",
+            "type": "fill",
+            "header": "Εγώ ___ πολύ χαρούμενος σήμερα.",
+            "translations": "I am very happy today.",
+            "answer": "είμαι",
+            "explanation": "Subject 'εγώ' requires the verb form 'είμαι'."
+        },
+        {
+            "id": "e1a1-046",
+            "type": "select",
+            "header": "Πού ___ η τσάντα μου;",
+            "translations": "Where is my bag?",
+            "options": {
+                "a": "είμαι",
+                "b": "είσαι",
+                "c": "είναι",
+                "d": "είμαστε"
+            },
+            "answer": "c",
+            "explanation": "A singular feminine noun uses 'είναι'."
+        },
+        {
+            "id": "e1a1-047",
+            "type": "fill",
+            "header": "Εσείς ___ Έλληνες;",
+            "translations": "Are you (plural) Greeks?",
+            "answer": "είστε",
+            "explanation": "The second person plural form is 'είστε'."
+        },
+        {
+            "id": "e1a1-048",
+            "type": "select",
+            "header": "Αυτός ___ ο καλύτερός μου φίλος.",
+            "translations": "He is my best friend.",
+            "options": {
+                "a": "είναι",
+                "b": "είμαι",
+                "c": "είσαι",
+                "d": "είμαστε"
+            },
+            "answer": "a",
+            "explanation": "The third person singular pronoun 'αυτός' takes 'είναι'."
+        },
+        {
+            "id": "e1a1-049",
+            "type": "fill",
+            "header": "Εμείς ___ έτοιμοι για το μάθημα.",
+            "translations": "We are ready for the lesson.",
+            "answer": "είμαστε",
+            "explanation": "Plural first person 'we' uses 'είμαστε'."
+        },
+        {
+            "id": "e1a1-050",
+            "type": "select",
+            "header": "Εσύ δεν ___ μόνος σου.",
+            "translations": "You are not alone.",
+            "options": {
+                "a": "είμαι",
+                "b": "είσαι",
+                "c": "είναι",
+                "d": "είστε"
+            },
+            "answer": "b",
+            "explanation": "The negative particle 'δεν' does not change the conjugation 'είσαι' for 'εσύ'."
         }
     ]
 }

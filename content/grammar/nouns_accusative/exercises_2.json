@@ -1,0 +1,832 @@
+{
+    "exercises": [
+        {
+            "id": "e1-b2-c3-d4-026",
+            "type": "select",
+            "header": "Περιμένω ___ (ο αδελφός) μου.",
+            "translations": "I am waiting for my brother.",
+            "options": {
+                "a": "ο αδελφός",
+                "b": "τον αδελφό",
+                "c": "το αδελφό",
+                "d": "τον αδελφός"
+            },
+            "answer": "b",
+            "explanation": "Masculine nouns in '-ος' change the article to 'τον' and drop the '-ς' in the accusative."
+        },
+        {
+            "id": "e1-b2-c3-d4-027",
+            "type": "fill",
+            "header": "Βλέπω ___ (η θάλασσα).",
+            "translations": "I see the sea.",
+            "answer": "την θάλασσα",
+            "explanation": "Feminine nouns change the article 'η' to 'την' in the accusative."
+        },
+        {
+            "id": "e1-b2-c3-d4-028",
+            "type": "select",
+            "header": "Θέλω ___ (το τραπέζι).",
+            "translations": "I want the table.",
+            "options": {
+                "a": "το τραπέζι",
+                "b": "τον τραπέζι",
+                "c": "τα τραπέζι",
+                "d": "τη τραπέζι"
+            },
+            "answer": "a",
+            "explanation": "Neuter nouns ending in '-ι' remain unchanged in the accusative."
+        },
+        {
+            "id": "e1-b2-c3-d4-029",
+            "type": "fill",
+            "header": "Αγαπάω ___ (ο κόσμος).",
+            "translations": "I love the world/people.",
+            "answer": "τον κόσμο",
+            "explanation": "Masculine 'ο' becomes 'τον' and '-ος' becomes '-ο'."
+        },
+        {
+            "id": "e1-b2-c3-d4-030",
+            "type": "select",
+            "header": "Έχεις ___ (ένα αυτοκίνητο);",
+            "translations": "Do you have a car?",
+            "options": {
+                "a": "έναν αυτοκίνητο",
+                "b": "ένα αυτοκίνητο",
+                "c": "μία αυτοκίνητο",
+                "d": "το αυτοκίνητο"
+            },
+            "answer": "b",
+            "explanation": "The neuter indefinite article 'ένα' remains the same in the accusative."
+        },
+        {
+            "id": "e1-b2-c3-d4-031",
+            "type": "fill",
+            "header": "Πίνω ___ (η πορτοκαλάδα).",
+            "translations": "I am drinking the orangeade.",
+            "answer": "την πορτοκαλάδα",
+            "explanation": "Feminine nouns ending in '-α' use the article 'την' for the direct object."
+        },
+        {
+            "id": "e1-b2-c3-d4-032",
+            "type": "select",
+            "header": "Διαβάζουμε ___ (το γράμμα).",
+            "translations": "We are reading the letter.",
+            "options": {
+                "a": "το γράμμα",
+                "b": "τον γράμμα",
+                "c": "τα γράμμα",
+                "d": "τη γράμμα"
+            },
+            "answer": "a",
+            "explanation": "Neuter nouns in '-μα' stay the same in the accusative."
+        },
+        {
+            "id": "e1-b2-c3-d4-033",
+            "type": "fill",
+            "header": "Ζητάω ___ (ο γιατρός).",
+            "translations": "I am asking for the doctor.",
+            "answer": "τον γιατρό",
+            "explanation": "Masculine nouns drop the final '-ς' when they are the object."
+        },
+        {
+            "id": "e1-b2-c3-d4-034",
+            "type": "select",
+            "header": "Κοιτάζω ___ (η νύχτα).",
+            "translations": "I am looking at the night.",
+            "options": {
+                "a": "η νύχτα",
+                "b": "τη νύχτα",
+                "c": "την νύχτα",
+                "d": "της νύχτας"
+            },
+            "answer": "c",
+            "explanation": "Feminine accusative article is 'την'."
+        },
+        {
+            "id": "e1-b2-c3-d4-035",
+            "type": "fill",
+            "header": "Αγοράζω ___ (ένα βιβλίο).",
+            "translations": "I am buying a book.",
+            "answer": "ένα βιβλίο",
+            "explanation": "Neuter 'ένα' remains the same in the accusative."
+        },
+        {
+            "id": "e1-b2-c3-d4-036",
+            "type": "select",
+            "header": "Πηγαίνουμε στην ___ (η πόλη).",
+            "translations": "We are going to the city.",
+            "options": {
+                "a": "στην πόλη",
+                "b": "στη πόλη",
+                "c": "στης πόλης",
+                "d": "στην πόλης"
+            },
+            "answer": "a",
+            "explanation": "Prepositions like 'σε' + 'την' (στην) require the accusative case."
+        },
+        {
+            "id": "e1-b2-c3-d4-037",
+            "type": "fill",
+            "header": "Ακούω ___ (ο δάσκαλος).",
+            "translations": "I listen to the teacher.",
+            "answer": "τον δάσκαλο",
+            "explanation": "Masculine 'ο' changes to 'τον' and the noun drops the '-ς'."
+        },
+        {
+            "id": "e1-b2-c3-d4-038",
+            "type": "select",
+            "header": "Έχουμε ___ (η εργασία).",
+            "translations": "We have the work/job.",
+            "options": {
+                "a": "η εργασία",
+                "b": "την εργασία",
+                "c": "τη εργασία",
+                "d": "της εργασίας"
+            },
+            "answer": "b",
+            "explanation": "Feminine nouns use 'την' in the accusative."
+        },
+        {
+            "id": "e1-b2-c3-d4-039",
+            "type": "fill",
+            "header": "Θέλετε ___ (το φως);",
+            "translations": "Do you want the light?",
+            "answer": "το φως",
+            "explanation": "Neuter nouns do not change form in the accusative."
+        },
+        {
+            "id": "e1-b2-c3-d4-040",
+            "type": "select",
+            "header": "Βλέπω ___ (ο δρόμος).",
+            "translations": "I see the road.",
+            "options": {
+                "a": "ο δρόμος",
+                "b": "το δρόμο",
+                "c": "τον δρόμο",
+                "d": "τον δρόμος"
+            },
+            "answer": "c",
+            "explanation": "Masculine direct objects take the article 'τον' and drop the '-ς'."
+        },
+        {
+            "id": "e1-b2-c3-d4-041",
+            "type": "fill",
+            "header": "Γνωρίζεις ___ (η οικογένεια) μου;",
+            "translations": "Do you know my family?",
+            "answer": "την οικογένεια",
+            "explanation": "Feminine nouns in the accusative use 'την'."
+        },
+        {
+            "id": "e1-b2-c3-d4-042",
+            "type": "select",
+            "header": "Τρώω ___ (ένα μήλο).",
+            "translations": "I am eating an apple.",
+            "options": {
+                "a": "έναν μήλο",
+                "b": "μία μήλο",
+                "c": "ένα μήλο",
+                "d": "το μήλο"
+            },
+            "answer": "c",
+            "explanation": "Neuter indefinite 'ένα' stays the same in the accusative."
+        },
+        {
+            "id": "e1-b2-c3-d4-043",
+            "type": "fill",
+            "header": "Περιμένουμε ___ (ο χρόνος).",
+            "translations": "We are waiting for the time/year.",
+            "answer": "τον χρόνο",
+            "explanation": "Masculine nouns in '-ος' drop the '-ς' in the accusative."
+        },
+        {
+            "id": "e1-b2-c3-d4-044",
+            "type": "select",
+            "header": "Κλείνεις ___ (το παράθυρο);",
+            "translations": "Are you closing the window?",
+            "options": {
+                "a": "το παράθυρο",
+                "b": "τον παράθυρο",
+                "c": "την παράθυρο",
+                "d": "τα παράθυρο"
+            },
+            "answer": "a",
+            "explanation": "Neuter nouns use 'το' in the accusative."
+        },
+        {
+            "id": "e1-b2-c3-d4-045",
+            "type": "fill",
+            "header": "Αγαπάμε ___ (η ζωή).",
+            "translations": "We love life.",
+            "answer": "την ζωή",
+            "explanation": "Feminine nouns in '-η' use 'την' in the accusative."
+        },
+        {
+            "id": "e1-b2-c3-d4-046",
+            "type": "select",
+            "header": "Βλέπω ___ (ο άντρας).",
+            "translations": "I see the man.",
+            "options": {
+                "a": "ο άντρας",
+                "b": "τον άντρας",
+                "c": "τον άντρα",
+                "d": "το άντρα"
+            },
+            "answer": "c",
+            "explanation": "Masculine nouns in '-ας' drop the '-ς'."
+        },
+        {
+            "id": "e1-b2-c3-d4-047",
+            "type": "fill",
+            "header": "Πηγαίνω στο ___ (μέρος).",
+            "translations": "I am going to the place.",
+            "answer": "μέρος",
+            "explanation": "Neuter nouns like 'το μέρος' do not change form in the accusative."
+        },
+        {
+            "id": "e1-b2-c3-d4-048",
+            "type": "select",
+            "header": "Έχω ___ (μία φίλη).",
+            "translations": "I have a (female) friend.",
+            "options": {
+                "a": "μία φίλη",
+                "b": "μίαν φίλη",
+                "c": "έναν φίλη",
+                "d": "ένα φίλη"
+            },
+            "answer": "a",
+            "explanation": "Feminine indefinite article 'μία' is used in the accusative."
+        },
+        {
+            "id": "e1-b2-c3-d4-049",
+            "type": "fill",
+            "header": "Διαβάζεις ___ (το μάθημα);",
+            "translations": "Are you reading the lesson?",
+            "answer": "το μάθημα",
+            "explanation": "Neuter nouns in '-μα' are the same in nominative and accusative."
+        },
+        {
+            "id": "e1-b2-c3-d4-050",
+            "type": "select",
+            "header": "Ακούω ___ (ο μαθητής).",
+            "translations": "I hear the student.",
+            "options": {
+                "a": "ο μαθητής",
+                "b": "τον μαθητής",
+                "c": "τον μαθητή",
+                "d": "το μαθητή"
+            },
+            "answer": "c",
+            "explanation": "Masculine nouns in '-ης' change to '-η' in the accusative."
+        },
+        {
+            "id": "e1-b2-c3-d4-051",
+            "type": "fill",
+            "header": "Θέλω ___ (η τάξη) μου.",
+            "translations": "I want my class.",
+            "answer": "την τάξη",
+            "explanation": "Feminine nouns in '-η' change article to 'την'."
+        },
+        {
+            "id": "e1-b2-c3-d4-052",
+            "type": "select",
+            "header": "Βλέπεις ___ (η οδός);",
+            "translations": "Do you see the street?",
+            "options": {
+                "a": "η οδός",
+                "b": "την οδός",
+                "c": "την οδό",
+                "d": "τη οδό"
+            },
+            "answer": "c",
+            "explanation": "Feminine nouns ending in '-ος' (exceptions) drop the '-ς' like masculine nouns but keep the feminine article 'την'."
+        },
+        {
+            "id": "e1-b2-c3-d4-053",
+            "type": "fill",
+            "header": "Ανοίγω ___ (το γράμμα).",
+            "translations": "I am opening the letter.",
+            "answer": "το γράμμα",
+            "explanation": "Neuter object remains the same."
+        },
+        {
+            "id": "e1-b2-c3-d4-054",
+            "type": "select",
+            "header": "Ζητάμε ___ (ένας μαθητής).",
+            "translations": "We are asking for a student.",
+            "options": {
+                "a": "ένας μαθητής",
+                "b": "έναν μαθητή",
+                "c": "έναν μαθητής",
+                "d": "ένα μαθητή"
+            },
+            "answer": "b",
+            "explanation": "Masculine indefinite article 'ένας' becomes 'έναν' and the noun drops '-ς'."
+        },
+        {
+            "id": "e1-b2-c3-d4-055",
+            "type": "fill",
+            "header": "Φωνάζω ___ (η φίλη).",
+            "translations": "I am calling the (female) friend.",
+            "answer": "την φίλη",
+            "explanation": "Feminine direct object takes 'την'."
+        },
+        {
+            "id": "e1-b2-c3-d4-056",
+            "type": "select",
+            "header": "Πίνω ___ (ένας χυμός).",
+            "translations": "I am drinking a juice.",
+            "options": {
+                "a": "ένας χυμός",
+                "b": "ένα χυμό",
+                "c": "έναν χυμό",
+                "d": "το χυμό"
+            },
+            "answer": "c",
+            "explanation": "Masculine indefinite article 'ένας' becomes 'έναν'."
+        },
+        {
+            "id": "e1-b2-c3-d4-057",
+            "type": "fill",
+            "header": "Καθαρίζεις ___ (το τραπέζι);",
+            "translations": "Are you cleaning the table?",
+            "answer": "το τραπέζι",
+            "explanation": "Neuter object remains 'το τραπέζι'."
+        },
+        {
+            "id": "e1-b2-c3-d4-058",
+            "type": "select",
+            "header": "Βλέπουμε ___ (η θάλασσα).",
+            "translations": "We see the sea.",
+            "options": {
+                "a": "η θάλασσα",
+                "b": "τη θάλασσα",
+                "c": "την θάλασσα",
+                "d": "της θάλασσας"
+            },
+            "answer": "c",
+            "explanation": "Feminine article 'η' becomes 'την' in the accusative."
+        },
+        {
+            "id": "e1-b2-c3-d4-059",
+            "type": "fill",
+            "header": "Έχω ___ (το βιβλίο).",
+            "translations": "I have the book.",
+            "answer": "το βιβλίο",
+            "explanation": "Neuter nouns are the same in nominative and accusative."
+        },
+        {
+            "id": "e1-b2-c3-d4-060",
+            "type": "select",
+            "header": "Αγαπάς ___ (ο πατέρας) σου;",
+            "translations": "Do you love your father?",
+            "options": {
+                "a": "ο πατέρας",
+                "b": "τον πατέρας",
+                "c": "τον πατέρα",
+                "d": "το πατέρα"
+            },
+            "answer": "c",
+            "explanation": "Masculine nouns drop the '-ς' in the accusative."
+        },
+        {
+            "id": "e1-b2-c3-d4-061",
+            "type": "fill",
+            "header": "Διαβάζω ___ (η εφημερίδα).",
+            "translations": "I am reading the newspaper.",
+            "answer": "την εφημερίδα",
+            "explanation": "Feminine nouns use 'την' for the object."
+        },
+        {
+            "id": "e1-b2-c3-d4-062",
+            "type": "select",
+            "header": "Περιμένεις ___ (ο φίλος);",
+            "translations": "Are you waiting for the friend?",
+            "options": {
+                "a": "ο φίλος",
+                "b": "τον φίλος",
+                "c": "τον φίλο",
+                "d": "το φίλο"
+            },
+            "answer": "c",
+            "explanation": "Masculine article 'ο' becomes 'τον' and noun drops '-ς'."
+        },
+        {
+            "id": "e1-b2-c3-d4-063",
+            "type": "fill",
+            "header": "Θέλω ___ (ένα σπίτι).",
+            "translations": "I want a house.",
+            "answer": "ένα σπίτι",
+            "explanation": "Neuter indefinite 'ένα' remains the same."
+        },
+        {
+            "id": "e1-b2-c3-d4-064",
+            "type": "select",
+            "header": "Κλείνουμε ___ (η πόρτα).",
+            "translations": "We are closing the door.",
+            "options": {
+                "a": "η πόρτα",
+                "b": "τη πόρτα",
+                "c": "την πόρτα",
+                "d": "της πόρτας"
+            },
+            "answer": "c",
+            "explanation": "Feminine direct object article is 'την'."
+        },
+        {
+            "id": "e1-b2-c3-d4-065",
+            "type": "fill",
+            "header": "Βλέπετε ___ (το παιδί);",
+            "translations": "Do you [plural] see the child?",
+            "answer": "το παιδί",
+            "explanation": "Neuter nouns remain unchanged in form."
+        },
+        {
+            "id": "e1-b2-c3-d4-066",
+            "type": "select",
+            "header": "Γνωρίζω ___ (η μητέρα) σου.",
+            "translations": "I know your mother.",
+            "options": {
+                "a": "η μητέρα",
+                "b": "τη μητέρα",
+                "c": "την μητέρα",
+                "d": "της μητέρας"
+            },
+            "answer": "c",
+            "explanation": "Feminine nouns use 'την' as the direct object article."
+        },
+        {
+            "id": "e1-b2-c3-d4-067",
+            "type": "fill",
+            "header": "Αγοράζω ___ (ο υπολογιστής).",
+            "translations": "I am buying the computer.",
+            "answer": "τον υπολογιστή",
+            "explanation": "Masculine nouns ending in '-ης' change to '-η' and article becomes 'τον'."
+        },
+        {
+            "id": "e1-b2-c3-d4-068",
+            "type": "select",
+            "header": "Τρως ___ (το φαγητό) σου;",
+            "translations": "Are you eating your food?",
+            "options": {
+                "a": "το φαγητό",
+                "b": "τον φαγητό",
+                "c": "την φαγητό",
+                "d": "τα φαγητό"
+            },
+            "answer": "a",
+            "explanation": "Neuter direct objects use the article 'το'."
+        },
+        {
+            "id": "e1-b2-c3-d4-069",
+            "type": "fill",
+            "header": "Ακούμε ___ (η δασκάλα).",
+            "translations": "We listen to the (female) teacher.",
+            "answer": "την δασκάλα",
+            "explanation": "Feminine article 'η' becomes 'την' in the accusative."
+        },
+        {
+            "id": "e1-b2-c3-d4-070",
+            "type": "select",
+            "header": "Ψάχνω ___ (ένας γιατρός).",
+            "translations": "I am looking for a doctor.",
+            "options": {
+                "a": "ένας γιατρός",
+                "b": "ένα γιατρό",
+                "c": "έναν γιατρό",
+                "d": "το γιατρό"
+            },
+            "answer": "c",
+            "explanation": "Masculine indefinite article 'ένας' becomes 'έναν' and the noun drops the '-ς'."
+        },
+        {
+            "id": "e1-b2-c3-d4-071",
+            "type": "fill",
+            "header": "Θέλετε ___ (το όνομα) μου;",
+            "translations": "Do you want my name?",
+            "answer": "το όνομα",
+            "explanation": "Neuter nouns ending in '-μα' are the same in the accusative."
+        },
+        {
+            "id": "e1-b2-c3-d4-072",
+            "type": "select",
+            "header": "Βλέπω ___ (ο άντρας) εκεί.",
+            "translations": "I see the man there.",
+            "options": {
+                "a": "ο άντρας",
+                "b": "τον άντρας",
+                "c": "τον άντρα",
+                "d": "το άντρα"
+            },
+            "answer": "c",
+            "explanation": "Masculine nouns in '-ας' drop the '-ς' and article is 'τον'."
+        },
+        {
+            "id": "e1-b2-c3-d4-073",
+            "type": "fill",
+            "header": "Ανοίγεις ___ (η πόρτα);",
+            "translations": "Are you opening the door?",
+            "answer": "την πόρτα",
+            "explanation": "Feminine direct objects take the article 'την'."
+        },
+        {
+            "id": "e1-b2-c3-d4-074",
+            "type": "select",
+            "header": "Έχουμε ___ (ένα μάθημα).",
+            "translations": "We have a lesson.",
+            "options": {
+                "a": "έναν μάθημα",
+                "b": "ένα μάθημα",
+                "c": "μία μάθημα",
+                "d": "το μάθημα"
+            },
+            "answer": "b",
+            "explanation": "Neuter indefinite 'ένα' is used for the direct object."
+        },
+        {
+            "id": "e1-b2-c3-d4-075",
+            "type": "fill",
+            "header": "Πίνουμε ___ (το νερό).",
+            "translations": "We are drinking the water.",
+            "answer": "το νερό",
+            "explanation": "Neuter 'το' remains the same in the accusative."
+        },
+        {
+            "id": "e1-b2-c3-d4-076",
+            "type": "select",
+            "header": "Αγαπάμε ___ (η πόλη) μας.",
+            "translations": "We love our city.",
+            "options": {
+                "a": "η πόλη",
+                "b": "τη πόλη",
+                "c": "την πόλη",
+                "d": "της πόλης"
+            },
+            "answer": "c",
+            "explanation": "Feminine nouns use 'την' in the accusative."
+        },
+        {
+            "id": "e1-b2-c3-d4-077",
+            "type": "fill",
+            "header": "Βλέπω ___ (ο ουρανός).",
+            "translations": "I see the sky.",
+            "answer": "τον ουρανό",
+            "explanation": "Masculine nouns in '-ος' change to 'τον' and '-ο'."
+        },
+        {
+            "id": "e1-b2-c3-d4-078",
+            "type": "select",
+            "header": "Έχεις ___ (μία αδελφή);",
+            "translations": "Do you have a sister?",
+            "options": {
+                "a": "μία αδελφή",
+                "b": "έναν αδελφή",
+                "c": "ένα αδελφή",
+                "d": "το αδελφή"
+            },
+            "answer": "a",
+            "explanation": "Feminine indefinite 'μία' is correct for the object."
+        },
+        {
+            "id": "e1-b2-c3-d4-079",
+            "type": "fill",
+            "header": "Διαβάζεις ___ (το βιβλίο) σου;",
+            "translations": "Are you reading your book?",
+            "answer": "το βιβλίο",
+            "explanation": "Neuter nouns are unchanged in the accusative."
+        },
+        {
+            "id": "e1-b2-c3-d4-080",
+            "type": "select",
+            "header": "Φωνάζω ___ (ο Γιώργος).",
+            "translations": "I am calling George.",
+            "options": {
+                "a": "ο Γιώργος",
+                "b": "τον Γιώργο",
+                "c": "το Γιώργο",
+                "d": "τον Γιώργος"
+            },
+            "answer": "b",
+            "explanation": "Masculine proper names drop the '-ς' and take 'τον'."
+        },
+        {
+            "id": "e1-b2-c3-d4-081",
+            "type": "fill",
+            "header": "Θέλω ___ (η βοήθεια) σου.",
+            "translations": "I want your help.",
+            "answer": "την βοήθεια",
+            "explanation": "Feminine direct object takes 'την'."
+        },
+        {
+            "id": "e1-b2-c3-d4-082",
+            "type": "select",
+            "header": "Βλέπετε ___ (το σπίτι);",
+            "translations": "Do you see the house?",
+            "options": {
+                "a": "το σπίτι",
+                "b": "τον σπίτι",
+                "c": "την σπίτι",
+                "d": "τα σπίτι"
+            },
+            "answer": "a",
+            "explanation": "Neuter singular uses the article 'το'."
+        },
+        {
+            "id": "e1-b2-c3-d4-083",
+            "type": "fill",
+            "header": "Περιμένω ___ (ο πατέρας).",
+            "translations": "I am waiting for the father.",
+            "answer": "τον πατέρα",
+            "explanation": "Masculine 'ο' becomes 'τον' and '-ας' becomes '-α'."
+        },
+        {
+            "id": "e1-b2-c3-d4-084",
+            "type": "select",
+            "header": "Τρώμε ___ (το μήλο).",
+            "translations": "We are eating the apple.",
+            "options": {
+                "a": "το μήλο",
+                "b": "τον μήλο",
+                "c": "τα μήλο",
+                "d": "το μήλου"
+            },
+            "answer": "a",
+            "explanation": "Neuter nouns in '-ο' are unchanged in the accusative."
+        },
+        {
+            "id": "e1-b2-c3-d4-085",
+            "type": "fill",
+            "header": "Γνωρίζω ___ (η γυναίκα) αυτή.",
+            "translations": "I know this woman.",
+            "answer": "την γυναίκα",
+            "explanation": "Feminine nouns use 'την' in the accusative."
+        },
+        {
+            "id": "e1-b2-c3-d4-086",
+            "type": "select",
+            "header": "Ψάχνουμε ___ (ο σταθμός).",
+            "translations": "We are looking for the station.",
+            "options": {
+                "a": "ο σταθμός",
+                "b": "τον σταθμός",
+                "c": "τον σταθμό",
+                "d": "το σταθμό"
+            },
+            "answer": "c",
+            "explanation": "Masculine article 'ο' becomes 'τον' and noun drops '-ς'."
+        },
+        {
+            "id": "e1-b2-c3-d4-087",
+            "type": "fill",
+            "header": "Ακούς ___ (το τραγούδι);",
+            "translations": "Are you listening to the song?",
+            "answer": "το τραγούδι",
+            "explanation": "Neuter nouns ending in '-ι' do not change form."
+        },
+        {
+            "id": "e1-b2-c3-d4-088",
+            "type": "select",
+            "header": "Έχω ___ (ένας φίλος).",
+            "translations": "I have a friend.",
+            "options": {
+                "a": "ένας φίλος",
+                "b": "ένα φίλο",
+                "c": "έναν φίλο",
+                "d": "το φίλο"
+            },
+            "answer": "c",
+            "explanation": "Masculine indefinite article 'ένας' becomes 'έναν'."
+        },
+        {
+            "id": "e1-b2-c3-d4-089",
+            "type": "fill",
+            "header": "Βλέπουμε ___ (η θάλασσα).",
+            "translations": "We see the sea.",
+            "answer": "την θάλασσα",
+            "explanation": "Feminine accusative takes 'την'."
+        },
+        {
+            "id": "e1-b2-c3-d4-090",
+            "type": "select",
+            "header": "Θέλετε ___ (το τραπέζι);",
+            "translations": "Do you want the table?",
+            "options": {
+                "a": "το τραπέζι",
+                "b": "τον τραπέζι",
+                "c": "τα τραπέζι",
+                "d": "τη τραπέζι"
+            },
+            "answer": "a",
+            "explanation": "Neuter 'το' is used in the accusative."
+        },
+        {
+            "id": "e1-b2-c3-d4-091",
+            "type": "fill",
+            "header": "Καθαρίζω ___ (ο κήπος).",
+            "translations": "I am cleaning the garden.",
+            "answer": "τον κήπο",
+            "explanation": "Masculine nouns drop the '-ς' and use 'τον'."
+        },
+        {
+            "id": "e1-b2-c3-d4-092",
+            "type": "select",
+            "header": "Αγαπάς ___ (η οικογένεια) σου;",
+            "translations": "Do you love your family?",
+            "options": {
+                "a": "η οικογένεια",
+                "b": "τη οικογένεια",
+                "c": "την οικογένεια",
+                "d": "της οικογένειας"
+            },
+            "answer": "c",
+            "explanation": "Feminine article 'η' becomes 'την'."
+        },
+        {
+            "id": "e1-b2-c3-d4-093",
+            "type": "fill",
+            "header": "Πίνω ___ (ένα γάλα).",
+            "translations": "I am drinking a milk.",
+            "answer": "ένα γάλα",
+            "explanation": "Neuter 'ένα' remains unchanged."
+        },
+        {
+            "id": "e1-b2-c3-d4-094",
+            "type": "select",
+            "header": "Κλείνεις ___ (το παράθυρο);",
+            "translations": "Are you closing the window?",
+            "options": {
+                "a": "το παράθυρο",
+                "b": "τον παράθυρο",
+                "c": "τα παράθυρο",
+                "d": "τη παράθυρο"
+            },
+            "answer": "a",
+            "explanation": "Neuter object remains 'το παράθυρο'."
+        },
+        {
+            "id": "e1-b2-c3-d4-095",
+            "type": "fill",
+            "header": "Ακούω ___ (ο αδελφός) μου.",
+            "translations": "I hear my brother.",
+            "answer": "τον αδελφό",
+            "explanation": "Masculine nouns in the accusative drop the '-ς'."
+        },
+        {
+            "id": "e1-b2-c3-d4-096",
+            "type": "select",
+            "header": "Βλέπεις ___ (η μητέρα);",
+            "translations": "Do you see the mother?",
+            "options": {
+                "a": "η μητέρα",
+                "b": "τη μητέρα",
+                "c": "την μητέρα",
+                "d": "της μητέρας"
+            },
+            "answer": "c",
+            "explanation": "Feminine nouns use 'την' as the direct object article."
+        },
+        {
+            "id": "e1-b2-c3-d4-097",
+            "type": "fill",
+            "header": "Θέλω ___ (το βιβλίο) σου.",
+            "translations": "I want your book.",
+            "answer": "το βιβλίο",
+            "explanation": "Neuter singular remains 'το βιβλίο'."
+        },
+        {
+            "id": "e1-b2-c3-d4-098",
+            "type": "select",
+            "header": "Περιμένουμε ___ (ο γιατρός).",
+            "translations": "We are waiting for the doctor.",
+            "options": {
+                "a": "ο γιατρός",
+                "b": "τον γιατρός",
+                "c": "τον γιατρό",
+                "d": "το γιατρό"
+            },
+            "answer": "c",
+            "explanation": "Masculine accusative article is 'τον' and the noun drops the '-ς'."
+        },
+        {
+            "id": "e1-b2-c3-d4-099",
+            "type": "fill",
+            "header": "Διαβάζουμε ___ (το μάθημα).",
+            "translations": "We are reading the lesson.",
+            "answer": "το μάθημα",
+            "explanation": "Neuter 'το μάθημα' does not change form."
+        },
+        {
+            "id": "e1-b2-c3-d4-100",
+            "type": "select",
+            "header": "Αγαπάς ___ (η Ελλάδα);",
+            "translations": "Do you love Greece?",
+            "options": {
+                "a": "η Ελλάδα",
+                "b": "την Ελλάδα",
+                "c": "τη Ελλάδα",
+                "d": "της Ελλάδας"
+            },
+            "answer": "b",
+            "explanation": "Proper feminine nouns use 'την' in the accusative."
+        }
+    ]
+}
