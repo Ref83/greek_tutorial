@@ -455,19 +455,34 @@
 
         async function loadExercises() {
             const dirUrl = `../content/grammar/${id}/`;
+            let found = false;
             const res = await fetch(dirUrl);
-            if (!res.ok) { showExercise(); return; }
-            const html = await res.text();
-            const doc = new DOMParser().parseFromString(html, 'text/html');
-            const files = [...doc.querySelectorAll('a[href]')]
-                .map(a => a.getAttribute('href'))
-                .filter(href => /^exercises.*\.json$/i.test(href.split('/').pop()));
-            await Promise.all(files.map(async file => {
-                const r = await fetch(dirUrl + file.split('/').pop());
-                if (!r.ok) return;
-                const data = await r.json();
-                exercises = exercises.concat(data.exercises);
-            }));
+            if (res.ok) {
+                const html = await res.text();
+                const doc = new DOMParser().parseFromString(html, 'text/html');
+                const files = [...doc.querySelectorAll('a[href]')]
+                    .map(a => a.getAttribute('href'))
+                    .filter(href => /^exercises.*\.json$/i.test(href.split('/').pop()));
+                if (files.length) {
+                    found = true;
+                    await Promise.all(files.map(async file => {
+                        const r = await fetch(dirUrl + file.split('/').pop());
+                        if (!r.ok) return;
+                        const data = await r.json();
+                        exercises = exercises.concat(data.exercises);
+                    }));
+                }
+            }
+            if (!found) {
+                let n = 1;
+                while (true) {
+                    const r = await fetch(`${dirUrl}exercises_${n}.json`);
+                    if (!r.ok) break;
+                    const data = await r.json();
+                    exercises = exercises.concat(data.exercises);
+                    n++;
+                }
+            }
             shuffle(exercises);
             showExercise();
         }
