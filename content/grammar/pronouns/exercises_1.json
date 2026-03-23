@@ -1,0 +1,554 @@
+{
+    "exercises": [
+        {
+            "id": "e1a1a1a1-1111-4444-8888-000000000001",
+            "type": "select",
+            "header": "Το βιβλίο ___ είναι στο τραπέζι.",
+            "translations": "My book is on the table.",
+            "options": {
+                "a": "μου",
+                "b": "με",
+                "c": "τον",
+                "d": "σε"
+            },
+            "answer": "a",
+            "explanation": "We use the weak possessive pronoun 'μου' (my) after the noun."
+        },
+        {
+            "id": "e1a1a1a1-1111-4444-8888-000000000002",
+            "type": "fill",
+            "header": "Εγώ ___ (him) βλέπω κάθε μέρα.",
+            "translations": "I see him every day.",
+            "answer": "τον",
+            "explanation": "The weak personal pronoun 'τον' (him) is placed before the verb in simple statements."
+        },
+        {
+            "id": "e1a1a1a1-1111-4444-8888-000000000003",
+            "type": "select",
+            "header": "Πού είναι η μητέρα ___;",
+            "translations": "Where is your mother?",
+            "options": {
+                "a": "σε",
+                "b": "σου",
+                "c": "με",
+                "d": "την"
+            },
+            "answer": "b",
+            "explanation": "The weak possessive pronoun 'σου' (your) follows the noun."
+        },
+        {
+            "id": "e1a1a1a1-1111-4444-8888-000000000004",
+            "type": "fill",
+            "header": "Αυτός ___ (me) ακούει.",
+            "translations": "He listens to me.",
+            "answer": "με",
+            "explanation": "The personal pronoun 'με' (me) acts as the object and precedes the verb."
+        },
+        {
+            "id": "e1a1a1a1-1111-4444-8888-000000000005",
+            "type": "select",
+            "header": "Το σπίτι ___ είναι μεγάλο.",
+            "translations": "Our house is big.",
+            "options": {
+                "a": "μας",
+                "b": "με",
+                "c": "σας",
+                "d": "σε"
+            },
+            "answer": "a",
+            "explanation": "The possessive pronoun 'μας' (our) shows ownership and follows the noun."
+        },
+        {
+            "id": "e1a1a1a1-1111-4444-8888-000000000006",
+            "type": "fill",
+            "header": "Ο καθηγητής ___ (us) διδάσκει.",
+            "translations": "The professor teaches us.",
+            "answer": "μας",
+            "explanation": "The personal pronoun 'μας' (us) is the object placed before the verb."
+        },
+        {
+            "id": "e1a1a1a1-1111-4444-8888-000000000007",
+            "type": "select",
+            "header": "Η τσάντα ___ είναι κόκκινη.",
+            "translations": "Her bag is red.",
+            "options": {
+                "a": "του",
+                "b": "τη",
+                "c": "της",
+                "d": "τον"
+            },
+            "answer": "c",
+            "explanation": "The possessive 'της' refers to 'her' and follows the noun 'τσάντα'."
+        },
+        {
+            "id": "e1a1a1a1-1111-4444-8888-000000000008",
+            "type": "fill",
+            "header": "Μαρία, ___ (you - sing.) αγαπώ.",
+            "translations": "Maria, I love you.",
+            "answer": "σε",
+            "explanation": "The personal pronoun 'σε' (you) is the direct object before the verb."
+        },
+        {
+            "id": "e1a1a1a1-1111-4444-8888-000000000009",
+            "type": "select",
+            "header": "Τα παιδιά ___ παίζουν στον κήπο.",
+            "translations": "Their children are playing in the garden.",
+            "options": {
+                "a": "τους",
+                "b": "το",
+                "c": "τα",
+                "d": "μας"
+            },
+            "answer": "a",
+            "explanation": "The possessive 'τους' (their) follows the noun 'παιδιά'."
+        },
+        {
+            "id": "e1a1a1a1-1111-4444-8888-000000000010",
+            "type": "fill",
+            "header": "Ο πατέρας ___ (his) τηλεφωνεί.",
+            "translations": "His father is calling him.",
+            "answer": "του",
+            "explanation": "The personal pronoun 'του' (him/to him) is the object before the verb."
+        },
+        {
+            "id": "e1a1a1a1-1111-4444-8888-000000000011",
+            "type": "select",
+            "header": "Πού είναι το κλειδί ___;",
+            "translations": "Where is my key?",
+            "options": {
+                "a": "μου",
+                "b": "με",
+                "c": "τον",
+                "d": "το"
+            },
+            "answer": "a",
+            "explanation": "Possessive 'μου' (my) follows the noun 'κλειδί'."
+        },
+        {
+            "id": "e1a1a1a1-1111-4444-8888-000000000012",
+            "type": "fill",
+            "header": "___ (her) βλέπεις στο σχολείο;",
+            "translations": "Do you see her at school?",
+            "answer": "την",
+            "explanation": "Personal pronoun 'την' (her) acts as the object before the verb 'βλέπεις'."
+        },
+        {
+            "id": "e1a1a1a1-1111-4444-8888-000000000013",
+            "type": "select",
+            "header": "Το αυτοκίνητο ___ είναι παλιό.",
+            "translations": "Your (plural) car is old.",
+            "options": {
+                "a": "σου",
+                "b": "μας",
+                "c": "σας",
+                "d": "σε"
+            },
+            "answer": "c",
+            "explanation": "The plural possessive 'σας' (your) follows the noun."
+        },
+        {
+            "id": "e1a1a1a1-1111-4444-8888-000000000014",
+            "type": "fill",
+            "header": "___ (them - neuter) θέλω τώρα.",
+            "translations": "I want them now.",
+            "answer": "τα",
+            "explanation": "The personal pronoun 'τα' (them) is used for neuter plural objects."
+        },
+        {
+            "id": "e1a1a1a1-1111-4444-8888-000000000015",
+            "type": "select",
+            "header": "Ο φίλος ___ είναι γιατρός.",
+            "translations": "His friend is a doctor.",
+            "options": {
+                "a": "του",
+                "b": "τον",
+                "c": "το",
+                "d": "τη"
+            },
+            "answer": "a",
+            "explanation": "Possessive 'του' (his) follows the noun 'φίλος'."
+        },
+        {
+            "id": "e1a1a1a1-1111-4444-8888-000000000016",
+            "type": "fill",
+            "header": "Η μητέρα ___ (you - sing.) ψάχνει.",
+            "translations": "Mother is looking for you.",
+            "answer": "σε",
+            "explanation": "Personal pronoun 'σε' (you) is the object before the verb."
+        },
+        {
+            "id": "e1a1a1a1-1111-4444-8888-000000000017",
+            "type": "select",
+            "header": "Οι γονείς ___ είναι στην Αθήνα.",
+            "translations": "My parents are in Athens.",
+            "options": {
+                "a": "μου",
+                "b": "με",
+                "c": "μας",
+                "d": "σε"
+            },
+            "answer": "a",
+            "explanation": "Possessive 'μου' (my) follows the noun 'γονείς'."
+        },
+        {
+            "id": "e1a1a1a1-1111-4444-8888-000000000018",
+            "type": "fill",
+            "header": "___ (us) περιμένουν έξω.",
+            "translations": "They are waiting for us outside.",
+            "answer": "μας",
+            "explanation": "Personal pronoun 'μας' (us) precedes the verb."
+        },
+        {
+            "id": "e1a1a1a1-1111-4444-8888-000000000019",
+            "type": "select",
+            "header": "Το όνομά ___ είναι Ελένη.",
+            "translations": "Her name is Eleni.",
+            "options": {
+                "a": "του",
+                "b": "της",
+                "c": "τη",
+                "d": "τις"
+            },
+            "answer": "b",
+            "explanation": "Possessive 'της' (her) shows whose name it is."
+        },
+        {
+            "id": "e1a1a1a1-1111-4444-8888-000000000020",
+            "type": "fill",
+            "header": "Δεν ___ (you - plural) ξέρω.",
+            "translations": "I don't know you.",
+            "answer": "σας",
+            "explanation": "Personal pronoun 'σας' (you) is the object before the verb."
+        },
+        {
+            "id": "e1a1a1a1-1111-4444-8888-000000000021",
+            "type": "select",
+            "header": "Ο σκύλος ___ είναι μικρός.",
+            "translations": "Our dog is small.",
+            "options": {
+                "a": "μας",
+                "b": "με",
+                "c": "μου",
+                "d": "σας"
+            },
+            "answer": "a",
+            "explanation": "Possessive 'μας' (our) follows the noun."
+        },
+        {
+            "id": "e1a1a1a1-1111-4444-8888-000000000022",
+            "type": "fill",
+            "header": "Θα ___ (him) πάρω τηλέφωνο.",
+            "translations": "I will call him.",
+            "answer": "τον",
+            "explanation": "The personal pronoun 'τον' (him) comes before the verb."
+        },
+        {
+            "id": "e1a1a1a1-1111-4444-8888-000000000023",
+            "type": "select",
+            "header": "Η δουλειά ___ είναι δύσκολη.",
+            "translations": "Your (singular) job is difficult.",
+            "options": {
+                "a": "σου",
+                "b": "σε",
+                "c": "μου",
+                "d": "σας"
+            },
+            "answer": "a",
+            "explanation": "Possessive 'σου' (your) follows 'δουλειά'."
+        },
+        {
+            "id": "e1a1a1a1-1111-4444-8888-000000000024",
+            "type": "fill",
+            "header": "___ (them - masculine) κάλεσα στο πάρτι.",
+            "translations": "I invited them to the party.",
+            "answer": "τους",
+            "explanation": "Personal pronoun 'τους' (them) is used as the object."
+        },
+        {
+            "id": "e1a1a1a1-1111-4444-8888-000000000025",
+            "type": "select",
+            "header": "Το παιδί ___ κλαίει.",
+            "translations": "Their child is crying.",
+            "options": {
+                "a": "τους",
+                "b": "τα",
+                "c": "του",
+                "d": "μας"
+            },
+            "answer": "a",
+            "explanation": "Possessive 'τους' (their) follows the noun 'παιδί'."
+        },
+        {
+            "id": "e1a1a1a1-1111-4444-8888-000000000026",
+            "type": "fill",
+            "header": "Δώσε ___ (me) το στυλό.",
+            "translations": "Give me the pen.",
+            "answer": "μου",
+            "explanation": "With imperatives (commands), the weak pronoun follows the verb."
+        },
+        {
+            "id": "e1a1a1a1-1111-4444-8888-000000000027",
+            "type": "select",
+            "header": "Η αδελφή ___ είναι ψηλή.",
+            "translations": "My sister is tall.",
+            "options": {
+                "a": "μου",
+                "b": "με",
+                "c": "της",
+                "d": "σου"
+            },
+            "answer": "a",
+            "explanation": "Possessive 'μου' follows the noun."
+        },
+        {
+            "id": "e1a1a1a1-1111-4444-8888-000000000028",
+            "type": "fill",
+            "header": "___ (it) βρήκαμε στον δρόμο.",
+            "translations": "We found it on the street.",
+            "answer": "το",
+            "explanation": "Personal pronoun 'το' (it) is the object before the verb."
+        },
+        {
+            "id": "e1a1a1a1-1111-4444-8888-000000000029",
+            "type": "select",
+            "header": "Τα κλειδιά ___ είναι εδώ.",
+            "translations": "His keys are here.",
+            "options": {
+                "a": "του",
+                "b": "το",
+                "c": "τον",
+                "d": "της"
+            },
+            "answer": "a",
+            "explanation": "Possessive 'του' (his) follows 'κλειδιά'."
+        },
+        {
+            "id": "e1a1a1a1-1111-4444-8888-000000000030",
+            "type": "fill",
+            "header": "Πες ___ (us) την αλήθεια.",
+            "translations": "Tell us the truth.",
+            "answer": "μας",
+            "explanation": "After an imperative, the weak pronoun 'μας' is used."
+        },
+        {
+            "id": "e1a1a1a1-1111-4444-8888-000000000031",
+            "type": "select",
+            "header": "Ο δάσκαλος ___ είναι καλός.",
+            "translations": "Your (plural) teacher is good.",
+            "options": {
+                "a": "σας",
+                "b": "σου",
+                "c": "σε",
+                "d": "σας"
+            },
+            "answer": "a",
+            "explanation": "Possessive 'σας' (your) follows the noun."
+        },
+        {
+            "id": "e1a1a1a1-1111-4444-8888-000000000032",
+            "type": "fill",
+            "header": "___ (them - feminine) είδαμε χθες.",
+            "translations": "We saw them yesterday.",
+            "answer": "τις",
+            "explanation": "Personal pronoun 'τις' is used for feminine plural objects."
+        },
+        {
+            "id": "e1a1a1a1-1111-4444-8888-000000000033",
+            "type": "select",
+            "header": "Η γάτα ___ είναι άσπρη.",
+            "translations": "My cat is white.",
+            "options": {
+                "a": "μου",
+                "b": "με",
+                "c": "τον",
+                "d": "μας"
+            },
+            "answer": "a",
+            "explanation": "Possessive 'μου' (my) follows the noun."
+        },
+        {
+            "id": "e1a1a1a1-1111-4444-8888-000000000034",
+            "type": "fill",
+            "header": "___ (you - singular) βοηθάει συχνά.",
+            "translations": "He helps you often.",
+            "answer": "σε",
+            "explanation": "Personal pronoun 'σε' (you) precedes the verb."
+        },
+        {
+            "id": "e1a1a1a1-1111-4444-8888-000000000035",
+            "type": "select",
+            "header": "Το σχολείο ___ είναι κοντά.",
+            "translations": "Their school is near.",
+            "options": {
+                "a": "τους",
+                "b": "τα",
+                "c": "το",
+                "d": "της"
+            },
+            "answer": "a",
+            "explanation": "Possessive 'τους' follows the noun."
+        },
+        {
+            "id": "e1a1a1a1-1111-4444-8888-000000000036",
+            "type": "fill",
+            "header": "___ (her) αγαπάει πολύ.",
+            "translations": "He loves her very much.",
+            "answer": "την",
+            "explanation": "The personal pronoun 'την' (her) is the object."
+        },
+        {
+            "id": "e1a1a1a1-1111-4444-8888-000000000037",
+            "type": "select",
+            "header": "Το δωμάτιο ___ είναι καθαρό.",
+            "translations": "Your (singular) room is clean.",
+            "options": {
+                "a": "σου",
+                "b": "σε",
+                "c": "του",
+                "d": "σας"
+            },
+            "answer": "a",
+            "explanation": "Possessive 'σου' (your) follows the noun."
+        },
+        {
+            "id": "e1a1a1a1-1111-4444-8888-000000000038",
+            "type": "fill",
+            "header": "Φέρε ___ (me) ένα νερό.",
+            "translations": "Bring me a water.",
+            "answer": "μου",
+            "explanation": "Weak pronoun follows the imperative 'Φέρε'."
+        },
+        {
+            "id": "e1a1a1a1-1111-4444-8888-000000000039",
+            "type": "select",
+            "header": "Οι φίλοι ___ είναι από τη Γαλλία.",
+            "translations": "Our friends are from France.",
+            "options": {
+                "a": "μας",
+                "b": "με",
+                "c": "μου",
+                "d": "σας"
+            },
+            "answer": "a",
+            "explanation": "Possessive 'μας' (our) follows 'φίλοι'."
+        },
+        {
+            "id": "e1a1a1a1-1111-4444-8888-000000000040",
+            "type": "fill",
+            "header": "Ποιος ___ (you - plural) κάλεσε;",
+            "translations": "Who called you?",
+            "answer": "σας",
+            "explanation": "Personal pronoun 'σας' (you) precedes the verb."
+        },
+        {
+            "id": "e1a1a1a1-1111-4444-8888-000000000041",
+            "type": "select",
+            "header": "Το τηλέφωνο ___ δεν λειτουργεί.",
+            "translations": "His phone doesn't work.",
+            "options": {
+                "a": "του",
+                "b": "τον",
+                "c": "το",
+                "d": "της"
+            },
+            "answer": "a",
+            "explanation": "Possessive 'του' (his) follows the noun."
+        },
+        {
+            "id": "e1a1a1a1-1111-4444-8888-000000000042",
+            "type": "fill",
+            "header": "___ (him) ξέρεις;",
+            "translations": "Do you know him?",
+            "answer": "τον",
+            "explanation": "Personal pronoun 'τον' (him) is the object."
+        },
+        {
+            "id": "e1a1a1a1-1111-4444-8888-000000000043",
+            "type": "select",
+            "header": "Η τσάντα ___ είναι στο αυτοκίνητο.",
+            "translations": "My bag is in the car.",
+            "options": {
+                "a": "μου",
+                "b": "με",
+                "c": "του",
+                "d": "μας"
+            },
+            "answer": "a",
+            "explanation": "Possessive 'μου' (my) follows the noun."
+        },
+        {
+            "id": "e1a1a1a1-1111-4444-8888-000000000044",
+            "type": "fill",
+            "header": "___ (us) βλέπουν από το παράθυρο.",
+            "translations": "They see us from the window.",
+            "answer": "μας",
+            "explanation": "Personal pronoun 'μας' (us) precedes the verb."
+        },
+        {
+            "id": "e1a1a1a1-1111-4444-8888-000000000045",
+            "type": "select",
+            "header": "Το όνομα ___ είναι Πέτρος.",
+            "translations": "His name is Petros.",
+            "options": {
+                "a": "του",
+                "b": "τον",
+                "c": "το",
+                "d": "της"
+            },
+            "answer": "a",
+            "explanation": "Possessive 'του' (his) follows the noun."
+        },
+        {
+            "id": "e1a1a1a1-1111-4444-8888-000000000046",
+            "type": "fill",
+            "header": "___ (it) θέλω τώρα.",
+            "translations": "I want it now.",
+            "answer": "το",
+            "explanation": "Personal pronoun 'το' (it) is the object."
+        },
+        {
+            "id": "e1a1a1a1-1111-4444-8888-000000000047",
+            "type": "select",
+            "header": "Η πόρτα ___ είναι κλειστή.",
+            "translations": "Their door is closed.",
+            "options": {
+                "a": "τους",
+                "b": "τα",
+                "c": "του",
+                "d": "της"
+            },
+            "answer": "a",
+            "explanation": "Possessive 'τους' (their) follows the noun."
+        },
+        {
+            "id": "e1a1a1a1-1111-4444-8888-000000000048",
+            "type": "fill",
+            "header": "Πες ___ (her) την ώρα.",
+            "translations": "Tell her the time.",
+            "answer": "της",
+            "explanation": "The possessive form 'της' acts as an indirect object after the imperative."
+        },
+        {
+            "id": "e1a1a1a1-1111-4444-8888-000000000049",
+            "type": "select",
+            "header": "Το καπέλο ___ είναι ωραίο.",
+            "translations": "Your (singular) hat is nice.",
+            "options": {
+                "a": "σου",
+                "b": "σε",
+                "c": "μου",
+                "d": "σας"
+            },
+            "answer": "a",
+            "explanation": "Possessive 'σου' (your) follows 'καπέλο'."
+        },
+        {
+            "id": "e1a1a1a1-1111-4444-8888-000000000050",
+            "type": "fill",
+            "header": "___ (me) καταλαβαίνεις;",
+            "translations": "Do you understand me?",
+            "answer": "με",
+            "explanation": "Personal pronoun 'με' (me) precedes the verb."
+        }
+    ]
+}

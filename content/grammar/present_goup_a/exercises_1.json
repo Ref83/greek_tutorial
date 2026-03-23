@@ -1,0 +1,70 @@
+{
+    "exercises": [
+        {
+            "id": "v1-s1",
+            "type": "select",
+            "header": "Εγώ ___ (μένω) στην Αθήνα.",
+            "translations": "I live in Athens.",
+            "options": {
+                "a": "μένεις",
+                "b": "μένει",
+                "c": "μένω",
+                "d": "μένουν"
+            },
+            "answer": "c",
+            "explanation": "First person singular ending is -ω."
+        },
+        {
+            "id": "v1-s2",
+            "type": "select",
+            "header": "Εσύ ___ (γράφω) ένα γράμμα.",
+            "translations": "You are writing a letter.",
+            "options": {
+                "a": "γράφεις",
+                "b": "γράφει",
+                "c": "γράφω",
+                "d": "γράφετε"
+            },
+            "answer": "a",
+            "explanation": "Second person singular ending is -εις."
+        },
+        {
+            "id": "v1-f1",
+            "type": "fill",
+            "header": "Αυτός ___ (κάνω) γυμναστική.",
+            "translations": "He is doing exercise.",
+            "answer": "κάνει",
+            "explanation": "Third person singular ending for Group A verbs is -ει."
+        },
+        {
+            "id": "v1-f2",
+            "type": "fill",
+            "header": "Εμείς ___ (ακούω) μουσική.",
+            "translations": "We are listening to music.",
+            "answer": "ακούμε",
+            "explanation": "First person plural ending is -ουμε."
+        },
+        {
+            "id": "v1-s3",
+            "type": "select",
+            "header": "Εσείς ___ (διαβάζω) το βιβλίο.",
+            "translations": "You (plural) are reading the book.",
+            "options": {
+                "a": "διαβάζεις",
+                "b": "διαβάζετε",
+                "c": "διαβάζουν",
+                "d": "διαβάζουμε"
+            },
+            "answer": "b",
+            "explanation": "Second person plural ending is -ετε."
+        },
+        {
+            "id": "v1-f3",
+            "type": "fill",
+            "header": "Αυτοί ___ (παίζω) στο πάρκο.",
+            "translations": "They are playing in the park.",
+            "answer": "παίζουν",
+            "explanation": "Third person plural ending is -ουν."
+        }
+    ]
+}

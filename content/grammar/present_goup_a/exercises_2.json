@@ -1,0 +1,114 @@
+{
+    "exercises": [
+        {
+            "id": "A1-50-01",
+            "type": "select",
+            "header": "Εμείς ___ (τρέχω) στο γήπεδο.",
+            "translations": "We are running in the stadium.",
+            "options": {
+                "a": "τρέχεις",
+                "b": "τρέχουμε",
+                "c": "τρέχετε",
+                "d": "τρέχουν"
+            },
+            "answer": "b",
+            "explanation": "The first person plural (εμείς) takes the ending -ουμε."
+        },
+        {
+            "id": "A1-50-02",
+            "type": "fill",
+            "header": "Εσύ ___ (ανοίγω) την πόρτα.",
+            "translations": "You are opening the door.",
+            "answer": "ανοίγεις",
+            "explanation": "The second person singular (εσύ) takes the ending -εις."
+        },
+        {
+            "id": "A1-50-03",
+            "type": "select",
+            "header": "Τα παιδιά ___ (παίζω) στον κήπο.",
+            "translations": "The children are playing in the garden.",
+            "options": {
+                "a": "παίζω",
+                "b": "παίζεις",
+                "c": "παίζει",
+                "d": "παίζουν"
+            },
+            "answer": "d",
+            "explanation": "'Τα παιδιά' is third person plural (αυτοί), so the ending is -ουν."
+        },
+        {
+            "id": "A1-50-04",
+            "type": "fill",
+            "header": "Η Μαρία ___ (μαγειρεύω) καλά.",
+            "translations": "Maria cooks well.",
+            "answer": "μαγειρεύει",
+            "explanation": "Maria is third person singular (αυτή), so the ending is -ει."
+        },
+        {
+            "id": "A1-50-05",
+            "type": "select",
+            "header": "Εσείς ___ (πίνω) καφέ;",
+            "translations": "Are you (plural) drinking coffee?",
+            "options": {
+                "a": "πίνετε",
+                "b": "πίνουμε",
+                "c": "πίνεις",
+                "d": "πίνει"
+            },
+            "answer": "a",
+            "explanation": "The second person plural (εσείς) takes the ending -ετε."
+        },
+        {
+            "id": "A1-50-06",
+            "type": "fill",
+            "header": "Εγώ ___ (αγοράζω) ένα αυτοκίνητο.",
+            "translations": "I am buying a car.",
+            "answer": "αγοράζω",
+            "explanation": "The first person singular (εγώ) takes the ending -ω."
+        },
+        {
+            "id": "A1-50-07",
+            "type": "select",
+            "header": "Ο πατέρας ___ (κλείνω) το παράθυρο.",
+            "translations": "The father is closing the window.",
+            "options": {
+                "a": "κλείνεις",
+                "b": "κλείνουμε",
+                "c": "κλείνει",
+                "d": "κλείνω"
+            },
+            "answer": "c",
+            "explanation": "Third person singular (αυτός) takes the ending -ει."
+        },
+        {
+            "id": "A1-50-08",
+            "type": "fill",
+            "header": "Εμείς ___ (ακούω) το ραδιόφωνο.",
+            "translations": "We are listening to the radio.",
+            "answer": "ακούμε",
+            "explanation": "First person plural (εμείς) takes the ending -ουμε."
+        },
+        {
+            "id": "A1-50-09",
+            "type": "select",
+            "header": "Εσύ ___ (καθαρίζω) το σπίτι.",
+            "translations": "You are cleaning the house.",
+            "options": {
+                "a": "καθαρίζω",
+                "b": "καθαρίζεις",
+                "c": "καθαρίζει",
+                "d": "καθαρίζουν"
+            },
+            "answer": "b",
+            "explanation": "Second person singular (εσύ) takes the ending -εις."
+        },
+        {
+            "id": "A1-50-10",
+            "type": "fill",
+            "header": "Αυτοί ___ (νιώθω) χαρούμενοι.",
+            "translations": "They feel happy.",
+            "answer": "νιώθουν",
+            "explanation": "Third person plural (αυτοί) takes the ending -ουν."
+        }
+    ]
+}

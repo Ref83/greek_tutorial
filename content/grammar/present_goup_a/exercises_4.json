@@ -1,0 +1,554 @@
+{
+    "exercises": [
+        {
+            "id": "A1-GR2-01",
+            "type": "select",
+            "header": "Εσύ ___ (πλένω) το αυτοκίνητο.",
+            "translations": "You are washing the car.",
+            "options": {
+                "a": "πλένω",
+                "b": "πλένεις",
+                "c": "πλένει",
+                "d": "πλένετε"
+            },
+            "answer": "b",
+            "explanation": "Second person singular (εσύ) takes the ending -εις."
+        },
+        {
+            "id": "A1-GR2-02",
+            "type": "fill",
+            "header": "Εγώ ___ (απλώνω) τις πετσέτες.",
+            "translations": "I am spreading (hanging out) the towels.",
+            "answer": "απλώνω",
+            "explanation": "First person singular (εγώ) takes the ending -ω."
+        },
+        {
+            "id": "A1-GR2-03",
+            "type": "select",
+            "header": "Ο παππούς ___ (ακούω) μια ιστορία.",
+            "translations": "The grandfather is listening to a story.",
+            "options": {
+                "a": "ακούω",
+                "b": "ακούς",
+                "c": "ακούει",
+                "d": "ακούμε"
+            },
+            "answer": "c",
+            "explanation": "Grandfather is third person singular (αυτός), ending in -ει."
+        },
+        {
+            "id": "A1-GR2-04",
+            "type": "fill",
+            "header": "Εμείς ___ (παίζω) τάβλι.",
+            "translations": "We are playing backgammon.",
+            "answer": "παίζουμε",
+            "explanation": "First person plural (εμείς) takes the ending -ουμε."
+        },
+        {
+            "id": "A1-GR2-05",
+            "type": "select",
+            "header": "Εσείς ___ (τρέχω) στο πάρκο;",
+            "translations": "Are you (plural) running in the park?",
+            "options": {
+                "a": "τρέχετε",
+                "b": "τρέχουν",
+                "c": "τρέχουμε",
+                "d": "τρέχεις"
+            },
+            "answer": "a",
+            "explanation": "Second person plural (εσείς) takes the ending -ετε."
+        },
+        {
+            "id": "A1-GR2-06",
+            "type": "fill",
+            "header": "Τα παιδιά ___ (κλείνω) την τηλεόραση.",
+            "translations": "The children are turning off the TV.",
+            "answer": "κλείνουν",
+            "explanation": "Third person plural (αυτά) takes the ending -ουν."
+        },
+        {
+            "id": "A1-GR2-07",
+            "type": "select",
+            "header": "Εγώ ___ (μαθαίνω) μια νέα λέξη.",
+            "translations": "I am learning a new word.",
+            "options": {
+                "a": "μαθαίνεις",
+                "b": "μαθαίνει",
+                "c": "μαθαίνω",
+                "d": "μαθαίνουν"
+            },
+            "answer": "c",
+            "explanation": "First person singular (εγώ) takes the ending -ω."
+        },
+        {
+            "id": "A1-GR2-08",
+            "type": "fill",
+            "header": "Εσύ ___ (αγοράζω) γάλα.",
+            "translations": "You are buying milk.",
+            "answer": "αγοράζεις",
+            "explanation": "Second person singular (εσύ) takes the ending -εις."
+        },
+        {
+            "id": "A1-GR2-09",
+            "type": "select",
+            "header": "Η Ελένη ___ (μαγειρεύω) μακαρόνια.",
+            "translations": "Eleni is cooking pasta.",
+            "options": {
+                "a": "μαγειρεύω",
+                "b": "μαγειρεύεις",
+                "c": "μαγειρεύει",
+                "d": "μαγειρεύουμε"
+            },
+            "answer": "c",
+            "explanation": "Eleni is third person singular (αυτή), ending in -ει."
+        },
+        {
+            "id": "A1-GR2-10",
+            "type": "fill",
+            "header": "Εμείς ___ (ανοίγω) τα δώρα.",
+            "translations": "We are opening the gifts.",
+            "answer": "ανοίγουμε",
+            "explanation": "First person plural (εμείς) takes the ending -ουμε."
+        },
+        {
+            "id": "A1-GR2-11",
+            "type": "select",
+            "header": "Εσείς ___ (δουλεύω) πολύ.",
+            "translations": "You (plural) work a lot.",
+            "options": {
+                "a": "δουλεύετε",
+                "b": "δουλεύουν",
+                "c": "δουλεύουμε",
+                "d": "δουλεύεις"
+            },
+            "answer": "a",
+            "explanation": "Second person plural (εσείς) takes the ending -ετε."
+        },
+        {
+            "id": "A1-GR2-12",
+            "type": "fill",
+            "header": "Αυτοί ___ (πιστεύω) στα όνειρα.",
+            "translations": "They believe in dreams.",
+            "answer": "πιστεύουν",
+            "explanation": "Third person plural (αυτοί) takes the ending -ουν."
+        },
+        {
+            "id": "A1-GR2-13",
+            "type": "select",
+            "header": "Εγώ ___ (νιώθω) κουρασμένος.",
+            "translations": "I feel tired.",
+            "options": {
+                "a": "νιώθω",
+                "b": "νιώθεις",
+                "c": "νιώθει",
+                "d": "νιώθουμε"
+            },
+            "answer": "a",
+            "explanation": "First person singular (εγώ) takes the ending -ω."
+        },
+        {
+            "id": "A1-GR2-14",
+            "type": "fill",
+            "header": "Εσύ ___ (ταξιδεύω) με πλοίο.",
+            "translations": "You are traveling by ship.",
+            "answer": "ταξιδεύεις",
+            "explanation": "Second person singular (εσύ) takes the ending -εις."
+        },
+        {
+            "id": "A1-GR2-15",
+            "type": "select",
+            "header": "Το λεωφορείο ___ (φεύγω) τώρα.",
+            "translations": "The bus is leaving now.",
+            "options": {
+                "a": "φεύγω",
+                "b": "φεύγεις",
+                "c": "φεύγει",
+                "d": "φεύγουν"
+            },
+            "answer": "c",
+            "explanation": "Bus is third person singular (αυτό), ending in -ει."
+        },
+        {
+            "id": "A1-GR2-16",
+            "type": "fill",
+            "header": "Εμείς ___ (ελπίζω) να έρθεις.",
+            "translations": "We hope you come.",
+            "answer": "ελπίζουμε",
+            "explanation": "First person plural (εμείς) takes the ending -ουμε."
+        },
+        {
+            "id": "A1-GR2-17",
+            "type": "select",
+            "header": "Εσείς ___ (χορεύω) συρτάκι.",
+            "translations": "You (plural) are dancing syrtaki.",
+            "options": {
+                "a": "χορεύετε",
+                "b": "χορεύουν",
+                "c": "χορεύουμε",
+                "d": "χορεύεις"
+            },
+            "answer": "a",
+            "explanation": "Second person plural (εσείς) takes the ending -ετε."
+        },
+        {
+            "id": "A1-GR2-18",
+            "type": "fill",
+            "header": "Αυτές ___ (πίνουν) τσάι.",
+            "translations": "They (feminine) are drinking tea.",
+            "answer": "πίνουν",
+            "explanation": "Third person plural (αυτές) takes the ending -ουν."
+        },
+        {
+            "id": "A1-GR2-19",
+            "type": "select",
+            "header": "Εγώ ___ (ψάχνω) το κινητό μου.",
+            "translations": "I am looking for my mobile phone.",
+            "options": {
+                "a": "ψάχνεις",
+                "b": "ψάχνω",
+                "c": "ψάχνει",
+                "d": "ψάχνουμε"
+            },
+            "answer": "b",
+            "explanation": "First person singular (εγώ) takes the ending -ω."
+        },
+        {
+            "id": "A1-GR2-20",
+            "type": "fill",
+            "header": "Εσύ ___ (καθαρίζω) το δωμάτιο.",
+            "translations": "You are cleaning the room.",
+            "answer": "καθαρίζεις",
+            "explanation": "Second person singular (εσύ) takes the ending -εις."
+        },
+        {
+            "id": "A1-GR2-21",
+            "type": "select",
+            "header": "Ο ήλιος ___ (καίω) πολύ.",
+            "translations": "The sun is burning a lot.",
+            "options": {
+                "a": "καίω",
+                "b": "καίεις",
+                "c": "καίει",
+                "d": "καίμε"
+            },
+            "answer": "c",
+            "explanation": "The sun is third person singular (αυτός), ending in -ει."
+        },
+        {
+            "id": "A1-GR2-22",
+            "type": "fill",
+            "header": "Εμείς ___ (περιμένω) στην ουρά.",
+            "translations": "We are waiting in the queue.",
+            "answer": "περιμένουμε",
+            "explanation": "First person plural (εμείς) takes the ending -ουμε."
+        },
+        {
+            "id": "A1-GR2-23",
+            "type": "select",
+            "header": "Εσείς ___ (διαλέγω) ένα φόρεμα.",
+            "translations": "You (plural) are choosing a dress.",
+            "options": {
+                "a": "διαλέγεις",
+                "b": "διαλέγει",
+                "c": "διαλέγουν",
+                "d": "διαλέγετε"
+            },
+            "answer": "d",
+            "explanation": "Second person plural (εσείς) takes the ending -ετε."
+        },
+        {
+            "id": "A1-GR2-24",
+            "type": "fill",
+            "header": "Οι φίλοι μου ___ (αλλάζω) γνώμη.",
+            "translations": "My friends are changing their minds.",
+            "answer": "αλλάζουν",
+            "explanation": "Friends are third person plural (αυτοί), ending in -ουν."
+        },
+        {
+            "id": "A1-GR2-25",
+            "type": "select",
+            "header": "Εγώ ___ (πληρώνω) με κάρτα.",
+            "translations": "I am paying by card.",
+            "options": {
+                "a": "πληρώνω",
+                "b": "πληρώνεις",
+                "c": "πληρώνει",
+                "d": "πληρώνουμε"
+            },
+            "answer": "a",
+            "explanation": "First person singular (εγώ) takes the ending -ω."
+        },
+        {
+            "id": "A1-GR2-26",
+            "type": "fill",
+            "header": "Εσύ ___ (φέρνω) τα νέα.",
+            "translations": "You are bringing the news.",
+            "answer": "φέρνεις",
+            "explanation": "Second person singular (εσύ) takes the ending -εις."
+        },
+        {
+            "id": "A1-GR2-27",
+            "type": "select",
+            "header": "Η γάτα ___ (πηδάω) στον καναπέ.",
+            "translations": "The cat is jumping on the sofa.",
+            "options": {
+                "a": "πηδάω",
+                "b": "πηδάς",
+                "c": "πηδάει",
+                "d": "πηδούν"
+            },
+            "answer": "c",
+            "explanation": "The cat is third person singular (αυτή), ending in -ει."
+        },
+        {
+            "id": "A1-GR2-28",
+            "type": "fill",
+            "header": "Εμείς ___ (στρώνουμε) το χαλί.",
+            "translations": "We are laying the carpet.",
+            "answer": "στρώνουμε",
+            "explanation": "First person plural (εμείς) takes the ending -ουμε."
+        },
+        {
+            "id": "A1-GR2-29",
+            "type": "select",
+            "header": "Εσείς ___ (καπνίζετε) έξω.",
+            "translations": "You (plural) are smoking outside.",
+            "options": {
+                "a": "καπνίζεις",
+                "b": "καπνίζει",
+                "c": "καπνίζουμε",
+                "d": "καπνίζετε"
+            },
+            "answer": "d",
+            "explanation": "Second person plural (εσείς) takes the ending -ετε."
+        },
+        {
+            "id": "A1-GR2-30",
+            "type": "fill",
+            "header": "Οι γυναίκες ___ (διορθώνω) το κείμενο.",
+            "translations": "The women are correcting the text.",
+            "answer": "διορθώνουν",
+            "explanation": "Women are third person plural (αυτές), ending in -ουν."
+        },
+        {
+            "id": "A1-GR2-31",
+            "type": "select",
+            "header": "Εγώ ___ (στρίβω) στην επόμενη γωνία.",
+            "translations": "I am turning at the next corner.",
+            "options": {
+                "a": "στρίβω",
+                "b": "στρίβεις",
+                "c": "στρίβει",
+                "d": "στρίβουμε"
+            },
+            "answer": "a",
+            "explanation": "First person singular (εγώ) takes the ending -ω."
+        },
+        {
+            "id": "A1-GR2-32",
+            "type": "fill",
+            "header": "Εσύ ___ (δείχνω) τις φωτογραφίες.",
+            "translations": "You are showing the photos.",
+            "answer": "δείχνεις",
+            "explanation": "Second person singular (εσύ) takes the ending -εις."
+        },
+        {
+            "id": "A1-GR2-33",
+            "type": "select",
+            "header": "Το παιδί ___ (φτιάχνω) ένα κάστρο.",
+            "translations": "The child is making a castle.",
+            "options": {
+                "a": "φτιάχνω",
+                "b": "φτιάχνεις",
+                "c": "φτιάχνει",
+                "d": "φτιάχνουμε"
+            },
+            "answer": "c",
+            "explanation": "Child is third person singular (αυτό), ending in -ει."
+        },
+        {
+            "id": "A1-GR2-34",
+            "type": "fill",
+            "header": "Εμείς ___ (σηκώνω) τα χέρια.",
+            "translations": "We are raising our hands.",
+            "answer": "σηκώνουμε",
+            "explanation": "First person plural (εμείς) takes the ending -ουμε."
+        },
+        {
+            "id": "A1-GR2-35",
+            "type": "select",
+            "header": "Εσείς ___ (βράζω) τα αυγά.",
+            "translations": "You (plural) are boiling the eggs.",
+            "options": {
+                "a": "βράζεις",
+                "b": "βράζει",
+                "c": "βράζουμε",
+                "d": "βράζετε"
+            },
+            "answer": "d",
+            "explanation": "Second person plural (εσείς) takes the ending -ετε."
+        },
+        {
+            "id": "A1-GR2-36",
+            "type": "fill",
+            "header": "Αυτοί ___ (λούζω) τα μαλλιά τους.",
+            "translations": "They are washing their hair.",
+            "answer": "λούζουν",
+            "explanation": "Third person plural (αυτοί) takes the ending -ουν."
+        },
+        {
+            "id": "A1-GR2-37",
+            "type": "select",
+            "header": "Εγώ ___ (ντύνω) την κούκλα.",
+            "translations": "I am dressing the doll.",
+            "options": {
+                "a": "ντύνω",
+                "b": "ντύνεις",
+                "c": "ντύνει",
+                "d": "ντύνουμε"
+            },
+            "answer": "a",
+            "explanation": "First person singular (εγώ) takes the ending -ω."
+        },
+        {
+            "id": "A1-GR2-38",
+            "type": "fill",
+            "header": "Εσύ ___ (λύνω) την άσκηση.",
+            "translations": "You are solving the exercise.",
+            "answer": "λύνεις",
+            "explanation": "Second person singular (εσύ) takes the ending -εις."
+        },
+        {
+            "id": "A1-GR2-39",
+            "type": "select",
+            "header": "Η πέτρα ___ (ρίχνω) στο νερό.",
+            "translations": "The stone is falling (being thrown) into the water.",
+            "options": {
+                "a": "ρίχνω",
+                "b": "ρίχνεις",
+                "c": "ρίχνει",
+                "d": "ρίχνουμε"
+            },
+            "answer": "c",
+            "explanation": "Stone is third person singular (αυτή), ending in -ει."
+        },
+        {
+            "id": "A1-GR2-40",
+            "type": "fill",
+            "header": "Εμείς ___ (τρέμω) από τον φόβο.",
+            "translations": "We are trembling from fear.",
+            "answer": "τρέμουμε",
+            "explanation": "First person plural (εμείς) takes the ending -ουμε."
+        },
+        {
+            "id": "A1-GR2-41",
+            "type": "select",
+            "header": "Εσείς ___ (στέλνω) ένα δώρο.",
+            "translations": "You (plural) are sending a gift.",
+            "options": {
+                "a": "στέλνεις",
+                "b": "στέλνει",
+                "c": "στέλνουμε",
+                "d": "στέλνετε"
+            },
+            "answer": "d",
+            "explanation": "Second person plural (εσείς) takes the ending -ετε."
+        },
+        {
+            "id": "A1-GR2-42",
+            "type": "fill",
+            "header": "Αυτοί ___ (αγοράζω) παγωτό.",
+            "translations": "They are buying ice cream.",
+            "answer": "αγοράζουν",
+            "explanation": "Third person plural (αυτοί) takes the ending -ουν."
+        },
+        {
+            "id": "A1-GR2-43",
+            "type": "select",
+            "header": "Εγώ ___ (κλείνω) την πόρτα.",
+            "translations": "I am closing the door.",
+            "options": {
+                "a": "κλείνω",
+                "b": "κλείνεις",
+                "c": "κλείνει",
+                "d": "κλείνουμε"
+            },
+            "answer": "a",
+            "explanation": "First person singular (εγώ) takes the ending -ω."
+        },
+        {
+            "id": "A1-GR2-44",
+            "type": "fill",
+            "header": "Εσύ ___ (ανοίγω) το βιβλίο.",
+            "translations": "You are opening the book.",
+            "answer": "ανοίγεις",
+            "explanation": "Second person singular (εσύ) takes the ending -εις."
+        },
+        {
+            "id": "A1-GR2-45",
+            "type": "select",
+            "header": "Ο καθηγητής ___ (γράφω) στον πίνακα.",
+            "translations": "The professor is writing on the board.",
+            "options": {
+                "a": "γράφω",
+                "b": "γράφεις",
+                "c": "γράφει",
+                "d": "γράφουμε"
+            },
+            "answer": "c",
+            "explanation": "Professor is third person singular (αυτός), ending in -ει."
+        },
+        {
+            "id": "A1-GR2-46",
+            "type": "fill",
+            "header": "Εμείς ___ (κάνω) μια βόλτα.",
+            "translations": "We are taking a walk.",
+            "answer": "κάνουμε",
+            "explanation": "First person plural (εμείς) takes the ending -ουμε."
+        },
+        {
+            "id": "A1-GR2-47",
+            "type": "select",
+            "header": "Εσείς ___ (ακούω) την μουσική.",
+            "translations": "You (plural) are listening to the music.",
+            "options": {
+                "a": "ακούς",
+                "b": "ακούει",
+                "c": "ακούμε",
+                "d": "ακούτε"
+            },
+            "answer": "d",
+            "explanation": "Second person plural (εσείς) takes the ending -ετε (or contract -τε)."
+        },
+        {
+            "id": "A1-GR2-48",
+            "type": "fill",
+            "header": "Αυτοί ___ (διαβάζω) το μάθημα.",
+            "translations": "They are reading the lesson.",
+            "answer": "διαβάζουν",
+            "explanation": "Third person plural (αυτοί) takes the ending -ουν."
+        },
+        {
+            "id": "A1-GR2-49",
+            "type": "select",
+            "header": "Εγώ ___ (παίζω) με τον σκύλο.",
+            "translations": "I am playing with the dog.",
+            "options": {
+                "a": "παίζω",
+                "b": "παίζεις",
+                "c": "παίζει",
+                "d": "παίζουμε"
+            },
+            "answer": "a",
+            "explanation": "First person singular (εγώ) takes the ending -ω."
+        },
+        {
+            "id": "A1-GR2-50",
+            "type": "fill",
+            "header": "Εσύ ___ (μένω) εδώ.",
+            "translations": "You stay here.",
+            "answer": "μένεις",
+            "explanation": "Second person singular (εσύ) takes the ending -εις."
+        }
+    ]
+}
