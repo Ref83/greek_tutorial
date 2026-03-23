@@ -29,6 +29,11 @@
             "id": "past_simple",
             "level": "A2",
             "name": "Past Simple Tense (Αόριστος)"
+        },
+        {
+            "id": "future_simple",
+            "level": "A2",
+            "name": "Future Simple (Στιγμιαίος Μέλλοντας)"
         }
     ]
 }

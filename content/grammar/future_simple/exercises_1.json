@@ -1,0 +1,554 @@
+{
+    "exercises": [
+        {
+            "id": "f1a1a1a1-1111-4aaa-8888-123456789001",
+            "type": "select",
+            "header": "Αύριο ο Γιώργος ___ την πόρτα.",
+            "translations": "Tomorrow George will open the door.",
+            "options": {
+                "a": "ανοίξει",
+                "b": "θα ανοίξει",
+                "c": "ανοίγει",
+                "d": "θα ανοίγω"
+            },
+            "answer": "b",
+            "explanation": "We use 'θα' + the stem changing to -ξ- for the verb 'ανοίγω' in Future Simple."
+        },
+        {
+            "id": "f1a1a1a1-1111-4aaa-8888-123456789002",
+            "type": "fill",
+            "header": "Εγώ ___ (γράφω) ένα γράμμα αύριο.",
+            "translations": "I will write a letter tomorrow.",
+            "answer": "θα γράψω",
+            "explanation": "The verb 'γράφω' changes its stem to -ψ- in the Future Simple."
+        },
+        {
+            "id": "f1a1a1a1-1111-4aaa-8888-123456789003",
+            "type": "select",
+            "header": "Εσείς ___ (διαβάζω) το βιβλίο το βράδυ;",
+            "translations": "Will you (plural) read the book tonight?",
+            "options": {
+                "a": "θα διαβάσετε",
+                "b": "διαβάζετε",
+                "c": "θα διαβάσεις",
+                "d": "θα διαβάσουμε"
+            },
+            "answer": "a",
+            "explanation": "Verbs in -ζω change to -σ- in Future Simple; 'εσείς' requires the -ετε ending."
+        },
+        {
+            "id": "f1a1a1a1-1111-4aaa-8888-123456789004",
+            "type": "fill",
+            "header": "Η Μαρία ___ (μαγειρεύω) μουσακά την Κυριακή.",
+            "translations": "Maria will cook moussaka on Sunday.",
+            "answer": "θα μαγειρέψει",
+            "explanation": "Third person singular Future Simple of 'μαγειρεύω' uses the -ψ- stem."
+        },
+        {
+            "id": "f1a1a1a1-1111-4aaa-8888-123456789005",
+            "type": "select",
+            "header": "Εμείς ___ (τρέχω) στο πάρκο αύριο.",
+            "translations": "We will run in the park tomorrow.",
+            "options": {
+                "a": "τρέχουμε",
+                "b": "θα τρέξουμε",
+                "c": "θα τρέξετε",
+                "d": "θα τρέξω"
+            },
+            "answer": "b",
+            "explanation": "The verb 'τρέχω' changes to the -ξ- stem in Future Simple for 'εμείς'."
+        },
+        {
+            "id": "f1a1a1a1-1111-4aaa-8888-123456789006",
+            "type": "fill",
+            "header": "Εσύ ___ (αγοράζω) ψωμί αργότερα;",
+            "translations": "Will you buy bread later?",
+            "answer": "θα αγοράσεις",
+            "explanation": "Future Simple of 'αγοράζω' (second person singular) using the -σ- stem."
+        },
+        {
+            "id": "f1a1a1a1-1111-4aaa-8888-123456789007",
+            "type": "select",
+            "header": "Τα παιδιά ___ (παίζω) στο κήπο.",
+            "translations": "The children will play in the garden.",
+            "options": {
+                "a": "θα παίξουν",
+                "b": "θα παίξουμε",
+                "c": "παίζουν",
+                "d": "θα παίξεις"
+            },
+            "answer": "a",
+            "explanation": "Third person plural Future Simple uses 'θα' and the -ξ- stem for 'παίζω'."
+        },
+        {
+            "id": "f1a1a1a1-1111-4aaa-8888-123456789008",
+            "type": "fill",
+            "header": "Ο καθηγητής ___ (διδάσκω) το μάθημα.",
+            "translations": "The professor will teach the lesson.",
+            "answer": "θα διδάξει",
+            "explanation": "Verbs like 'διδάσκω' transform to a -ξ- stem in the Future Simple."
+        },
+        {
+            "id": "f1a1a1a1-1111-4aaa-8888-123456789009",
+            "type": "select",
+            "header": "Εγώ ___ (προσέχω) το παιδί σου.",
+            "translations": "I will look after your child.",
+            "options": {
+                "a": "θα προσέξω",
+                "b": "προσέχω",
+                "c": "θα προσέξεις",
+                "d": "θα προσέξουμε"
+            },
+            "answer": "a",
+            "explanation": "First person singular using the -ξ- stem for 'προσέχω'."
+        },
+        {
+            "id": "f1a1a1a1-1111-4aaa-8888-123456789010",
+            "type": "fill",
+            "header": "Εμείς ___ (φτιάχνω) καφέ.",
+            "translations": "We will make coffee.",
+            "answer": "θα φτιάξουμε",
+            "explanation": "The verb 'φτιάχνω' uses the -ξ- stem in Future Simple."
+        },
+        {
+            "id": "f1a1a1a1-1111-4aaa-8888-123456789011",
+            "type": "select",
+            "header": "Αυτοί ___ (ακούω) μουσική.",
+            "translations": "They will listen to music.",
+            "options": {
+                "a": "θα ακούσουν",
+                "b": "θα ακούσουμε",
+                "c": "ακούσουν",
+                "d": "θα ακούσεις"
+            },
+            "answer": "a",
+            "explanation": "Third person plural Future Simple for 'ακούω'."
+        },
+        {
+            "id": "f1a1a1a1-1111-4aaa-8888-123456789012",
+            "type": "fill",
+            "header": "Εσύ ___ (δουλεύω) αύριο;",
+            "translations": "Will you work tomorrow?",
+            "answer": "θα δουλέψεις",
+            "explanation": "Future Simple of 'δουλεύω' uses the -ψ- stem."
+        },
+        {
+            "id": "f1a1a1a1-1111-4aaa-8888-123456789013",
+            "type": "select",
+            "header": "Ο πατέρας ___ (διορθώνω) το αυτοκίνητο.",
+            "translations": "Father will fix the car.",
+            "options": {
+                "a": "θα διορθώσει",
+                "b": "διορθώνει",
+                "c": "θα διορθώσω",
+                "d": "θα διορθώσουν"
+            },
+            "answer": "a",
+            "explanation": "Third person singular Future Simple using -σ- stem for 'διορθώνω'."
+        },
+        {
+            "id": "f1a1a1a1-1111-4aaa-8888-123456789014",
+            "type": "fill",
+            "header": "Εγώ ___ (κλείνω) το παράθυρο.",
+            "translations": "I will close the window.",
+            "answer": "θα κλείσω",
+            "explanation": "First person singular Future Simple of 'κλείνω'."
+        },
+        {
+            "id": "f1a1a1a1-1111-4aaa-8888-123456789015",
+            "type": "select",
+            "header": "Εμείς ___ (πιστεύω) την αλήθεια.",
+            "translations": "We will believe the truth.",
+            "options": {
+                "a": "θα πιστέψουμε",
+                "b": "θα πιστέψετε",
+                "c": "πιστεύουμε",
+                "d": "θα πιστέψω"
+            },
+            "answer": "a",
+            "explanation": "Future Simple of 'πιστεύω' for 'εμείς'."
+        },
+        {
+            "id": "f1a1a1a1-1111-4aaa-8888-123456789016",
+            "type": "fill",
+            "header": "Αυτοί ___ (αλλάζω) σπίτι τον επόμενο μήνα.",
+            "translations": "They will change house next month.",
+            "answer": "θα αλλάξουν",
+            "explanation": "Future Simple of 'αλλάζω' uses the -ξ- stem."
+        },
+        {
+            "id": "f1a1a1a1-1111-4aaa-8888-123456789017",
+            "type": "select",
+            "header": "Εσείς ___ (χορεύω) στο πάρτι;",
+            "translations": "Will you (all) dance at the party?",
+            "options": {
+                "a": "θα χορέψετε",
+                "b": "θα χορέψουμε",
+                "c": "χορεύετε",
+                "d": "θα χορέψεις"
+            },
+            "answer": "a",
+            "explanation": "Second person plural Future Simple for 'χορεύω'."
+        },
+        {
+            "id": "f1a1a1a1-1111-4aaa-8888-123456789018",
+            "type": "fill",
+            "header": "Η Ελένη ___ (ψάχνω) για δουλειά.",
+            "translations": "Eleni will look for a job.",
+            "answer": "θα ψάξει",
+            "explanation": "Future Simple of 'ψάχνω' using the -ξ- stem."
+        },
+        {
+            "id": "f1a1a1a1-1111-4aaa-8888-123456789019",
+            "type": "select",
+            "header": "Εγώ ___ (ελπίζω) να έρθεις.",
+            "translations": "I will hope that you come.",
+            "options": {
+                "a": "θα ελπίσω",
+                "b": "ελπίζω",
+                "c": "θα ελπίσουμε",
+                "d": "θα ελπίσεις"
+            },
+            "answer": "a",
+            "explanation": "First person singular Future Simple for 'ελπίζω'."
+        },
+        {
+            "id": "f1a1a1a1-1111-4aaa-8888-123456789020",
+            "type": "fill",
+            "header": "Εμείς ___ (λούζω) τον σκύλο.",
+            "translations": "We will wash (shampoo) the dog.",
+            "answer": "θα λούσουμε",
+            "explanation": "Future Simple of 'λούζω' for 'εμείς'."
+        },
+        {
+            "id": "f1a1a1a1-1111-4aaa-8888-123456789021",
+            "type": "select",
+            "header": "Ο Νίκος ___ (πλένω) τα πιάτα.",
+            "translations": "Nikos will wash the dishes.",
+            "options": {
+                "a": "θα πλύνει",
+                "b": "θα πλύνω",
+                "c": "πλύνει",
+                "d": "θα πλύνουν"
+            },
+            "answer": "a",
+            "explanation": "Third person singular Future Simple of the irregular verb 'πλένω'."
+        },
+        {
+            "id": "f1a1a1a1-1111-4aaa-8888-123456789022",
+            "type": "fill",
+            "header": "Εσύ ___ (στείλεις) το email;",
+            "translations": "Will you send the email?",
+            "answer": "θα στείλεις",
+            "explanation": "Future Simple of 'στέλνω'."
+        },
+        {
+            "id": "f1a1a1a1-1111-4aaa-8888-123456789023",
+            "type": "select",
+            "header": "Εμείς ___ (πάω) στην Αθήνα.",
+            "translations": "We will go to Athens.",
+            "options": {
+                "a": "θα πάμε",
+                "b": "θα πάτε",
+                "c": "πάμε",
+                "d": "θα πάω"
+            },
+            "answer": "a",
+            "explanation": "Future Simple of 'πάω' (irregular) for 'εμείς'."
+        },
+        {
+            "id": "f1a1a1a1-1111-4aaa-8888-123456789024",
+            "type": "fill",
+            "header": "Αυτοί ___ (φάνε) πίτσα.",
+            "translations": "They will eat pizza.",
+            "answer": "θα φάνε",
+            "explanation": "Future Simple of 'τρώω' (irregular) for third person plural."
+        },
+        {
+            "id": "f1a1a1a1-1111-4aaa-8888-123456789025",
+            "type": "select",
+            "header": "Εγώ ___ (πιω) ένα ποτήρι νερό.",
+            "translations": "I will drink a glass of water.",
+            "options": {
+                "a": "θα πιω",
+                "b": "θα πιεις",
+                "c": "θα πιούμε",
+                "d": "πίνω"
+            },
+            "answer": "a",
+            "explanation": "Future Simple of 'πίνω' (irregular) for 'εγώ'."
+        },
+        {
+            "id": "f1a1a1a1-1111-4aaa-8888-123456789026",
+            "type": "fill",
+            "header": "Εσείς ___ (δείτε) την ταινία;",
+            "translations": "Will you (all) see the movie?",
+            "answer": "θα δείτε",
+            "explanation": "Future Simple of 'βλέπω' (irregular) for 'εσείς'."
+        },
+        {
+            "id": "f1a1a1a1-1111-4aaa-8888-123456789027",
+            "type": "select",
+            "header": "Ο Γιάννης ___ (πει) την αλήθεια.",
+            "translations": "Yiannis will say the truth.",
+            "options": {
+                "a": "θα πει",
+                "b": "θα πω",
+                "c": "λέει",
+                "d": "θα πούμε"
+            },
+            "answer": "a",
+            "explanation": "Future Simple of 'λέω' (irregular) for third person singular."
+        },
+        {
+            "id": "f1a1a1a1-1111-4aaa-8888-123456789028",
+            "type": "fill",
+            "header": "Εμείς ___ (έχουμε) χρόνο αύριο.",
+            "translations": "We will have time tomorrow.",
+            "answer": "θα έχουμε",
+            "explanation": "Future Simple of 'έχω' (irregular) for 'εμείς'."
+        },
+        {
+            "id": "f1a1a1a1-1111-4aaa-8888-123456789029",
+            "type": "select",
+            "header": "Εσύ ___ (είσαι) εκεί;",
+            "translations": "Will you be there?",
+            "options": {
+                "a": "θα είσαι",
+                "b": "είσαι",
+                "c": "θα είμαστε",
+                "d": "θα είναι"
+            },
+            "answer": "a",
+            "explanation": "Future Simple of 'είμαι' (irregular) for 'εσύ'."
+        },
+        {
+            "id": "f1a1a1a1-1111-4aaa-8888-123456789030",
+            "type": "fill",
+            "header": "Αυτοί ___ (έρθουν) στο σπίτι.",
+            "translations": "They will come to the house.",
+            "answer": "θα έρθουν",
+            "explanation": "Future Simple of 'έρχομαι' (irregular) for third person plural."
+        },
+        {
+            "id": "f1a1a1a1-1111-4aaa-8888-123456789031",
+            "type": "select",
+            "header": "Εγώ ___ (βρω) τα κλειδιά.",
+            "translations": "I will find the keys.",
+            "options": {
+                "a": "θα βρω",
+                "b": "βρίσκω",
+                "c": "θα βρεις",
+                "d": "θα βρούμε"
+            },
+            "answer": "a",
+            "explanation": "Future Simple of 'βρίσκω' (irregular) for 'εγώ'."
+        },
+        {
+            "id": "f1a1a1a1-1111-4aaa-8888-123456789032",
+            "type": "fill",
+            "header": "Εσύ ___ (μπεις) στο δωμάτιο.",
+            "translations": "You will enter the room.",
+            "answer": "θα μπεις",
+            "explanation": "Future Simple of 'μπαίνω' (irregular) for 'εσύ'."
+        },
+        {
+            "id": "f1a1a1a1-1111-4aaa-8888-123456789033",
+            "type": "select",
+            "header": "Ο Κώστας ___ (βγει) έξω.",
+            "translations": "Kostas will go out.",
+            "options": {
+                "a": "θα βγει",
+                "b": "βγαίνει",
+                "c": "θα βγεις",
+                "d": "θα βγούμε"
+            },
+            "answer": "a",
+            "explanation": "Future Simple of 'βγαίνω' (irregular) for third person singular."
+        },
+        {
+            "id": "f1a1a1a1-1111-4aaa-8888-123456789034",
+            "type": "fill",
+            "header": "Εμείς ___ (ανέβουμε) στο βουνό.",
+            "translations": "We will go up the mountain.",
+            "answer": "θα ανεβούμε",
+            "explanation": "Future Simple of 'ανεβαίνω' (irregular) for 'εμείς'."
+        },
+        {
+            "id": "f1a1a1a1-1111-4aaa-8888-123456789035",
+            "type": "select",
+            "header": "Αυτοί ___ (κατέβουν) στην παραλία.",
+            "translations": "They will go down to the beach.",
+            "options": {
+                "a": "θα κατέβουν",
+                "b": "κατεβαίνουν",
+                "c": "θα κατέβουμε",
+                "d": "θα κατέβεις"
+            },
+            "answer": "a",
+            "explanation": "Future Simple of 'κατεβαίνω' (irregular) for third person plural."
+        },
+        {
+            "id": "f1a1a1a1-1111-4aaa-8888-123456789036",
+            "type": "fill",
+            "header": "Εγώ ___ (μάθω) ελληνικά.",
+            "translations": "I will learn Greek.",
+            "answer": "θα μάθω",
+            "explanation": "Future Simple of 'μαθαίνω' (irregular) for 'εγώ'."
+        },
+        {
+            "id": "f1a1a1a1-1111-4aaa-8888-123456789037",
+            "type": "select",
+            "header": "Εσύ ___ (πάρεις) το λεωφορείο.",
+            "translations": "You will take the bus.",
+            "options": {
+                "a": "θα πάρεις",
+                "b": "παίρνεις",
+                "c": "θα πάρω",
+                "d": "θα πάρουμε"
+            },
+            "answer": "a",
+            "explanation": "Future Simple of 'παίρνω' (irregular) for 'εσύ'."
+        },
+        {
+            "id": "f1a1a1a1-1111-4aaa-8888-123456789038",
+            "type": "fill",
+            "header": "Ο Πέτρος ___ (δώσει) τα λεφτά.",
+            "translations": "Petros will give the money.",
+            "answer": "θα δώσει",
+            "explanation": "Future Simple of 'δίνω' (irregular) for third person singular."
+        },
+        {
+            "id": "f1a1a1a1-1111-4aaa-8888-123456789039",
+            "type": "select",
+            "header": "Εμείς ___ (καλέσουμε) τους φίλους μας.",
+            "translations": "We will invite our friends.",
+            "options": {
+                "a": "θα καλέσουμε",
+                "b": "καλούμε",
+                "c": "θα καλέσετε",
+                "d": "θα καλέσω"
+            },
+            "answer": "a",
+            "explanation": "Future Simple of 'καλώ' for 'εμείς'."
+        },
+        {
+            "id": "f1a1a1a1-1111-4aaa-8888-123456789040",
+            "type": "fill",
+            "header": "Αυτοί ___ (ζητήσουν) βοήθεια.",
+            "translations": "They will ask for help.",
+            "answer": "θα ζητήσουν",
+            "explanation": "Future Simple of 'ζητάω' for third person plural."
+        },
+        {
+            "id": "f1a1a1a1-1111-4aaa-8888-123456789041",
+            "type": "select",
+            "header": "Εγώ ___ (ρωτήσω) τον δάσκαλο.",
+            "translations": "I will ask the teacher.",
+            "options": {
+                "a": "θα ρωτήσω",
+                "b": "ρωτάω",
+                "c": "θα ρωτήσεις",
+                "d": "θα ρωτήσουμε"
+            },
+            "answer": "a",
+            "explanation": "Future Simple of 'ρωτάω' for 'εγώ'."
+        },
+        {
+            "id": "f1a1a1a1-1111-4aaa-8888-123456789042",
+            "type": "fill",
+            "header": "Εσύ ___ (απαντήσεις) στην ερώτηση.",
+            "translations": "You will answer the question.",
+            "answer": "θα απαντήσεις",
+            "explanation": "Future Simple of 'απαντάω' for 'εσύ'."
+        },
+        {
+            "id": "f1a1a1a1-1111-4aaa-8888-123456789043",
+            "type": "select",
+            "header": "Η Άννα ___ (ξυπνήσει) νωρίς.",
+            "translations": "Anna will wake up early.",
+            "options": {
+                "a": "θα ξυπνήσει",
+                "b": "ξυπνάει",
+                "c": "θα ξυπνήσω",
+                "d": "θα ξυπνήσουν"
+            },
+            "answer": "a",
+            "explanation": "Future Simple of 'ξυπνάω' for third person singular."
+        },
+        {
+            "id": "f1a1a1a1-1111-4aaa-8888-123456789044",
+            "type": "fill",
+            "header": "Εμείς ___ (κοιμηθούμε) αργά.",
+            "translations": "We will sleep late.",
+            "answer": "θα κοιμηθούμε",
+            "explanation": "Future Simple of 'κοιμάμαι' (passive form) for 'εμείς'."
+        },
+        {
+            "id": "f1a1a1a1-1111-4aaa-8888-123456789045",
+            "type": "select",
+            "header": "Αυτοί ___ (θυμηθούν) το ραντεβού.",
+            "translations": "They will remember the appointment.",
+            "options": {
+                "a": "θα θυμηθούν",
+                "b": "θυμούνται",
+                "c": "θα θυμηθούμε",
+                "d": "θα θυμηθείς"
+            },
+            "answer": "a",
+            "explanation": "Future Simple of 'θυμάμαι' for third person plural."
+        },
+        {
+            "id": "f1a1a1a1-1111-4aaa-8888-123456789046",
+            "type": "fill",
+            "header": "Εγώ ___ (σκεφτώ) τη λύση.",
+            "translations": "I will think of the solution.",
+            "answer": "θα σκεφτώ",
+            "explanation": "Future Simple of 'σκέφτομαι' for 'εγώ'."
+        },
+        {
+            "id": "f1a1a1a1-1111-4aaa-8888-123456789047",
+            "type": "select",
+            "header": "Εσείς ___ (χαίρεστε) για τα νέα.",
+            "translations": "You (all) will be happy for the news.",
+            "options": {
+                "a": "θα χαρείτε",
+                "b": "θα χαρείς",
+                "c": "χαίρεστε",
+                "d": "θα χαρούμε"
+            },
+            "answer": "a",
+            "explanation": "Future Simple of 'χαίρομαι' for 'εσείς'."
+        },
+        {
+            "id": "f1a1a1a1-1111-4aaa-8888-123456789048",
+            "type": "fill",
+            "header": "Ο καιρός ___ (αλλάξει) αύριο.",
+            "translations": "The weather will change tomorrow.",
+            "answer": "θα αλλάξει",
+            "explanation": "Future Simple of 'αλλάζω' (third person singular) using the -ξ- stem."
+        },
+        {
+            "id": "f1a1a1a1-1111-4aaa-8888-123456789049",
+            "type": "select",
+            "header": "Εμείς ___ (ελπίσουμε) για το καλύτερο.",
+            "translations": "We will hope for the best.",
+            "options": {
+                "a": "θα ελπίσουμε",
+                "b": "θα ελπίσετε",
+                "c": "ελπίζουμε",
+                "d": "θα ελπίσω"
+            },
+            "answer": "a",
+            "explanation": "Future Simple of 'ελπίζω' for 'εμείς'."
+        },
+        {
+            "id": "f1a1a1a1-1111-4aaa-8888-123456789050",
+            "type": "fill",
+            "header": "Αυτοί ___ (δουλέψουν) σκληρά.",
+            "translations": "They will work hard.",
+            "answer": "θα δουλέψουν",
+            "explanation": "Future Simple of 'δουλεύω' for third person plural."
+        }
+    ]
+}
