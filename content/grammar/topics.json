@@ -2,23 +2,33 @@
     "topics": [
         {
             "id": "to_be",
+            "level": "A1",
             "name": "Verb 'To Be'."
         },
         {
             "id": "nouns_and_articles",
+            "level": "A1",
             "name": "Nouns and Articles (single and plural)."
         },
         {
             "id": "nouns_accusative",
+            "level": "A1",
             "name": "Nouns Accusative Case."
         },
         {
             "id": "present_goup_a",
+            "level": "A1",
             "name": "Present Tense: Group A Verbs (1st Conjugation)"
         },
         {
             "id": "pronouns",
+            "level": "A1",
             "name": "Personal and Possessive Pronouns (Weak Forms)"
+        },
+        {
+            "id": "past_simple",
+            "level": "A2",
+            "name": "Past Simple Tense (Αόριστος)"
         }
     ]
 }

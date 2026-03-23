@@ -1,0 +1,554 @@
+{
+    "exercises": [
+        {
+            "id": "7a1b2c3d-e4f5-4a6b-8c7d-901234567801",
+            "type": "fill",
+            "header": "Εγώ ___ (ακούω) τον θόρυβο.",
+            "translations": "I heard the noise.",
+            "answer": "άκουσα",
+            "explanation": "The verb 'ακούω' adds a -σ- to form the Aoristos."
+        },
+        {
+            "id": "8b2c3d4e-f5a6-4b7c-9d8e-012345678902",
+            "type": "select",
+            "header": "Εσείς ___ (λέω) την ιστορία;",
+            "translations": "Did you (plural) tell the story?",
+            "options": {
+                "a": "είπατε",
+                "b": "λέτε",
+                "c": "είπαμε",
+                "d": "είπαν"
+            },
+            "answer": "a",
+            "explanation": "'Λέω' is an irregular verb; its Aoristos stem is 'ειπ-'. For 'εσείς', we use the ending '-ατε'."
+        },
+        {
+            "id": "9c3d4e5f-a6b7-4c8d-0e9f-123456789003",
+            "type": "fill",
+            "header": "Αυτός ___ (βλέπω) τον φίλο του.",
+            "translations": "He saw his friend.",
+            "answer": "είδε",
+            "explanation": "'Βλέπω' is irregular; its Aoristos form is 'είδα'. For third person singular, we use '-ε'."
+        },
+        {
+            "id": "0d4e5f6a-b7c8-4d9e-1f0a-234567890104",
+            "type": "select",
+            "header": "Εμείς ___ (πίνω) πολύ νερό.",
+            "translations": "We drank a lot of water.",
+            "options": {
+                "a": "ήπιαμε",
+                "b": "πίνουμε",
+                "c": "ήπιατε",
+                "d": "ήπιαν"
+            },
+            "answer": "a",
+            "explanation": "'Πίνω' is irregular; its Aoristos stem is 'ηπι-'. For 'εμείς', we add '-αμε'."
+        },
+        {
+            "id": "1e5f6a7b-c8d9-4e0f-2a1b-345678901205",
+            "type": "fill",
+            "header": "Τα παιδιά ___ (τρώω) όλο το φαγητό.",
+            "translations": "The children ate all the food.",
+            "answer": "έφαγαν",
+            "explanation": "'Τρώω' is irregular; its Aoristos stem is 'φαγ-'. For third person plural, we use '-αν'."
+        },
+        {
+            "id": "2f6a7b8c-d9e0-4f1a-3b2c-456789012306",
+            "type": "select",
+            "header": "Εσύ ___ (έρχομαι) στο πάρτι;",
+            "translations": "Did you come to the party?",
+            "options": {
+                "a": "ήρθες",
+                "b": "ήρθα",
+                "c": "έρχεσαι",
+                "d": "ήρθαμε"
+            },
+            "answer": "a",
+            "explanation": "'Έρχομαι' is irregular; its Aoristos form is 'ήρθα'. For second person singular, we use '-ες'."
+        },
+        {
+            "id": "3a7b8c9d-e0f1-4a2b-4c3d-567890123407",
+            "type": "fill",
+            "header": "Εμείς ___ (φεύγω) στις οκτώ.",
+            "translations": "We left at eight.",
+            "answer": "φύγαμε",
+            "explanation": "'Φεύγω' is irregular; its Aoristos is 'έφυγα'. The augment drops in the 'εμείς' form."
+        },
+        {
+            "id": "4b8c9d0e-f1a2-4b3c-5d4e-678901234508",
+            "type": "select",
+            "header": "Αυτοί ___ (μπαίνω) στο γραφείο.",
+            "translations": "They entered the office.",
+            "options": {
+                "a": "μπήκαν",
+                "b": "μπήκα",
+                "c": "μπαίνουν",
+                "d": "μπήκατε"
+            },
+            "answer": "a",
+            "explanation": "'Μπαίνω' is irregular; its Aoristos is 'μπήκα'. For third person plural, we use '-αν'."
+        },
+        {
+            "id": "5c9d0e1f-a2b3-4c4d-6e5f-789012345609",
+            "type": "fill",
+            "header": "Εγώ ___ (βρίσκω) το βιβλίο μου.",
+            "translations": "I found my book.",
+            "answer": "βρήκα",
+            "explanation": "'Βρίσκω' is an irregular verb with the Aoristos form 'βρήκα'."
+        },
+        {
+            "id": "6d0e1f2a-b3c4-4d5e-7f6a-890123456710",
+            "type": "select",
+            "header": "Εσύ ___ (παίρνω) τα κλειδιά;",
+            "translations": "Did you take the keys?",
+            "options": {
+                "a": "πήρες",
+                "b": "πήρα",
+                "c": "παίρνεις",
+                "d": "πήραν"
+            },
+            "answer": "a",
+            "explanation": "'Παίρνω' is irregular; Aoristos 'πήρα'. For second person singular, we use '-ες'."
+        },
+        {
+            "id": "71a2b3c4-d5e6-4f7g-8h9i-901234567811",
+            "type": "fill",
+            "header": "Ο Πέτρος ___ (βγαίνω) έξω.",
+            "translations": "Petros went out.",
+            "answer": "βγήκε",
+            "explanation": "'Βγαίνω' is irregular; its Aoristos is 'βγήκα'. For third person singular, we use '-ε'."
+        },
+        {
+            "id": "82b3c4d5-e6f7-4g8h-9i0j-012345678912",
+            "type": "select",
+            "header": "Εσείς ___ (δουλεύω) πολύ χθες;",
+            "translations": "Did you (plural) work a lot yesterday?",
+            "options": {
+                "a": "δουλέψατε",
+                "b": "δουλεύετε",
+                "c": "δουλέψαμε",
+                "d": "εδούλεψα"
+            },
+            "answer": "a",
+            "explanation": "Verbs in -εύω change to -εψα. The augment is not used for 'εσείς'."
+        },
+        {
+            "id": "93c4d5e6-f7g8-4h9i-0j1k-123456789013",
+            "type": "fill",
+            "header": "Εγώ ___ (μαγειρεύω) κοτόπουλο.",
+            "translations": "I cooked chicken.",
+            "answer": "μαγείρεψα",
+            "explanation": "The verb 'μαγειρεύω' ends in -εύω, so it changes to -εψα in Aoristos."
+        },
+        {
+            "id": "04d5e6f7-g8h9-4i0j-1k2l-234567890114",
+            "type": "select",
+            "header": "Τα παιδιά ___ (παίζω) ποδόσφαιρο.",
+            "translations": "The children played football.",
+            "options": {
+                "a": "έπαιξαν",
+                "b": "παίζουν",
+                "c": "έπαιξα",
+                "d": "παίξαμε"
+            },
+            "answer": "a",
+            "explanation": "Verbs in -ζω can change to -ξα (actions). Third person plural uses '-αν'."
+        },
+        {
+            "id": "15e6f7g8-h9i0-4j1k-2l3m-345678901215",
+            "type": "fill",
+            "header": "Εσύ ___ (αγοράζω) γάλα.",
+            "translations": "You bought milk.",
+            "answer": "αγόρασες",
+            "explanation": "Verbs in -ζω change to -σα. For second person singular, we use '-ες'."
+        },
+        {
+            "id": "26f7g8h9-i0j1-4k2l-3m4n-456789012316",
+            "type": "select",
+            "header": "Η Μαρία ___ (διαβάζω) το μάθημα.",
+            "translations": "Maria read the lesson.",
+            "options": {
+                "a": "διάβασε",
+                "b": "διάβασα",
+                "c": "διαβάζει",
+                "d": "διαβάσαμε"
+            },
+            "answer": "a",
+            "explanation": "Verbs in -ζω change to -σα. Third person singular uses '-ε'."
+        },
+        {
+            "id": "37g8h9i0-j1k2-4l3m-4n5o-567890123417",
+            "type": "fill",
+            "header": "Εμείς ___ (ανοίγω) το παράθυρο.",
+            "translations": "We opened the window.",
+            "answer": "ανοίξαμε",
+            "explanation": "Verbs in -γω change to -ξα. For 'εμείς', we use '-αμε'."
+        },
+        {
+            "id": "48h9i0j1-k2l3-4m4n-5o6p-678901234518",
+            "type": "select",
+            "header": "Εσείς ___ (κλείνω) την πόρτα;",
+            "translations": "Did you (plural) close the door?",
+            "options": {
+                "a": "κλείσατε",
+                "b": "κλείνετε",
+                "c": "έκλεισα",
+                "d": "κλείσαμε"
+            },
+            "answer": "a",
+            "explanation": "Verbs in -νω change to -σα. The augment is omitted in the 'εσείς' form."
+        },
+        {
+            "id": "59i0j1k2-l3m4-4n5o-6p7q-789012345619",
+            "type": "fill",
+            "header": "Αυτοί ___ (τρέχω) στον δρόμο.",
+            "translations": "They ran in the street.",
+            "answer": "έτρεξαν",
+            "explanation": "Verbs in -χω change to -ξα. Third person plural uses '-αν'."
+        },
+        {
+            "id": "60j1k2l3-m4n5-4o6p-7q8r-890123456720",
+            "type": "select",
+            "header": "Εγώ ___ (γράφω) ένα μέιλ.",
+            "translations": "I wrote an email.",
+            "options": {
+                "a": "έγραψα",
+                "b": "γράφω",
+                "c": "έγραφα",
+                "d": "γράψαμε"
+            },
+            "answer": "a",
+            "explanation": "Verbs in -φω change to -ψα. First person singular uses '-α' and an augment."
+        },
+        {
+            "id": "72a3b4c5-d6e7-4f8g-9h0i-901234567821",
+            "type": "fill",
+            "header": "Εσύ ___ (πιστεύω) στα λόγια του.",
+            "translations": "You believed his words.",
+            "answer": "πίστεψες",
+            "explanation": "Verbs in -εύω change to -εψα. Second person singular uses '-ες'."
+        },
+        {
+            "id": "83b4c5d6-e7f8-4g9h-0i1j-012345678922",
+            "type": "select",
+            "header": "Ο ήλιος ___ (λάμπω) χθες.",
+            "translations": "The sun shone yesterday.",
+            "options": {
+                "a": "έλαμψε",
+                "b": "λάμπει",
+                "c": "έλαμψα",
+                "d": "λάμψαμε"
+            },
+            "answer": "a",
+            "explanation": "Verbs in -πω change to -ψα. Third person singular uses '-ε'."
+        },
+        {
+            "id": "94c4d5e6-f7g8-4h9i-0j1k-123456789023",
+            "type": "fill",
+            "header": "Εμείς ___ (πλένω) το αυτοκίνητο.",
+            "translations": "We washed the car.",
+            "answer": "πλύναμε",
+            "explanation": "'Πλένω' changes its vowel to 'υ' in Aoristos."
+        },
+        {
+            "id": "05d5e6f7-g8h9-4i0j-1k2l-234567890124",
+            "type": "select",
+            "header": "Εσείς ___ (χορεύω) στο γάμο;",
+            "translations": "Did you (plural) dance at the wedding?",
+            "options": {
+                "a": "χορέψατε",
+                "b": "χορεύετε",
+                "c": "χορέψαμε",
+                "d": "εχορέψατε"
+            },
+            "answer": "a",
+            "explanation": "Verbs in -εύω change to -εψα. Plural forms drop the augment."
+        },
+        {
+            "id": "16e6f7g8-h9i0-4j1k-2l3m-345678901225",
+            "type": "fill",
+            "header": "Αυτή ___ (ντύνομαι) για το πάρτι.",
+            "translations": "She got dressed for the party.",
+            "answer": "ντύθηκε",
+            "explanation": "The Aoristos of passive/middle verbs in -ομαι often ends in -ηκα. For 'αυτή', it is '-ηκε'."
+        },
+        {
+            "id": "27f7g8h9-i0j1-4k2l-3m4n-456789012326",
+            "type": "select",
+            "header": "Εσύ ___ (καθαρίζω) το σπίτι;",
+            "translations": "Did you clean the house?",
+            "options": {
+                "a": "καθάρισες",
+                "b": "καθαρίζεις",
+                "c": "καθαρίσατε",
+                "d": "εκαθάρισες"
+            },
+            "answer": "a",
+            "explanation": "Verbs in -ζω change to -σα. Second person singular uses '-ες'."
+        },
+        {
+            "id": "38g8h9i0-j1k2-4l3m-4n5o-567890123427",
+            "type": "fill",
+            "header": "Εγώ ___ (αλλάζω) ρούχα.",
+            "translations": "I changed clothes.",
+            "answer": "άλλαξα",
+            "explanation": "Verbs in -ζω can change to -ξα (like change). First person uses '-α'."
+        },
+        {
+            "id": "49h9i0j1-k2l3-4m4n-5o6p-678901234528",
+            "type": "select",
+            "header": "Τα μαθήματα ___ (τελειώνω) στις τρεις.",
+            "translations": "The lessons finished at three.",
+            "options": {
+                "a": "τελείωσαν",
+                "b": "τελειώνουν",
+                "c": "τελείωσα",
+                "d": "τελείωσες"
+            },
+            "answer": "a",
+            "explanation": "Verbs in -νω change to -σα. Third person plural uses '-αν'."
+        },
+        {
+            "id": "50i0j1k2-l3m4-4n5o-6p7q-789012345629",
+            "type": "fill",
+            "header": "Εσύ ___ (πληρώνω) το εισιτήριο.",
+            "translations": "You paid the ticket.",
+            "answer": "πλήρωσες",
+            "explanation": "Verbs in -νω change to -σα. Second person singular uses '-ες'."
+        },
+        {
+            "id": "61j1k2l3-m4n5-4o6p-7q8r-890123456730",
+            "type": "select",
+            "header": "Εμείς ___ (ελπίζω) για το καλό.",
+            "translations": "We hoped for the good.",
+            "options": {
+                "a": "ελπίσαμε",
+                "b": "ελπίζουμε",
+                "c": "ελπίσατε",
+                "d": "έλπισα"
+            },
+            "answer": "a",
+            "explanation": "Verbs in -ζω change to -σα. Plural forms do not take the augment."
+        },
+        {
+            "id": "73a4b5c6-d7e8-4f9g-0h1i-901234567831",
+            "type": "fill",
+            "header": "Αυτός ___ (φτιάχνω) το ποδήλατο.",
+            "translations": "He fixed the bike.",
+            "answer": "έφτιαξε",
+            "explanation": "Verbs in -χνω change to -ξα. Third person singular uses '-ε' with an augment."
+        },
+        {
+            "id": "84b5c6d7-e8f9-4g0h-1i2j-012345678932",
+            "type": "select",
+            "header": "Εσείς ___ (προσέχω) στο μάθημα;",
+            "translations": "Did you (plural) pay attention in class?",
+            "options": {
+                "a": "προσέξατε",
+                "b": "προσέχετε",
+                "c": "προσέξαμε",
+                "d": "επροσέξατε"
+            },
+            "answer": "a",
+            "explanation": "Verbs in -χω change to -ξα. The augment is omitted in the 'εσείς' form."
+        },
+        {
+            "id": "95c6d7e8-f9g0-4h1i-2j3k-123456789033",
+            "type": "fill",
+            "header": "Εγώ ___ (χάνω) τον δρόμο.",
+            "translations": "I lost the way.",
+            "answer": "έχασα",
+            "explanation": "Verbs in -νω change to -σα. First person singular uses '-α' and an augment."
+        },
+        {
+            "id": "06d7e8f9-g0h1-4i2j-3k4l-234567890134",
+            "type": "select",
+            "header": "Πού ___ (κρύβω) την μπάλα;",
+            "translations": "Where did you hide the ball?",
+            "options": {
+                "a": "έκρυψες",
+                "b": "κρύβεις",
+                "c": "έκρυψα",
+                "d": "κρύψαμε"
+            },
+            "answer": "a",
+            "explanation": "Verbs in -βω change to -ψα. Second person singular uses '-ες'."
+        },
+        {
+            "id": "17e8f9g0-h1i2-4j3k-4l5m-345678901235",
+            "type": "fill",
+            "header": "Αυτοί ___ (πλέκω) ένα κασκόλ.",
+            "translations": "They knitted a scarf.",
+            "answer": "έπλεξαν",
+            "explanation": "Verbs in -κω change to -ξα. Third person plural uses '-αν'."
+        },
+        {
+            "id": "28f9g0h1-i2j3-4k4l-5m6n-456789012336",
+            "type": "select",
+            "header": "Εμείς ___ (φτάνω) στο σπίτι.",
+            "translations": "We reached the house.",
+            "options": {
+                "a": "φτάσαμε",
+                "b": "φτάνουμε",
+                "c": "φτάσατε",
+                "d": "έφτασα"
+            },
+            "answer": "a",
+            "explanation": "Verbs in -νω change to -σα. Plural 'we' form uses '-αμε'."
+        },
+        {
+            "id": "39g0h1i2-j3k4-4l5m-6n7o-567890123437",
+            "type": "fill",
+            "header": "Εσείς ___ (κοιτάζω) την τηλεόραση.",
+            "translations": "You (plural) looked at the TV.",
+            "answer": "κοιτάξατε",
+            "explanation": "Verbs in -ζω can change to -ξα. 'Εσείς' form uses '-ατε'."
+        },
+        {
+            "id": "40h1i2j3-k4l5-4m6n-7o8p-678901234538",
+            "type": "select",
+            "header": "Η Μαρία ___ (βάφω) τα νύχια της.",
+            "translations": "Maria painted her nails.",
+            "options": {
+                "a": "έβαψε",
+                "b": "βάφει",
+                "c": "έβαψα",
+                "d": "βάψαμε"
+            },
+            "answer": "a",
+            "explanation": "Verbs in -φω change to -ψα. Third person singular uses '-ε'."
+        },
+        {
+            "id": "51i2j3k4-l5m6-4n7o-8p9q-789012345639",
+            "type": "fill",
+            "header": "Εγώ ___ (νιώθω) κούραση.",
+            "translations": "I felt tired.",
+            "answer": "ένιωσα",
+            "explanation": "Verbs in -θω change to -σα. First person singular uses '-α' and an augment."
+        },
+        {
+            "id": "62j3k4l5-m6n7-4o8p-9q0r-890123456740",
+            "type": "select",
+            "header": "Εσύ ___ (διαλέγω) το φόρεμα;",
+            "translations": "Did you choose the dress?",
+            "options": {
+                "a": "διάλεξες",
+                "b": "διαλέγεις",
+                "c": "διάλεξα",
+                "d": "διαλέξαμε"
+            },
+            "answer": "a",
+            "explanation": "Verbs in -γω change to -ξα. Second person singular uses '-ες'."
+        },
+        {
+            "id": "74a5b6c7-d8e9-4f0g-1h2i-901234567841",
+            "type": "fill",
+            "header": "Αυτός ___ (σπρώχνω) την καρέκλα.",
+            "translations": "He pushed the chair.",
+            "answer": "έσπρωξε",
+            "explanation": "Verbs in -χνω change to -ξα. Third person singular uses '-ε' and an augment."
+        },
+        {
+            "id": "85b6c7d8-e9f0-4g1h-2i3j-012345678942",
+            "type": "select",
+            "header": "Εμείς ___ (ανοίγω) την πόρτα.",
+            "translations": "We opened the door.",
+            "options": {
+                "a": "ανοίξαμε",
+                "b": "ανοίγουμε",
+                "c": "ανοίξατε",
+                "d": "άνοιξα"
+            },
+            "answer": "a",
+            "explanation": "Verbs in -γω change to -ξα. Plural 'we' form uses '-αμε'."
+        },
+        {
+            "id": "96c7d8e9-f0g1-4h2i-3j4k-123456789043",
+            "type": "fill",
+            "header": "Εσείς ___ (κλείνω) τα φώτα.",
+            "translations": "You (plural) closed the lights.",
+            "answer": "κλείσατε",
+            "explanation": "Verbs in -νω change to -σα. 'Εσείς' form uses the ending '-ατε'."
+        },
+        {
+            "id": "07d8e9f0-g1h2-4i3j-4k5l-234567890144",
+            "type": "select",
+            "header": "Ο σκύλος ___ (τρέχω) γρήγορα.",
+            "translations": "The dog ran fast.",
+            "options": {
+                "a": "έτρεξε",
+                "b": "τρέχει",
+                "c": "έτρεξα",
+                "d": "τρέξαμε"
+            },
+            "answer": "a",
+            "explanation": "Verbs in -χω change to -ξα. Third person singular uses the ending '-ε'."
+        },
+        {
+            "id": "18e9f0g1-h2i3-4j4k-5l6m-345678901245",
+            "type": "fill",
+            "header": "Εγώ ___ (δουλεύω) χθες.",
+            "translations": "I worked yesterday.",
+            "answer": "δούλεψα",
+            "explanation": "Verbs in -εύω change to -εψα in the Aoristos."
+        },
+        {
+            "id": "29f0g1h2-i3j4-4k5l-6m7n-456789012346",
+            "type": "select",
+            "header": "Εσύ ___ (μαγειρεύω) καλά;",
+            "translations": "Did you cook well?",
+            "options": {
+                "a": "μαγείρεψες",
+                "b": "μαγειρεύεις",
+                "c": "μαγείρεψα",
+                "d": "μαγειρέψαμε"
+            },
+            "answer": "a",
+            "explanation": "Verbs in -εύω change to -εψα. Second person singular uses '-ες'."
+        },
+        {
+            "id": "30g1h2i3-j4k5-4l6m-7n8o-567890123447",
+            "type": "fill",
+            "header": "Εμείς ___ (παίζω) χαρτιά.",
+            "translations": "We played cards.",
+            "answer": "παίξαμε",
+            "explanation": "Verbs in -ζω change to -ξα. For 'εμείς', we use '-αμε'."
+        },
+        {
+            "id": "41h2i3j4-k5l6-4m7n-8o9p-678901234548",
+            "type": "select",
+            "header": "Αυτοί ___ (αγοράζω) ένα σπίτι.",
+            "translations": "They bought a house.",
+            "options": {
+                "a": "αγόρασαν",
+                "b": "αγοράζουν",
+                "c": "αγόρασα",
+                "d": "αγοράσαμε"
+            },
+            "answer": "a",
+            "explanation": "Verbs in -ζω change to -σα. Third person plural uses '-αν'."
+        },
+        {
+            "id": "52i3j4k5-l6m7-4n8o-9p0q-789012345649",
+            "type": "fill",
+            "header": "Εγώ ___ (διαβάζω) την εφημερίδα.",
+            "translations": "I read the newspaper.",
+            "answer": "διάβασα",
+            "explanation": "Verbs in -ζω change to -σα. First person singular uses '-α' and an augment."
+        },
+        {
+            "id": "63j4k5l6-m7n8-4o9p-0q1r-890123456750",
+            "type": "select",
+            "header": "Εσείς ___ (ανοίγω) την τηλεόραση;",
+            "translations": "Did you (plural) turn on the TV?",
+            "options": {
+                "a": "ανοίξατε",
+                "b": "ανοίγετε",
+                "c": "ανοίξαμε",
+                "d": "άνοιξα"
+            },
+            "answer": "a",
+            "explanation": "Verbs in -γω change to -ξα. Plural forms drop the augment."
+        }
+    ]
+}
