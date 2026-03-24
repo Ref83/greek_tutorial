@@ -438,7 +438,9 @@
     </div>
 
     <script>
-        const id = new URLSearchParams(window.location.search).get('id');
+        const params = new URLSearchParams(window.location.search);
+        const id = params.get('id');
+        const ids = params.get('ids') ? params.get('ids').split(',').filter(Boolean) : (id ? [id] : []);
         let exercises = [];
         let current = 0;
         let done = 0;
@@ -449,12 +451,16 @@
         fetch('../content/grammar/topics.json')
             .then(r => r.json())
             .then(data => {
-                const topic = data.topics.find(t => t.id === id);
-                if (topic) document.title = `Exercises – ${topic.name}`;
+                if (ids.length === 1) {
+                    const topic = data.topics.find(t => t.id === ids[0]);
+                    if (topic) document.title = `Exercises – ${topic.name}`;
+                } else if (ids.length > 1) {
+                    document.title = `Exercises – Mixed Topics`;
+                }
             });
 
-        async function loadExercises() {
-            const dirUrl = `../content/grammar/${id}/`;
+        async function loadTopicExercises(topicId) {
+            const dirUrl = `../content/grammar/${topicId}/`;
             let found = false;
             const res = await fetch(dirUrl);
             if (res.ok) {
@@ -483,6 +489,10 @@
                     n++;
                 }
             }
+        }
+
+        async function loadExercises() {
+            await Promise.all(ids.map(topicId => loadTopicExercises(topicId)));
             shuffle(exercises);
             showExercise();
         }
