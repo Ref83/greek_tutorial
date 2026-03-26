@@ -331,6 +331,11 @@
         }
 
         document.getElementById('openExercisesModal').addEventListener('click', () => {
+            document.querySelectorAll('#modalTopics input[type="checkbox"]').forEach(cb => {
+                cb.checked = false;
+                cb.closest('.modal-topic-row').classList.remove('checked');
+            });
+            document.getElementById('modalStart').disabled = true;
             document.getElementById('modalOverlay').classList.add('open');
         });
 
