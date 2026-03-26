@@ -83,6 +83,125 @@
             background: #e0e7ff;
         }
 
+        .top-panel-actions {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .cheatsheet-btn {
+            display: none;
+            align-items: center;
+            gap: 6px;
+            color: #059669;
+            font-size: 0.9rem;
+            font-weight: 600;
+            padding: 8px 16px;
+            border-radius: 8px;
+            background: #ecfdf5;
+            border: none;
+            cursor: pointer;
+            transition: background 0.15s;
+            font-family: inherit;
+        }
+
+        .cheatsheet-btn.visible {
+            display: flex;
+        }
+
+        .cheatsheet-btn:hover {
+            background: #d1fae5;
+        }
+
+        .cheatsheet-overlay {
+            display: none;
+            position: fixed;
+            inset: 0;
+            background: rgba(0,0,0,0.45);
+            z-index: 1000;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+
+        .cheatsheet-overlay.visible {
+            display: flex;
+        }
+
+        .cheatsheet-modal {
+            background: #fff;
+            border-radius: 14px;
+            padding: 32px 36px;
+            max-width: 620px;
+            width: 100%;
+            max-height: 80vh;
+            overflow-y: auto;
+            box-shadow: 0 8px 32px rgba(0,0,0,0.18);
+            position: relative;
+        }
+
+        .cheatsheet-modal-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 20px;
+        }
+
+        .cheatsheet-modal-title {
+            font-size: 1.05rem;
+            font-weight: 700;
+            color: #111;
+        }
+
+        .cheatsheet-close {
+            background: none;
+            border: 1.5px solid #ccc;
+            border-radius: 50%;
+            width: 30px;
+            height: 30px;
+            font-size: 1rem;
+            cursor: pointer;
+            color: #666;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: border-color 0.15s, color 0.15s;
+            font-family: inherit;
+            flex-shrink: 0;
+        }
+
+        .cheatsheet-close:hover {
+            border-color: #4f46e5;
+            color: #4f46e5;
+        }
+
+        .cheatsheet-body table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 0.93rem;
+        }
+
+        .cheatsheet-body th,
+        .cheatsheet-body td {
+            padding: 9px 14px;
+            border: 1px solid #e5e7eb;
+            text-align: left;
+        }
+
+        .cheatsheet-body th {
+            background: #f3f4f6;
+            font-weight: 600;
+            color: #374151;
+        }
+
+        .cheatsheet-body tr:nth-child(even) td {
+            background: #f9fafb;
+        }
+
+        .cheatsheet-body strong {
+            font-weight: 700;
+        }
+
         .exercise-panel {
             max-width: 680px;
             margin: 0 auto;
@@ -437,6 +556,16 @@
         <button class="complete-btn" id="completeBtn">← Complete</button>
     </div>
 
+    <div class="cheatsheet-overlay" id="cheatsheetOverlay">
+        <div class="cheatsheet-modal">
+            <div class="cheatsheet-modal-header">
+                <span class="cheatsheet-modal-title">Cheatsheet</span>
+                <button class="cheatsheet-close" id="cheatsheetClose">✕</button>
+            </div>
+            <div class="cheatsheet-body" id="cheatsheetBody"></div>
+        </div>
+    </div>
+
     <div class="exercise-panel">
         <div id="exerciseContent"><div class="loading-msg">Loading exercises…</div></div>
         <div class="finished-msg" id="finishedMsg">
@@ -455,6 +584,78 @@
         let errors = 0;
 
         document.getElementById('completeBtn').addEventListener('click', () => history.back());
+
+        const cheatsheetMap = {};
+
+        function openCheatsheet(topicId) {
+            const overlay = document.getElementById('cheatsheetOverlay');
+            document.getElementById('cheatsheetBody').innerHTML = cheatsheetMap[topicId] || '';
+            overlay.classList.add('visible');
+        }
+
+        (function setupCheatsheet() {
+            const overlay = document.getElementById('cheatsheetOverlay');
+            const closeBtn = document.getElementById('cheatsheetClose');
+            closeBtn.addEventListener('click', () => overlay.classList.remove('visible'));
+            overlay.addEventListener('click', e => { if (e.target === overlay) overlay.classList.remove('visible'); });
+            document.addEventListener('keydown', e => { if (e.key === 'Escape') overlay.classList.remove('visible'); });
+        })();
+
+        async function fetchCheatsheets() {
+            await Promise.all(ids.map(async topicId => {
+                try {
+                    const r = await fetch(`../content/grammar/${topicId}/cheatsheet.md`);
+                    if (!r.ok) return;
+                    const md = await r.text();
+                    if (md) cheatsheetMap[topicId] = markdownToHtml(md);
+                } catch (e) {}
+            }));
+        }
+
+        function markdownToHtml(md) {
+            const lines = md.split('\n');
+            let html = '';
+            let inTable = false;
+            for (let i = 0; i < lines.length; i++) {
+                const line = lines[i].trim();
+                if (line.startsWith('|') && line.endsWith('|')) {
+                    if (/^[\|:\-\s]+$/.test(line)) {
+                        continue;
+                    }
+                    if (!inTable) {
+                        html += '<table><thead><tr>';
+                        inTable = true;
+                        const cells = parseMdRow(line);
+                        cells.forEach(c => { html += `<th>${renderInline(c)}</th>`; });
+                        html += '</tr></thead><tbody>';
+                    } else {
+                        html += '<tr>';
+                        const cells = parseMdRow(line);
+                        cells.forEach(c => { html += `<td>${renderInline(c)}</td>`; });
+                        html += '</tr>';
+                    }
+                } else {
+                    if (inTable) { html += '</tbody></table>'; inTable = false; }
+                    if (line === '') { html += ''; continue; }
+                    if (line.startsWith('# ')) { html += `<h2 style="font-size:1.1rem;font-weight:700;margin:16px 0 10px;">${renderInline(line.slice(2))}</h2>`; continue; }
+                    if (line.startsWith('## ')) { html += `<h3 style="font-size:1rem;font-weight:700;margin:14px 0 8px;">${renderInline(line.slice(3))}</h3>`; continue; }
+                    html += `<p style="margin:6px 0;font-size:0.93rem;">${renderInline(line)}</p>`;
+                }
+            }
+            if (inTable) html += '</tbody></table>';
+            return html;
+        }
+
+        function parseMdRow(line) {
+            return line.slice(1, -1).split('|').map(c => c.trim());
+        }
+
+        function renderInline(text) {
+            return text
+                .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+                .replace(/\*(.+?)\*/g, '<em>$1</em>')
+                .replace(/`(.+?)`/g, '<code>$1</code>');
+        }
 
         fetch('../content/grammar/topics.json')
             .then(r => r.json())
@@ -483,7 +684,7 @@
                         const r = await fetch(dirUrl + file.split('/').pop());
                         if (!r.ok) return;
                         const data = await r.json();
-                        exercises = exercises.concat(data.exercises);
+                        exercises = exercises.concat(data.exercises.map(e => ({ ...e, topicId })));
                     }));
                 }
             }
@@ -493,14 +694,17 @@
                     const r = await fetch(`${dirUrl}exercises_${n}.json`);
                     if (!r.ok) break;
                     const data = await r.json();
-                    exercises = exercises.concat(data.exercises);
+                    exercises = exercises.concat(data.exercises.map(e => ({ ...e, topicId })));
                     n++;
                 }
             }
         }
 
         async function loadExercises() {
-            await Promise.all(ids.map(topicId => loadTopicExercises(topicId)));
+            await Promise.all([
+                Promise.all(ids.map(topicId => loadTopicExercises(topicId))),
+                fetchCheatsheets()
+            ]);
             shuffle(exercises);
             showExercise();
         }
@@ -539,10 +743,23 @@
         }
 
         function appendHeaderBlock(ex, container) {
+            const badgeRow = document.createElement('div');
+            badgeRow.style.cssText = 'display:flex;align-items:center;justify-content:space-between;margin-bottom:20px;';
+
             const badge = document.createElement('div');
             badge.className = 'exercise-type-badge';
+            badge.style.marginBottom = '0';
             badge.textContent = typeLabel(ex.type);
-            container.appendChild(badge);
+            badgeRow.appendChild(badge);
+
+            const csBtn = document.createElement('button');
+            csBtn.className = 'cheatsheet-btn';
+            csBtn.textContent = '📋 Cheatsheet';
+            if (cheatsheetMap[ex.topicId]) csBtn.classList.add('visible');
+            csBtn.addEventListener('click', () => openCheatsheet(ex.topicId));
+            badgeRow.appendChild(csBtn);
+
+            container.appendChild(badgeRow);
 
             const headerRow = document.createElement('div');
             headerRow.className = 'exercise-header';
@@ -681,10 +898,7 @@
         }
 
         function renderMatch(ex, container) {
-            const badge = document.createElement('div');
-            badge.className = 'exercise-type-badge';
-            badge.textContent = typeLabel(ex.type);
-            container.appendChild(badge);
+            appendHeaderBlock(ex, container);
 
             const cols = document.createElement('div');
             cols.className = 'match-columns';
