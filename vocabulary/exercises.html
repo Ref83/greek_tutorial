@@ -1,0 +1,826 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vocabulary Exercises – Greek Tutorial</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #f5f5f0;
+            color: #1a1a1a;
+            min-height: 100vh;
+            padding: 40px 20px;
+        }
+
+        .top-panel {
+            max-width: 680px;
+            margin: 0 auto 20px;
+            background: #fff;
+            border-radius: 12px;
+            padding: 16px 28px;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 12px;
+        }
+
+        .stats {
+            display: flex;
+            gap: 24px;
+        }
+
+        .stat {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .stat-value {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: #1a1a1a;
+            line-height: 1;
+        }
+
+        .stat-label {
+            font-size: 0.72rem;
+            color: #999;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            margin-top: 3px;
+        }
+
+        .stat-error .stat-value {
+            color: #dc2626;
+        }
+
+        .complete-btn {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            text-decoration: none;
+            color: #4f46e5;
+            font-size: 0.9rem;
+            font-weight: 600;
+            padding: 8px 16px;
+            border-radius: 8px;
+            background: #eef2ff;
+            transition: background 0.15s;
+        }
+
+        .complete-btn:hover {
+            background: #e0e7ff;
+        }
+
+        .exercise-panel {
+            max-width: 680px;
+            margin: 0 auto;
+            background: #fff;
+            border-radius: 12px;
+            padding: 36px 40px;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+        }
+
+        .exercise-type-badge {
+            display: inline-block;
+            font-size: 0.72rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.07em;
+            color: #4f46e5;
+            background: #eef2ff;
+            border-radius: 6px;
+            padding: 4px 10px;
+            margin-bottom: 20px;
+        }
+
+        .exercise-header {
+            display: flex;
+            align-items: flex-start;
+            gap: 10px;
+            margin-bottom: 8px;
+        }
+
+        .header-text {
+            font-size: 1.15rem;
+            font-weight: 600;
+            color: #111;
+            line-height: 1.5;
+            flex: 1;
+        }
+
+        .hint-btn {
+            background: none;
+            border: 1.5px solid #ccc;
+            border-radius: 50%;
+            width: 26px;
+            height: 26px;
+            font-size: 0.85rem;
+            cursor: pointer;
+            color: #999;
+            flex-shrink: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: border-color 0.15s, color 0.15s;
+            font-family: inherit;
+        }
+
+        .hint-btn:hover {
+            border-color: #4f46e5;
+            color: #4f46e5;
+        }
+
+        .translation-box {
+            background: #f8f8f6;
+            border-radius: 8px;
+            padding: 10px 16px;
+            font-size: 0.9rem;
+            color: #555;
+            margin-bottom: 20px;
+            border-left: 3px solid #4f46e5;
+            display: none;
+        }
+
+        .translation-box.visible {
+            display: block;
+        }
+
+        .options-list {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            margin-bottom: 24px;
+        }
+
+        .option-btn {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            padding: 12px 16px;
+            border: 1.5px solid #e0e0e0;
+            border-radius: 10px;
+            cursor: pointer;
+            background: #fff;
+            font-size: 0.97rem;
+            font-family: inherit;
+            text-align: left;
+            transition: border-color 0.15s, background 0.15s;
+            width: 100%;
+        }
+
+        .option-btn:hover:not(:disabled) {
+            border-color: #4f46e5;
+            background: #f8f7ff;
+        }
+
+        .option-key {
+            font-weight: 700;
+            color: #4f46e5;
+            min-width: 20px;
+            flex-shrink: 0;
+        }
+
+        .option-btn.correct {
+            border-color: #16a34a;
+            background: #f0fdf4;
+        }
+
+        .option-btn.correct .option-key {
+            color: #16a34a;
+        }
+
+        .option-btn.wrong {
+            border-color: #dc2626;
+            background: #fef2f2;
+        }
+
+        .option-btn.wrong .option-key {
+            color: #dc2626;
+        }
+
+        .option-btn:disabled {
+            cursor: default;
+        }
+
+        .fill-input-row {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 24px;
+        }
+
+        .fill-input {
+            flex: 1;
+            padding: 12px 16px;
+            border: 1.5px solid #e0e0e0;
+            border-radius: 10px;
+            font-size: 0.97rem;
+            font-family: inherit;
+            outline: none;
+            transition: border-color 0.15s;
+        }
+
+        .fill-input:focus {
+            border-color: #4f46e5;
+        }
+
+        .fill-input.correct {
+            border-color: #16a34a;
+            background: #f0fdf4;
+        }
+
+        .fill-input.wrong {
+            border-color: #dc2626;
+            background: #fef2f2;
+        }
+
+        .check-btn,
+        .next-btn {
+            padding: 12px 20px;
+            border: none;
+            border-radius: 10px;
+            background: #4f46e5;
+            color: #fff;
+            font-size: 0.95rem;
+            font-weight: 600;
+            font-family: inherit;
+            cursor: pointer;
+            transition: background 0.15s;
+            white-space: nowrap;
+        }
+
+        .check-btn:hover:not(:disabled),
+        .next-btn:hover {
+            background: #4338ca;
+        }
+
+        .check-btn:disabled {
+            background: #a5b4fc;
+            cursor: default;
+        }
+
+        .next-btn {
+            display: none;
+        }
+
+        .next-btn.visible {
+            display: inline-block;
+        }
+
+        .explanation-box {
+            background: #fffbeb;
+            border-radius: 8px;
+            padding: 12px 16px;
+            font-size: 0.9rem;
+            color: #78350f;
+            margin-bottom: 20px;
+            border-left: 3px solid #f59e0b;
+            display: none;
+        }
+
+        .explanation-box.visible {
+            display: block;
+        }
+
+        .correct-answer {
+            font-weight: 700;
+            color: #16a34a;
+        }
+
+        .finished-msg {
+            text-align: center;
+            padding: 40px 0;
+            display: none;
+        }
+
+        .finished-msg.visible {
+            display: block;
+        }
+
+        .finished-msg h2 {
+            font-size: 1.4rem;
+            color: #111;
+            margin-bottom: 12px;
+        }
+
+        .finished-msg p {
+            color: #666;
+            font-size: 0.97rem;
+        }
+
+        .loading-msg {
+            text-align: center;
+            color: #aaa;
+            font-size: 0.97rem;
+            padding: 40px 0;
+        }
+
+        @media (max-width: 480px) {
+            body {
+                padding: 20px 12px;
+            }
+
+            .exercise-panel {
+                padding: 24px 20px;
+            }
+
+            .top-panel {
+                padding: 14px 20px;
+            }
+
+            .header-text {
+                font-size: 1.05rem;
+            }
+
+            .fill-input-row {
+                flex-direction: column;
+            }
+
+            .check-btn,
+            .next-btn {
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="top-panel">
+        <div class="stats">
+            <div class="stat">
+                <span class="stat-value" id="statDone">0</span>
+                <span class="stat-label">Done</span>
+            </div>
+            <div class="stat stat-error">
+                <span class="stat-value" id="statErrors">0</span>
+                <span class="stat-label">Errors</span>
+            </div>
+        </div>
+        <a class="complete-btn" id="completeBtn" href="#">← Complete</a>
+    </div>
+
+    <div class="exercise-panel">
+        <div id="exerciseContent"><div class="loading-msg">Loading exercises...</div></div>
+        <div class="finished-msg" id="finishedMsg">
+            <h2>All exercises completed!</h2>
+            <p id="finishedStats"></p>
+        </div>
+    </div>
+
+    <script>
+        const params = new URLSearchParams(window.location.search);
+        const topicId = params.get('topic');
+        const itemId = params.get('item');
+        const completeBtn = document.getElementById('completeBtn');
+        let completeFallbackHref = '';
+        const requestStamp = Date.now().toString();
+
+        let currentItem = null;
+        let exercises = [];
+        let current = 0;
+        let done = 0;
+        let errors = 0;
+
+        if (topicId && itemId) {
+            completeFallbackHref = `item.html?topic=${encodeURIComponent(topicId)}&item=${encodeURIComponent(itemId)}`;
+            completeBtn.href = completeFallbackHref;
+        } else {
+            completeBtn.removeAttribute('href');
+            completeBtn.style.pointerEvents = 'none';
+            completeBtn.style.opacity = '0.5';
+        }
+
+        completeBtn.addEventListener('click', event => {
+            if (!completeFallbackHref) {
+                return;
+            }
+
+            event.preventDefault();
+
+            if (window.history.length > 1) {
+                window.history.back();
+                return;
+            }
+
+            window.location.href = completeFallbackHref;
+        });
+
+        if (!topicId || !itemId) {
+            renderState('Unknown Item', 'This page needs both topic and item ids in the URL.');
+        } else {
+            loadExercises();
+        }
+
+        async function loadExercises() {
+            try {
+                const [vocabularyData, loadedExercises] = await Promise.all([
+                    fetchJsonFresh(`../content/vocabulary/${encodeURIComponent(topicId)}/vocabulary.json`),
+                    loadExerciseFiles(topicId)
+                ]);
+
+                currentItem = Array.isArray(vocabularyData.items)
+                    ? vocabularyData.items.find(entry => entry.id === itemId)
+                    : null;
+
+                if (!currentItem) {
+                    renderState('Item Not Found', 'The selected vocabulary item does not exist.');
+                    return;
+                }
+
+                exercises = loadedExercises.filter(exercise => exercise.item_id === itemId);
+
+                shuffle(exercises);
+                document.title = `Exercises for ${currentItem.phrase} – Greek Tutorial`;
+                showExercise();
+            } catch (error) {
+                renderState('Exercises Not Found', 'The exercises for this item could not be loaded.');
+                console.error(error);
+            }
+        }
+
+        async function loadExerciseFiles(topicIdValue) {
+            const dirUrl = `../content/vocabulary/${encodeURIComponent(topicIdValue)}/`;
+            const filenames = await discoverExerciseFiles(dirUrl);
+            const loaded = [];
+
+            if (!filenames.length) {
+                return loaded;
+            }
+
+            await Promise.all(filenames.map(async fileName => {
+                const data = await fetchJsonFresh(dirUrl + fileName);
+                if (Array.isArray(data.exercises)) {
+                    loaded.push(...data.exercises);
+                }
+            }));
+
+            return loaded;
+        }
+
+        async function discoverExerciseFiles(dirUrl) {
+            try {
+                const response = await fetchFresh(dirUrl);
+                if (response.ok) {
+                    const html = await response.text();
+                    const doc = new DOMParser().parseFromString(html, 'text/html');
+                    const files = [...doc.querySelectorAll('a[href]')]
+                        .map(link => link.getAttribute('href'))
+                        .map(href => href && href.split('/').pop())
+                        .filter(name => /^exercises.*\.json$/i.test(name || ''));
+
+                    if (files.length) {
+                        return [...new Set(files)].sort();
+                    }
+                }
+            } catch (error) {
+                console.error(error);
+            }
+
+            const fallback = [];
+            for (let index = 1; index <= 50; index += 1) {
+                const fileName = `exercises_${index}.json`;
+                const response = await fetchFresh(dirUrl + fileName);
+                if (response.status === 404) {
+                    if (index === 1) {
+                        continue;
+                    }
+                    break;
+                }
+                if (!response.ok) {
+                    throw new Error(`Unable to load exercises (${response.status})`);
+                }
+                fallback.push(fileName);
+            }
+
+            return fallback;
+        }
+
+        function handleJsonResponse(response) {
+            if (!response.ok) {
+                throw new Error(`Unable to load JSON (${response.status})`);
+            }
+            return response.json();
+        }
+
+        function fetchFresh(url) {
+            return fetch(withCacheBust(url), { cache: 'no-store' });
+        }
+
+        function fetchJsonFresh(url) {
+            return fetchFresh(url).then(handleJsonResponse);
+        }
+
+        function withCacheBust(url) {
+            const separator = url.includes('?') ? '&' : '?';
+            return `${url}${separator}_=${requestStamp}`;
+        }
+
+        function shuffle(arr) {
+            for (let index = arr.length - 1; index > 0; index -= 1) {
+                const swapIndex = Math.floor(Math.random() * (index + 1));
+                [arr[index], arr[swapIndex]] = [arr[swapIndex], arr[index]];
+            }
+        }
+
+        function updateStats() {
+            document.getElementById('statDone').textContent = done;
+            document.getElementById('statErrors').textContent = errors;
+        }
+
+        function showExercise() {
+            const content = document.getElementById('exerciseContent');
+            const finished = document.getElementById('finishedMsg');
+            finished.classList.remove('visible');
+
+            if (!exercises.length) {
+                content.innerHTML = '<div class="loading-msg">No exercises are available for this item yet.</div>';
+                return;
+            }
+
+            if (current >= exercises.length) {
+                content.innerHTML = '';
+                finished.classList.add('visible');
+                document.getElementById('finishedStats').textContent =
+                    `${done} exercise${done !== 1 ? 's' : ''} done, ${errors} error${errors !== 1 ? 's' : ''}.`;
+                return;
+            }
+
+            content.innerHTML = '';
+            const exercise = exercises[current];
+
+            if (exercise.type === 'select') {
+                renderSelect(exercise, content);
+            } else if (exercise.type === 'fill') {
+                renderFill(exercise, content);
+            } else if (exercise.type === 'translate') {
+                renderTranslate(exercise, content);
+            } else {
+                renderUnsupported(exercise, content);
+            }
+        }
+
+        function typeLabel(type) {
+            return {
+                select: 'Multiple Choice',
+                fill: 'Fill in the Blank',
+                translate: 'Translate'
+            }[type] || type || 'Exercise';
+        }
+
+        function appendHeaderBlock(exercise, container, showHint) {
+            const badge = document.createElement('div');
+            badge.className = 'exercise-type-badge';
+            badge.textContent = typeLabel(exercise.type);
+            container.appendChild(badge);
+
+            const headerRow = document.createElement('div');
+            headerRow.className = 'exercise-header';
+
+            const headerText = document.createElement('div');
+            headerText.className = 'header-text';
+            headerText.textContent = exercise.header || 'Exercise';
+            headerRow.appendChild(headerText);
+
+            const translationBox = document.createElement('div');
+            translationBox.className = 'translation-box';
+            translationBox.textContent = exercise.translations || '';
+
+            if (showHint && exercise.translations) {
+                const hintBtn = document.createElement('button');
+                hintBtn.className = 'hint-btn';
+                hintBtn.type = 'button';
+                hintBtn.textContent = '?';
+                hintBtn.addEventListener('click', () => {
+                    translationBox.classList.toggle('visible');
+                });
+                headerRow.appendChild(hintBtn);
+            }
+
+            container.appendChild(headerRow);
+
+            if (showHint && exercise.translations) {
+                container.appendChild(translationBox);
+            }
+        }
+
+        function makeExplanationBox() {
+            const box = document.createElement('div');
+            box.className = 'explanation-box';
+            return box;
+        }
+
+        function makeNextBtn() {
+            const btn = document.createElement('button');
+            btn.type = 'button';
+            btn.className = 'next-btn';
+            btn.textContent = 'Next →';
+            btn.addEventListener('click', () => {
+                current += 1;
+                showExercise();
+            });
+            return btn;
+        }
+
+        function completeExercise(wasWrong) {
+            done += 1;
+            if (wasWrong) {
+                errors += 1;
+            }
+            updateStats();
+        }
+
+        function renderSelect(exercise, container) {
+            appendHeaderBlock(exercise, container, true);
+
+            const options = document.createElement('div');
+            options.className = 'options-list';
+            container.appendChild(options);
+
+            const explanation = makeExplanationBox();
+            container.appendChild(explanation);
+
+            const nextBtn = makeNextBtn();
+            container.appendChild(nextBtn);
+
+            const buttons = [];
+            Object.entries(exercise.options || {}).forEach(([key, value]) => {
+                const btn = document.createElement('button');
+                btn.type = 'button';
+                btn.className = 'option-btn';
+                btn.innerHTML = `<span class="option-key">${key}</span><span>${value}</span>`;
+
+                btn.addEventListener('click', () => {
+                    buttons.forEach(item => item.disabled = true);
+
+                    const correctKey = exercise.answer;
+                    const correctValue = exercise.options && correctKey
+                        ? exercise.options[correctKey]
+                        : '';
+                    const wasWrong = key !== correctKey;
+
+                    if (wasWrong) {
+                        btn.classList.add('wrong');
+                        const correctBtn = buttons.find(item => item.dataset.key === correctKey);
+                        if (correctBtn) {
+                            correctBtn.classList.add('correct');
+                        }
+                        explanation.innerHTML = `<span class="correct-answer">Correct answer:</span> ${correctKey}${correctValue ? `. ${correctValue}` : ''}<br>${exercise.explanation || ''}`;
+                        explanation.classList.add('visible');
+                    } else {
+                        btn.classList.add('correct');
+                    }
+
+                    completeExercise(wasWrong);
+                    nextBtn.classList.add('visible');
+                });
+
+                btn.dataset.key = key;
+                buttons.push(btn);
+                options.appendChild(btn);
+            });
+        }
+
+        function renderFill(exercise, container) {
+            appendHeaderBlock(exercise, container, true);
+
+            const row = document.createElement('div');
+            row.className = 'fill-input-row';
+
+            const input = document.createElement('input');
+            input.className = 'fill-input';
+            input.type = 'text';
+            input.autocomplete = 'off';
+            input.placeholder = 'Type your answer';
+            row.appendChild(input);
+
+            const checkBtn = document.createElement('button');
+            checkBtn.type = 'button';
+            checkBtn.className = 'check-btn';
+            checkBtn.textContent = 'Check';
+            row.appendChild(checkBtn);
+
+            container.appendChild(row);
+
+            const explanation = makeExplanationBox();
+            container.appendChild(explanation);
+
+            const nextBtn = makeNextBtn();
+            container.appendChild(nextBtn);
+
+            const check = () => {
+                const answer = normalizeText(exercise.answer || '');
+                const userAnswer = normalizeText(input.value);
+                const wasWrong = userAnswer !== answer;
+
+                input.disabled = true;
+                checkBtn.disabled = true;
+                input.classList.add(wasWrong ? 'wrong' : 'correct');
+
+                if (wasWrong) {
+                    explanation.innerHTML = `<span class="correct-answer">Correct answer:</span> ${exercise.answer || 'N/A'}<br>${exercise.explanation || ''}`;
+                    explanation.classList.add('visible');
+                }
+
+                completeExercise(wasWrong);
+                nextBtn.classList.add('visible');
+            };
+
+            checkBtn.addEventListener('click', check);
+            input.addEventListener('keydown', event => {
+                if (event.key === 'Enter') {
+                    check();
+                }
+            });
+        }
+
+        function renderTranslate(exercise, container) {
+            appendHeaderBlock(exercise, container, false);
+
+            const row = document.createElement('div');
+            row.className = 'fill-input-row';
+
+            const input = document.createElement('input');
+            input.className = 'fill-input';
+            input.type = 'text';
+            input.autocomplete = 'off';
+            input.placeholder = 'Type your translation';
+            row.appendChild(input);
+
+            const checkBtn = document.createElement('button');
+            checkBtn.type = 'button';
+            checkBtn.className = 'check-btn';
+            checkBtn.textContent = 'Check';
+            row.appendChild(checkBtn);
+
+            container.appendChild(row);
+
+            const explanation = makeExplanationBox();
+            container.appendChild(explanation);
+
+            const nextBtn = makeNextBtn();
+            container.appendChild(nextBtn);
+
+            const check = () => {
+                const answer = normalizeText(exercise.answer || '');
+                const userAnswer = normalizeText(input.value);
+                const wasWrong = userAnswer !== answer;
+
+                input.disabled = true;
+                checkBtn.disabled = true;
+                input.classList.add(wasWrong ? 'wrong' : 'correct');
+
+                if (wasWrong) {
+                    explanation.innerHTML = `<span class="correct-answer">Correct answer:</span> ${exercise.answer || 'N/A'}<br>${exercise.explanation || ''}`;
+                    explanation.classList.add('visible');
+                }
+
+                completeExercise(wasWrong);
+                nextBtn.classList.add('visible');
+            };
+
+            checkBtn.addEventListener('click', check);
+            input.addEventListener('keydown', event => {
+                if (event.key === 'Enter') {
+                    check();
+                }
+            });
+        }
+
+        function renderUnsupported(exercise, container) {
+            appendHeaderBlock(exercise, container, false);
+
+            const message = document.createElement('div');
+            message.className = 'explanation-box visible';
+            message.textContent = `Unsupported exercise type: ${exercise.type || 'unknown'}.`;
+            container.appendChild(message);
+
+            const nextBtn = makeNextBtn();
+            nextBtn.classList.add('visible');
+            container.appendChild(nextBtn);
+
+            completeExercise(true);
+        }
+
+        function normalizeText(value) {
+            return value
+                .trim()
+                .replace(/\s+/g, ' ')
+                .toLocaleLowerCase();
+        }
+
+        function renderState(title, message) {
+            const content = document.getElementById('exerciseContent');
+            content.innerHTML = `
+                <div class="loading-msg"><strong>${title}</strong><br>${message}</div>
+            `;
+        }
+    </script>
+</body>
+</html>

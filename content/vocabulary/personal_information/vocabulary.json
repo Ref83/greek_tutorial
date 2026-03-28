@@ -1,0 +1,230 @@
+{
+    "items": [
+        {
+            "id": "v1a1-001",
+            "phrase": "έτοιμος",
+            "meaning": "ready, prepared",
+            "forms": {
+                "masculine": "έτοιμος",
+                "feminine": "έτοιμη",
+                "neuter": "έτοιμο"
+            },
+            "usage_patterns": [
+                {
+                    "pattern": "είμαι έτοιμος/η",
+                    "meaning": "to be ready",
+                    "examples": [
+                        {
+                            "example": "Είμαι έτοιμος.",
+                            "translation": "I am ready."
+                        },
+                        {
+                            "example": "Είσαι έτοιμη για το μάθημα;",
+                            "translation": "Are you ready for the lesson?"
+                        }
+                    ]
+                },
+                {
+                    "pattern": "έτοιμος να + verb",
+                    "meaning": "ready to do something",
+                    "examples": [
+                        {
+                            "example": "Είμαι έτοιμος να φύγω.",
+                            "translation": "I am ready to leave."
+                        },
+                        {
+                            "example": "Είναι έτοιμη να ξεκινήσει.",
+                            "translation": "She is ready to start."
+                        }
+                    ]
+                },
+                {
+                    "pattern": "έτοιμος για + noun",
+                    "meaning": "ready for something",
+                    "examples": [
+                        {
+                            "example": "Είμαστε έτοιμοι για το ταξίδι.",
+                            "translation": "We are ready for the trip."
+                        },
+                        {
+                            "example": "Δεν είμαι έτοιμος για εξετάσεις.",
+                            "translation": "I am not ready for exams."
+                        }
+                    ]
+                },
+                {
+                    "pattern": "έτοιμος από + noun",
+                    "meaning": "ready/prepared from (context-specific)",
+                    "examples": [
+                        {
+                            "example": "Το φαγητό είναι έτοιμο από νωρίς.",
+                            "translation": "The food is ready early."
+                        }
+                    ]
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "έτοιμο φαγητό",
+                    "translation": "ready-made food"
+                },
+                {
+                    "collocation": "έτοιμη λύση",
+                    "translation": "ready solution"
+                },
+                {
+                    "collocation": "έτοιμος καφές",
+                    "translation": "instant coffee"
+                },
+                {
+                    "collocation": "έτοιμος για όλα",
+                    "translation": "ready for anything"
+                },
+                {
+                    "collocation": "σχεδόν έτοιμος",
+                    "translation": "almost ready"
+                },
+                {
+                    "collocation": "εντελώς έτοιμος",
+                    "translation": "completely ready"
+                }
+            ],
+            "additional_examples": [
+                {
+                    "example": "Το δείπνο είναι έτοιμο.",
+                    "translation": "Dinner is ready."
+                },
+                {
+                    "example": "Είσαι έτοιμος να φύγουμε;",
+                    "translation": "Are you ready to leave?"
+                },
+                {
+                    "example": "Πρέπει να είσαι έτοιμη για όλα.",
+                    "translation": "You must be ready for everything."
+                },
+                {
+                    "example": "Είναι πάντα έτοιμος να βοηθήσει.",
+                    "translation": "He is always ready to help."
+                }
+            ],
+            "notes": [
+                "Use 'να + verb' for actions.",
+                "Use 'για + noun' for situations/events.",
+                "The adjective agrees in gender and number with the subject."
+            ]
+        },
+        {
+            "id": "v1a1-002",
+            "phrase": "aaa - έτοιμος.  -- aa",
+            "meaning": "ready, prepared",
+            "forms": {
+                "masculine": "έτοιμος",
+                "feminine": "έτοιμη",
+                "neuter": "έτοιμο"
+            },
+            "usage_patterns": [
+                {
+                    "pattern": "είμαι έτοιμος/η",
+                    "meaning": "to be ready",
+                    "examples": [
+                        {
+                            "example": "Είμαι έτοιμος.",
+                            "translation": "I am ready."
+                        },
+                        {
+                            "example": "Είσαι έτοιμη για το μάθημα;",
+                            "translation": "Are you ready for the lesson?"
+                        }
+                    ]
+                },
+                {
+                    "pattern": "έτοιμος να + verb",
+                    "meaning": "ready to do something",
+                    "examples": [
+                        {
+                            "example": "Είμαι έτοιμος να φύγω.",
+                            "translation": "I am ready to leave."
+                        },
+                        {
+                            "example": "Είναι έτοιμη να ξεκινήσει.",
+                            "translation": "She is ready to start."
+                        }
+                    ]
+                },
+                {
+                    "pattern": "έτοιμος για + noun",
+                    "meaning": "ready for something",
+                    "examples": [
+                        {
+                            "example": "Είμαστε έτοιμοι για το ταξίδι.",
+                            "translation": "We are ready for the trip."
+                        },
+                        {
+                            "example": "Δεν είμαι έτοιμος για εξετάσεις.",
+                            "translation": "I am not ready for exams."
+                        }
+                    ]
+                },
+                {
+                    "pattern": "έτοιμος από + noun",
+                    "meaning": "ready/prepared from (context-specific)",
+                    "examples": [
+                        {
+                            "example": "Το φαγητό είναι έτοιμο από νωρίς.",
+                            "translation": "The food is ready early."
+                        }
+                    ]
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "έτοιμο φαγητό",
+                    "translation": "ready-made food"
+                },
+                {
+                    "collocation": "έτοιμη λύση",
+                    "translation": "ready solution"
+                },
+                {
+                    "collocation": "έτοιμος καφές",
+                    "translation": "instant coffee"
+                },
+                {
+                    "collocation": "έτοιμος για όλα",
+                    "translation": "ready for anything"
+                },
+                {
+                    "collocation": "σχεδόν έτοιμος",
+                    "translation": "almost ready"
+                },
+                {
+                    "collocation": "εντελώς έτοιμος",
+                    "translation": "completely ready"
+                }
+            ],
+            "additional_examples": [
+                {
+                    "example": "Το δείπνο είναι έτοιμο.",
+                    "translation": "Dinner is ready."
+                },
+                {
+                    "example": "Είσαι έτοιμος να φύγουμε;",
+                    "translation": "Are you ready to leave?"
+                },
+                {
+                    "example": "Πρέπει να είσαι έτοιμη για όλα.",
+                    "translation": "You must be ready for everything."
+                },
+                {
+                    "example": "Είναι πάντα έτοιμος να βοηθήσει.",
+                    "translation": "He is always ready to help."
+                }
+            ],
+            "notes": [
+                "Use 'να + verb' for actions.",
+                "Use 'για + noun' for situations/events.",
+                "The adjective agrees in gender and number with the subject."
+            ]
+        }
+    ]
+}

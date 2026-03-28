@@ -19,53 +19,151 @@
             padding: 40px 20px;
         }
 
+        .page-header {
+            max-width: 680px;
+            margin: 0 auto 36px;
+            display: flex;
+            align-items: center;
+            justify-content: flex-start;
+        }
+
         h1 {
-            text-align: center;
             font-size: 1.6rem;
             font-weight: 600;
-            margin-bottom: 36px;
             color: #333;
             letter-spacing: 0.02em;
         }
 
-        .content-card {
+        .topics-list {
             max-width: 680px;
             margin: 0 auto;
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+
+        .topic-card {
             background: #fff;
             border-radius: 12px;
-            padding: 48px 40px;
+            padding: 20px 28px;
             box-shadow: 0 1px 4px rgba(0,0,0,0.08);
-            text-align: center;
+            text-decoration: none;
+            color: #1a1a1a;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            transition: box-shadow 0.18s, transform 0.18s;
+            cursor: pointer;
         }
 
-        .placeholder-icon {
-            font-size: 3rem;
-            margin-bottom: 20px;
+        .topic-card:hover {
+            box-shadow: 0 4px 16px rgba(79,70,229,0.13);
+            transform: translateY(-2px);
         }
 
-        .placeholder-text {
-            font-size: 1.05rem;
-            color: #888;
-            line-height: 1.7;
+        .topic-card-static {
+            cursor: default;
+        }
+
+        .topic-card-static:hover {
+            box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+            transform: none;
+        }
+
+        .topic-name {
+            font-size: 1rem;
+            font-weight: 500;
+            flex: 1;
+            text-align: left;
+        }
+
+        .topic-level {
+            font-size: 0.75rem;
+            font-weight: 600;
+            color: #4f46e5;
+            background: #ede9fe;
+            border-radius: 6px;
+            padding: 2px 10px;
+            letter-spacing: 0.04em;
+            flex-shrink: 0;
+            margin-right: 16px;
+        }
+
+        .topic-arrow {
+            color: #4f46e5;
+            font-size: 1.1rem;
         }
 
         @media (max-width: 480px) {
-            .content-card {
-                padding: 36px 24px;
+            h1 {
+                font-size: 1.3rem;
             }
 
-            h1 {
-                font-size: 1.4rem;
+            .topic-card {
+                padding: 18px 20px;
             }
         }
     </style>
 </head>
 <body>
-    <h1>Vocabulary</h1>
-
-    <div class="content-card">
-        <div class="placeholder-icon">📝</div>
-        <p class="placeholder-text">The content will be delivered soon.</p>
+    <div class="page-header">
+        <h1>Vocabulary</h1>
     </div>
+
+    <div class="topics-list" id="topicsList">
+        <div class="topic-card topic-card-static">
+            <span class="topic-name">Loading topics...</span>
+        </div>
+    </div>
+
+    <script>
+        const topicsList = document.getElementById('topicsList');
+
+        fetch('../content/vocabulary/topics.json')
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error(`Unable to load topics (${response.status})`);
+                }
+                return response.json();
+            })
+            .then(data => {
+                const topics = Array.isArray(data.topics) ? data.topics : [];
+                renderTopics(topics);
+            })
+            .catch(() => {
+                renderMessage('Unable to load vocabulary topics.');
+            });
+
+        function renderTopics(topics) {
+            if (!topics.length) {
+                renderMessage('No vocabulary topics available yet.');
+                return;
+            }
+
+            topicsList.textContent = '';
+
+            topics.forEach(topic => {
+                const link = document.createElement('a');
+                link.className = 'topic-card';
+                link.href = `topic.html?id=${encodeURIComponent(topic.id)}`;
+                link.innerHTML = `<span class="topic-level">${topic.level}</span><span class="topic-name">${topic.name}</span><span class="topic-arrow">→</span>`;
+                topicsList.appendChild(link);
+            });
+        }
+
+        function renderMessage(message) {
+            topicsList.innerHTML = '';
+
+            const card = document.createElement('div');
+            card.className = 'topic-card topic-card-static';
+
+            const text = document.createElement('span');
+            text.className = 'topic-name';
+            text.textContent = message;
+
+            card.appendChild(text);
+            topicsList.appendChild(card);
+        }
+    </script>
 </body>
 </html>

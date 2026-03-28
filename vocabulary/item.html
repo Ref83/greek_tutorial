@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vocabulary Item – Greek Tutorial</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #f5f5f0;
+            color: #1a1a1a;
+            min-height: 100vh;
+            padding: 40px 20px;
+        }
+
+        .top-panel {
+            max-width: 680px;
+            margin: 0 auto 20px;
+            background: #fff;
+            border-radius: 12px;
+            padding: 16px 28px;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .exercises-btn {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            text-decoration: none;
+            color: #4f46e5;
+            font-size: 0.9rem;
+            font-weight: 600;
+            padding: 8px 16px;
+            border-radius: 8px;
+            background: #eef2ff;
+            transition: background 0.15s;
+        }
+
+        .exercises-btn:hover {
+            background: #e0e7ff;
+        }
+
+        .exercises-btn-icon {
+            font-size: 1.1rem;
+        }
+
+        .content-card {
+            max-width: 680px;
+            margin: 0 auto;
+            background: #fff;
+            border-radius: 12px;
+            padding: 48px 40px;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+        }
+
+        .content-card h1 {
+            font-size: 1.6rem;
+            font-weight: 700;
+            color: #111;
+            margin-bottom: 24px;
+        }
+
+        .section + .section {
+            margin-top: 32px;
+        }
+
+        .section h2 {
+            font-size: 1.2rem;
+            font-weight: 600;
+            color: #333;
+            margin-bottom: 12px;
+        }
+
+        .pattern-card + .pattern-card {
+            margin-top: 16px;
+        }
+
+        .pattern-card {
+            background: #f9fafb;
+            border: 1px solid #e5e7eb;
+            border-radius: 12px;
+            padding: 16px 18px;
+        }
+
+        .pattern-card h3 {
+            font-size: 1rem;
+            font-weight: 600;
+            color: #222;
+            margin-bottom: 8px;
+        }
+
+        .content-card p,
+        .content-card li {
+            font-size: 0.97rem;
+            line-height: 1.7;
+            color: #333;
+        }
+
+        .content-card p + p {
+            margin-top: 8px;
+        }
+
+        .content-card strong {
+            color: #1a1a1a;
+        }
+
+        .plain-list {
+            padding-left: 20px;
+        }
+
+        .plain-list li + li {
+            margin-top: 8px;
+        }
+
+        .sub-list {
+            padding-left: 20px;
+            margin-top: 10px;
+        }
+
+        .empty-text {
+            color: #666;
+        }
+
+        @media (max-width: 480px) {
+            .content-card {
+                padding: 32px 20px;
+            }
+
+            .content-card h1 {
+                font-size: 1.3rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="top-panel">
+        <a class="exercises-btn" id="exercises-link" href="#">
+            <span class="exercises-btn-icon">✏️</span>
+            Exercises
+        </a>
+    </div>
+
+    <div class="content-card" id="content">
+        <h1>Vocabulary Item</h1>
+        <p>Loading item information...</p>
+    </div>
+
+    <script>
+        const content = document.getElementById('content');
+        const exercisesLink = document.getElementById('exercises-link');
+        const params = new URLSearchParams(window.location.search);
+        const topicId = params.get('topic');
+        const itemId = params.get('item');
+
+        if (topicId && itemId) {
+            exercisesLink.href = `exercises.html?topic=${encodeURIComponent(topicId)}&item=${encodeURIComponent(itemId)}`;
+        } else {
+            exercisesLink.removeAttribute('href');
+            exercisesLink.style.pointerEvents = 'none';
+            exercisesLink.style.opacity = '0.5';
+        }
+
+        if (!topicId || !itemId) {
+            renderState('Unknown Item', 'This page needs both topic and item ids in the URL.');
+        } else {
+            fetch(`../content/vocabulary/${encodeURIComponent(topicId)}/vocabulary.json`)
+                .then(handleJsonResponse)
+                .then(data => {
+                    const item = Array.isArray(data.items)
+                        ? data.items.find(entry => entry.id === itemId)
+                        : null;
+
+                    if (!item) {
+                        renderState('Item Not Found', 'The selected vocabulary item does not exist.');
+                        return;
+                    }
+
+                    document.title = `${item.phrase} – Greek Tutorial`;
+                    renderItem(item);
+                })
+                .catch(() => {
+                    renderState('Item Not Found', 'The item data could not be loaded.');
+                });
+        }
+
+        function handleJsonResponse(response) {
+            if (!response.ok) {
+                throw new Error(`Unable to load JSON (${response.status})`);
+            }
+            return response.json();
+        }
+
+        function renderItem(item) {
+            content.textContent = '';
+
+            const title = document.createElement('h1');
+            title.textContent = item.phrase || 'Vocabulary Item';
+            content.appendChild(title);
+
+            appendTextSection('Meaning', item.meaning || 'N/A');
+            appendFormsSection(item.forms);
+            appendUsagePatternsSection(item.usage_patterns);
+            appendCollocationsSection(item.collocations);
+            appendAdditionalExamplesSection(item.additional_examples);
+            appendNotesSection(item.notes);
+        }
+
+        function appendTextSection(title, text) {
+            const section = createSection(title);
+            const paragraph = document.createElement('p');
+            paragraph.textContent = text;
+            section.appendChild(paragraph);
+            content.appendChild(section);
+        }
+
+        function appendFormsSection(forms) {
+            const section = createSection('Forms');
+            const entries = forms && typeof forms === 'object' ? Object.entries(forms) : [];
+
+            if (!entries.length) {
+                section.appendChild(createEmptyText('No forms available.'));
+                content.appendChild(section);
+                return;
+            }
+
+            const list = document.createElement('ul');
+            list.className = 'plain-list';
+
+            entries.forEach(([key, value]) => {
+                const item = document.createElement('li');
+                item.innerHTML = `<strong>${formatLabel(key)}:</strong> ${value || 'N/A'}`;
+                list.appendChild(item);
+            });
+
+            section.appendChild(list);
+            content.appendChild(section);
+        }
+
+        function appendUsagePatternsSection(patterns) {
+            const section = createSection('Usage Patterns');
+            const list = Array.isArray(patterns) ? patterns : [];
+
+            if (!list.length) {
+                section.appendChild(createEmptyText('No usage patterns available.'));
+                content.appendChild(section);
+                return;
+            }
+
+            list.forEach(pattern => {
+                const card = document.createElement('div');
+                card.className = 'pattern-card';
+
+                const title = document.createElement('h3');
+                title.textContent = pattern.pattern || 'Pattern';
+                card.appendChild(title);
+
+                const meaning = document.createElement('p');
+                meaning.innerHTML = `<strong>Meaning:</strong> ${pattern.meaning || 'N/A'}`;
+                card.appendChild(meaning);
+
+                const examples = Array.isArray(pattern.examples) ? pattern.examples : [];
+                if (examples.length) {
+                    const examplesTitle = document.createElement('p');
+                    examplesTitle.innerHTML = '<strong>Examples:</strong>';
+                    card.appendChild(examplesTitle);
+
+                    const examplesList = document.createElement('ul');
+                    examplesList.className = 'sub-list';
+
+                    examples.forEach(example => {
+                        const item = document.createElement('li');
+                        item.innerHTML = `<strong>${example.example || 'N/A'}</strong><br>${example.translation || 'N/A'}`;
+                        examplesList.appendChild(item);
+                    });
+
+                    card.appendChild(examplesList);
+                }
+
+                section.appendChild(card);
+            });
+
+            content.appendChild(section);
+        }
+
+        function appendCollocationsSection(collocations) {
+            const section = createSection('Collocations');
+            const list = Array.isArray(collocations) ? collocations : [];
+
+            if (!list.length) {
+                section.appendChild(createEmptyText('No collocations available.'));
+                content.appendChild(section);
+                return;
+            }
+
+            const items = document.createElement('ul');
+            items.className = 'plain-list';
+
+            list.forEach(entry => {
+                const item = document.createElement('li');
+                item.innerHTML = `<strong>${entry.collocation || 'N/A'}</strong>: ${entry.translation || 'N/A'}`;
+                items.appendChild(item);
+            });
+
+            section.appendChild(items);
+            content.appendChild(section);
+        }
+
+        function appendAdditionalExamplesSection(examples) {
+            const section = createSection('Additional Examples');
+            const list = Array.isArray(examples) ? examples : [];
+
+            if (!list.length) {
+                section.appendChild(createEmptyText('No additional examples available.'));
+                content.appendChild(section);
+                return;
+            }
+
+            const items = document.createElement('ul');
+            items.className = 'plain-list';
+
+            list.forEach(entry => {
+                const item = document.createElement('li');
+                item.innerHTML = `<strong>${entry.example || 'N/A'}</strong><br>${entry.translation || 'N/A'}`;
+                items.appendChild(item);
+            });
+
+            section.appendChild(items);
+            content.appendChild(section);
+        }
+
+        function appendNotesSection(notes) {
+            const section = createSection('Notes');
+            const list = Array.isArray(notes) ? notes : [];
+
+            if (!list.length) {
+                section.appendChild(createEmptyText('No notes available.'));
+                content.appendChild(section);
+                return;
+            }
+
+            const items = document.createElement('ul');
+            items.className = 'plain-list';
+
+            list.forEach(note => {
+                const item = document.createElement('li');
+                item.textContent = note || 'N/A';
+                items.appendChild(item);
+            });
+
+            section.appendChild(items);
+            content.appendChild(section);
+        }
+
+        function createSection(title) {
+            const section = document.createElement('section');
+            section.className = 'section';
+
+            const heading = document.createElement('h2');
+            heading.textContent = title;
+            section.appendChild(heading);
+
+            return section;
+        }
+
+        function createEmptyText(text) {
+            const paragraph = document.createElement('p');
+            paragraph.className = 'empty-text';
+            paragraph.textContent = text;
+            return paragraph;
+        }
+
+        function formatLabel(value) {
+            return value
+                .split('_')
+                .map(part => part.charAt(0).toUpperCase() + part.slice(1))
+                .join(' ');
+        }
+
+        function renderState(title, message) {
+            content.textContent = '';
+
+            const titleEl = document.createElement('h1');
+            titleEl.textContent = title;
+
+            const messageEl = document.createElement('p');
+            messageEl.textContent = message;
+
+            content.appendChild(titleEl);
+            content.appendChild(messageEl);
+        }
+    </script>
+</body>
+</html>
