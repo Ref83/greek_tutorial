@@ -1,0 +1,37 @@
+{
+    "exercises": [
+        {
+            "id": "e1a1-001",
+            "item_id": "v1a1-001",
+            "type": "select",
+            "header": "Εγώ ___ ο Νίκος.",
+            "translations": "I am Nikos.",
+            "options": {
+                "a": "είμαι",
+                "b": "είσαι",
+                "c": "είναι",
+                "d": "είμαστε"
+            },
+            "answer": "a",
+            "explanation": "The first person singular 'I' (εγώ) takes the form 'είμαι'."
+        },
+        {
+            "id": "e1a1-002",
+            "item_id": "v1a1-002",
+            "type": "fill",
+            "header": "Εσύ ___ καλά σήμερα;",
+            "translations": "Are you well today?",
+            "answer": "είσαι",
+            "explanation": "The second person singular 'you' (εσύ) takes the form 'είσαι'."
+        },
+        {
+            "id": "e1a1-004",
+            "item_id": "v1a1-001",
+            "type": "translate",
+            "header": "Are you well today?",
+            "answer": "Εσύ είσαι καλά σήμερα;",
+            "explanation": "The correct translation is Εσύ είσαι καλά σήμερα;."
+        }
+
+    ]
+}

@@ -1,229 +1,1799 @@
 {
     "items": [
         {
-            "id": "v1a1-001",
-            "phrase": "έτοιμος",
-            "meaning": "ready, prepared",
+            "id": "v-pi-001",
+            "phrase": "το όνομα",
+            "meaning": "name",
             "forms": {
-                "masculine": "έτοιμος",
-                "feminine": "έτοιμη",
-                "neuter": "έτοιμο"
+                "neuter": "το όνομα",
+                "plural": "τα ονόματα"
             },
             "usage_patterns": [
                 {
-                    "pattern": "είμαι έτοιμος/η",
-                    "meaning": "to be ready",
+                    "pattern": "Πώς σε λένε;",
+                    "meaning": "What is your name? (informal)",
                     "examples": [
                         {
-                            "example": "Είμαι έτοιμος.",
-                            "translation": "I am ready."
-                        },
-                        {
-                            "example": "Είσαι έτοιμη για το μάθημα;",
-                            "translation": "Are you ready for the lesson?"
+                            "example": "Με λένε Νίκο.",
+                            "translation": "My name is Nikos."
                         }
                     ]
                 },
                 {
-                    "pattern": "έτοιμος να + verb",
-                    "meaning": "ready to do something",
+                    "pattern": "Το όνομά μου είναι...",
+                    "meaning": "My name is...",
                     "examples": [
                         {
-                            "example": "Είμαι έτοιμος να φύγω.",
-                            "translation": "I am ready to leave."
-                        },
-                        {
-                            "example": "Είναι έτοιμη να ξεκινήσει.",
-                            "translation": "She is ready to start."
-                        }
-                    ]
-                },
-                {
-                    "pattern": "έτοιμος για + noun",
-                    "meaning": "ready for something",
-                    "examples": [
-                        {
-                            "example": "Είμαστε έτοιμοι για το ταξίδι.",
-                            "translation": "We are ready for the trip."
-                        },
-                        {
-                            "example": "Δεν είμαι έτοιμος για εξετάσεις.",
-                            "translation": "I am not ready for exams."
-                        }
-                    ]
-                },
-                {
-                    "pattern": "έτοιμος από + noun",
-                    "meaning": "ready/prepared from (context-specific)",
-                    "examples": [
-                        {
-                            "example": "Το φαγητό είναι έτοιμο από νωρίς.",
-                            "translation": "The food is ready early."
+                            "example": "Το όνομά μου είναι Μαρία.",
+                            "translation": "My name is Maria."
                         }
                     ]
                 }
             ],
             "collocations": [
                 {
-                    "collocation": "έτοιμο φαγητό",
-                    "translation": "ready-made food"
+                    "collocation": "επίθετο",
+                    "translation": "surname"
                 },
                 {
-                    "collocation": "έτοιμη λύση",
-                    "translation": "ready solution"
-                },
-                {
-                    "collocation": "έτοιμος καφές",
-                    "translation": "instant coffee"
-                },
-                {
-                    "collocation": "έτοιμος για όλα",
-                    "translation": "ready for anything"
-                },
-                {
-                    "collocation": "σχεδόν έτοιμος",
-                    "translation": "almost ready"
-                },
-                {
-                    "collocation": "εντελώς έτοιμος",
-                    "translation": "completely ready"
+                    "collocation": "μικρό όνομα",
+                    "translation": "first name"
                 }
             ],
             "additional_examples": [
                 {
-                    "example": "Το δείπνο είναι έτοιμο.",
-                    "translation": "Dinner is ready."
-                },
-                {
-                    "example": "Είσαι έτοιμος να φύγουμε;",
-                    "translation": "Are you ready to leave?"
-                },
-                {
-                    "example": "Πρέπει να είσαι έτοιμη για όλα.",
-                    "translation": "You must be ready for everything."
-                },
-                {
-                    "example": "Είναι πάντα έτοιμος να βοηθήσει.",
-                    "translation": "He is always ready to help."
+                    "example": "Ποιο είναι το όνομά σου;",
+                    "translation": "What is your name?"
                 }
             ],
             "notes": [
-                "Use 'να + verb' for actions.",
-                "Use 'για + noun' for situations/events.",
-                "The adjective agrees in gender and number with the subject."
+                "Nouns in -μα are neuter and add -τα in plural."
             ]
         },
         {
-            "id": "v1a1-002",
-            "phrase": "aaa - έτοιμος.  -- aa",
-            "meaning": "ready, prepared",
+            "id": "v-pi-002",
+            "phrase": "κατάγομαι",
+            "meaning": "to come from / to originate from",
             "forms": {
-                "masculine": "έτοιμος",
-                "feminine": "έτοιμη",
-                "neuter": "έτοιμο"
+                "present": "κατάγομαι, κατάγεσαι, κατάγεται, καταγόμαστε, κατάγεσθε, κατάγονται"
             },
             "usage_patterns": [
                 {
-                    "pattern": "είμαι έτοιμος/η",
-                    "meaning": "to be ready",
+                    "pattern": "κατάγομαι από + place",
+                    "meaning": "to be originally from",
                     "examples": [
                         {
-                            "example": "Είμαι έτοιμος.",
-                            "translation": "I am ready."
-                        },
-                        {
-                            "example": "Είσαι έτοιμη για το μάθημα;",
-                            "translation": "Are you ready for the lesson?"
-                        }
-                    ]
-                },
-                {
-                    "pattern": "έτοιμος να + verb",
-                    "meaning": "ready to do something",
-                    "examples": [
-                        {
-                            "example": "Είμαι έτοιμος να φύγω.",
-                            "translation": "I am ready to leave."
-                        },
-                        {
-                            "example": "Είναι έτοιμη να ξεκινήσει.",
-                            "translation": "She is ready to start."
-                        }
-                    ]
-                },
-                {
-                    "pattern": "έτοιμος για + noun",
-                    "meaning": "ready for something",
-                    "examples": [
-                        {
-                            "example": "Είμαστε έτοιμοι για το ταξίδι.",
-                            "translation": "We are ready for the trip."
-                        },
-                        {
-                            "example": "Δεν είμαι έτοιμος για εξετάσεις.",
-                            "translation": "I am not ready for exams."
-                        }
-                    ]
-                },
-                {
-                    "pattern": "έτοιμος από + noun",
-                    "meaning": "ready/prepared from (context-specific)",
-                    "examples": [
-                        {
-                            "example": "Το φαγητό είναι έτοιμο από νωρίς.",
-                            "translation": "The food is ready early."
+                            "example": "Κατάγομαι από την Ελλάδα.",
+                            "translation": "I come from Greece."
                         }
                     ]
                 }
             ],
             "collocations": [
                 {
-                    "collocation": "έτοιμο φαγητό",
-                    "translation": "ready-made food"
-                },
-                {
-                    "collocation": "έτοιμη λύση",
-                    "translation": "ready solution"
-                },
-                {
-                    "collocation": "έτοιμος καφές",
-                    "translation": "instant coffee"
-                },
-                {
-                    "collocation": "έτοιμος για όλα",
-                    "translation": "ready for anything"
-                },
-                {
-                    "collocation": "σχεδόν έτοιμος",
-                    "translation": "almost ready"
-                },
-                {
-                    "collocation": "εντελώς έτοιμος",
-                    "translation": "completely ready"
+                    "collocation": "τόπος καταγωγής",
+                    "translation": "place of origin"
                 }
             ],
             "additional_examples": [
                 {
-                    "example": "Το δείπνο είναι έτοιμο.",
-                    "translation": "Dinner is ready."
-                },
-                {
-                    "example": "Είσαι έτοιμος να φύγουμε;",
-                    "translation": "Are you ready to leave?"
-                },
-                {
-                    "example": "Πρέπει να είσαι έτοιμη για όλα.",
-                    "translation": "You must be ready for everything."
-                },
-                {
-                    "example": "Είναι πάντα έτοιμος να βοηθήσει.",
-                    "translation": "He is always ready to help."
+                    "example": "Από πού κατάγεσαι;",
+                    "translation": "Where do you come from?"
                 }
             ],
             "notes": [
-                "Use 'να + verb' for actions.",
-                "Use 'για + noun' for situations/events.",
-                "The adjective agrees in gender and number with the subject."
+                "This is a deponent verb (passive form, active meaning)."
+            ]
+        },
+        {
+            "id": "v-pi-003",
+            "phrase": "η ηλικία",
+            "meaning": "age",
+            "forms": {
+                "feminine": "η ηλικία",
+                "plural": "οι ηλικίες"
+            },
+            "usage_patterns": [
+                {
+                    "pattern": "Ποια είναι η ηλικία σου;",
+                    "meaning": "What is your age?",
+                    "examples": [
+                        {
+                            "example": "Είμαι είκοσι χρονών.",
+                            "translation": "I am twenty years old."
+                        }
+                    ]
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "σε μικρή ηλικία",
+                    "translation": "at a young age"
+                }
+            ],
+            "additional_examples": [
+                {
+                    "example": "Τι ηλικία έχεις;",
+                    "translation": "How old are you? (Literal: What age do you have?)"
+                }
+            ],
+            "notes": [
+                "Usually, Greeks use the verb 'είμαι' + genitive 'χρονών' to state age."
+            ]
+        },
+        {
+            "id": "v-pi-004",
+            "phrase": "η οικογένεια",
+            "meaning": "family",
+            "forms": {
+                "feminine": "η οικογένεια",
+                "plural": "οι οικογένειες"
+            },
+            "usage_patterns": [
+                {
+                    "pattern": "έχω μεγάλη οικογένεια",
+                    "meaning": "to have a big family",
+                    "examples": [
+                        {
+                            "example": "Η οικογένειά μου είναι στην Αμερική.",
+                            "translation": "My family is in America."
+                        }
+                    ]
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "μονογονεϊκή οικογένεια",
+                    "translation": "single-parent family"
+                }
+            ],
+            "additional_examples": [
+                {
+                    "example": "Πόσα άτομα είναι η οικογένειά σου;",
+                    "translation": "How many people are in your family?"
+                }
+            ],
+            "notes": [
+                "Always feminine."
+            ]
+        },
+        {
+            "id": "v-pi-005",
+            "phrase": "γιατί",
+            "meaning": "why / because",
+            "forms": {
+                "conjunction": "γιατί"
+            },
+            "usage_patterns": [
+                {
+                    "pattern": "Γιατί μαθαίνεις Ελληνικά;",
+                    "meaning": "Why are you learning Greek?",
+                    "examples": [
+                        {
+                            "example": "Μαθαίνω Ελληνικά γιατί μου αρέσει η γλώσσα.",
+                            "translation": "I learn Greek because I like the language."
+                        }
+                    ]
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "γιατί όχι;",
+                    "translation": "why not?"
+                }
+            ],
+            "additional_examples": [
+                {
+                    "example": "Γιατί είσαι εδώ;",
+                    "translation": "Why are you here?"
+                }
+            ],
+            "notes": [
+                "Serves as both the question 'why' and the answer 'because'."
+            ]
+        },
+        {
+            "id": "v-pi-006",
+            "phrase": "ο πατέρας",
+            "meaning": "father",
+            "forms": {
+                "masculine": "ο πατέρας",
+                "plural": "οι πατέρες / μπαμπάδες"
+            },
+            "usage_patterns": [
+                {
+                    "pattern": "ο πατέρας μου",
+                    "meaning": "my father",
+                    "examples": [
+                        {
+                            "example": "Ο πατέρας μου είναι γιατρός.",
+                            "translation": "My father is a doctor."
+                        }
+                    ]
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "πατρική στοργή",
+                    "translation": "paternal affection"
+                }
+            ],
+            "additional_examples": [
+                {
+                    "example": "Πώς λένε τον πατέρα σου;",
+                    "translation": "What is your father's name?"
+                }
+            ],
+            "notes": [
+                "Informal version is 'ο μπαμπάς'."
+            ]
+        },
+        {
+            "id": "v-pi-007",
+            "phrase": "η μητέρα",
+            "meaning": "mother",
+            "forms": {
+                "feminine": "η μητέρα",
+                "plural": "οι μητέρες / μαμάδες"
+            },
+            "usage_patterns": [
+                {
+                    "pattern": "η μητέρα μου",
+                    "meaning": "my mother",
+                    "examples": [
+                        {
+                            "example": "Η μητέρα μου είναι δασκάλα.",
+                            "translation": "My mother is a teacher."
+                        }
+                    ]
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "μητρική γλώσσα",
+                    "translation": "mother tongue"
+                }
+            ],
+            "additional_examples": [
+                {
+                    "example": "Η μητέρα μου μένει στην Αθήνα.",
+                    "translation": "My mother lives in Athens."
+                }
+            ],
+            "notes": [
+                "Informal version is 'η μαμά'."
+            ]
+        },
+        {
+            "id": "v-pi-008",
+            "phrase": "τα αδέρφια",
+            "meaning": "siblings (brothers and sisters)",
+            "forms": {
+                "neuter_plural": "τα αδέρφια",
+                "singular_m": "ο αδερφός",
+                "singular_f": "η αδερφή"
+            },
+            "usage_patterns": [
+                {
+                    "pattern": "Έχεις αδέρφια;",
+                    "meaning": "Do you have siblings?",
+                    "examples": [
+                        {
+                            "example": "Έχω δύο αδέρφια: έναν αδερφό και μία αδερφή.",
+                            "translation": "I have two siblings: one brother and one sister."
+                        }
+                    ]
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "μεγάλος αδερφός",
+                    "translation": "older brother"
+                }
+            ],
+            "additional_examples": [
+                {
+                    "example": "Δεν έχω αδέρφια, είμαι μοναχοπαίδι.",
+                    "translation": "I don't have siblings, I am an only child."
+                }
+            ],
+            "notes": [
+                "The neuter plural 'τα αδέρφια' covers both genders."
+            ]
+        },
+        {
+            "id": "v-pi-009",
+            "phrase": "ο χρόνος / το έτος",
+            "meaning": "year",
+            "forms": {
+                "masculine": "ο χρόνος",
+                "neuter": "το έτος"
+            },
+            "usage_patterns": [
+                {
+                    "pattern": "είμαι ... χρονών",
+                    "meaning": "I am ... years old",
+                    "examples": [
+                        {
+                            "example": "Είναι τριάντα χρονών.",
+                            "translation": "He/She is thirty years old."
+                        }
+                    ]
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "κάθε χρόνο",
+                    "translation": "every year"
+                }
+            ],
+            "additional_examples": [
+                {
+                    "example": "Πόσων χρονών είσαι;",
+                    "translation": "How old are you?"
+                }
+            ],
+            "notes": [
+                "'Χρονών' is the genitive plural form used specifically for age."
+            ]
+        },
+        {
+            "id": "v-pi-010",
+            "phrase": "η χώρα",
+            "meaning": "country",
+            "forms": {
+                "feminine": "η χώρα",
+                "plural": "οι χώρες"
+            },
+            "usage_patterns": [
+                {
+                    "pattern": "Από ποια χώρα είσαι;",
+                    "meaning": "Which country are you from?",
+                    "examples": [
+                        {
+                            "example": "Η χώρα μου είναι η Γαλλία.",
+                            "translation": "My country is France."
+                        }
+                    ]
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "ξένη χώρα",
+                    "translation": "foreign country"
+                }
+            ],
+            "additional_examples": [
+                {
+                    "example": "Μου αρέσει η χώρα σου.",
+                    "translation": "I like your country."
+                }
+            ],
+            "notes": [
+                "Do not confuse with 'το χωριό' (village)."
+            ]
+        },
+        {
+            "id": "v-pi-011",
+            "phrase": "μένω",
+            "meaning": "to live / to stay",
+            "forms": {
+                "present": "μένω, μένεις, μένει, μένουμε, μένετε, μένουν"
+            },
+            "usage_patterns": [
+                {
+                    "pattern": "μένω σε + place",
+                    "meaning": "to reside in",
+                    "examples": [
+                        {
+                            "example": "Μένω στο Λονδίνο.",
+                            "translation": "I live in London."
+                        }
+                    ]
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "μένω μόνος μου",
+                    "translation": "I live by myself"
+                }
+            ],
+            "additional_examples": [
+                {
+                    "example": "Πού μένεις;",
+                    "translation": "Where do you live?"
+                }
+            ],
+            "notes": [
+                "Used for both temporary staying and permanent living."
+            ]
+        },
+        {
+            "id": "v-pi-012",
+            "phrase": "η δουλειά / το επάγγελμα",
+            "meaning": "job / profession",
+            "forms": {
+                "feminine": "η δουλειά",
+                "neuter": "το επάγγελμα"
+            },
+            "usage_patterns": [
+                {
+                    "pattern": "Τι δουλειά κάνεις;",
+                    "meaning": "What do you do for a living?",
+                    "examples": [
+                        {
+                            "example": "Η δουλειά μου είναι προγραμματιστής.",
+                            "translation": "My job is programmer."
+                        }
+                    ]
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "ψάχνω δουλειά",
+                    "translation": "I am looking for a job"
+                }
+            ],
+            "additional_examples": [
+                {
+                    "example": "Ποιο είναι το επάγγελμά σου;",
+                    "translation": "What is your profession?"
+                }
+            ],
+            "notes": [
+                "'Δουλειά' is more common in everyday speech."
+            ]
+        },
+        {
+            "id": "v-pi-013",
+            "phrase": "ο/η σύντροφος",
+            "meaning": "partner",
+            "forms": {
+                "masculine/feminine": "ο σύντροφος / η σύντροφος"
+            },
+            "usage_patterns": [
+                {
+                    "pattern": "ο σύντροφός μου",
+                    "meaning": "my partner",
+                    "examples": [
+                        {
+                            "example": "Ο σύντροφός μου είναι Έλληνας.",
+                            "translation": "My partner is Greek."
+                        }
+                    ]
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "σύντροφος ζωής",
+                    "translation": "life partner"
+                }
+            ],
+            "additional_examples": [
+                {
+                    "example": "Έχεις σύντροφο;",
+                    "translation": "Do you have a partner?"
+                }
+            ],
+            "notes": [
+                "Commonly used for both married and unmarried couples."
+            ]
+        },
+        {
+            "id": "v-pi-014",
+            "phrase": "παντρεμένος / -η",
+            "meaning": "married",
+            "forms": {
+                "masculine": "παντρεμένος",
+                "feminine": "παντρεμένη"
+            },
+            "usage_patterns": [
+                {
+                    "pattern": "Είμαι παντρεμένος/η.",
+                    "meaning": "I am married.",
+                    "examples": [
+                        {
+                            "example": "Είσαι παντρεμένος;",
+                            "translation": "Are you married?"
+                        }
+                    ]
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "νεόνυμφοι",
+                    "translation": "newlyweds"
+                }
+            ],
+            "additional_examples": [
+                {
+                    "example": "Δεν είμαι παντρεμένη.",
+                    "translation": "I am not married."
+                }
+            ],
+            "notes": [
+                "Adjectives agree with the speaker's gender."
+            ]
+        },
+        {
+            "id": "v-pi-015",
+            "phrase": "το παιδί",
+            "meaning": "child",
+            "forms": {
+                "neuter": "το παιδί",
+                "plural": "τα παιδιά"
+            },
+            "usage_patterns": [
+                {
+                    "pattern": "Έχω ... παιδιά.",
+                    "meaning": "I have ... children.",
+                    "examples": [
+                        {
+                            "example": "Έχω δύο παιδιά.",
+                            "translation": "I have two children."
+                        }
+                    ]
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "καλό παιδί",
+                    "translation": "good child / good person"
+                }
+            ],
+            "additional_examples": [
+                {
+                    "example": "Πόσα παιδιά έχεις;",
+                    "translation": "How many children do you have?"
+                }
+            ],
+            "notes": [
+                "Children's gender is neutral regardless of sex unless specified (αγόρι/κορίτσι)."
+            ]
+        },
+        {
+            "id": "v-pi-016",
+            "phrase": "η γλώσσα",
+            "meaning": "language / tongue",
+            "forms": {
+                "feminine": "η γλώσσα",
+                "plural": "οι γλώσσες"
+            },
+            "usage_patterns": [
+                {
+                    "pattern": "Μιλάω ... γλώσσες.",
+                    "meaning": "I speak ... languages.",
+                    "examples": [
+                        {
+                            "example": "Η μητρική μου γλώσσα είναι τα Αγγλικά.",
+                            "translation": "My mother tongue is English."
+                        }
+                    ]
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "ξένη γλώσσα",
+                    "translation": "foreign language"
+                }
+            ],
+            "additional_examples": [
+                {
+                    "example": "Ποιες γλώσσες μιλάς;",
+                    "translation": "Which languages do you speak?"
+                }
+            ],
+            "notes": [
+                "Can also refer to the physical tongue."
+            ]
+        },
+        {
+            "id": "v-pi-017",
+            "phrase": "τα Ελληνικά",
+            "meaning": "Greek language",
+            "forms": {
+                "neuter_plural": "τα Ελληνικά"
+            },
+            "usage_patterns": [
+                {
+                    "pattern": "Μαθαίνω Ελληνικά.",
+                    "meaning": "I am learning Greek.",
+                    "examples": [
+                        {
+                            "example": "Τα Ελληνικά είναι δύσκολα αλλά ωραία.",
+                            "translation": "Greek is difficult but beautiful."
+                        }
+                    ]
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "μιλάω καλά Ελληνικά",
+                    "translation": "I speak Greek well"
+                }
+            ],
+            "additional_examples": [
+                {
+                    "example": "Γιατί μαθαίνεις Ελληνικά;",
+                    "translation": "Why are you learning Greek?"
+                }
+            ],
+            "notes": [
+                "Language names are usually neuter plural in Greek."
+            ]
+        },
+        {
+            "id": "v-pi-018",
+            "phrase": "η Ελλάδα",
+            "meaning": "Greece",
+            "forms": {
+                "feminine": "η Ελλάδα"
+            },
+            "usage_patterns": [
+                {
+                    "pattern": "στην Ελλάδα",
+                    "meaning": "in Greece",
+                    "examples": [
+                        {
+                            "example": "Θέλω να πάω στην Ελλάδα.",
+                            "translation": "I want to go to Greece."
+                        }
+                    ]
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "αρχαία Ελλάδα",
+                    "translation": "ancient Greece"
+                }
+            ],
+            "additional_examples": [
+                {
+                    "example": "Η Ελλάδα είναι όμορφη.",
+                    "translation": "Greece is beautiful."
+                }
+            ],
+            "notes": [
+                "Always use the definite article 'η' with country names."
+            ]
+        },
+        {
+            "id": "v-pi-019",
+            "phrase": "ο/η Έλληνας / Ελληνίδα",
+            "meaning": "Greek person",
+            "forms": {
+                "masculine": "ο Έλληνας",
+                "feminine": "η Ελληνίδα"
+            },
+            "usage_patterns": [
+                {
+                    "pattern": "Είμαι Έλληνας/Ελληνίδα.",
+                    "meaning": "I am Greek.",
+                    "examples": [
+                        {
+                            "example": "Ο φίλος μου είναι Έλληνας.",
+                            "translation": "My friend is Greek."
+                        }
+                    ]
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "Ελληνοαμερικανός",
+                    "translation": "Greek-American"
+                }
+            ],
+            "additional_examples": [
+                {
+                    "example": "Είναι Ελληνίδα από την Κρήτη.",
+                    "translation": "She is Greek from Crete."
+                }
+            ],
+            "notes": [
+                "Nationalities are capitalized in Greek."
+            ]
+        },
+        {
+            "id": "v-pi-020",
+            "phrase": "ο λόγος",
+            "meaning": "reason / speech",
+            "forms": {
+                "masculine": "ο λόγος",
+                "plural": "οι λόγοι"
+            },
+            "usage_patterns": [
+                {
+                    "pattern": "Ο λόγος που...",
+                    "meaning": "The reason why...",
+                    "examples": [
+                        {
+                            "example": "Ο λόγος που μαθαίνω Ελληνικά είναι η οικογένειά μου.",
+                            "translation": "The reason I learn Greek is my family."
+                        }
+                    ]
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "για ποιο λόγο;",
+                    "translation": "for what reason?"
+                }
+            ],
+            "additional_examples": [
+                {
+                    "example": "Υπάρχουν πολλοί λόγοι.",
+                    "translation": "There are many reasons."
+                }
+            ],
+            "notes": [
+                "Also means 'speech' or 'word'."
+            ]
+        },
+        {
+            "id": "v-pi-021",
+            "phrase": "μου αρέσει",
+            "meaning": "I like",
+            "forms": {
+                "third_singular": "μου αρέσει",
+                "third_plural": "μου αρέσουν"
+            },
+            "usage_patterns": [
+                {
+                    "pattern": "μου αρέσει + noun/verb",
+                    "meaning": "to like something/doing something",
+                    "examples": [
+                        {
+                            "example": "Μου αρέσει ο ελληνικός πολιτισμός.",
+                            "translation": "I like Greek culture."
+                        }
+                    ]
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "μου αρέσει πολύ",
+                    "translation": "I like it a lot"
+                }
+            ],
+            "additional_examples": [
+                {
+                    "example": "Μου αρέσει να ταξιδεύω στην Ελλάδα.",
+                    "translation": "I like traveling to Greece."
+                }
+            ],
+            "notes": [
+                "Use 'αρέσουν' if the liked object is plural."
+            ]
+        },
+        {
+            "id": "v-pi-022",
+            "phrase": "ο πολιτισμός",
+            "meaning": "culture / civilization",
+            "forms": {
+                "masculine": "ο πολιτισμός",
+                "plural": "οι πολιτισμοί"
+            },
+            "usage_patterns": [
+                {
+                    "pattern": "με ενδιαφέρει ο πολιτισμός",
+                    "meaning": "I am interested in culture",
+                    "examples": [
+                        {
+                            "example": "Μαθαίνω Ελληνικά για τον πολιτισμό.",
+                            "translation": "I learn Greek for the culture."
+                        }
+                    ]
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "ελληνικός πολιτισμός",
+                    "translation": "Greek culture"
+                }
+            ],
+            "additional_examples": [
+                {
+                    "example": "Ο πολιτισμός της Ελλάδας είναι παλιός.",
+                    "translation": "The culture of Greece is old."
+                }
+            ],
+            "notes": [
+                "Important reason for many students."
+            ]
+        },
+        {
+            "id": "v-pi-023",
+            "phrase": "η ιστορία",
+            "meaning": "history / story",
+            "forms": {
+                "feminine": "η ιστορία",
+                "plural": "οι ιστορίες"
+            },
+            "usage_patterns": [
+                {
+                    "pattern": "διαβάζω ιστορία",
+                    "meaning": "I read history",
+                    "examples": [
+                        {
+                            "example": "Μου αρέσει η ελληνική ιστορία.",
+                            "translation": "I like Greek history."
+                        }
+                    ]
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "λέω μια ιστορία",
+                    "translation": "I tell a story"
+                }
+            ],
+            "additional_examples": [
+                {
+                    "example": "Η ιστορία είναι ενδιαφέρουσα.",
+                    "translation": "History is interesting."
+                }
+            ],
+            "notes": [
+                "Can mean both history (the subject) and a story (tale)."
+            ]
+        },
+        {
+            "id": "v-pi-024",
+            "phrase": "οι διακοπές",
+            "meaning": "vacation / holidays",
+            "forms": {
+                "feminine_plural": "οι διακοπές"
+            },
+            "usage_patterns": [
+                {
+                    "pattern": "πάω διακοπές",
+                    "meaning": "to go on vacation",
+                    "examples": [
+                        {
+                            "example": "Πάω διακοπές στην Ελλάδα κάθε καλοκαίρι.",
+                            "translation": "I go on vacation to Greece every summer."
+                        }
+                    ]
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "καλοκαιρινές διακοπές",
+                    "translation": "summer vacation"
+                }
+            ],
+            "additional_examples": [
+                {
+                    "example": "Πού θα πας διακοπές;",
+                    "translation": "Where will you go for vacation?"
+                }
+            ],
+            "notes": [
+                "Almost always used in the plural."
+            ]
+        },
+        {
+            "id": "v-pi-025",
+            "phrase": "το σπίτι",
+            "meaning": "house / home",
+            "forms": {
+                "neuter": "το σπίτι",
+                "plural": "τα σπίτια"
+            },
+            "usage_patterns": [
+                {
+                    "pattern": "στο σπίτι",
+                    "meaning": "at home",
+                    "examples": [
+                        {
+                            "example": "Είμαι στο σπίτι με την οικογένειά μου.",
+                            "translation": "I am at home with my family."
+                        }
+                    ]
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "δουλειά από το σπίτι",
+                    "translation": "work from home"
+                }
+            ],
+            "additional_examples": [
+                {
+                    "example": "Το σπίτι μου είναι μικρό.",
+                    "translation": "My house is small."
+                }
+            ],
+            "notes": [
+                "Commonly ends in -ι (neuter)."
+            ]
+        },
+        {
+            "id": "v-pi-026",
+            "phrase": "ο παππούς",
+            "meaning": "grandfather",
+            "forms": {
+                "masculine": "ο παππούς",
+                "plural": "οι παππούδες"
+            },
+            "usage_patterns": [
+                {
+                    "pattern": "ο παππούς μου",
+                    "meaning": "my grandfather",
+                    "examples": [
+                        {
+                            "example": "Ο παππούς μου είναι από τη Χίο.",
+                            "translation": "My grandfather is from Chios."
+                        }
+                    ]
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "παππούς και γιαγιά",
+                    "translation": "grandparents"
+                }
+            ],
+            "additional_examples": [
+                {
+                    "example": "Πώς λένε τον παππού σου;",
+                    "translation": "What is your grandfather's name?"
+                }
+            ],
+            "notes": [
+                "Irregular plural ending in -δες."
+            ]
+        },
+        {
+            "id": "v-pi-027",
+            "phrase": "η γιαγιά",
+            "meaning": "grandmother",
+            "forms": {
+                "feminine": "η γιαγιά",
+                "plural": "οι γιαγιάδες"
+            },
+            "usage_patterns": [
+                {
+                    "pattern": "η γιαγιά μου",
+                    "meaning": "my grandmother",
+                    "examples": [
+                        {
+                            "example": "Η γιαγιά μου μαγειρεύει πολύ καλά.",
+                            "translation": "My grandmother cooks very well."
+                        }
+                    ]
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "παραμύθια της γιαγιάς",
+                    "translation": "grandmother's tales"
+                }
+            ],
+            "additional_examples": [
+                {
+                    "example": "Η γιαγιά μου είναι ογδόντα χρονών.",
+                    "translation": "My grandmother is eighty years old."
+                }
+            ],
+            "notes": [
+                "Feminine irregular plural in -δες."
+            ]
+        },
+        {
+            "id": "v-pi-028",
+            "phrase": "ο/η φίλος / φίλη",
+            "meaning": "friend",
+            "forms": {
+                "masculine": "ο φίλος",
+                "feminine": "η φίλη",
+                "plural": "οι φίλοι / οι φίλες"
+            },
+            "usage_patterns": [
+                {
+                    "pattern": "καλός φίλος",
+                    "meaning": "good friend",
+                    "examples": [
+                        {
+                            "example": "Έχω πολλούς Έλληνες φίλους.",
+                            "translation": "I have many Greek friends."
+                        }
+                    ]
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "κολλητός φίλος",
+                    "translation": "best friend"
+                }
+            ],
+            "additional_examples": [
+                {
+                    "example": "Η φίλη μου μένει στην Κρήτη.",
+                    "translation": "My friend (f) lives in Crete."
+                }
+            ],
+            "notes": [
+                "Use 'φίλοι' for a mixed group of friends."
+            ]
+        },
+        {
+            "id": "v-pi-029",
+            "phrase": "χαίρω πολύ",
+            "meaning": "nice to meet you",
+            "forms": {
+                "phrase": "χαίρω πολύ"
+            },
+            "usage_patterns": [
+                {
+                    "pattern": "Χαίρω πολύ για τη γνωριμία.",
+                    "meaning": "Very glad to meet you.",
+                    "examples": [
+                        {
+                            "example": "—Με λένε Γιώργο. —Χαίρω πολύ!",
+                            "translation": "—My name is George. —Nice to meet you!"
+                        }
+                    ]
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "επίσης",
+                    "translation": "likewise"
+                }
+            ],
+            "additional_examples": [
+                {
+                    "example": "Χαίρω πολύ, κύριε Παπαδόπουλε.",
+                    "translation": "Nice to meet you, Mr. Papadopoulos."
+                }
+            ],
+            "notes": [
+                "Standard formal greeting when being introduced."
+            ]
+        },
+        {
+            "id": "v-pi-030",
+            "phrase": "ο/η φοιτητής / φοιτήτρια",
+            "meaning": "student (university)",
+            "forms": {
+                "masculine": "ο φοιτητής",
+                "feminine": "η φοιτήτρια"
+            },
+            "usage_patterns": [
+                {
+                    "pattern": "Είμαι φοιτητής στο...",
+                    "meaning": "I am a student at...",
+                    "examples": [
+                        {
+                            "example": "Είμαι φοιτητής στο Πανεπιστήμιο.",
+                            "translation": "I am a student at the University."
+                        }
+                    ]
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "φοιτητική ζωή",
+                    "translation": "student life"
+                }
+            ],
+            "additional_examples": [
+                {
+                    "example": "Η αδερφή μου είναι φοιτήτρια.",
+                    "translation": "My sister is a university student."
+                }
+            ],
+            "notes": [
+                "Use 'μαθητής' for school-level students."
+            ]
+        },
+        {
+            "id": "v-pi-031",
+            "phrase": "σπουδάζω",
+            "meaning": "to study (a subject at university)",
+            "forms": {
+                "present": "σπουδάζω, σπουδάζεις, σπουδάζει, σπουδάζουμε, σπουδάζετε, σπουδάζουν"
+            },
+            "usage_patterns": [
+                {
+                    "pattern": "σπουδάζω + subject",
+                    "meaning": "to major in something",
+                    "examples": [
+                        {
+                            "example": "Σπουδάζω Ιατρική.",
+                            "translation": "I study Medicine."
+                        }
+                    ]
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "σπουδάζω στο εξωτερικό",
+                    "translation": "I study abroad"
+                }
+            ],
+            "additional_examples": [
+                {
+                    "example": "Τι σπουδάζεις;",
+                    "translation": "What are you studying?"
+                }
+            ],
+            "notes": [
+                "Distinct from 'διαβάζω' (to read/study for tomorrow)."
+            ]
+        },
+        {
+            "id": "v-pi-032",
+            "phrase": "η πόλη",
+            "meaning": "city",
+            "forms": {
+                "feminine": "η πόλη",
+                "plural": "οι πόλεις"
+            },
+            "usage_patterns": [
+                {
+                    "pattern": "σε ποια πόλη;",
+                    "meaning": "in which city?",
+                    "examples": [
+                        {
+                            "example": "Η Αθήνα είναι μια μεγάλη πόλη.",
+                            "translation": "Athens is a big city."
+                        }
+                    ]
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "κέντρο πόλης",
+                    "translation": "city center"
+                }
+            ],
+            "additional_examples": [
+                {
+                    "example": "Μένω στην πόλη.",
+                    "translation": "I live in the city."
+                }
+            ],
+            "notes": [
+                "Ends in -η but has irregular plural -εις."
+            ]
+        },
+        {
+            "id": "v-pi-033",
+            "phrase": "το μέλος",
+            "meaning": "member",
+            "forms": {
+                "neuter": "το μέλος",
+                "plural": "τα μέλη"
+            },
+            "usage_patterns": [
+                {
+                    "pattern": "μέλος της οικογένειας",
+                    "meaning": "family member",
+                    "examples": [
+                        {
+                            "example": "Η οικογένειά μου έχει πέντε μέλη.",
+                            "translation": "My family has five members."
+                        }
+                    ]
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "ενεργό μέλος",
+                    "translation": "active member"
+                }
+            ],
+            "additional_examples": [
+                {
+                    "example": "Είμαι μέλος αυτού του συλλόγου.",
+                    "translation": "I am a member of this club."
+                }
+            ],
+            "notes": [
+                "Commonly used to describe family size."
+            ]
+        },
+        {
+            "id": "v-pi-034",
+            "phrase": "ο αριθμός",
+            "meaning": "number",
+            "forms": {
+                "masculine": "ο αριθμός",
+                "plural": "οι αριθμοί"
+            },
+            "usage_patterns": [
+                {
+                    "pattern": "ο αριθμός τηλεφώνου",
+                    "meaning": "phone number",
+                    "examples": [
+                        {
+                            "example": "Ποιος είναι ο αριθμός σου;",
+                            "translation": "What is your number?"
+                        }
+                    ]
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "αριθμός μελών",
+                    "translation": "number of members"
+                }
+            ],
+            "additional_examples": [
+                {
+                    "example": "Ο αριθμός της οικογένειάς μου είναι μικρός.",
+                    "translation": "The number of my family is small."
+                }
+            ],
+            "notes": [
+                "Used for counting items as well."
+            ]
+        },
+        {
+            "id": "v-pi-035",
+            "phrase": "μιλάω",
+            "meaning": "to speak / to talk",
+            "forms": {
+                "present": "μιλάω, μιλάς, μιλάει, μιλάμε, μιλάτε, μιλάνε"
+            },
+            "usage_patterns": [
+                {
+                    "pattern": "μιλάω + language",
+                    "meaning": "to speak a language",
+                    "examples": [
+                        {
+                            "example": "Μιλάω λίγα Ελληνικά.",
+                            "translation": "I speak a little Greek."
+                        }
+                    ]
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "μιλάω σιγά",
+                    "translation": "I speak quietly"
+                }
+            ],
+            "additional_examples": [
+                {
+                    "example": "Μιλάς Αγγλικά;",
+                    "translation": "Do you speak English?"
+                }
+            ],
+            "notes": [
+                "Contracted verb (-άω type)."
+            ]
+        },
+        {
+            "id": "v-pi-036",
+            "phrase": "λίγο",
+            "meaning": "a little / a bit",
+            "forms": {
+                "adverb": "λίγο"
+            },
+            "usage_patterns": [
+                {
+                    "pattern": "μιλάω λίγο",
+                    "meaning": "to speak a bit",
+                    "examples": [
+                        {
+                            "example": "Μιλάω λίγο Ελληνικά.",
+                            "translation": "I speak a little Greek."
+                        }
+                    ]
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "λίγο πολύ",
+                    "translation": "more or less"
+                }
+            ],
+            "additional_examples": [
+                {
+                    "example": "Καταλαβαίνω λίγο.",
+                    "translation": "I understand a little."
+                }
+            ],
+            "notes": [
+                "Essential for A1 learners to manage expectations."
+            ]
+        },
+        {
+            "id": "v-pi-037",
+            "phrase": "καταλαβαίνω",
+            "meaning": "to understand",
+            "forms": {
+                "present": "καταλαβαίνω, καταλαβαίνεις, καταλαβαίνει, καταλαβαίνουμε, καταλαβαίνετε, καταλαβαίνουν"
+            },
+            "usage_patterns": [
+                {
+                    "pattern": "δεν καταλαβαίνω",
+                    "meaning": "I don't understand",
+                    "examples": [
+                        {
+                            "example": "Συγγνώμη, δεν καταλαβαίνω.",
+                            "translation": "Sorry, I don't understand."
+                        }
+                    ]
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "καταλαβαίνω καλά",
+                    "translation": "I understand well"
+                }
+            ],
+            "additional_examples": [
+                {
+                    "example": "Καταλαβαίνεις τι λέω;",
+                    "translation": "Do you understand what I'm saying?"
+                }
+            ],
+            "notes": [
+                "Very common verb in learning contexts."
+            ]
+        },
+        {
+            "id": "v-pi-038",
+            "phrase": "μάλιστα",
+            "meaning": "yes / indeed (formal)",
+            "forms": {
+                "adverb": "μάλιστα"
+            },
+            "usage_patterns": [
+                {
+                    "pattern": "Μάλιστα, κύριε.",
+                    "meaning": "Yes, sir.",
+                    "examples": [
+                        {
+                            "example": "—Είσαι ο Νίκος; —Μάλιστα.",
+                            "translation": "—Are you Nikos? —Yes."
+                        }
+                    ]
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "βεβαίως",
+                    "translation": "certainly"
+                }
+            ],
+            "additional_examples": [
+                {
+                    "example": "Μάλιστα, καταλαβαίνω.",
+                    "translation": "Yes, I understand."
+                }
+            ],
+            "notes": [
+                "More formal than 'ναι'."
+            ]
+        },
+        {
+            "id": "v-pi-039",
+            "phrase": "το επώνυμο",
+            "meaning": "surname / last name",
+            "forms": {
+                "neuter": "το επώνυμο"
+            },
+            "usage_patterns": [
+                {
+                    "pattern": "Ποιο είναι το επώνυμό σου;",
+                    "meaning": "What is your last name?",
+                    "examples": [
+                        {
+                            "example": "Το επώνυμό μου είναι Παπαδόπουλος.",
+                            "translation": "My last name is Papadopoulos."
+                        }
+                    ]
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "όνομα και επώνυμο",
+                    "translation": "full name"
+                }
+            ],
+            "additional_examples": [
+                {
+                    "example": "Πώς γράφεται το επώνυμό σου;",
+                    "translation": "How is your last name spelled?"
+                }
+            ],
+            "notes": [
+                "Interchangeable with 'επίθετο' in casual speech."
+            ]
+        },
+        {
+            "id": "v-pi-040",
+            "phrase": "ο/η δάσκαλος / δασκάλα",
+            "meaning": "teacher",
+            "forms": {
+                "masculine": "ο δάσκαλος",
+                "feminine": "η δασκάλα"
+            },
+            "usage_patterns": [
+                {
+                    "pattern": "ο δάσκαλος των Ελληνικών",
+                    "meaning": "the Greek teacher",
+                    "examples": [
+                        {
+                            "example": "Η δασκάλα μου είναι πολύ καλή.",
+                            "translation": "My teacher is very good."
+                        }
+                    ]
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "δάσκαλος στο σχολείο",
+                    "translation": "school teacher"
+                }
+            ],
+            "additional_examples": [
+                {
+                    "example": "Ποιος είναι ο δάσκαλός σου;",
+                    "translation": "Who is your teacher?"
+                }
+            ],
+            "notes": [
+                "Specifically for primary education; 'καθηγητής' is for secondary/higher."
+            ]
+        },
+        {
+            "id": "v-pi-041",
+            "phrase": "μαθαίνω",
+            "meaning": "to learn",
+            "forms": {
+                "present": "μαθαίνω, μαθαίνεις, μαθαίνει, μαθαίνουμε, μαθαίνετε, μαθαίνουν"
+            },
+            "usage_patterns": [
+                {
+                    "pattern": "μαθαίνω να + verb",
+                    "meaning": "to learn how to do something",
+                    "examples": [
+                        {
+                            "example": "Μαθαίνω να μιλάω Ελληνικά.",
+                            "translation": "I am learning to speak Greek."
+                        }
+                    ]
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "μαθαίνω γρήγορα",
+                    "translation": "I learn fast"
+                }
+            ],
+            "additional_examples": [
+                {
+                    "example": "Μαθαίνω νέα πράγματα.",
+                    "translation": "I learn new things."
+                }
+            ],
+            "notes": [
+                "Used for both academic learning and acquiring skills."
+            ]
+        },
+        {
+            "id": "v-pi-042",
+            "phrase": "θέλω",
+            "meaning": "to want",
+            "forms": {
+                "present": "θέλω, θέλεις, θέλει, θέλουμε, θέλετε, θέλουν"
+            },
+            "usage_patterns": [
+                {
+                    "pattern": "θέλω να + verb",
+                    "meaning": "I want to ...",
+                    "examples": [
+                        {
+                            "example": "Θέλω να μάθω για την Ελλάδα.",
+                            "translation": "I want to learn about Greece."
+                        }
+                    ]
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "θέλω βοήθεια",
+                    "translation": "I want help"
+                }
+            ],
+            "additional_examples": [
+                {
+                    "example": "Τι θέλεις να κάνεις;",
+                    "translation": "What do you want to do?"
+                }
+            ],
+            "notes": [
+                "Always followed by 'να' when followed by another verb."
+            ]
+        },
+        {
+            "id": "v-pi-043",
+            "phrase": "ο/η σύζυγος",
+            "meaning": "spouse (husband/wife)",
+            "forms": {
+                "masculine/feminine": "ο σύζυγος / η σύζυγος"
+            },
+            "usage_patterns": [
+                {
+                    "pattern": "ο/η σύζυγός μου",
+                    "meaning": "my husband / my wife",
+                    "examples": [
+                        {
+                            "example": "Η σύζυγός μου είναι από τον Καναδά.",
+                            "translation": "My wife is from Canada."
+                        }
+                    ]
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "πρώην σύζυγος",
+                    "translation": "ex-spouse"
+                }
+            ],
+            "additional_examples": [
+                {
+                    "example": "Είναι ο σύζυγός σου εδώ;",
+                    "translation": "Is your husband here?"
+                }
+            ],
+            "notes": [
+                "More formal than 'άντρας μου' (my man/husband) or 'γυναίκα μου' (my woman/wife)."
+            ]
+        },
+        {
+            "id": "v-pi-044",
+            "phrase": "ο γιος",
+            "meaning": "son",
+            "forms": {
+                "masculine": "ο γιος",
+                "plural": "οι γιοι"
+            },
+            "usage_patterns": [
+                {
+                    "pattern": "ο γιος μου",
+                    "meaning": "my son",
+                    "examples": [
+                        {
+                            "example": "Ο γιος μου είναι πέντε χρονών.",
+                            "translation": "My son is five years old."
+                        }
+                    ]
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "μοναχογιός",
+                    "translation": "only son"
+                }
+            ],
+            "additional_examples": [
+                {
+                    "example": "Έχεις γιο;",
+                    "translation": "Do you have a son?"
+                }
+            ],
+            "notes": [
+                "Be careful with the spelling: 'γιος' (son) vs 'γειά' (health/hello)."
+            ]
+        },
+        {
+            "id": "v-pi-045",
+            "phrase": "η κόρη",
+            "meaning": "daughter",
+            "forms": {
+                "feminine": "η κόρη",
+                "plural": "οι κόρες"
+            },
+            "usage_patterns": [
+                {
+                    "pattern": "η κόρη μου",
+                    "meaning": "my daughter",
+                    "examples": [
+                        {
+                            "example": "Η κόρη μου σπουδάζει στην Αθήνα.",
+                            "translation": "My daughter studies in Athens."
+                        }
+                    ]
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "μοναχοκόρη",
+                    "translation": "only daughter"
+                }
+            ],
+            "additional_examples": [
+                {
+                    "example": "Πώς λένε την κόρη σου;",
+                    "translation": "What is your daughter's name?"
+                }
+            ],
+            "notes": [
+                "Common feminine noun."
+            ]
+        },
+        {
+            "id": "v-pi-046",
+            "phrase": "ο/η ξάδερφος / ξαδέρφη",
+            "meaning": "cousin",
+            "forms": {
+                "masculine": "ο ξάδερφος",
+                "feminine": "η ξαδέρφη",
+                "plural": "τα ξαδέρφια"
+            },
+            "usage_patterns": [
+                {
+                    "pattern": "τα ξαδέρφια μου",
+                    "meaning": "my cousins",
+                    "examples": [
+                        {
+                            "example": "Έχω πολλά ξαδέρφια στην Ελλάδα.",
+                            "translation": "I have many cousins in Greece."
+                        }
+                    ]
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "πρώτος ξάδερφος",
+                    "translation": "first cousin"
+                }
+            ],
+            "additional_examples": [
+                {
+                    "example": "Ο ξάδερφός μου μένει δίπλα.",
+                    "translation": "My cousin lives next door."
+                }
+            ],
+            "notes": [
+                "Neuter plural 'τα ξαδέρφια' used for mixed groups."
+            ]
+        },
+        {
+            "id": "v-pi-047",
+            "phrase": "για δουλειά",
+            "meaning": "for work",
+            "forms": {
+                "prepositional_phrase": "για δουλειά"
+            },
+            "usage_patterns": [
+                {
+                    "pattern": "είμαι εδώ για δουλειά",
+                    "meaning": "I am here for work",
+                    "examples": [
+                        {
+                            "example": "Μαθαίνω Ελληνικά για τη δουλειά μου.",
+                            "translation": "I learn Greek for my job."
+                        }
+                    ]
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "ταξίδι για δουλειά",
+                    "translation": "business trip"
+                }
+            ],
+            "additional_examples": [
+                {
+                    "example": "Ήρθε στην Ελλάδα για δουλειά.",
+                    "translation": "He came to Greece for work."
+                }
+            ],
+            "notes": [
+                "Common reason for learning the language."
+            ]
+        },
+        {
+            "id": "v-pi-048",
+            "phrase": "η καταγωγή",
+            "meaning": "origin / descent",
+            "forms": {
+                "feminine": "η καταγωγή"
+            },
+            "usage_patterns": [
+                {
+                    "pattern": "ελληνική καταγωγή",
+                    "meaning": "Greek descent",
+                    "examples": [
+                        {
+                            "example": "Έχω ελληνική καταγωγή από τον πατέρα μου.",
+                            "translation": "I have Greek descent from my father."
+                        }
+                    ]
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "τόπος καταγωγής",
+                    "translation": "place of origin"
+                }
+            ],
+            "additional_examples": [
+                {
+                    "example": "Ποια είναι η καταγωγή σου;",
+                    "translation": "What is your origin?"
+                }
+            ],
+            "notes": [
+                "Used when talking about roots/ancestors."
+            ]
+        },
+        {
+            "id": "v-pi-049",
+            "phrase": "επίσης",
+            "meaning": "also / likewise",
+            "forms": {
+                "adverb": "επίσης"
+            },
+            "usage_patterns": [
+                {
+                    "pattern": "Κι εγώ επίσης.",
+                    "meaning": "Me too / Likewise.",
+                    "examples": [
+                        {
+                            "example": "—Χαίρω πολύ. —Επίσης.",
+                            "translation": "—Nice to meet you. —Likewise."
+                        }
+                    ]
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "επίσης σημαντικό",
+                    "translation": "equally important"
+                }
+            ],
+            "additional_examples": [
+                {
+                    "example": "Μιλάω Αγγλικά και επίσης Γαλλικά.",
+                    "translation": "I speak English and also French."
+                }
+            ],
+            "notes": [
+                "Useful for adding information or responding to greetings."
+            ]
+        },
+        {
+            "id": "v-pi-050",
+            "phrase": "χαίρομαι",
+            "meaning": "to be happy / glad",
+            "forms": {
+                "present": "χαίρομαι, χαίρεσαι, χαίρεται, χαιρόμαστε, χαίρεστε, χαίρονται"
+            },
+            "usage_patterns": [
+                {
+                    "pattern": "Χαίρομαι που σε βλέπω.",
+                    "meaning": "I'm glad to see you.",
+                    "examples": [
+                        {
+                            "example": "Χαίρομαι που μαθαίνεις Ελληνικά.",
+                            "translation": "I am glad that you are learning Greek."
+                        }
+                    ]
+                }
+            ],
+            "collocations": [
+                {
+                    "collocation": "χαίρομαι πολύ",
+                    "translation": "I am very happy"
+                }
+            ],
+            "additional_examples": [
+                {
+                    "example": "Χαίρομαι για την επιτυχία σου.",
+                    "translation": "I am happy for your success."
+                }
+            ],
+            "notes": [
+                "A deponent verb used to express emotions."
             ]
         }
     ]
