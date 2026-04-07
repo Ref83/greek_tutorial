@@ -34,6 +34,16 @@
             "id": "future_simple",
             "level": "A2",
             "name": "Future Simple (Στιγμιαίος Μέλλοντας)"
+        },
+        {
+            "id": "adjectives_gender",
+            "level": "A2",
+            "name": "The Genitive Case"
+        },
+        {
+            "id": "comparison_adjectives",
+            "level": "A2",
+            "name": "Comparison of Adjectives"
         }
     ]
 }

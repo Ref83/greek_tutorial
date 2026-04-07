@@ -1,0 +1,562 @@
+{
+    "exercises": [
+        {
+            "id": "31ea5300-712d-4ce8-b690-bda89422db18",
+            "type": "select",
+            "header": "Η γνώμη ___ (Ο γιατρός) είναι σημαντική.",
+            "translations": "The opinion of the doctor is important.",
+            "options": {
+                "a": "του γιατρού",
+                "b": "τον γιατρός",
+                "c": "της γιατρού",
+                "d": "Ο γιατρός"
+            },
+            "answer": "a",
+            "explanation": "Masculine nouns in -ος take -ου in the genitive."
+        },
+        {
+            "id": "728d5f13-7a61-4338-ad86-7e99a801eedb",
+            "type": "select",
+            "header": "Η γνώμη ___ (Ο δρόμος) είναι σημαντική.",
+            "translations": "The opinion of the road is important.",
+            "options": {
+                "a": "του δρόμου",
+                "b": "τον δρόμος",
+                "c": "της δρόμου",
+                "d": "Ο δρόμος"
+            },
+            "answer": "a",
+            "explanation": "Masculine nouns in -ος take -ου in the genitive."
+        },
+        {
+            "id": "09286205-f166-4a1e-be3e-b1b2adc15459",
+            "type": "select",
+            "header": "Η γνώμη ___ (Ο ουρανός) είναι σημαντική.",
+            "translations": "The opinion of the sky is important.",
+            "options": {
+                "a": "του ουρανού",
+                "b": "τον ουρανός",
+                "c": "της ουρανού",
+                "d": "Ο ουρανός"
+            },
+            "answer": "a",
+            "explanation": "Masculine nouns in -ος take -ου in the genitive."
+        },
+        {
+            "id": "1fb3227f-e3a2-4dab-b671-a5f291f821b3",
+            "type": "select",
+            "header": "Η γνώμη ___ (Ο κόσμος) είναι σημαντική.",
+            "translations": "The opinion of the world is important.",
+            "options": {
+                "a": "του κόσμου",
+                "b": "τον κόσμος",
+                "c": "της κόσμου",
+                "d": "Ο κόσμος"
+            },
+            "answer": "a",
+            "explanation": "Masculine nouns in -ος take -ου in the genitive."
+        },
+        {
+            "id": "16efe4c3-74df-4008-82f3-d5d43336d5e6",
+            "type": "select",
+            "header": "Η γνώμη ___ (Ο αδελφός) είναι σημαντική.",
+            "translations": "The opinion of the brother is important.",
+            "options": {
+                "a": "του αδελφού",
+                "b": "τον αδελφός",
+                "c": "της αδελφού",
+                "d": "Ο αδελφός"
+            },
+            "answer": "a",
+            "explanation": "Masculine nouns in -ος take -ου in the genitive."
+        },
+        {
+            "id": "2a66a149-3b53-4ba9-a3fd-e5457fd3b3f5",
+            "type": "select",
+            "header": "Η γνώμη ___ (Ο νόμος) είναι σημαντική.",
+            "translations": "The opinion of the law is important.",
+            "options": {
+                "a": "του νόμου",
+                "b": "τον νόμος",
+                "c": "της νόμου",
+                "d": "Ο νόμος"
+            },
+            "answer": "a",
+            "explanation": "Masculine nouns in -ος take -ου in the genitive."
+        },
+        {
+            "id": "659ab196-45a3-4033-ac01-784564a73e30",
+            "type": "fill",
+            "header": "Το τέλος ___ (Ο αγώνας) πλησιάζει.",
+            "translations": "The end of the match/struggle is approaching.",
+            "answer": "αγώνα",
+            "explanation": "Drop the final -ς for masculine nouns in -ας or -ης."
+        },
+        {
+            "id": "54d97249-0d3e-4496-a484-bb0d14007099",
+            "type": "fill",
+            "header": "Το τέλος ___ (Ο χειμώνας) πλησιάζει.",
+            "translations": "The end of the winter is approaching.",
+            "answer": "χειμώνα",
+            "explanation": "Drop the final -ς for masculine nouns in -ας or -ης."
+        },
+        {
+            "id": "baf9c978-5ab1-4eef-8c47-c1466db645f2",
+            "type": "fill",
+            "header": "Το τέλος ___ (Ο μήνας) πλησιάζει.",
+            "translations": "The end of the month is approaching.",
+            "answer": "μήνα",
+            "explanation": "Drop the final -ς for masculine nouns in -ας or -ης."
+        },
+        {
+            "id": "46e25098-0f54-4f33-a992-58b23c4de1dd",
+            "type": "fill",
+            "header": "Το τέλος ___ (Ο πολίτης) πλησιάζει.",
+            "translations": "The end of the citizen is approaching.",
+            "answer": "πολίτη",
+            "explanation": "Drop the final -ς for masculine nouns in -ας or -ης."
+        },
+        {
+            "id": "39412caa-8296-4fc2-9eb9-0484e82dba4d",
+            "type": "fill",
+            "header": "Το τέλος ___ (Ο ποιητής) πλησιάζει.",
+            "translations": "The end of the poet is approaching.",
+            "answer": "ποιητή",
+            "explanation": "Drop the final -ς for masculine nouns in -ας or -ης."
+        },
+        {
+            "id": "9b044c22-9cc4-4529-acd4-84b239f8e1a5",
+            "type": "fill",
+            "header": "Το τέλος ___ (Ο χάρτης) πλησιάζει.",
+            "translations": "The end of the map is approaching.",
+            "answer": "χάρτη",
+            "explanation": "Drop the final -ς for masculine nouns in -ας or -ης."
+        },
+        {
+            "id": "454f1ec8-e7af-4b53-84e2-91758d5e09ea",
+            "type": "select",
+            "header": "Η δύναμη ___ (Η ελπίδα) είναι μεγάλη.",
+            "translations": "The power of the hope is great.",
+            "options": {
+                "a": "της ελπίδας",
+                "b": "την ελπίδα",
+                "c": "του ελπίδας",
+                "d": "Η ελπίδα"
+            },
+            "answer": "a",
+            "explanation": "Feminine nouns in -α/-η add -ς."
+        },
+        {
+            "id": "649c82a3-a31b-4565-969e-54a88dc6ac08",
+            "type": "select",
+            "header": "Η δύναμη ___ (Η αλήθεια) είναι μεγάλη.",
+            "translations": "The power of the truth is great.",
+            "options": {
+                "a": "της αλήθειας",
+                "b": "την αλήθεια",
+                "c": "του αλήθειας",
+                "d": "Η αλήθεια"
+            },
+            "answer": "a",
+            "explanation": "Feminine nouns in -α/-η add -ς."
+        },
+        {
+            "id": "e78dca27-4137-4bb6-b087-7f5767809bc3",
+            "type": "select",
+            "header": "Η δύναμη ___ (Η καρδιά) είναι μεγάλη.",
+            "translations": "The power of the heart is great.",
+            "options": {
+                "a": "της καρδιάς",
+                "b": "την καρδιά",
+                "c": "του καρδιάς",
+                "d": "Η καρδιά"
+            },
+            "answer": "a",
+            "explanation": "Feminine nouns in -α/-η add -ς."
+        },
+        {
+            "id": "73d31d5c-367f-47fd-9c90-27a6efd89398",
+            "type": "select",
+            "header": "Η δύναμη ___ (Η φωνή) είναι μεγάλη.",
+            "translations": "The power of the voice is great.",
+            "options": {
+                "a": "της φωνής",
+                "b": "την φωνή",
+                "c": "του φωνής",
+                "d": "Η φωνή"
+            },
+            "answer": "a",
+            "explanation": "Feminine nouns in -α/-η add -ς."
+        },
+        {
+            "id": "176dfd83-fedb-42d5-86a3-9ee837d7ccba",
+            "type": "select",
+            "header": "Η δύναμη ___ (Η βροχή) είναι μεγάλη.",
+            "translations": "The power of the rain is great.",
+            "options": {
+                "a": "της βροχής",
+                "b": "την βροχή",
+                "c": "του βροχής",
+                "d": "Η βροχή"
+            },
+            "answer": "a",
+            "explanation": "Feminine nouns in -α/-η add -ς."
+        },
+        {
+            "id": "f5dddaa6-4fe0-4095-9587-60e411c0b028",
+            "type": "select",
+            "header": "Η δύναμη ___ (Η γιορτή) είναι μεγάλη.",
+            "translations": "The power of the celebration is great.",
+            "options": {
+                "a": "της γιορτής",
+                "b": "την γιορτή",
+                "c": "του γιορτής",
+                "d": "Η γιορτή"
+            },
+            "answer": "a",
+            "explanation": "Feminine nouns in -α/-η add -ς."
+        },
+        {
+            "id": "a94ac8fc-552b-4506-a924-e9ac02031bb4",
+            "type": "select",
+            "header": "Η δύναμη ___ (Η αγάπη) είναι μεγάλη.",
+            "translations": "The power of the love is great.",
+            "options": {
+                "a": "της αγάπης",
+                "b": "την αγάπη",
+                "c": "του αγάπης",
+                "d": "Η αγάπη"
+            },
+            "answer": "a",
+            "explanation": "Feminine nouns in -α/-η add -ς."
+        },
+        {
+            "id": "2a31eb55-319e-4f13-8c6e-f0fae3ea2820",
+            "type": "fill",
+            "header": "Η γεύση ___ (Το κρασί) είναι καλή.",
+            "translations": "The taste of the wine is good.",
+            "answer": "κρασιού",
+            "explanation": "Neuter nouns change endings based on their type (-ου, -ιού, or -ματος)."
+        },
+        {
+            "id": "8bc8e10d-1693-4b67-b60f-b3ac7f0eb8d5",
+            "type": "fill",
+            "header": "Η γεύση ___ (Το μέλι) είναι καλή.",
+            "translations": "The taste of the honey is good.",
+            "answer": "μελιού",
+            "explanation": "Neuter nouns change endings based on their type (-ου, -ιού, or -ματος)."
+        },
+        {
+            "id": "0a91c570-2b60-4714-9e58-e50de93faeb5",
+            "type": "fill",
+            "header": "Η γεύση ___ (Το δάκρυ) είναι καλή.",
+            "translations": "The taste of the tear is good.",
+            "answer": "δακρύου",
+            "explanation": "Neuter nouns change endings based on their type (-ου, -ιού, or -ματος)."
+        },
+        {
+            "id": "df5d652f-29ce-466a-bd77-9ec684d1378e",
+            "type": "fill",
+            "header": "Η γεύση ___ (Το πρόβλημα) είναι καλή.",
+            "translations": "The taste of the problem is good.",
+            "answer": "προβλήματος",
+            "explanation": "Neuter nouns change endings based on their type (-ου, -ιού, or -ματος)."
+        },
+        {
+            "id": "af618ce6-6c65-4f09-8661-0d66bb544be6",
+            "type": "fill",
+            "header": "Η γεύση ___ (Το σώμα) είναι καλή.",
+            "translations": "The taste of the body is good.",
+            "answer": "σώματος",
+            "explanation": "Neuter nouns change endings based on their type (-ου, -ιού, or -ματος)."
+        },
+        {
+            "id": "3de3eb5f-c572-4853-84cd-8dc82eb441c5",
+            "type": "fill",
+            "header": "Η γεύση ___ (Το χρώμα) είναι καλή.",
+            "translations": "The taste of the color is good.",
+            "answer": "χρώματος",
+            "explanation": "Neuter nouns change endings based on their type (-ου, -ιού, or -ματος)."
+        },
+        {
+            "id": "7cad6897-0bf9-41b2-85b2-68b52f3aa36b",
+            "type": "fill",
+            "header": "Η γεύση ___ (Το χωριό) είναι καλή.",
+            "translations": "The taste of the village is good.",
+            "answer": "χωριού",
+            "explanation": "Neuter nouns change endings based on their type (-ου, -ιού, or -ματος)."
+        },
+        {
+            "id": "4df313c3-ad78-4430-ad1d-7c9d5c5d27a1",
+            "type": "fill",
+            "header": "Η γεύση ___ (Το δωμάτιο) είναι καλή.",
+            "translations": "The taste of the room is good.",
+            "answer": "δωματίου",
+            "explanation": "Neuter nouns change endings based on their type (-ου, -ιού, or -ματος)."
+        },
+        {
+            "id": "5b96c65a-4df6-45b8-ae2d-dbb05b1f07a9",
+            "type": "select",
+            "header": "Η ιστορία ___ (Οι άντρες) είναι παλιά.",
+            "translations": "The history of the men is old.",
+            "options": {
+                "a": "των αντρών",
+                "b": "τους άντρες",
+                "c": "τις αντρών",
+                "d": "των άντρες"
+            },
+            "answer": "a",
+            "explanation": "All plural genitives end in -ων."
+        },
+        {
+            "id": "29753eee-0141-459d-9c25-011b26185b21",
+            "type": "select",
+            "header": "Η ιστορία ___ (Οι γονείς) είναι παλιά.",
+            "translations": "The history of the parents is old.",
+            "options": {
+                "a": "των γονέων",
+                "b": "τους γονείς",
+                "c": "τις γονέων",
+                "d": "των γονείς"
+            },
+            "answer": "a",
+            "explanation": "All plural genitives end in -ων."
+        },
+        {
+            "id": "8a90e18c-e6af-4fce-b9c2-2780ebe01b85",
+            "type": "select",
+            "header": "Η ιστορία ___ (Οι δρόμοι) είναι παλιά.",
+            "translations": "The history of the roads is old.",
+            "options": {
+                "a": "των δρόμων",
+                "b": "τους δρόμοι",
+                "c": "τις δρόμων",
+                "d": "των δρόμοι"
+            },
+            "answer": "a",
+            "explanation": "All plural genitives end in -ων."
+        },
+        {
+            "id": "c025e032-26cf-4f45-b4a3-90edf6568bb4",
+            "type": "select",
+            "header": "Η ιστορία ___ (Οι μέρες) είναι παλιά.",
+            "translations": "The history of the days is old.",
+            "options": {
+                "a": "των ημερών",
+                "b": "τους μέρες",
+                "c": "τις ημερών",
+                "d": "των μέρες"
+            },
+            "answer": "a",
+            "explanation": "All plural genitives end in -ων."
+        },
+        {
+            "id": "14e66df6-7edb-4945-8093-1404f237ad4d",
+            "type": "select",
+            "header": "Η ιστορία ___ (Τα σπίτια) είναι παλιά.",
+            "translations": "The history of the houses is old.",
+            "options": {
+                "a": "των σπιτιών",
+                "b": "τους σπίτια",
+                "c": "τις σπιτιών",
+                "d": "των σπίτια"
+            },
+            "answer": "a",
+            "explanation": "All plural genitives end in -ων."
+        },
+        {
+            "id": "f25da1ad-9882-4164-8397-936e49c74469",
+            "type": "select",
+            "header": "Η ιστορία ___ (Τα μάτια) είναι παλιά.",
+            "translations": "The history of the eyes is old.",
+            "options": {
+                "a": "των ματιών",
+                "b": "τους μάτια",
+                "c": "τις ματιών",
+                "d": "των μάτια"
+            },
+            "answer": "a",
+            "explanation": "All plural genitives end in -ων."
+        },
+        {
+            "id": "bff94eaf-31bd-4a95-a6cf-321805fb2e5b",
+            "type": "select",
+            "header": "Η ιστορία ___ (Τα βουνά) είναι παλιά.",
+            "translations": "The history of the mountains is old.",
+            "options": {
+                "a": "των βουνών",
+                "b": "τους βουνά",
+                "c": "τις βουνών",
+                "d": "των βουνά"
+            },
+            "answer": "a",
+            "explanation": "All plural genitives end in -ων."
+        },
+        {
+            "id": "89c14650-20d5-4bf7-8ce6-458d300522b9",
+            "type": "select",
+            "header": "Η ιστορία ___ (Οι λέξεις) είναι παλιά.",
+            "translations": "The history of the words is old.",
+            "options": {
+                "a": "των λέξεων",
+                "b": "τους λέξεις",
+                "c": "τις λέξεων",
+                "d": "των λέξεις"
+            },
+            "answer": "a",
+            "explanation": "All plural genitives end in -ων."
+        },
+        {
+            "id": "8f00065f-517d-4437-aab7-10a3672d12ac",
+            "type": "select",
+            "header": "Η ιστορία ___ (Οι ιδέες) είναι παλιά.",
+            "translations": "The history of the ideas is old.",
+            "options": {
+                "a": "των ιδεών",
+                "b": "τους ιδέες",
+                "c": "τις ιδεών",
+                "d": "των ιδέες"
+            },
+            "answer": "a",
+            "explanation": "All plural genitives end in -ων."
+        },
+        {
+            "id": "6b420f0f-e42f-4732-871a-6271138858e2",
+            "type": "select",
+            "header": "Η ιστορία ___ (Τα προβλήματα) είναι παλιά.",
+            "translations": "The history of the problems is old.",
+            "options": {
+                "a": "των προβλημάτων",
+                "b": "τους προβλήματα",
+                "c": "τις προβλημάτων",
+                "d": "των προβλήματα"
+            },
+            "answer": "a",
+            "explanation": "All plural genitives end in -ων."
+        },
+        {
+            "id": "636a7af3-8c18-4b7b-a52e-177b42ef2d6d",
+            "type": "fill",
+            "header": "Το όνομα ___ (Ο άγγελος) είναι αυτό.",
+            "translations": "The name of the angel is this.",
+            "answer": "αγγέλου",
+            "explanation": "For proparoxytone nouns, the accent moves one syllable forward."
+        },
+        {
+            "id": "e98a68c0-209b-4734-a4c9-6157bdcb180a",
+            "type": "fill",
+            "header": "Το όνομα ___ (Ο κίνδυνος) είναι αυτό.",
+            "translations": "The name of the danger is this.",
+            "answer": "κινδύνου",
+            "explanation": "For proparoxytone nouns, the accent moves one syllable forward."
+        },
+        {
+            "id": "7c99f805-910b-4dc1-9e0e-e9eb5d6da96b",
+            "type": "fill",
+            "header": "Το όνομα ___ (Ο έλεγχος) είναι αυτό.",
+            "translations": "The name of the control/check is this.",
+            "answer": "ελέγχου",
+            "explanation": "For proparoxytone nouns, the accent moves one syllable forward."
+        },
+        {
+            "id": "66f93bff-75a2-426d-9e4b-624bcef5daaa",
+            "type": "fill",
+            "header": "Το όνομα ___ (Το πρόσωπο) είναι αυτό.",
+            "translations": "The name of the face/person is this.",
+            "answer": "προσώπου",
+            "explanation": "For proparoxytone nouns, the accent moves one syllable forward."
+        },
+        {
+            "id": "69f9a961-f2da-4375-9a0c-0c53bbe3e982",
+            "type": "fill",
+            "header": "Το όνομα ___ (Το αυτοκίνητο) είναι αυτό.",
+            "translations": "The name of the car is this.",
+            "answer": "αυτοκινήτου",
+            "explanation": "For proparoxytone nouns, the accent moves one syllable forward."
+        },
+        {
+            "id": "a823ae46-8c7e-45df-a94f-9fe1072d1bf1",
+            "type": "select",
+            "header": "Η πόρτα ___ (μεγάλου σπιτιού)",
+            "translations": "The door of the big house.",
+            "options": {
+                "a": "του μεγάλου σπιτιού",
+                "b": "το μεγάλου σπιτιού",
+                "c": "της μεγάλου σπιτιού"
+            },
+            "answer": "a",
+            "explanation": "Adjectives agree with the noun."
+        },
+        {
+            "id": "e0cfaf43-324f-4ea7-a7ac-d2be7b19a99b",
+            "type": "fill",
+            "header": "Η ομορφιά ___ (μικρής πόλης)",
+            "translations": "The beauty of the small city.",
+            "answer": "της μικρής πόλης",
+            "explanation": "Ensure adjective, article, and noun are all in Genitive."
+        },
+        {
+            "id": "7e5f43e2-a2b9-493b-a1ca-379fe08be9e7",
+            "type": "select",
+            "header": "Η πόρτα ___ (νέου φίλου)",
+            "translations": "The door of the new friend.",
+            "options": {
+                "a": "του νέου φίλου",
+                "b": "το νέου φίλου",
+                "c": "της νέου φίλου"
+            },
+            "answer": "a",
+            "explanation": "Adjectives agree with the noun."
+        },
+        {
+            "id": "7fd6d25f-5548-4fe6-9369-52963f689e1f",
+            "type": "fill",
+            "header": "Η ομορφιά ___ (καλών παιδιών)",
+            "translations": "The beauty of the good children.",
+            "answer": "των καλών παιδιών",
+            "explanation": "Ensure adjective, article, and noun are all in Genitive."
+        },
+        {
+            "id": "a99a3cc7-5180-4f93-8817-49e5e406a61f",
+            "type": "select",
+            "header": "Η πόρτα ___ (ωραίας γυναίκας)",
+            "translations": "The door of the beautiful woman.",
+            "options": {
+                "a": "της ωραίας γυναίκας",
+                "b": "το ωραίας γυναίκας",
+                "c": "της ωραίας γυναίκας"
+            },
+            "answer": "a",
+            "explanation": "Adjectives agree with the noun."
+        },
+        {
+            "id": "c2932f76-0c2b-4dd2-bfbe-f9697e35f27b",
+            "type": "fill",
+            "header": "Η ομορφιά ___ (παλιού αυτοκινήτου)",
+            "translations": "The beauty of the old car.",
+            "answer": "του παλιού αυτοκινήτου",
+            "explanation": "Ensure adjective, article, and noun are all in Genitive."
+        },
+        {
+            "id": "d1dd92b3-f7b6-4516-b720-a9bddee66edf",
+            "type": "select",
+            "header": "Η πόρτα ___ (δύσκολων μαθημάτων)",
+            "translations": "The door of the difficult lessons.",
+            "options": {
+                "a": "των δύσκολων μαθημάτων",
+                "b": "το δύσκολων μαθημάτων",
+                "c": "της δύσκολων μαθημάτων"
+            },
+            "answer": "a",
+            "explanation": "Adjectives agree with the noun."
+        },
+        {
+            "id": "6043519b-4e38-47bb-a02f-8f3b9c6bfd48",
+            "type": "fill",
+            "header": "Η ομορφιά ___ (έξυπνου μαθητή)",
+            "translations": "The beauty of the smart student.",
+            "answer": "του έξυπνου μαθητή",
+            "explanation": "Ensure adjective, article, and noun are all in Genitive."
+        }
+    ]
+}

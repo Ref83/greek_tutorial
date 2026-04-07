@@ -1,0 +1,584 @@
+{
+    "exercises": [
+        {
+            "id": "f0b1c847-5673-457e-a82e-66bb8c5b93a5",
+            "type": "select",
+            "header": "Το σπίτι ___ (ο φίλος) είναι μεγάλο.",
+            "translations": "The house of the friend is big.",
+            "options": {
+                "a": "του φίλου",
+                "b": "του φίλος",
+                "c": "τον φίλο",
+                "d": "ο φίλος"
+            },
+            "answer": "a",
+            "explanation": "Masculine nouns in -ος change to -ου in Genitive singular."
+        },
+        {
+            "id": "322d52c8-7405-4976-be58-38deed3fc433",
+            "type": "select",
+            "header": "Το σπίτι ___ (ο φίλος) είναι μεγάλο.",
+            "translations": "The house of the teacher is big.",
+            "options": {
+                "a": "του φίλου",
+                "b": "του φίλος",
+                "c": "τον φίλο",
+                "d": "ο φίλος"
+            },
+            "answer": "a",
+            "explanation": "Masculine nouns in -ος change to -ου in Genitive singular."
+        },
+        {
+            "id": "63653b13-9745-4112-84aa-04898fd1ba7d",
+            "type": "select",
+            "header": "Το σπίτι ___ (ο φίλος) είναι μεγάλο.",
+            "translations": "The house of the garden is big.",
+            "options": {
+                "a": "του φίλου",
+                "b": "του φίλος",
+                "c": "τον φίλο",
+                "d": "ο φίλος"
+            },
+            "answer": "a",
+            "explanation": "Masculine nouns in -ος change to -ου in Genitive singular."
+        },
+        {
+            "id": "6ff30b43-137c-42db-ace7-48cdc2706697",
+            "type": "select",
+            "header": "Το σπίτι ___ (ο φίλος) είναι μεγάλο.",
+            "translations": "The house of the sky is big.",
+            "options": {
+                "a": "του φίλου",
+                "b": "του φίλος",
+                "c": "τον φίλο",
+                "d": "ο φίλος"
+            },
+            "answer": "a",
+            "explanation": "Masculine nouns in -ος change to -ου in Genitive singular."
+        },
+        {
+            "id": "633336d4-fdc2-47fb-b985-0d844e97008d",
+            "type": "select",
+            "header": "Το σπίτι ___ (ο φίλος) είναι μεγάλο.",
+            "translations": "The house of the brother is big.",
+            "options": {
+                "a": "του φίλου",
+                "b": "του φίλος",
+                "c": "τον φίλο",
+                "d": "ο φίλος"
+            },
+            "answer": "a",
+            "explanation": "Masculine nouns in -ος change to -ου in Genitive singular."
+        },
+        {
+            "id": "f2c74c3d-8dc6-4c81-b710-4460e4adc568",
+            "type": "fill",
+            "header": "Το βιβλίο ___ ( Ο πατέρας ) είναι εδώ.",
+            "translations": "The book of the father is here.",
+            "answer": "πατέρα",
+            "explanation": "Masculine nouns in -ας or -ης drop the -ς in Genitive singular."
+        },
+        {
+            "id": "baaa742c-ae1c-45a8-a041-c61eec024658",
+            "type": "fill",
+            "header": "Το βιβλίο ___ ( Ο άντρας ) είναι εδώ.",
+            "translations": "The book of the man is here.",
+            "answer": "άντρα",
+            "explanation": "Masculine nouns in -ας or -ης drop the -ς in Genitive singular."
+        },
+        {
+            "id": "ace59166-c14a-461d-b5c1-4de19861424b",
+            "type": "fill",
+            "header": "Το βιβλίο ___ ( Ο γείτονας ) είναι εδώ.",
+            "translations": "The book of the neighbor is here.",
+            "answer": "γείτονα",
+            "explanation": "Masculine nouns in -ας or -ης drop the -ς in Genitive singular."
+        },
+        {
+            "id": "ee5dea35-f756-40f0-94a4-5fd454349165",
+            "type": "fill",
+            "header": "Το βιβλίο ___ ( Ο μαθητής ) είναι εδώ.",
+            "translations": "The book of the student is here.",
+            "answer": "μαθητή",
+            "explanation": "Masculine nouns in -ας or -ης drop the -ς in Genitive singular."
+        },
+        {
+            "id": "5faafd4c-745a-4258-bca4-a1effedfef1d",
+            "type": "fill",
+            "header": "Το βιβλίο ___ ( Ο καθηγητής ) είναι εδώ.",
+            "translations": "The book of the professor is here.",
+            "answer": "καθηγητή",
+            "explanation": "Masculine nouns in -ας or -ης drop the -ς in Genitive singular."
+        },
+        {
+            "id": "6375010e-0ec9-49e9-b732-c56a9864bd65",
+            "type": "fill",
+            "header": "Το βιβλίο ___ ( Ο αθλητής ) είναι εδώ.",
+            "translations": "The book of the athlete is here.",
+            "answer": "αθλητή",
+            "explanation": "Masculine nouns in -ας or -ης drop the -ς in Genitive singular."
+        },
+        {
+            "id": "0151b314-0d0c-4ca8-8888-cc812ca9c1d6",
+            "type": "select",
+            "header": "Το αυτοκίνητο ___ ( Η μητέρα ) είναι μπλε.",
+            "translations": "The car of the mother is blue.",
+            "options": {
+                "a": "της μητέρας",
+                "b": "την μητέρας",
+                "c": "τη μητέρα",
+                "d": "της μητέρα"
+            },
+            "answer": "a",
+            "explanation": "Feminine nouns in -α or -η add -ς in Genitive singular."
+        },
+        {
+            "id": "289d03d9-a252-4ce9-8920-91d024dd3fb7",
+            "type": "select",
+            "header": "Το αυτοκίνητο ___ ( Η γυναίκα ) είναι μπλε.",
+            "translations": "The car of the woman is blue.",
+            "options": {
+                "a": "της γυναίκας",
+                "b": "την γυναίκας",
+                "c": "τη γυναίκα",
+                "d": "της γυναίκα"
+            },
+            "answer": "a",
+            "explanation": "Feminine nouns in -α or -η add -ς in Genitive singular."
+        },
+        {
+            "id": "47997742-7aa0-43c8-a6f5-75db8972ed50",
+            "type": "select",
+            "header": "Το αυτοκίνητο ___ ( Η θάλασσα ) είναι μπλε.",
+            "translations": "The car of the sea is blue.",
+            "options": {
+                "a": "της θάλασσας",
+                "b": "την θάλασσας",
+                "c": "τη θάλασσα",
+                "d": "της θάλασσα"
+            },
+            "answer": "a",
+            "explanation": "Feminine nouns in -α or -η add -ς in Genitive singular."
+        },
+        {
+            "id": "e6838b05-0c2d-471f-9a47-3463f737f8da",
+            "type": "select",
+            "header": "Το αυτοκίνητο ___ ( Η φίλη ) είναι μπλε.",
+            "translations": "The car of the friend is blue.",
+            "options": {
+                "a": "της φίλης",
+                "b": "την φίλης",
+                "c": "τη φίλη",
+                "d": "της φίλη"
+            },
+            "answer": "a",
+            "explanation": "Feminine nouns in -α or -η add -ς in Genitive singular."
+        },
+        {
+            "id": "5712d4fd-58f6-41e4-a614-5135e60f158d",
+            "type": "select",
+            "header": "Το αυτοκίνητο ___ ( Η χώρα ) είναι μπλε.",
+            "translations": "The car of the country is blue.",
+            "options": {
+                "a": "της χώρας",
+                "b": "την χώρας",
+                "c": "τη χώρα",
+                "d": "της χώρα"
+            },
+            "answer": "a",
+            "explanation": "Feminine nouns in -α or -η add -ς in Genitive singular."
+        },
+        {
+            "id": "54c8460a-ea40-4366-be87-0cdb4e39e3b9",
+            "type": "select",
+            "header": "Το αυτοκίνητο ___ ( Η ώρα ) είναι μπλε.",
+            "translations": "The car of the hour is blue.",
+            "options": {
+                "a": "της ώρας",
+                "b": "την ώρας",
+                "c": "τη ώρα",
+                "d": "της ώρα"
+            },
+            "answer": "a",
+            "explanation": "Feminine nouns in -α or -η add -ς in Genitive singular."
+        },
+        {
+            "id": "e3d46305-694c-4c08-a057-3d3915c5865d",
+            "type": "select",
+            "header": "Το αυτοκίνητο ___ ( Η πόλη ) είναι μπλε.",
+            "translations": "The car of the city is blue.",
+            "options": {
+                "a": "της πόλης",
+                "b": "την πόλης",
+                "c": "τη πόλη",
+                "d": "της πόλη"
+            },
+            "answer": "a",
+            "explanation": "Feminine nouns in -α or -η add -ς in Genitive singular."
+        },
+        {
+            "id": "289dbddd-e4f3-489b-853c-a193a4f7cb01",
+            "type": "select",
+            "header": "Το αυτοκίνητο ___ ( Η ζωή ) είναι μπλε.",
+            "translations": "The car of the life is blue.",
+            "options": {
+                "a": "της ζωής",
+                "b": "την ζωής",
+                "c": "τη ζωή",
+                "d": "της ζωή"
+            },
+            "answer": "a",
+            "explanation": "Feminine nouns in -α or -η add -ς in Genitive singular."
+        },
+        {
+            "id": "1c4b6934-a988-4eca-8fc8-7e689ed19b75",
+            "type": "select",
+            "header": "Το αυτοκίνητο ___ ( Η αρχή ) είναι μπλε.",
+            "translations": "The car of the beginning is blue.",
+            "options": {
+                "a": "της αρχής",
+                "b": "την αρχής",
+                "c": "τη αρχή",
+                "d": "της αρχή"
+            },
+            "answer": "a",
+            "explanation": "Feminine nouns in -α or -η add -ς in Genitive singular."
+        },
+        {
+            "id": "579e45a4-1390-49a3-992d-d20a4d94f009",
+            "type": "select",
+            "header": "Το αυτοκίνητο ___ ( Η τιμή ) είναι μπλε.",
+            "translations": "The car of the price is blue.",
+            "options": {
+                "a": "της τιμής",
+                "b": "την τιμής",
+                "c": "τη τιμή",
+                "d": "της τιμή"
+            },
+            "answer": "a",
+            "explanation": "Feminine nouns in -α or -η add -ς in Genitive singular."
+        },
+        {
+            "id": "bf619522-15b2-431d-80b0-b34d181e8667",
+            "type": "select",
+            "header": "Το αυτοκίνητο ___ ( Η ψυχή ) είναι μπλε.",
+            "translations": "The car of the soul is blue.",
+            "options": {
+                "a": "της ψυχής",
+                "b": "την ψυχής",
+                "c": "τη ψυχή",
+                "d": "της ψυχή"
+            },
+            "answer": "a",
+            "explanation": "Feminine nouns in -α or -η add -ς in Genitive singular."
+        },
+        {
+            "id": "7c926cfd-cbba-4731-8f78-70d0fc5848f3",
+            "type": "fill",
+            "header": "Το χρώμα ___ ( Το βιβλίο ) είναι ωραίο.",
+            "translations": "The color of the book is nice.",
+            "answer": "βιβλίου",
+            "explanation": "Neuter nouns in -ο/-ι change to -ου/-ιού, and -μα changes to -ματος."
+        },
+        {
+            "id": "1e997bbc-372a-4592-b37b-f51ac0de35ec",
+            "type": "fill",
+            "header": "Το χρώμα ___ ( Το σχολείο ) είναι ωραίο.",
+            "translations": "The color of the school is nice.",
+            "answer": "σχολείου",
+            "explanation": "Neuter nouns in -ο/-ι change to -ου/-ιού, and -μα changes to -ματος."
+        },
+        {
+            "id": "4c0c05c1-ec0f-46b5-b078-3434a68c4044",
+            "type": "fill",
+            "header": "Το χρώμα ___ ( Το δέντρο ) είναι ωραίο.",
+            "translations": "The color of the tree is nice.",
+            "answer": "δέντρου",
+            "explanation": "Neuter nouns in -ο/-ι change to -ου/-ιού, and -μα changes to -ματος."
+        },
+        {
+            "id": "c6ced88a-90e5-49d9-8faa-0e4af145141b",
+            "type": "fill",
+            "header": "Το χρώμα ___ ( Το αυτοκίνητο ) είναι ωραίο.",
+            "translations": "The color of the car is nice.",
+            "answer": "αυτοκινήτου",
+            "explanation": "Neuter nouns in -ο/-ι change to -ου/-ιού, and -μα changes to -ματος."
+        },
+        {
+            "id": "a1736448-963e-4421-8fc0-5f34c50b7519",
+            "type": "fill",
+            "header": "Το χρώμα ___ ( Το παιδί ) είναι ωραίο.",
+            "translations": "The color of the child is nice.",
+            "answer": "παιδιού",
+            "explanation": "Neuter nouns in -ο/-ι change to -ου/-ιού, and -μα changes to -ματος."
+        },
+        {
+            "id": "7e1a8b3e-bb49-4a55-8817-0e54fb82559d",
+            "type": "fill",
+            "header": "Το χρώμα ___ ( Το σπίτι ) είναι ωραίο.",
+            "translations": "The color of the house is nice.",
+            "answer": "σπιτιού",
+            "explanation": "Neuter nouns in -ο/-ι change to -ου/-ιού, and -μα changes to -ματος."
+        },
+        {
+            "id": "f088e208-b7aa-48b2-a18f-4839c67751e9",
+            "type": "fill",
+            "header": "Το χρώμα ___ ( Το ψωμί ) είναι ωραίο.",
+            "translations": "The color of the bread is nice.",
+            "answer": "ψωμιού",
+            "explanation": "Neuter nouns in -ο/-ι change to -ου/-ιού, and -μα changes to -ματος."
+        },
+        {
+            "id": "e4c22ff0-0cfc-4f56-98f5-f455f8db72a5",
+            "type": "fill",
+            "header": "Το χρώμα ___ ( Το όνομα ) είναι ωραίο.",
+            "translations": "The color of the name is nice.",
+            "answer": "ονόματος",
+            "explanation": "Neuter nouns in -ο/-ι change to -ου/-ιού, and -μα changes to -ματος."
+        },
+        {
+            "id": "b94ca1dd-8127-4320-bda4-a587164ee418",
+            "type": "fill",
+            "header": "Το χρώμα ___ ( Το γράμμα ) είναι ωραίο.",
+            "translations": "The color of the letter is nice.",
+            "answer": "γράμματος",
+            "explanation": "Neuter nouns in -ο/-ι change to -ου/-ιού, and -μα changes to -ματος."
+        },
+        {
+            "id": "65391e2b-ac2c-4369-911c-d10a53671de6",
+            "type": "fill",
+            "header": "Το χρώμα ___ ( Το μάθημα ) είναι ωραίο.",
+            "translations": "The color of the lesson is nice.",
+            "answer": "μαθήματος",
+            "explanation": "Neuter nouns in -ο/-ι change to -ου/-ιού, and -μα changes to -ματος."
+        },
+        {
+            "id": "7ca770ae-c482-4de9-8d53-25332bcf1ba8",
+            "type": "select",
+            "header": "Τα ονόματα ___ ( Οι δάσκαλοι ) είναι δύσκολα.",
+            "translations": "The names of the teachers are difficult.",
+            "options": {
+                "a": "των δασκάλων",
+                "b": "τους δασκάλων",
+                "c": "των δάσκαλοι",
+                "d": "τις δασκάλων"
+            },
+            "answer": "a",
+            "explanation": "All plural Genitive nouns end in -ων."
+        },
+        {
+            "id": "155171f5-54a2-4d64-ad1e-50205d3a8775",
+            "type": "select",
+            "header": "Τα ονόματα ___ ( Οι πόλεις ) είναι δύσκολα.",
+            "translations": "The names of the cities are difficult.",
+            "options": {
+                "a": "των πόλεων",
+                "b": "τους πόλεων",
+                "c": "των πόλεις",
+                "d": "τις πόλεων"
+            },
+            "answer": "a",
+            "explanation": "All plural Genitive nouns end in -ων."
+        },
+        {
+            "id": "b7487736-f95a-47fd-a5f1-28d414edb7cd",
+            "type": "select",
+            "header": "Τα ονόματα ___ ( Τα παιδιά ) είναι δύσκολα.",
+            "translations": "The names of the children are difficult.",
+            "options": {
+                "a": "των παιδιών",
+                "b": "τους παιδιών",
+                "c": "των παιδιά",
+                "d": "τις παιδιών"
+            },
+            "answer": "a",
+            "explanation": "All plural Genitive nouns end in -ων."
+        },
+        {
+            "id": "d0f0c9bf-4ab9-458a-8f60-f978df44f7b8",
+            "type": "select",
+            "header": "Τα ονόματα ___ ( Τα βιβλία ) είναι δύσκολα.",
+            "translations": "The names of the books are difficult.",
+            "options": {
+                "a": "των βιβλίων",
+                "b": "τους βιβλίων",
+                "c": "των βιβλία",
+                "d": "τις βιβλίων"
+            },
+            "answer": "a",
+            "explanation": "All plural Genitive nouns end in -ων."
+        },
+        {
+            "id": "98fdd95a-4ee7-4008-b3d2-af24f8d2988f",
+            "type": "select",
+            "header": "Τα ονόματα ___ ( Οι γυναίκες ) είναι δύσκολα.",
+            "translations": "The names of the women are difficult.",
+            "options": {
+                "a": "των γυναικών",
+                "b": "τους γυναικών",
+                "c": "των γυναίκες",
+                "d": "τις γυναικών"
+            },
+            "answer": "a",
+            "explanation": "All plural Genitive nouns end in -ων."
+        },
+        {
+            "id": "d343e172-eb98-4b1f-81ff-a96b37c9b5e6",
+            "type": "select",
+            "header": "Τα ονόματα ___ ( Οι άνθρωποι ) είναι δύσκολα.",
+            "translations": "The names of the people are difficult.",
+            "options": {
+                "a": "των ανθρώπων",
+                "b": "τους ανθρώπων",
+                "c": "των άνθρωποι",
+                "d": "τις ανθρώπων"
+            },
+            "answer": "a",
+            "explanation": "All plural Genitive nouns end in -ων."
+        },
+        {
+            "id": "159733d9-b5b1-4173-a8da-f4e11ec867ce",
+            "type": "select",
+            "header": "Τα ονόματα ___ ( Τα σπίτια ) είναι δύσκολα.",
+            "translations": "The names of the houses are difficult.",
+            "options": {
+                "a": "των σπιτιών",
+                "b": "τους σπιτιών",
+                "c": "των σπίτια",
+                "d": "τις σπιτιών"
+            },
+            "answer": "a",
+            "explanation": "All plural Genitive nouns end in -ων."
+        },
+        {
+            "id": "ab0e2d70-1d06-4acf-a87a-23aa48bebfb8",
+            "type": "select",
+            "header": "Τα ονόματα ___ ( Οι μαθητές ) είναι δύσκολα.",
+            "translations": "The names of the students are difficult.",
+            "options": {
+                "a": "των μαθητών",
+                "b": "τους μαθητών",
+                "c": "των μαθητές",
+                "d": "τις μαθητών"
+            },
+            "answer": "a",
+            "explanation": "All plural Genitive nouns end in -ων."
+        },
+        {
+            "id": "b3089a13-5034-40b0-a5bc-ba8e07ef939c",
+            "type": "select",
+            "header": "Τα ονόματα ___ ( Οι μητέρες ) είναι δύσκολα.",
+            "translations": "The names of the mothers are difficult.",
+            "options": {
+                "a": "των μητέρων",
+                "b": "τους μητέρων",
+                "c": "των μητέρες",
+                "d": "τις μητέρων"
+            },
+            "answer": "a",
+            "explanation": "All plural Genitive nouns end in -ων."
+        },
+        {
+            "id": "476ae25c-2816-4a8e-966b-d2ee8d323cfc",
+            "type": "select",
+            "header": "Τα ονόματα ___ ( Τα μαθήματα ) είναι δύσκολα.",
+            "translations": "The names of the lessons are difficult.",
+            "options": {
+                "a": "των μαθημάτων",
+                "b": "τους μαθημάτων",
+                "c": "των μαθήματα",
+                "d": "τις μαθημάτων"
+            },
+            "answer": "a",
+            "explanation": "All plural Genitive nouns end in -ων."
+        },
+        {
+            "id": "a9199cfc-70b7-4d66-bd5f-f6b483a4f429",
+            "type": "select",
+            "header": "Τα ονόματα ___ ( Οι φίλοι ) είναι δύσκολα.",
+            "translations": "The names of the friends are difficult.",
+            "options": {
+                "a": "των φίλων",
+                "b": "τους φίλων",
+                "c": "των φίλοι",
+                "d": "τις φίλων"
+            },
+            "answer": "a",
+            "explanation": "All plural Genitive nouns end in -ων."
+        },
+        {
+            "id": "fbae5545-883a-4355-aa01-833be803e9c2",
+            "type": "select",
+            "header": "Τα ονόματα ___ ( Οι θάλασσες ) είναι δύσκολα.",
+            "translations": "The names of the seas are difficult.",
+            "options": {
+                "a": "των θαλασσών",
+                "b": "τους θαλασσών",
+                "c": "των θάλασσες",
+                "d": "τις θαλασσών"
+            },
+            "answer": "a",
+            "explanation": "All plural Genitive nouns end in -ων."
+        },
+        {
+            "id": "fc291b6e-750b-44e4-a692-d60ab681976d",
+            "type": "fill",
+            "header": "Η γνώμη ___ ( Ο άνθρωπος ) είναι σημαντική.",
+            "translations": "The opinion of the human is important.",
+            "answer": "ανθρώπου",
+            "explanation": "In proparoxytone nouns, the accent shifts one syllable down in the Genitive."
+        },
+        {
+            "id": "280133f9-99d1-47ad-940d-6b70e6219946",
+            "type": "fill",
+            "header": "Η γνώμη ___ ( Ο πρόεδρος ) είναι σημαντική.",
+            "translations": "The opinion of the president is important.",
+            "answer": "προέδρου",
+            "explanation": "In proparoxytone nouns, the accent shifts one syllable down in the Genitive."
+        },
+        {
+            "id": "d5b3fc65-5f50-4c97-b95a-286177f19126",
+            "type": "fill",
+            "header": "Η γνώμη ___ ( Το πανεπιστήμιο ) είναι σημαντική.",
+            "translations": "The opinion of the university is important.",
+            "answer": "πανεπιστημίου",
+            "explanation": "In proparoxytone nouns, the accent shifts one syllable down in the Genitive."
+        },
+        {
+            "id": "d290ff96-edca-4b53-8120-045bac5f485b",
+            "type": "select",
+            "header": "Η τσάντα της ___ (καλή) μαθήτριας.",
+            "translations": "The bag of the good student.",
+            "options": {
+                "a": "καλής",
+                "b": "καλή",
+                "c": "καλήν",
+                "d": "καλές"
+            },
+            "answer": "a",
+            "explanation": "Adjectives must agree with the noun in gender, number, and case."
+        },
+        {
+            "id": "35937273-f3b0-4911-8f40-5f188b89e427",
+            "type": "fill",
+            "header": "Το κλειδί του ___ (νέος) σπιτιού.",
+            "translations": "The key of the new house.",
+            "answer": "νέου",
+            "explanation": "Adjectives in Genitive masculine/neuter singular end in -ου."
+        },
+        {
+            "id": "25802541-b2e7-4ad4-9170-9d829c2f5e04",
+            "type": "select",
+            "header": "Οι δρόμοι των ___ (μεγάλος) πόλεων.",
+            "translations": "The streets of the big cities.",
+            "options": {
+                "a": "μεγάλων",
+                "b": "μεγάλες",
+                "c": "μεγάλα",
+                "d": "μεγάλοι"
+            },
+            "answer": "a",
+            "explanation": "Adjectives in plural Genitive end in -ων."
+        }
+    ]
+}

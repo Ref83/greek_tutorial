@@ -1,0 +1,554 @@
+{
+    "exercises": [
+        {
+            "id": "comp-50-001",
+            "type": "select",
+            "header": "Ο Όλυμπος είναι ___ από τον Ψηλορείτη.",
+            "translations": "Mount Olympus is higher than Psiloritis.",
+            "options": {
+                "a": "ψηλός",
+                "b": "πιο ψηλός",
+                "c": "ψηλότερη",
+                "d": "το πιο ψηλό"
+            },
+            "answer": "b",
+            "explanation": "We use 'πιο' + adjective to form the comparative degree."
+        },
+        {
+            "id": "comp-50-002",
+            "type": "fill",
+            "header": "Το καλοκαίρι είναι ___ (ζεστός) από την άνοιξη.",
+            "translations": "Summer is hotter than spring.",
+            "answer": "πιο ζεστό",
+            "explanation": "The adjective must be in the neuter form to agree with 'το καλοκαίρι'."
+        },
+        {
+            "id": "comp-50-003",
+            "type": "select",
+            "header": "Αυτό το βιβλίο είναι ___ από το άλλο.",
+            "translations": "This book is better than the other.",
+            "options": {
+                "a": "καλός",
+                "b": "καλύτερη",
+                "c": "καλύτερο",
+                "d": "πιο καλή"
+            },
+            "answer": "c",
+            "explanation": "'Καλύτερο' is the irregular comparative form for neuter nouns like 'το βιβλίο'."
+        },
+        {
+            "id": "comp-50-004",
+            "type": "fill",
+            "header": "Η αδελφή μου είναι ___ (μικρός) από εμένα.",
+            "translations": "My sister is younger than me.",
+            "answer": "μικρότερη",
+            "explanation": "Suffixes like -τερη are used for synthetic comparison."
+        },
+        {
+            "id": "comp-50-005",
+            "type": "select",
+            "header": "Το αεροπλάνο είναι το ___ μεταφορικό μέσο.",
+            "translations": "The airplane is the fastest means of transport.",
+            "options": {
+                "a": "πιο γρήγορο",
+                "b": "γρήγορο",
+                "c": "γρηγορότερα",
+                "d": "πιο γρήγορη"
+            },
+            "answer": "a",
+            "explanation": "The relative superlative uses 'definite article + πιο + adjective'."
+        },
+        {
+            "id": "comp-50-006",
+            "type": "fill",
+            "header": "Η Αθήνα είναι ___ (μεγάλος) από τη Θεσσαλονίκη.",
+            "translations": "Athens is bigger than Thessaloniki.",
+            "answer": "μεγαλύτερη",
+            "explanation": "Comparative degree of 'μεγάλη' is 'μεγαλύτερη'."
+        },
+        {
+            "id": "comp-50-007",
+            "type": "select",
+            "header": "Ο Γιάννης είναι ο ___ μαθητής στην τάξη.",
+            "translations": "Yiannis is the best student in the class.",
+            "options": {
+                "a": "καλός",
+                "b": "καλύτερος",
+                "c": "πιο καλό",
+                "d": "καλύτερα"
+            },
+            "answer": "b",
+            "explanation": "The superlative can be formed using the synthetic comparative form with an article."
+        },
+        {
+            "id": "comp-50-008",
+            "type": "fill",
+            "header": "Ο καφές μου είναι ___ (γλυκός) από τον δικό σου.",
+            "translations": "My coffee is sweeter than yours.",
+            "answer": "πιο γλυκός",
+            "explanation": "Using 'πιο' + masculine adjective for comparison."
+        },
+        {
+            "id": "comp-50-009",
+            "type": "select",
+            "header": "Αυτή η ταινία ήταν ___ από την προηγούμενη.",
+            "translations": "This movie was worse than the previous one.",
+            "options": {
+                "a": "κακός",
+                "b": "χειρότερη",
+                "c": "πιο κακό",
+                "d": "χειρότερο"
+            },
+            "answer": "b",
+            "explanation": "'Χειρότερη' is the irregular comparative for feminine 'η ταινία'."
+        },
+        {
+            "id": "comp-50-010",
+            "type": "fill",
+            "header": "Το μπλε φόρεμα είναι ___ (ωραίος) από το κόκκινο.",
+            "translations": "The blue dress is prettier than the red one.",
+            "answer": "ωραιότερο",
+            "explanation": "The suffix -τερο creates the comparative degree."
+        },
+        {
+            "id": "comp-50-011",
+            "type": "select",
+            "header": "Είναι ___ (expensive) από όσο νόμιζα.",
+            "translations": "It is more expensive than I thought.",
+            "options": {
+                "a": "ακριβό",
+                "b": "πιο ακριβό",
+                "c": "ακριβότερη",
+                "d": "το πιο ακριβό"
+            },
+            "answer": "b",
+            "explanation": "'Πιο' + adjective forms the comparative."
+        },
+        {
+            "id": "comp-50-012",
+            "type": "fill",
+            "header": "Σήμερα ο καιρός είναι ___ (κακός) από χθες.",
+            "translations": "Today the weather is worse than yesterday.",
+            "answer": "χειρότερος",
+            "explanation": "The irregular comparative of 'κακός' is 'χειρότερος'."
+        },
+        {
+            "id": "comp-50-013",
+            "type": "select",
+            "header": "Ο ελέφαντας είναι ___ από το λιοντάρι.",
+            "translations": "The elephant is heavier than the lion.",
+            "options": {
+                "a": "βαρύς",
+                "b": "πιο βαρύ",
+                "c": "βαρύτερος",
+                "d": "πιο βαριά"
+            },
+            "answer": "c",
+            "explanation": "Synthetic comparison for masculine 'ο ελέφαντας'."
+        },
+        {
+            "id": "comp-50-014",
+            "type": "fill",
+            "header": "Αυτές οι ασκήσεις είναι ___ (εύκολος) από τις άλλες.",
+            "translations": "These exercises are easier than the others.",
+            "answer": "πιο εύκολες",
+            "explanation": "The adjective must be plural feminine to match 'οι ασκήσεις'."
+        },
+        {
+            "id": "comp-50-015",
+            "type": "select",
+            "header": "Ποιο είναι το ___ (long) ποτάμι στην Ελλάδα;",
+            "translations": "Which is the longest river in Greece?",
+            "options": {
+                "a": "πιο μακρύ",
+                "b": "μακρύτερο",
+                "c": "μακρύ",
+                "d": "πιο μακριά"
+            },
+            "answer": "b",
+            "explanation": "The synthetic form 'μακρύτερο' acts as a superlative here."
+        },
+        {
+            "id": "comp-50-016",
+            "type": "fill",
+            "header": "Το σπίτι μου είναι ___ (παλιός) από το δικό σου.",
+            "translations": "My house is older than yours.",
+            "answer": "παλαιότερο",
+            "explanation": "Synthetic comparative degree for neuter nouns."
+        },
+        {
+            "id": "comp-50-017",
+            "type": "select",
+            "header": "Η Κρήτη είναι το ___ νησί της Ελλάδας.",
+            "translations": "Crete is the biggest island in Greece.",
+            "options": {
+                "a": "πιο μεγάλο",
+                "b": "μεγάλο",
+                "c": "μεγαλύτερη",
+                "d": "πιο μεγάλη"
+            },
+            "answer": "a",
+            "explanation": "Superlative: article + 'πιο' + adjective."
+        },
+        {
+            "id": "comp-50-018",
+            "type": "fill",
+            "header": "Αυτός ο δρόμος είναι ___ (στενός) από τον άλλον.",
+            "translations": "This road is narrower than the other one.",
+            "answer": "πιο στενός",
+            "explanation": "Periphrastic comparison using 'πιο'."
+        },
+        {
+            "id": "comp-50-019",
+            "type": "select",
+            "header": "Θέλω ___ (more) ζάχαρη στον καφέ μου.",
+            "translations": "I want more sugar in my coffee.",
+            "options": {
+                "a": "πολύ",
+                "b": "περισσότερη",
+                "c": "πιο πολύ",
+                "d": "πολλή"
+            },
+            "answer": "b",
+            "explanation": "'Περισσότερη' is the irregular comparative of 'πολλή'."
+        },
+        {
+            "id": "comp-50-020",
+            "type": "fill",
+            "header": "Το μάθημα είναι ___ (ενδιαφέρων) από το προηγούμενο.",
+            "translations": "The lesson is more interesting than the previous one.",
+            "answer": "πιο ενδιαφέρον",
+            "explanation": "Comparative of 'ενδιαφέρον' (neuter)."
+        },
+        {
+            "id": "comp-50-021",
+            "type": "select",
+            "header": "Είναι η ___ (beautiful) γυναίκα στον κόσμο.",
+            "translations": "She is the most beautiful woman in the world.",
+            "options": {
+                "a": "πιο ωραία",
+                "b": "ωραιότερη",
+                "c": "ωραία",
+                "d": "πιο ωραίο"
+            },
+            "answer": "a",
+            "explanation": "Relative superlative for feminine noun."
+        },
+        {
+            "id": "comp-50-022",
+            "type": "fill",
+            "header": "Ο πατέρας μου είναι ___ (ψηλός) από τη μητέρα μου.",
+            "translations": "My father is taller than my mother.",
+            "answer": "ψηλότερος",
+            "explanation": "Synthetic comparison for masculine subject."
+        },
+        {
+            "id": "comp-50-023",
+            "type": "select",
+            "header": "Αυτό το μαχαίρι είναι ___ (sharp) από το άλλο.",
+            "translations": "This knife is sharper than the other.",
+            "options": {
+                "a": "κοφτερό",
+                "b": "πιο κοφτερό",
+                "c": "κοφτερότερη",
+                "d": "πιο κοφτερή"
+            },
+            "answer": "b",
+            "explanation": "Periphrastic comparison for neuter 'το μαχαίρι'."
+        },
+        {
+            "id": "comp-50-024",
+            "type": "fill",
+            "header": "Τα μήλα είναι ___ (φτηνός) από τα κεράσια.",
+            "translations": "Apples are cheaper than cherries.",
+            "answer": "πιο φτηνά",
+            "explanation": "Comparative plural neuter form."
+        },
+        {
+            "id": "comp-50-025",
+            "type": "select",
+            "header": "Η χελώνα είναι ___ (slow) από τον λαγό.",
+            "translations": "The turtle is slower than the rabbit.",
+            "options": {
+                "a": "αργή",
+                "b": "πιο αργή",
+                "c": "αργότερο",
+                "d": "πιο αργός"
+            },
+            "answer": "b",
+            "explanation": "Feminine comparative form to match 'η χελώνα'."
+        },
+        {
+            "id": "comp-50-026",
+            "type": "fill",
+            "header": "Ο αδελφός μου είναι ___ (μεγάλος) από μένα.",
+            "translations": "My brother is older than me.",
+            "answer": "μεγαλύτερος",
+            "explanation": "Irregular comparative 'μεγαλύτερος' meaning older."
+        },
+        {
+            "id": "comp-50-027",
+            "type": "select",
+            "header": "Αυτός ο υπολογιστής είναι ο ___ (modern) στην αγορά.",
+            "translations": "This computer is the most modern on the market.",
+            "options": {
+                "a": "πιο μοντέρνος",
+                "b": "μοντέρνος",
+                "c": "μοντερνότερη",
+                "d": "πιο μοντέρνο"
+            },
+            "answer": "a",
+            "explanation": "Superlative for masculine 'ο υπολογιστής'."
+        },
+        {
+            "id": "comp-50-028",
+            "type": "fill",
+            "header": "Το φαγητό της γιαγιάς είναι ___ (νόστιμος) από το δικό μου.",
+            "translations": "Grandma's food is tastier than mine.",
+            "answer": "νοστιμότερο",
+            "explanation": "Synthetic comparative for neuter 'το φαγητό'."
+        },
+        {
+            "id": "comp-50-029",
+            "type": "select",
+            "header": "Η θάλασσα είναι ___ (deep) εδώ.",
+            "translations": "The sea is deeper here.",
+            "options": {
+                "a": "βαθιά",
+                "b": "πιο βαθιά",
+                "c": "βαθύτερος",
+                "d": "πιο βαθύ"
+            },
+            "answer": "b",
+            "explanation": "Comparative form for feminine 'η θάλασσα'."
+        },
+        {
+            "id": "comp-50-030",
+            "type": "fill",
+            "header": "Αυτό το πρόβλημα είναι ___ (δύσκολος) από το άλλο.",
+            "translations": "This problem is more difficult than the other.",
+            "answer": "δυσκολότερο",
+            "explanation": "Synthetic comparison for neuter 'το πρόβλημα'."
+        },
+        {
+            "id": "comp-50-031",
+            "type": "select",
+            "header": "Ο χειμώνας είναι ο ___ (cold) μήνας.",
+            "translations": "Winter is the coldest month.",
+            "options": {
+                "a": "πιο κρύος",
+                "b": "κρύος",
+                "c": "κρυότερη",
+                "d": "πιο κρύο"
+            },
+            "answer": "a",
+            "explanation": "Superlative for masculine 'ο μήνας'."
+        },
+        {
+            "id": "comp-50-032",
+            "type": "fill",
+            "header": "Το τσάι είναι ___ (ελαφρύ) από τον καφέ.",
+            "translations": "Tea is lighter than coffee.",
+            "answer": "πιο ελαφρύ",
+            "explanation": "Comparative of 'ελαφρύ' (neuter)."
+        },
+        {
+            "id": "comp-50-033",
+            "type": "select",
+            "header": "Είναι το ___ (cheap) ξενοδοχείο που βρήκα.",
+            "translations": "It is the cheapest hotel I found.",
+            "options": {
+                "a": "πιο φτηνό",
+                "b": "φτηνό",
+                "c": "φτηνότερη",
+                "d": "πιο φτηνή"
+            },
+            "answer": "a",
+            "explanation": "Superlative for neuter 'το ξενοδοχείο'."
+        },
+        {
+            "id": "comp-50-034",
+            "type": "fill",
+            "header": "Η νύχτα είναι ___ (σκοτεινός) από τη μέρα.",
+            "translations": "Night is darker than day.",
+            "answer": "σκοτεινότερη",
+            "explanation": "Synthetic comparative for feminine 'η νύχτα'."
+        },
+        {
+            "id": "comp-50-035",
+            "type": "select",
+            "header": "Ο δρόμος είναι ___ (dangerous) τη νύχτα.",
+            "translations": "The road is more dangerous at night.",
+            "options": {
+                "a": "επικίνδυνος",
+                "b": "πιο επικίνδυνος",
+                "c": "επικινδυνότερη",
+                "d": "πιο επικίνδυνο"
+            },
+            "answer": "b",
+            "explanation": "Comparative for masculine 'ο δρόμος'."
+        },
+        {
+            "id": "comp-50-036",
+            "type": "fill",
+            "header": "Αυτό το ύφασμα είναι ___ (μαλακό) από το άλλο.",
+            "translations": "This fabric is softer than the other.",
+            "answer": "μαλακότερο",
+            "explanation": "Synthetic comparison for neuter 'το ύφασμα'."
+        },
+        {
+            "id": "comp-50-037",
+            "type": "select",
+            "header": "Είναι ο ___ (rich) άνθρωπος στην πόλη.",
+            "translations": "He is the richest man in the city.",
+            "options": {
+                "a": "πιο πλούσιος",
+                "b": "πλούσιος",
+                "c": "πλουσιότερη",
+                "d": "πιο πλούσιο"
+            },
+            "answer": "a",
+            "explanation": "Superlative for masculine 'ο άνθρωπος'."
+        },
+        {
+            "id": "comp-50-038",
+            "type": "fill",
+            "header": "Το ποτάμι είναι ___ (πλατύ) εδώ.",
+            "translations": "The river is wider here.",
+            "answer": "πιο πλατύ",
+            "explanation": "Comparative of 'πλατύ' (neuter)."
+        },
+        {
+            "id": "comp-50-039",
+            "type": "select",
+            "header": "Αυτή η καρέκλα είναι ___ (comfortable) από την άλλη.",
+            "translations": "This chair is more comfortable than the other.",
+            "options": {
+                "a": "άνετη",
+                "b": "πιο άνετη",
+                "c": "ανετότερο",
+                "d": "πιο άνετος"
+            },
+            "answer": "b",
+            "explanation": "Comparative for feminine 'η καρέκλα'."
+        },
+        {
+            "id": "comp-50-040",
+            "type": "fill",
+            "header": "Ο θόρυβος είναι ___ (δυνατός) από πριν.",
+            "translations": "The noise is louder than before.",
+            "answer": "δυνατότερος",
+            "explanation": "Synthetic comparative for masculine 'ο θόρυβος'."
+        },
+        {
+            "id": "comp-50-041",
+            "type": "select",
+            "header": "Το σίδερο είναι ___ (heavy) από το ξύλο.",
+            "translations": "Iron is heavier than wood.",
+            "options": {
+                "a": "βαρύ",
+                "b": "πιο βαρύ",
+                "c": "βαρύτερη",
+                "d": "πιο βαριά"
+            },
+            "answer": "b",
+            "explanation": "Comparative for neuter 'το σίδερο'."
+        },
+        {
+            "id": "comp-50-042",
+            "type": "fill",
+            "header": "Η αλήθεια είναι ___ (πικρός) από το ψέμα.",
+            "translations": "The truth is more bitter than the lie.",
+            "answer": "πικρότερη",
+            "explanation": "Synthetic comparative for feminine 'η αλήθεια'."
+        },
+        {
+            "id": "comp-50-043",
+            "type": "select",
+            "header": "Είναι το ___ (clean) δωμάτιο.",
+            "translations": "It is the cleanest room.",
+            "options": {
+                "a": "πιο καθαρό",
+                "b": "καθαρό",
+                "c": "καθαρότερη",
+                "d": "πιο καθαρή"
+            },
+            "answer": "a",
+            "explanation": "Superlative for neuter 'το δωμάτιο'."
+        },
+        {
+            "id": "comp-50-044",
+            "type": "fill",
+            "header": "Το κρασί είναι ___ (παλιό) από το ξίδι.",
+            "translations": "The wine is older than the vinegar.",
+            "answer": "πιο παλιό",
+            "explanation": "Periphrastic comparative for neuter 'το κρασί'."
+        },
+        {
+            "id": "comp-50-045",
+            "type": "select",
+            "header": "Ο σκύλος είναι ___ (πιστός) από τη γάτα.",
+            "translations": "The dog is more faithful than the cat.",
+            "options": {
+                "a": "πιστός",
+                "b": "πιο πιστός",
+                "c": "πιστότερη",
+                "d": "πιο πιστό"
+            },
+            "answer": "b",
+            "explanation": "Comparative for masculine 'ο σκύλος'."
+        },
+        {
+            "id": "comp-50-046",
+            "type": "fill",
+            "header": "Η ημέρα είναι ___ (μεγάλη) το καλοκαίρι.",
+            "translations": "The day is longer in summer.",
+            "answer": "μεγαλύτερη",
+            "explanation": "Comparative form of 'μεγάλη'."
+        },
+        {
+            "id": "comp-50-047",
+            "type": "select",
+            "header": "Είναι η ___ (high) κορυφή.",
+            "translations": "It is the highest peak.",
+            "options": {
+                "a": "πιο ψηλή",
+                "b": "ψηλή",
+                "c": "ψηλότερο",
+                "d": "πιο ψηλό"
+            },
+            "answer": "a",
+            "explanation": "Superlative for feminine 'η κορυφή'."
+        },
+        {
+            "id": "comp-50-048",
+            "type": "fill",
+            "header": "Ο χρυσός είναι ___ (ακριβός) από το ασήμι.",
+            "translations": "Gold is more expensive than silver.",
+            "answer": "ακριβότερος",
+            "explanation": "Synthetic comparative for masculine 'ο χρυσός'."
+        },
+        {
+            "id": "comp-50-049",
+            "type": "select",
+            "header": "Το φως είναι ___ (fast) από τον ήχο.",
+            "translations": "Light is faster than sound.",
+            "options": {
+                "a": "γρήγορο",
+                "b": "πιο γρήγορο",
+                "c": "γρηγορότερη",
+                "d": "πιο γρήγορη"
+            },
+            "answer": "b",
+            "explanation": "Comparative for neuter 'το φως'."
+        },
+        {
+            "id": "comp-50-050",
+            "type": "fill",
+            "header": "Η ερώτηση ήταν ___ (απλή) από την άλλη.",
+            "translations": "The question was simpler than the other one.",
+            "answer": "πιο απλή",
+            "explanation": "Comparative form for feminine 'η ερώτηση'."
+        }
+    ]
+}
