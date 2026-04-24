@@ -1,0 +1,329 @@
+{
+    "exercises": [
+        {
+            "id": "pr-0001-4000-8000-000000000001",
+            "type": "drill",
+            "header": "Direct object pronoun for 'me' (1st person singular)",
+            "options": {
+                "a": "μου",
+                "b": "με",
+                "c": "μας",
+                "d": "εμένα"
+            },
+            "answer": "b",
+            "explanation": "The direct object (accusative) pronoun for 'me' is με. Example: Με βλέπεις. (You see me.)"
+        },
+        {
+            "id": "pr-0002-4000-8000-000000000002",
+            "type": "drill",
+            "header": "Direct object pronoun for 'you' (2nd person singular)",
+            "options": {
+                "a": "σε",
+                "b": "σου",
+                "c": "σας",
+                "d": "εσύ"
+            },
+            "answer": "a",
+            "explanation": "The direct object (accusative) pronoun for 'you' (singular) is σε. Example: Σε βλέπω. (I see you.)"
+        },
+        {
+            "id": "pr-0003-4000-8000-000000000003",
+            "type": "drill",
+            "header": "Direct object pronoun for 'him' (3rd person singular masculine)",
+            "options": {
+                "a": "του",
+                "b": "τον",
+                "c": "το",
+                "d": "τους"
+            },
+            "answer": "b",
+            "explanation": "The direct object (accusative) pronoun for 'him' is τον. Example: Τον ξέρω. (I know him.)"
+        },
+        {
+            "id": "pr-0004-4000-8000-000000000004",
+            "type": "drill",
+            "header": "Direct object pronoun for 'her' (3rd person singular feminine)",
+            "options": {
+                "a": "τη",
+                "b": "τον",
+                "c": "την",
+                "d": "της"
+            },
+            "answer": "c",
+            "explanation": "The direct object (accusative) pronoun for 'her' is την. Example: Την βλέπω. (I see her.)"
+        },
+        {
+            "id": "pr-0005-4000-8000-000000000005",
+            "type": "drill",
+            "header": "Direct object pronoun for 'it' (3rd person singular neuter)",
+            "options": {
+                "a": "τον",
+                "b": "το",
+                "c": "τα",
+                "d": "τη"
+            },
+            "answer": "b",
+            "explanation": "The direct object (accusative) pronoun for 'it' (neuter) is το. Example: Το βλέπω. (I see it.)"
+        },
+        {
+            "id": "pr-0006-4000-8000-000000000006",
+            "type": "drill",
+            "header": "Direct object pronoun for 'us' (1st person plural)",
+            "options": {
+                "a": "μου",
+                "b": "με",
+                "c": "μας",
+                "d": "εμείς"
+            },
+            "answer": "c",
+            "explanation": "The direct object (accusative) pronoun for 'us' is μας. Example: Μας βλέπει. (She sees us.)"
+        },
+        {
+            "id": "pr-0007-4000-8000-000000000007",
+            "type": "drill",
+            "header": "Direct object pronoun for 'you all' (2nd person plural)",
+            "options": {
+                "a": "σε",
+                "b": "σου",
+                "c": "σας",
+                "d": "εσείς"
+            },
+            "answer": "c",
+            "explanation": "The direct object (accusative) pronoun for 'you all' is σας. Example: Σας βλέπω. (I see you all.)"
+        },
+        {
+            "id": "pr-0008-4000-8000-000000000008",
+            "type": "drill",
+            "header": "Direct object pronoun for 'them' (3rd person plural masculine/mixed)",
+            "options": {
+                "a": "τις",
+                "b": "τα",
+                "c": "τους",
+                "d": "τη"
+            },
+            "answer": "c",
+            "explanation": "The direct object pronoun for 'them' (masculine or mixed group) is τους. Example: Τους βλέπω. (I see them.)"
+        },
+        {
+            "id": "pr-0009-4000-8000-000000000009",
+            "type": "drill",
+            "header": "Direct object pronoun for 'them' (3rd person plural feminine)",
+            "options": {
+                "a": "τους",
+                "b": "τις",
+                "c": "τα",
+                "d": "τη"
+            },
+            "answer": "b",
+            "explanation": "The direct object pronoun for 'them' (feminine plural) is τις. Example: Τις βλέπω. (I see them - referring to a group of women/feminine nouns.)"
+        },
+        {
+            "id": "pr-0010-4000-8000-000000000010",
+            "type": "drill",
+            "header": "Direct object pronoun for 'them' (3rd person plural neuter)",
+            "options": {
+                "a": "τα",
+                "b": "τους",
+                "c": "τις",
+                "d": "τη"
+            },
+            "answer": "a",
+            "explanation": "The direct object pronoun for 'them' (neuter plural) is τα. Example: Τα βλέπω. (I see them - referring to neuter nouns like παιδιά, βιβλία.)"
+        },
+        {
+            "id": "pr-0011-4000-8000-000000000011",
+            "type": "drill",
+            "header": "___ βλέπεις. (You see me.)",
+            "options": {
+                "a": "Μου",
+                "b": "Με",
+                "c": "Εμένα",
+                "d": "Μας"
+            },
+            "answer": "b",
+            "explanation": "Με is the direct object pronoun for 'me'. It goes before the verb in statements: Με βλέπεις."
+        },
+        {
+            "id": "pr-0012-4000-8000-000000000012",
+            "type": "drill",
+            "header": "___ ξέρω. (I know him.)",
+            "options": {
+                "a": "Του",
+                "b": "Τη",
+                "c": "Τον",
+                "d": "Τους"
+            },
+            "answer": "c",
+            "explanation": "Τον is the direct object pronoun for 'him'. It goes before the verb: Τον ξέρω."
+        },
+        {
+            "id": "pr-0013-4000-8000-000000000013",
+            "type": "drill",
+            "header": "Αυτός ___ καλεί. (He calls her.)",
+            "options": {
+                "a": "τις",
+                "b": "την",
+                "c": "της",
+                "d": "τη"
+            },
+            "answer": "b",
+            "explanation": "Την is the direct object pronoun for 'her'. Αυτός την καλεί. (He calls her.)"
+        },
+        {
+            "id": "pr-0014-4000-8000-000000000014",
+            "type": "drill",
+            "header": "Δεν ___ βλέπω. (I don't see you, singular.)",
+            "options": {
+                "a": "σου",
+                "b": "σε",
+                "c": "σας",
+                "d": "εσένα"
+            },
+            "answer": "b",
+            "explanation": "Σε is the direct object pronoun for 'you' (singular). Δεν σε βλέπω."
+        },
+        {
+            "id": "pr-0015-4000-8000-000000000015",
+            "type": "drill",
+            "header": "Η μητέρα ___ αγαπά. (The mother loves us.)",
+            "options": {
+                "a": "με",
+                "b": "μου",
+                "c": "μας",
+                "d": "εμάς"
+            },
+            "answer": "c",
+            "explanation": "Μας is the direct object pronoun for 'us'. Η μητέρα μας αγαπά."
+        },
+        {
+            "id": "pr-0016-4000-8000-000000000016",
+            "type": "drill",
+            "header": "Θα ___ τηλεφωνήσω. (I will call you, plural.)",
+            "options": {
+                "a": "σε",
+                "b": "σου",
+                "c": "σας",
+                "d": "εσάς"
+            },
+            "answer": "c",
+            "explanation": "Σας is the direct object pronoun for 'you' (plural/formal). Θα σας τηλεφωνήσω."
+        },
+        {
+            "id": "pr-0017-4000-8000-000000000017",
+            "type": "drill",
+            "header": "Δεν ___ ακούω. (I don't hear them — referring to neuter objects.)",
+            "options": {
+                "a": "τους",
+                "b": "τις",
+                "c": "τα",
+                "d": "αυτά"
+            },
+            "answer": "c",
+            "explanation": "Τα is the direct object pronoun for neuter plural 'them'. Δεν τα ακούω."
+        },
+        {
+            "id": "pr-0018-4000-8000-000000000018",
+            "type": "drill",
+            "header": "Η Μαρία ___ περιμένει. (Maria waits for them — masculine group.)",
+            "options": {
+                "a": "τις",
+                "b": "τους",
+                "c": "τα",
+                "d": "αυτούς"
+            },
+            "answer": "b",
+            "explanation": "Τους is the direct object pronoun for masculine/mixed plural 'them'. Η Μαρία τους περιμένει."
+        },
+        {
+            "id": "pr-0019-4000-8000-000000000019",
+            "type": "drill",
+            "header": "'You see me' — which pronoun represents 'me'?",
+            "options": {
+                "a": "μου",
+                "b": "με",
+                "c": "εμένα",
+                "d": "μας"
+            },
+            "answer": "b",
+            "explanation": "The direct object pronoun for 'me' is με. Με βλέπεις. (You see me.)"
+        },
+        {
+            "id": "pr-0020-4000-8000-000000000020",
+            "type": "drill",
+            "header": "'They hear us' — which pronoun represents 'us'?",
+            "options": {
+                "a": "με",
+                "b": "μου",
+                "c": "μας",
+                "d": "εμάς"
+            },
+            "answer": "c",
+            "explanation": "The direct object pronoun for 'us' is μας. Μας ακούνε. (They hear us.)"
+        },
+        {
+            "id": "pr-0021-4000-8000-000000000021",
+            "type": "drill",
+            "header": "'She sees you (singular)' — which pronoun represents 'you'?",
+            "options": {
+                "a": "σου",
+                "b": "σε",
+                "c": "σας",
+                "d": "εσύ"
+            },
+            "answer": "b",
+            "explanation": "The direct object pronoun for 'you' (singular) is σε. Αυτή σε βλέπει."
+        },
+        {
+            "id": "pr-0022-4000-8000-000000000022",
+            "type": "drill",
+            "header": "'He loves them (feminine plural)' — which pronoun represents 'them'?",
+            "options": {
+                "a": "τους",
+                "b": "τα",
+                "c": "τις",
+                "d": "αυτές"
+            },
+            "answer": "c",
+            "explanation": "The direct object pronoun for 'them' (feminine plural) is τις. Αυτός τις αγαπά."
+        },
+        {
+            "id": "pr-0023-4000-8000-000000000023",
+            "type": "drill",
+            "header": "Which pronoun replaces 'τον Γιώργη' as a direct object?",
+            "options": {
+                "a": "τον",
+                "b": "του",
+                "c": "αυτόν",
+                "d": "τους"
+            },
+            "answer": "a",
+            "explanation": "A masculine singular noun like Γιώργης is replaced by τον as a direct object. Τον ξέρω. (I know him/George.)"
+        },
+        {
+            "id": "pr-0024-4000-8000-000000000024",
+            "type": "drill",
+            "header": "Which pronoun replaces 'την Ελένη' as a direct object?",
+            "options": {
+                "a": "της",
+                "b": "τη",
+                "c": "τον",
+                "d": "την"
+            },
+            "answer": "d",
+            "explanation": "A feminine singular noun like Ελένη is replaced by την as a direct object. Την ξέρω. (I know her/Eleni.)"
+        },
+        {
+            "id": "pr-0025-4000-8000-000000000025",
+            "type": "drill",
+            "header": "In a normal statement, where does the personal object pronoun go?",
+            "options": {
+                "a": "After the verb",
+                "b": "Before the verb",
+                "c": "At the end of the sentence",
+                "d": "After the subject"
+            },
+            "answer": "b",
+            "explanation": "Personal object pronouns go BEFORE the verb in normal statements. Example: Τον βλέπω. (I see him.) — only imperatives and gerunds place them after."
+        }
+    ]
+}

@@ -1,0 +1,434 @@
+{
+    "exercises": [
+        {
+            "id": "ps-dv-0061",
+            "type": "drill_verb",
+            "header": "σπάω (to break)",
+            "conjugations": [
+                {
+                    "form": "εγώ",
+                    "options": {"a": "έσπασα", "b": "έσπασες", "c": "έσπασε", "d": "σπάσαμε"},
+                    "answer": "a",
+                    "explanation": "σπάω adds -σα in the past. Add augment έ- and 1sg ending -α: έσπασα."
+                },
+                {
+                    "form": "εσύ",
+                    "options": {"a": "έσπασα", "b": "έσπασες", "c": "σπάσαμε", "d": "σπάσατε"},
+                    "answer": "b",
+                    "explanation": "Same stem. 2sg ending -ες: έσπασες."
+                },
+                {
+                    "form": "αυτός / αυτή / αυτό",
+                    "options": {"a": "έσπασες", "b": "σπάσαμε", "c": "έσπασε", "d": "έσπασαν"},
+                    "answer": "c",
+                    "explanation": "Same stem. 3sg ending -ε: έσπασε."
+                },
+                {
+                    "form": "εμείς",
+                    "options": {"a": "έσπασαν", "b": "έσπασες", "c": "έσπασε", "d": "σπάσαμε"},
+                    "answer": "d",
+                    "explanation": "Augment drops in 1pl. Ending -αμε: σπάσαμε."
+                },
+                {
+                    "form": "εσείς",
+                    "options": {"a": "σπάσατε", "b": "έσπασε", "c": "έσπασαν", "d": "έσπασα"},
+                    "answer": "a",
+                    "explanation": "Augment drops in 2pl. Ending -ατε: σπάσατε."
+                },
+                {
+                    "form": "αυτοί / αυτές / αυτά",
+                    "options": {"a": "σπάσαμε", "b": "έσπασαν", "c": "έσπασες", "d": "σπάσατε"},
+                    "answer": "b",
+                    "explanation": "3pl ending -αν: έσπασαν."
+                }
+            ]
+        },
+        {
+            "id": "ps-dv-0062",
+            "type": "drill_verb",
+            "header": "πέφτω (to fall)",
+            "conjugations": [
+                {
+                    "form": "εγώ",
+                    "options": {"a": "έπεσα", "b": "έπεσες", "c": "έπεσε", "d": "πέσαμε"},
+                    "answer": "a",
+                    "explanation": "πέφτω has an irregular past stem πεσ-. Add augment έ- and 1sg ending -α: έπεσα."
+                },
+                {
+                    "form": "εσύ",
+                    "options": {"a": "έπεσα", "b": "έπεσες", "c": "πέσαμε", "d": "πέσατε"},
+                    "answer": "b",
+                    "explanation": "Same irregular stem. 2sg ending -ες: έπεσες."
+                },
+                {
+                    "form": "αυτός / αυτή / αυτό",
+                    "options": {"a": "έπεσες", "b": "πέσαμε", "c": "έπεσε", "d": "έπεσαν"},
+                    "answer": "c",
+                    "explanation": "Same irregular stem. 3sg ending -ε: έπεσε."
+                },
+                {
+                    "form": "εμείς",
+                    "options": {"a": "έπεσαν", "b": "έπεσες", "c": "έπεσε", "d": "πέσαμε"},
+                    "answer": "d",
+                    "explanation": "Augment drops in 1pl. Ending -αμε: πέσαμε."
+                },
+                {
+                    "form": "εσείς",
+                    "options": {"a": "πέσατε", "b": "έπεσε", "c": "έπεσαν", "d": "έπεσα"},
+                    "answer": "a",
+                    "explanation": "Augment drops in 2pl. Ending -ατε: πέσατε."
+                },
+                {
+                    "form": "αυτοί / αυτές / αυτά",
+                    "options": {"a": "πέσαμε", "b": "έπεσαν", "c": "έπεσες", "d": "πέσατε"},
+                    "answer": "b",
+                    "explanation": "3pl ending -αν: έπεσαν."
+                }
+            ]
+        },
+        {
+            "id": "ps-dv-0063",
+            "type": "drill_verb",
+            "header": "χάνω (to lose / miss)",
+            "conjugations": [
+                {
+                    "form": "εγώ",
+                    "options": {"a": "έχασα", "b": "έχασες", "c": "έχασε", "d": "χάσαμε"},
+                    "answer": "a",
+                    "explanation": "χάνω drops -ν and adds -σα. Add augment έ- and 1sg ending -α: έχασα."
+                },
+                {
+                    "form": "εσύ",
+                    "options": {"a": "έχασα", "b": "έχασες", "c": "χάσαμε", "d": "χάσατε"},
+                    "answer": "b",
+                    "explanation": "Same stem. 2sg ending -ες: έχασες."
+                },
+                {
+                    "form": "αυτός / αυτή / αυτό",
+                    "options": {"a": "έχασες", "b": "χάσαμε", "c": "έχασε", "d": "έχασαν"},
+                    "answer": "c",
+                    "explanation": "Same stem. 3sg ending -ε: έχασε."
+                },
+                {
+                    "form": "εμείς",
+                    "options": {"a": "έχασαν", "b": "έχασες", "c": "έχασε", "d": "χάσαμε"},
+                    "answer": "d",
+                    "explanation": "Augment drops in 1pl. Ending -αμε: χάσαμε."
+                },
+                {
+                    "form": "εσείς",
+                    "options": {"a": "χάσατε", "b": "έχασε", "c": "έχασαν", "d": "έχασα"},
+                    "answer": "a",
+                    "explanation": "Augment drops in 2pl. Ending -ατε: χάσατε."
+                },
+                {
+                    "form": "αυτοί / αυτές / αυτά",
+                    "options": {"a": "χάσαμε", "b": "έχασαν", "c": "έχασες", "d": "χάσατε"},
+                    "answer": "b",
+                    "explanation": "3pl ending -αν: έχασαν."
+                }
+            ]
+        },
+        {
+            "id": "ps-dv-0064",
+            "type": "drill_verb",
+            "header": "κερδίζω (to win / earn)",
+            "conjugations": [
+                {
+                    "form": "εγώ",
+                    "options": {"a": "κέρδισα", "b": "κέρδισες", "c": "κέρδισε", "d": "κερδίσαμε"},
+                    "answer": "a",
+                    "explanation": "κερδίζω ends in -ζ → -σ in the past. The word is long, so stress shifts: κέρδισα (1sg)."
+                },
+                {
+                    "form": "εσύ",
+                    "options": {"a": "κέρδισα", "b": "κέρδισες", "c": "κερδίσαμε", "d": "κερδίσατε"},
+                    "answer": "b",
+                    "explanation": "Same -σ stem. 2sg ending -ες: κέρδισες."
+                },
+                {
+                    "form": "αυτός / αυτή / αυτό",
+                    "options": {"a": "κέρδισες", "b": "κερδίσαμε", "c": "κέρδισε", "d": "κέρδισαν"},
+                    "answer": "c",
+                    "explanation": "Same -σ stem. 3sg ending -ε: κέρδισε."
+                },
+                {
+                    "form": "εμείς",
+                    "options": {"a": "κέρδισαν", "b": "κέρδισες", "c": "κέρδισε", "d": "κερδίσαμε"},
+                    "answer": "d",
+                    "explanation": "1pl ending -αμε: κερδίσαμε."
+                },
+                {
+                    "form": "εσείς",
+                    "options": {"a": "κερδίσατε", "b": "κέρδισε", "c": "κέρδισαν", "d": "κέρδισα"},
+                    "answer": "a",
+                    "explanation": "2pl ending -ατε: κερδίσατε."
+                },
+                {
+                    "form": "αυτοί / αυτές / αυτά",
+                    "options": {"a": "κερδίσαμε", "b": "κέρδισαν", "c": "κέρδισες", "d": "κερδίσατε"},
+                    "answer": "b",
+                    "explanation": "3pl ending -αν: κέρδισαν."
+                }
+            ]
+        },
+        {
+            "id": "ps-dv-0065",
+            "type": "drill_verb",
+            "header": "ψάχνω (to search / look for)",
+            "conjugations": [
+                {
+                    "form": "εγώ",
+                    "options": {"a": "έψαξα", "b": "έψαξες", "c": "έψαξε", "d": "ψάξαμε"},
+                    "answer": "a",
+                    "explanation": "ψάχνω drops -χν- and adds -ξ- in the past. Add augment έ- and 1sg ending -α: έψαξα."
+                },
+                {
+                    "form": "εσύ",
+                    "options": {"a": "έψαξα", "b": "έψαξες", "c": "ψάξαμε", "d": "ψάξατε"},
+                    "answer": "b",
+                    "explanation": "Same -ξ stem. 2sg ending -ες: έψαξες."
+                },
+                {
+                    "form": "αυτός / αυτή / αυτό",
+                    "options": {"a": "έψαξες", "b": "ψάξαμε", "c": "έψαξε", "d": "έψαξαν"},
+                    "answer": "c",
+                    "explanation": "Same -ξ stem. 3sg ending -ε: έψαξε."
+                },
+                {
+                    "form": "εμείς",
+                    "options": {"a": "έψαξαν", "b": "έψαξες", "c": "έψαξε", "d": "ψάξαμε"},
+                    "answer": "d",
+                    "explanation": "Augment drops in 1pl. Ending -αμε: ψάξαμε."
+                },
+                {
+                    "form": "εσείς",
+                    "options": {"a": "ψάξατε", "b": "έψαξε", "c": "έψαξαν", "d": "έψαξα"},
+                    "answer": "a",
+                    "explanation": "Augment drops in 2pl. Ending -ατε: ψάξατε."
+                },
+                {
+                    "form": "αυτοί / αυτές / αυτά",
+                    "options": {"a": "ψάξαμε", "b": "έψαξαν", "c": "έψαξες", "d": "ψάξατε"},
+                    "answer": "b",
+                    "explanation": "3pl ending -αν: έψαξαν."
+                }
+            ]
+        },
+        {
+            "id": "ps-dv-0066",
+            "type": "drill_verb",
+            "header": "σβήνω (to turn off / erase)",
+            "conjugations": [
+                {
+                    "form": "εγώ",
+                    "options": {"a": "έσβησα", "b": "έσβησες", "c": "έσβησε", "d": "σβήσαμε"},
+                    "answer": "a",
+                    "explanation": "σβήνω drops -ν and adds -σα. Add augment έ- and 1sg ending -α: έσβησα."
+                },
+                {
+                    "form": "εσύ",
+                    "options": {"a": "έσβησα", "b": "έσβησες", "c": "σβήσαμε", "d": "σβήσατε"},
+                    "answer": "b",
+                    "explanation": "Same stem. 2sg ending -ες: έσβησες."
+                },
+                {
+                    "form": "αυτός / αυτή / αυτό",
+                    "options": {"a": "έσβησες", "b": "σβήσαμε", "c": "έσβησε", "d": "έσβησαν"},
+                    "answer": "c",
+                    "explanation": "Same stem. 3sg ending -ε: έσβησε."
+                },
+                {
+                    "form": "εμείς",
+                    "options": {"a": "έσβησαν", "b": "έσβησες", "c": "έσβησε", "d": "σβήσαμε"},
+                    "answer": "d",
+                    "explanation": "Augment drops in 1pl. Ending -αμε: σβήσαμε."
+                },
+                {
+                    "form": "εσείς",
+                    "options": {"a": "σβήσατε", "b": "έσβησε", "c": "έσβησαν", "d": "έσβησα"},
+                    "answer": "a",
+                    "explanation": "Augment drops in 2pl. Ending -ατε: σβήσατε."
+                },
+                {
+                    "form": "αυτοί / αυτές / αυτά",
+                    "options": {"a": "σβήσαμε", "b": "έσβησαν", "c": "έσβησες", "d": "σβήσατε"},
+                    "answer": "b",
+                    "explanation": "3pl ending -αν: έσβησαν."
+                }
+            ]
+        },
+        {
+            "id": "ps-dv-0067",
+            "type": "drill_verb",
+            "header": "αντέχω (to endure / stand)",
+            "conjugations": [
+                {
+                    "form": "εγώ",
+                    "options": {"a": "άντεξα", "b": "άντεξες", "c": "άντεξε", "d": "αντέξαμε"},
+                    "answer": "a",
+                    "explanation": "αντέχω ends in -χ. The -χ + -σ → -ξ. The augment shifts stress: άντεξα (1sg)."
+                },
+                {
+                    "form": "εσύ",
+                    "options": {"a": "άντεξα", "b": "άντεξες", "c": "αντέξαμε", "d": "αντέξατε"},
+                    "answer": "b",
+                    "explanation": "Same -ξ stem. 2sg ending -ες: άντεξες."
+                },
+                {
+                    "form": "αυτός / αυτή / αυτό",
+                    "options": {"a": "άντεξες", "b": "αντέξαμε", "c": "άντεξε", "d": "άντεξαν"},
+                    "answer": "c",
+                    "explanation": "Same -ξ stem. 3sg ending -ε: άντεξε."
+                },
+                {
+                    "form": "εμείς",
+                    "options": {"a": "άντεξαν", "b": "άντεξες", "c": "άντεξε", "d": "αντέξαμε"},
+                    "answer": "d",
+                    "explanation": "Augment drops in 1pl. Ending -αμε: αντέξαμε."
+                },
+                {
+                    "form": "εσείς",
+                    "options": {"a": "αντέξατε", "b": "άντεξε", "c": "άντεξαν", "d": "άντεξα"},
+                    "answer": "a",
+                    "explanation": "Augment drops in 2pl. Ending -ατε: αντέξατε."
+                },
+                {
+                    "form": "αυτοί / αυτές / αυτά",
+                    "options": {"a": "αντέξαμε", "b": "άντεξαν", "c": "άντεξες", "d": "αντέξατε"},
+                    "answer": "b",
+                    "explanation": "3pl ending -αν: άντεξαν."
+                }
+            ]
+        },
+        {
+            "id": "ps-dv-0068",
+            "type": "drill_verb",
+            "header": "μαζεύω (to gather / collect / pick up)",
+            "conjugations": [
+                {
+                    "form": "εγώ",
+                    "options": {"a": "μάζεψα", "b": "μάζεψες", "c": "μάζεψε", "d": "μαζέψαμε"},
+                    "answer": "a",
+                    "explanation": "μαζεύω ends in -εύω. In the past, -εύ- → -εψ-. 1sg: μάζεψα."
+                },
+                {
+                    "form": "εσύ",
+                    "options": {"a": "μάζεψα", "b": "μάζεψες", "c": "μαζέψαμε", "d": "μαζέψατε"},
+                    "answer": "b",
+                    "explanation": "Same -εψ- stem. 2sg ending -ες: μάζεψες."
+                },
+                {
+                    "form": "αυτός / αυτή / αυτό",
+                    "options": {"a": "μάζεψες", "b": "μαζέψαμε", "c": "μάζεψε", "d": "μάζεψαν"},
+                    "answer": "c",
+                    "explanation": "Same -εψ- stem. 3sg ending -ε: μάζεψε."
+                },
+                {
+                    "form": "εμείς",
+                    "options": {"a": "μάζεψαν", "b": "μάζεψες", "c": "μάζεψε", "d": "μαζέψαμε"},
+                    "answer": "d",
+                    "explanation": "No augment in 1pl. Ending -αμε: μαζέψαμε."
+                },
+                {
+                    "form": "εσείς",
+                    "options": {"a": "μαζέψατε", "b": "μάζεψε", "c": "μάζεψαν", "d": "μάζεψα"},
+                    "answer": "a",
+                    "explanation": "No augment in 2pl. Ending -ατε: μαζέψατε."
+                },
+                {
+                    "form": "αυτοί / αυτές / αυτά",
+                    "options": {"a": "μαζέψαμε", "b": "μάζεψαν", "c": "μάζεψες", "d": "μαζέψατε"},
+                    "answer": "b",
+                    "explanation": "3pl ending -αν: μάζεψαν."
+                }
+            ]
+        },
+        {
+            "id": "ps-dv-0069",
+            "type": "drill_verb",
+            "header": "λύνω (to solve / untie)",
+            "conjugations": [
+                {
+                    "form": "εγώ",
+                    "options": {"a": "έλυσα", "b": "έλυσες", "c": "έλυσε", "d": "λύσαμε"},
+                    "answer": "a",
+                    "explanation": "λύνω drops -ν and adds -σα. Add augment έ- and 1sg ending -α: έλυσα."
+                },
+                {
+                    "form": "εσύ",
+                    "options": {"a": "έλυσα", "b": "έλυσες", "c": "λύσαμε", "d": "λύσατε"},
+                    "answer": "b",
+                    "explanation": "Same stem. 2sg ending -ες: έλυσες."
+                },
+                {
+                    "form": "αυτός / αυτή / αυτό",
+                    "options": {"a": "έλυσες", "b": "λύσαμε", "c": "έλυσε", "d": "έλυσαν"},
+                    "answer": "c",
+                    "explanation": "Same stem. 3sg ending -ε: έλυσε."
+                },
+                {
+                    "form": "εμείς",
+                    "options": {"a": "έλυσαν", "b": "έλυσες", "c": "έλυσε", "d": "λύσαμε"},
+                    "answer": "d",
+                    "explanation": "Augment drops in 1pl. Ending -αμε: λύσαμε."
+                },
+                {
+                    "form": "εσείς",
+                    "options": {"a": "λύσατε", "b": "έλυσε", "c": "έλυσαν", "d": "έλυσα"},
+                    "answer": "a",
+                    "explanation": "Augment drops in 2pl. Ending -ατε: λύσατε."
+                },
+                {
+                    "form": "αυτοί / αυτές / αυτά",
+                    "options": {"a": "λύσαμε", "b": "έλυσαν", "c": "έλυσες", "d": "λύσατε"},
+                    "answer": "b",
+                    "explanation": "3pl ending -αν: έλυσαν."
+                }
+            ]
+        },
+        {
+            "id": "ps-dv-0070",
+            "type": "drill_verb",
+            "header": "τρίβω (to rub / grate)",
+            "conjugations": [
+                {
+                    "form": "εγώ",
+                    "options": {"a": "έτριψα", "b": "έτριψες", "c": "έτριψε", "d": "τρίψαμε"},
+                    "answer": "a",
+                    "explanation": "τρίβω ends in -β. The -β + -σ → -ψ. Add augment έ- and 1sg ending -α: έτριψα."
+                },
+                {
+                    "form": "εσύ",
+                    "options": {"a": "έτριψα", "b": "έτριψες", "c": "τρίψαμε", "d": "τρίψατε"},
+                    "answer": "b",
+                    "explanation": "Same -ψ stem. 2sg ending -ες: έτριψες."
+                },
+                {
+                    "form": "αυτός / αυτή / αυτό",
+                    "options": {"a": "έτριψες", "b": "τρίψαμε", "c": "έτριψε", "d": "έτριψαν"},
+                    "answer": "c",
+                    "explanation": "Same -ψ stem. 3sg ending -ε: έτριψε."
+                },
+                {
+                    "form": "εμείς",
+                    "options": {"a": "έτριψαν", "b": "έτριψες", "c": "έτριψε", "d": "τρίψαμε"},
+                    "answer": "d",
+                    "explanation": "Augment drops in 1pl. Ending -αμε: τρίψαμε."
+                },
+                {
+                    "form": "εσείς",
+                    "options": {"a": "τρίψατε", "b": "έτριψε", "c": "έτριψαν", "d": "έτριψα"},
+                    "answer": "a",
+                    "explanation": "Augment drops in 2pl. Ending -ατε: τρίψατε."
+                },
+                {
+                    "form": "αυτοί / αυτές / αυτά",
+                    "options": {"a": "τρίψαμε", "b": "έτριψαν", "c": "έτριψες", "d": "τρίψατε"},
+                    "answer": "b",
+                    "explanation": "3pl ending -αν: έτριψαν."
+                }
+            ]
+        }
+    ]
+}

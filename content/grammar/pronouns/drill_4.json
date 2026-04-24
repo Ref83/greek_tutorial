@@ -1,0 +1,329 @@
+{
+    "exercises": [
+        {
+            "id": "pr-0076-4000-8000-000000000076",
+            "type": "drill",
+            "header": "The pronoun 'τον' refers to:",
+            "options": {
+                "a": "Plural masculine direct object",
+                "b": "Singular masculine direct object",
+                "c": "Singular masculine possessive",
+                "d": "Singular neuter direct object"
+            },
+            "answer": "b",
+            "explanation": "Τον is the singular masculine direct object pronoun meaning 'him'. Example: Τον ξέρω. (I know him.) Contrast: τους = plural masculine, του = masculine possessive."
+        },
+        {
+            "id": "pr-0077-4000-8000-000000000077",
+            "type": "drill",
+            "header": "The pronoun 'τις' refers to:",
+            "options": {
+                "a": "Singular feminine direct object",
+                "b": "Plural masculine direct object",
+                "c": "Plural feminine direct object",
+                "d": "Plural neuter direct object"
+            },
+            "answer": "c",
+            "explanation": "Τις is the plural feminine direct object pronoun meaning 'them' (referring to women or feminine nouns). Example: Τις βλέπω. (I see them.)"
+        },
+        {
+            "id": "pr-0078-4000-8000-000000000078",
+            "type": "drill",
+            "header": "Which pronoun replaces 'τα παιδιά' (the children) as a direct object?",
+            "options": {
+                "a": "τους",
+                "b": "τις",
+                "c": "τα",
+                "d": "τον"
+            },
+            "answer": "c",
+            "explanation": "Τα is the direct object pronoun for neuter plural nouns. Παιδιά is neuter plural, so: Τα βλέπω. (I see them.)"
+        },
+        {
+            "id": "pr-0079-4000-8000-000000000079",
+            "type": "drill",
+            "header": "The double accent rule applies when:",
+            "options": {
+                "a": "Two pronouns appear together",
+                "b": "A weak possessive follows a word stressed on the 3rd syllable from the end",
+                "c": "A verb ends in -ω",
+                "d": "The noun is in plural form"
+            },
+            "answer": "b",
+            "explanation": "When a word is stressed on the antepenultimate (3rd from last) syllable and is followed by a weak possessive pronoun, it gains a second accent. Example: ό-νο-μα → Το όνομά μου."
+        },
+        {
+            "id": "pr-0080-4000-8000-000000000080",
+            "type": "drill",
+            "header": "Which is the correct form for 'my name'?",
+            "options": {
+                "a": "Το όνομα μου",
+                "b": "Το όνομά μου",
+                "c": "Μου το όνομα",
+                "d": "Το μου όνομα"
+            },
+            "answer": "b",
+            "explanation": "Το όνομά μου — with the double accent on the last syllable of όνομα. Since όνομα is stressed on the 3rd syllable from the end, it needs a second accent when followed by the possessive μου."
+        },
+        {
+            "id": "pr-0081-4000-8000-000000000081",
+            "type": "drill",
+            "header": "When used with an imperative (command), personal pronouns go:",
+            "options": {
+                "a": "Before the verb",
+                "b": "After the verb",
+                "c": "Before the subject",
+                "d": "At the beginning of the sentence"
+            },
+            "answer": "b",
+            "explanation": "With imperatives and gerunds, personal pronouns go AFTER the verb. Example: Δώσε μου! (Give me!) — unlike statements where they precede the verb."
+        },
+        {
+            "id": "pr-0082-4000-8000-000000000082",
+            "type": "drill",
+            "header": "'Give me!' (imperative) →",
+            "options": {
+                "a": "Μου δώσε!",
+                "b": "Δώσε μου!",
+                "c": "Δώσε με!",
+                "d": "Με δώσε!"
+            },
+            "answer": "b",
+            "explanation": "Δώσε μου! — With imperatives the pronoun follows the verb. Note: 'me' in the indirect object sense (give TO me) uses μου, not με."
+        },
+        {
+            "id": "pr-0083-4000-8000-000000000083",
+            "type": "drill",
+            "header": "'Seeing him...' → Βλέποντάς ___...",
+            "options": {
+                "a": "Βλέποντάς του",
+                "b": "Βλέποντάς αυτόν",
+                "c": "Βλέποντάς τον",
+                "d": "Βλέποντάς τους"
+            },
+            "answer": "c",
+            "explanation": "Βλέποντάς τον — With gerunds (-οντας forms), the pronoun follows the verb just like with imperatives. The form is τον (direct object 'him')."
+        },
+        {
+            "id": "pr-0084-4000-8000-000000000084",
+            "type": "drill",
+            "header": "In modern Greek, the pronoun 'τον' (him):",
+            "options": {
+                "a": "Always drops -ν before certain consonants",
+                "b": "Always keeps the final -ν",
+                "c": "Drops -ν before vowels only",
+                "d": "Has no final -ν"
+            },
+            "answer": "b",
+            "explanation": "In modern Greek, τον always keeps its final -ν. This is the safer and more commonly recommended form. The same applies to την."
+        },
+        {
+            "id": "pr-0085-4000-8000-000000000085",
+            "type": "drill",
+            "header": "'I don't see them (neuter)' → Δεν ___ βλέπω.",
+            "options": {
+                "a": "τους",
+                "b": "τις",
+                "c": "αυτά",
+                "d": "τα"
+            },
+            "answer": "d",
+            "explanation": "Τα is the direct object pronoun for 'them' (neuter plural). Δεν τα βλέπω. (I don't see them.)"
+        },
+        {
+            "id": "pr-0086-4000-8000-000000000086",
+            "type": "drill",
+            "header": "'Their names' → Τα ονόματά ___",
+            "options": {
+                "a": "τα",
+                "b": "τις",
+                "c": "τους",
+                "d": "αυτών"
+            },
+            "answer": "c",
+            "explanation": "Τους is the possessive for 'their'. Note also the double accent on ονόματά because ονόματα is stressed on the 3rd syllable from the end."
+        },
+        {
+            "id": "pr-0087-4000-8000-000000000087",
+            "type": "drill",
+            "header": "'She sees me' — which word order is correct?",
+            "options": {
+                "a": "Βλέπει με.",
+                "b": "Με βλέπει.",
+                "c": "Αυτή βλέπει εμένα.",
+                "d": "Αυτή με βλέπει εμένα."
+            },
+            "answer": "b",
+            "explanation": "Με βλέπει. — The weak personal pronoun (με) goes before the verb in statements. 'Βλέπει με' is incorrect word order for the weak pronoun form."
+        },
+        {
+            "id": "pr-0088-4000-8000-000000000088",
+            "type": "drill",
+            "header": "'I don't understand you (formal/plural)' → Δεν ___ καταλαβαίνω.",
+            "options": {
+                "a": "σε",
+                "b": "σου",
+                "c": "σας",
+                "d": "εσάς"
+            },
+            "answer": "c",
+            "explanation": "Σας is both the plural and the formal singular 'you' as a direct object. Δεν σας καταλαβαίνω."
+        },
+        {
+            "id": "pr-0089-4000-8000-000000000089",
+            "type": "drill",
+            "header": "'My friends' → Οι φίλοι ___",
+            "options": {
+                "a": "με",
+                "b": "εγώ",
+                "c": "μου",
+                "d": "μας"
+            },
+            "answer": "c",
+            "explanation": "Μου is the possessive pronoun for 'my'. Οι φίλοι μου. (My friends.) — the possessive form doesn't change based on the noun's gender or number."
+        },
+        {
+            "id": "pr-0090-4000-8000-000000000090",
+            "type": "drill",
+            "header": "Which pronoun replaces 'τους μαθητές' (the male students) as a direct object?",
+            "options": {
+                "a": "τον",
+                "b": "τις",
+                "c": "τα",
+                "d": "τους"
+            },
+            "answer": "d",
+            "explanation": "Τους replaces masculine plural nouns as a direct object. Τους βλέπω. (I see them — the male students.)"
+        },
+        {
+            "id": "pr-0091-4000-8000-000000000091",
+            "type": "drill",
+            "header": "Which pronoun replaces 'τις μαθήτριες' (the female students) as a direct object?",
+            "options": {
+                "a": "τους",
+                "b": "τα",
+                "c": "τις",
+                "d": "τη"
+            },
+            "answer": "c",
+            "explanation": "Τις replaces feminine plural nouns as a direct object. Τις βλέπω. (I see them — the female students.)"
+        },
+        {
+            "id": "pr-0092-4000-8000-000000000092",
+            "type": "drill",
+            "header": "'Your (singular) opinion' → Η γνώμη ___",
+            "options": {
+                "a": "σε",
+                "b": "σου",
+                "c": "σας",
+                "d": "εσύ"
+            },
+            "answer": "b",
+            "explanation": "Σου is the possessive pronoun for 'your' (singular). Η γνώμη σου."
+        },
+        {
+            "id": "pr-0093-4000-8000-000000000093",
+            "type": "drill",
+            "header": "'I love her' → ___ αγαπώ.",
+            "options": {
+                "a": "Της",
+                "b": "Τη",
+                "c": "Την",
+                "d": "Αυτή"
+            },
+            "answer": "c",
+            "explanation": "Την is the direct object pronoun for 'her'. Την αγαπώ. (I love her.) Της would be indirect object/possessive, not direct object here."
+        },
+        {
+            "id": "pr-0094-4000-8000-000000000094",
+            "type": "drill",
+            "header": "'He knows them (feminine plural)' → ___ ξέρει.",
+            "options": {
+                "a": "Τους",
+                "b": "Τα",
+                "c": "Τις",
+                "d": "Αυτές"
+            },
+            "answer": "c",
+            "explanation": "Τις is the direct object pronoun for 'them' (feminine plural). Τις ξέρει. (He knows them.)"
+        },
+        {
+            "id": "pr-0095-4000-8000-000000000095",
+            "type": "drill",
+            "header": "'Our city' → Η πόλη ___",
+            "options": {
+                "a": "μου",
+                "b": "μας",
+                "c": "σας",
+                "d": "τους"
+            },
+            "answer": "b",
+            "explanation": "Μας is the possessive pronoun for 'our'. Η πόλη μας."
+        },
+        {
+            "id": "pr-0096-4000-8000-000000000096",
+            "type": "drill",
+            "header": "What is the possessive form of 'αυτός' (he)?",
+            "options": {
+                "a": "τον",
+                "b": "τη",
+                "c": "τους",
+                "d": "του"
+            },
+            "answer": "d",
+            "explanation": "The possessive form of 'he/him' (αυτός) is του, meaning 'his'. Example: το βιβλίο του (his book)."
+        },
+        {
+            "id": "pr-0097-4000-8000-000000000097",
+            "type": "drill",
+            "header": "What is the possessive form of 'αυτή' (she)?",
+            "options": {
+                "a": "της",
+                "b": "τη",
+                "c": "τον",
+                "d": "τους"
+            },
+            "answer": "a",
+            "explanation": "The possessive form of 'she/her' (αυτή) is της, meaning 'her'. Example: η μητέρα της (her mother)."
+        },
+        {
+            "id": "pr-0098-4000-8000-000000000098",
+            "type": "drill",
+            "header": "'Help me!' (imperative) →",
+            "options": {
+                "a": "Με βοήθησε!",
+                "b": "Βοήθησε με!",
+                "c": "Μου βοήθησε!",
+                "d": "Βοήθησε μου!"
+            },
+            "answer": "b",
+            "explanation": "Βοήθησε με! — With imperatives, the pronoun follows the verb. Here 'me' is the direct object, so με (not μου) is used."
+        },
+        {
+            "id": "pr-0099-4000-8000-000000000099",
+            "type": "drill",
+            "header": "τον / τους / τα — which pronoun goes with 'τα λόγια' (the words) as a direct object?",
+            "options": {
+                "a": "τον",
+                "b": "τους",
+                "c": "τα",
+                "d": "τις"
+            },
+            "answer": "c",
+            "explanation": "Τα replaces neuter plural nouns. Λόγια (words) is neuter plural, so: Τα ακούω. (I hear them.)"
+        },
+        {
+            "id": "pr-0100-4000-8000-000000000100",
+            "type": "drill",
+            "header": "Which sentence correctly uses the possessive pronoun?",
+            "options": {
+                "a": "Μου το σπίτι είναι μεγάλο.",
+                "b": "Το μου σπίτι είναι μεγάλο.",
+                "c": "Το σπίτι μου είναι μεγάλο.",
+                "d": "Το σπίτι είναι μου μεγάλο."
+            },
+            "answer": "c",
+            "explanation": "Το σπίτι μου είναι μεγάλο. — The possessive pronoun always follows the noun it belongs to. Placing it before the noun or article (as in options a, b, d) is incorrect."
+        }
+    ]
+}

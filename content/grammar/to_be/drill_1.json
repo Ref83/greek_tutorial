@@ -1,0 +1,654 @@
+{
+    "exercises": [
+        {
+            "id": "a1b2c3d4-0001-4000-8000-111111111111",
+            "type": "drill",
+            "header": "Εγώ",
+            "options": {
+                "a": "είναι",
+                "b": "είμαι",
+                "c": "είσαι",
+                "d": "είμαστε"
+            },
+            "answer": "b",
+            "explanation": "1st person singular: εγώ είμαι (I am). The ending -μαι marks the 1st person singular."
+        },
+        {
+            "id": "a1b2c3d4-0002-4000-8000-222222222222",
+            "type": "drill",
+            "header": "Εσύ",
+            "options": {
+                "a": "είμαι",
+                "b": "είμαστε",
+                "c": "είσαι",
+                "d": "είναι"
+            },
+            "answer": "c",
+            "explanation": "2nd person singular: εσύ είσαι (you are). The ending -σαι marks the 2nd person singular."
+        },
+        {
+            "id": "a1b2c3d4-0003-4000-8000-333333333333",
+            "type": "drill",
+            "header": "Αυτός",
+            "options": {
+                "a": "είναι",
+                "b": "είμαι",
+                "c": "είμαστε",
+                "d": "είσαι"
+            },
+            "answer": "a",
+            "explanation": "3rd person singular: αυτός είναι (he is). The form είναι is used for he, she, and it."
+        },
+        {
+            "id": "a1b2c3d4-0004-4000-8000-444444444444",
+            "type": "drill",
+            "header": "Εμείς",
+            "options": {
+                "a": "είναι",
+                "b": "είσαι",
+                "c": "είστε",
+                "d": "είμαστε"
+            },
+            "answer": "d",
+            "explanation": "1st person plural: εμείς είμαστε (we are). The ending -μαστε marks the 1st person plural."
+        },
+        {
+            "id": "a1b2c3d4-0005-4000-8000-555555555555",
+            "type": "drill",
+            "header": "Εσείς",
+            "options": {
+                "a": "είμαστε",
+                "b": "είστε",
+                "c": "είναι",
+                "d": "είσαι"
+            },
+            "answer": "b",
+            "explanation": "2nd person plural: εσείς είστε (you are, plural/formal). Both είστε and είσαστε are correct; είστε is more common."
+        },
+        {
+            "id": "a1b2c3d4-0006-4000-8000-666666666666",
+            "type": "drill",
+            "header": "Αυτή",
+            "options": {
+                "a": "είσαι",
+                "b": "είμαστε",
+                "c": "είμαι",
+                "d": "είναι"
+            },
+            "answer": "d",
+            "explanation": "3rd person singular: αυτή είναι (she is). The same form είναι is used for αυτός, αυτή, and αυτό."
+        },
+        {
+            "id": "a1b2c3d4-0007-4000-8000-777777777777",
+            "type": "drill",
+            "header": "Αυτοί",
+            "options": {
+                "a": "είστε",
+                "b": "είναι",
+                "c": "είμαστε",
+                "d": "είμαι"
+            },
+            "answer": "b",
+            "explanation": "3rd person plural: αυτοί είναι (they are). Notably, είναι is the same for both singular and plural 3rd person."
+        },
+        {
+            "id": "a1b2c3d4-0008-4000-8000-888888888888",
+            "type": "drill",
+            "header": "Αυτό",
+            "options": {
+                "a": "είμαστε",
+                "b": "είσαι",
+                "c": "είναι",
+                "d": "είστε"
+            },
+            "answer": "c",
+            "explanation": "3rd person singular: αυτό είναι (it is). The form είναι covers all 3rd person singular forms — αυτός, αυτή, αυτό."
+        },
+        {
+            "id": "a1b2c3d4-0009-4000-8000-999999999999",
+            "type": "drill",
+            "header": "Εσείς (εναλλακτικό)",
+            "options": {
+                "a": "είναι",
+                "b": "είσαι",
+                "c": "είσαστε",
+                "d": "είμαστε"
+            },
+            "answer": "c",
+            "explanation": "2nd person plural alternative: εσείς είσαστε. Both είστε and είσαστε are interchangeable for the 2nd person plural."
+        },
+        {
+            "id": "a1b2c3d4-0010-4000-8000-aaaaaaaaaaaa",
+            "type": "drill",
+            "header": "Αυτές",
+            "options": {
+                "a": "είσαι",
+                "b": "είμαστε",
+                "c": "είστε",
+                "d": "είναι"
+            },
+            "answer": "d",
+            "explanation": "3rd person plural feminine: αυτές είναι (they are). The form είναι is shared by αυτοί, αυτές, and αυτά."
+        },
+        {
+            "id": "a1b2c3d4-0011-4000-8000-bbbbbbbbbbbb",
+            "type": "drill",
+            "header": "Εγώ",
+            "options": {
+                "a": "είστε",
+                "b": "είναι",
+                "c": "είμαι",
+                "d": "είμαστε"
+            },
+            "answer": "c",
+            "explanation": "1st person singular: εγώ είμαι (I am). Do not confuse with είναι (3rd person) or είμαστε (1st plural)."
+        },
+        {
+            "id": "a1b2c3d4-0012-4000-8000-cccccccccccc",
+            "type": "drill",
+            "header": "Εσύ",
+            "options": {
+                "a": "είσαι",
+                "b": "είναι",
+                "c": "είστε",
+                "d": "είμαι"
+            },
+            "answer": "a",
+            "explanation": "2nd person singular: εσύ είσαι (you are). Do not confuse with είστε which is 2nd person plural."
+        },
+        {
+            "id": "a1b2c3d4-0013-4000-8000-dddddddddddd",
+            "type": "drill",
+            "header": "Αυτός / Αυτή / Αυτό",
+            "options": {
+                "a": "είμαι",
+                "b": "είσαστε",
+                "c": "είμαστε",
+                "d": "είναι"
+            },
+            "answer": "d",
+            "explanation": "3rd person singular: αυτός/αυτή/αυτό είναι. The same form είναι covers all three genders in the singular."
+        },
+        {
+            "id": "a1b2c3d4-0014-4000-8000-eeeeeeeeeeee",
+            "type": "drill",
+            "header": "Εμείς",
+            "options": {
+                "a": "είμαι",
+                "b": "είμαστε",
+                "c": "είσαι",
+                "d": "είναι"
+            },
+            "answer": "b",
+            "explanation": "1st person plural: εμείς είμαστε (we are). The -μαστε ending is unique to 1st person plural."
+        },
+        {
+            "id": "a1b2c3d4-0015-4000-8000-ffffffffffff",
+            "type": "drill",
+            "header": "Εσείς",
+            "options": {
+                "a": "είσαι",
+                "b": "είμαστε",
+                "c": "είναι",
+                "d": "είστε"
+            },
+            "answer": "d",
+            "explanation": "2nd person plural: εσείς είστε. This form is used when addressing a group or formally addressing one person."
+        },
+        {
+            "id": "a1b2c3d4-0016-4000-8000-111122223333",
+            "type": "drill",
+            "header": "Αυτοί / Αυτές / Αυτά",
+            "options": {
+                "a": "είμαστε",
+                "b": "είστε",
+                "c": "είναι",
+                "d": "είσαι"
+            },
+            "answer": "c",
+            "explanation": "3rd person plural: αυτοί/αυτές/αυτά είναι (they are). The form είναι serves both singular and plural 3rd person."
+        },
+        {
+            "id": "a1b2c3d4-0017-4000-8000-444455556666",
+            "type": "drill",
+            "header": "Εγώ",
+            "options": {
+                "a": "είναι",
+                "b": "είμαι",
+                "c": "είσαστε",
+                "d": "είμαστε"
+            },
+            "answer": "b",
+            "explanation": "1st person singular: εγώ είμαι. Be careful not to pick είσαστε or είμαστε — those are plural forms."
+        },
+        {
+            "id": "a1b2c3d4-0018-4000-8000-777788889999",
+            "type": "drill",
+            "header": "Ο Γιώργος",
+            "options": {
+                "a": "είμαι",
+                "b": "είναι",
+                "c": "είμαστε",
+                "d": "είσαι"
+            },
+            "answer": "b",
+            "explanation": "A proper name subject like ο Γιώργος is 3rd person singular, so the verb is είναι (he is)."
+        },
+        {
+            "id": "a1b2c3d4-0019-4000-8000-aaaabbbbcccc",
+            "type": "drill",
+            "header": "Η Μαρία",
+            "options": {
+                "a": "είστε",
+                "b": "είμαι",
+                "c": "είναι",
+                "d": "είμαστε"
+            },
+            "answer": "c",
+            "explanation": "A feminine proper name like η Μαρία is 3rd person singular (she), so the verb is είναι."
+        },
+        {
+            "id": "a1b2c3d4-0020-4000-8000-ddddeeeeffff",
+            "type": "drill",
+            "header": "Το παιδί",
+            "options": {
+                "a": "είσαι",
+                "b": "είμαστε",
+                "c": "είστε",
+                "d": "είναι"
+            },
+            "answer": "d",
+            "explanation": "A neuter noun like το παιδί (the child) is 3rd person singular (it), so the verb is είναι."
+        },
+        {
+            "id": "a1b2c3d4-0021-4000-8000-000011112222",
+            "type": "drill",
+            "header": "Ο δάσκαλος",
+            "options": {
+                "a": "είναι",
+                "b": "είσαι",
+                "c": "είμαι",
+                "d": "είστε"
+            },
+            "answer": "a",
+            "explanation": "Ο δάσκαλος (the teacher) is 3rd person singular masculine, so the verb is είναι (he is)."
+        },
+        {
+            "id": "a1b2c3d4-0022-4000-8000-333344445555",
+            "type": "drill",
+            "header": "Η φίλη",
+            "options": {
+                "a": "είμαστε",
+                "b": "είναι",
+                "c": "είσαι",
+                "d": "είμαι"
+            },
+            "answer": "b",
+            "explanation": "Η φίλη (the friend, feminine) is 3rd person singular, so the verb is είναι (she is)."
+        },
+        {
+            "id": "a1b2c3d4-0023-4000-8000-666677778888",
+            "type": "drill",
+            "header": "Ο αδερφός",
+            "options": {
+                "a": "είσαι",
+                "b": "είστε",
+                "c": "είμαστε",
+                "d": "είναι"
+            },
+            "answer": "d",
+            "explanation": "Ο αδερφός (the brother) is 3rd person singular, so the verb is είναι (he is)."
+        },
+        {
+            "id": "a1b2c3d4-0024-4000-8000-99990000aaaa",
+            "type": "drill",
+            "header": "Το σκυλί",
+            "options": {
+                "a": "είναι",
+                "b": "είμαι",
+                "c": "είστε",
+                "d": "είσαι"
+            },
+            "answer": "a",
+            "explanation": "Το σκυλί (the dog) is a neuter noun, 3rd person singular, so the verb is είναι (it is)."
+        },
+        {
+            "id": "a1b2c3d4-0025-4000-8000-bbbbccccdddd",
+            "type": "drill",
+            "header": "Η γυναίκα",
+            "options": {
+                "a": "είστε",
+                "b": "είναι",
+                "c": "είμαστε",
+                "d": "είσαι"
+            },
+            "answer": "b",
+            "explanation": "Η γυναίκα (the woman) is 3rd person singular feminine, so the verb is είναι (she is)."
+        },
+        {
+            "id": "a1b2c3d4-0026-4000-8000-eeeeffff0000",
+            "type": "drill",
+            "header": "Οι φίλοι",
+            "options": {
+                "a": "είμαστε",
+                "b": "είσαι",
+                "c": "είναι",
+                "d": "είμαι"
+            },
+            "answer": "c",
+            "explanation": "Οι φίλοι (the friends) is a plural noun — 3rd person plural — so the verb is είναι (they are)."
+        },
+        {
+            "id": "a1b2c3d4-0027-4000-8000-111122334455",
+            "type": "drill",
+            "header": "Τα παιδιά",
+            "options": {
+                "a": "είναι",
+                "b": "είστε",
+                "c": "είσαι",
+                "d": "είμαστε"
+            },
+            "answer": "a",
+            "explanation": "Τα παιδιά (the children) is a neuter plural noun — 3rd person plural — so the verb is είναι (they are)."
+        },
+        {
+            "id": "a1b2c3d4-0028-4000-8000-aabbccddeeff",
+            "type": "drill",
+            "header": "Οι δάσκαλοι",
+            "options": {
+                "a": "είσαι",
+                "b": "είμαστε",
+                "c": "είναι",
+                "d": "είστε"
+            },
+            "answer": "c",
+            "explanation": "Οι δάσκαλοι (the teachers) is a masculine plural noun — 3rd person plural — so the verb is είναι."
+        },
+        {
+            "id": "a1b2c3d4-0029-4000-8000-ffeeddccbbaa",
+            "type": "drill",
+            "header": "Τα βιβλία",
+            "options": {
+                "a": "είμαι",
+                "b": "είναι",
+                "c": "είμαστε",
+                "d": "είσαι"
+            },
+            "answer": "b",
+            "explanation": "Τα βιβλία (the books) is a neuter plural noun — 3rd person plural — so the verb is είναι (they are)."
+        },
+        {
+            "id": "a1b2c3d4-0030-4000-8000-998877665544",
+            "type": "drill",
+            "header": "Οι κυρίες",
+            "options": {
+                "a": "είναι",
+                "b": "είμαι",
+                "c": "είσαι",
+                "d": "είστε"
+            },
+            "answer": "a",
+            "explanation": "Οι κυρίες (the ladies) is a feminine plural noun — 3rd person plural — so the verb is είναι (they are)."
+        },
+        {
+            "id": "a1b2c3d4-0031-4000-8000-112233445566",
+            "type": "drill",
+            "header": "Τα αυτοκίνητα",
+            "options": {
+                "a": "είστε",
+                "b": "είμαστε",
+                "c": "είσαι",
+                "d": "είναι"
+            },
+            "answer": "d",
+            "explanation": "Τα αυτοκίνητα (the cars) is a neuter plural noun — 3rd person plural — so the verb is είναι (they are)."
+        },
+        {
+            "id": "a1b2c3d4-0032-4000-8000-665544332211",
+            "type": "drill",
+            "header": "Οι άντρες",
+            "options": {
+                "a": "είμαστε",
+                "b": "είναι",
+                "c": "είστε",
+                "d": "είμαι"
+            },
+            "answer": "b",
+            "explanation": "Οι άντρες (the men) is a masculine plural noun — 3rd person plural — so the verb is είναι (they are)."
+        },
+        {
+            "id": "a1b2c3d4-0033-4000-8000-aabbccdd1122",
+            "type": "drill",
+            "header": "Τα σπίτια",
+            "options": {
+                "a": "είναι",
+                "b": "είσαι",
+                "c": "είμαι",
+                "d": "είστε"
+            },
+            "answer": "a",
+            "explanation": "Τα σπίτια (the houses) is a neuter plural noun — 3rd person plural — so the verb is είναι (they are)."
+        },
+        {
+            "id": "a1b2c3d4-0034-4000-8000-334455667788",
+            "type": "drill",
+            "header": "Εγώ και εσύ",
+            "options": {
+                "a": "είστε",
+                "b": "είναι",
+                "c": "είσαι",
+                "d": "είμαστε"
+            },
+            "answer": "d",
+            "explanation": "When εγώ is part of a compound subject, the verb takes the 1st person plural form: εμείς → είμαστε (we are)."
+        },
+        {
+            "id": "a1b2c3d4-0035-4000-8000-8899aabbccdd",
+            "type": "drill",
+            "header": "Εγώ και ο Γιώργος",
+            "options": {
+                "a": "είμαστε",
+                "b": "είσαι",
+                "c": "είναι",
+                "d": "είμαι"
+            },
+            "answer": "a",
+            "explanation": "When the speaker (εγώ) is one of the subjects, the verb takes 1st person plural: είμαστε (we are)."
+        },
+        {
+            "id": "a1b2c3d4-0036-4000-8000-eeff00112233",
+            "type": "drill",
+            "header": "Εσύ και ο Γιώργος",
+            "options": {
+                "a": "είναι",
+                "b": "είμαστε",
+                "c": "είστε",
+                "d": "είμαι"
+            },
+            "answer": "c",
+            "explanation": "When εσύ is one of the subjects (but not εγώ), the verb takes 2nd person plural: είστε (you all are)."
+        },
+        {
+            "id": "a1b2c3d4-0037-4000-8000-44556677aabb",
+            "type": "drill",
+            "header": "Ο Γιώργος και η Μαρία",
+            "options": {
+                "a": "είσαι",
+                "b": "είναι",
+                "c": "είμαστε",
+                "d": "είστε"
+            },
+            "answer": "b",
+            "explanation": "Two 3rd person subjects give a 3rd person plural verb: αυτοί → είναι (they are)."
+        },
+        {
+            "id": "a1b2c3d4-0038-4000-8000-ccddee001122",
+            "type": "drill",
+            "header": "Αυτός και αυτή",
+            "options": {
+                "a": "είμαστε",
+                "b": "είσαι",
+                "c": "είναι",
+                "d": "είστε"
+            },
+            "answer": "c",
+            "explanation": "Two 3rd person subjects (he and she) take the 3rd person plural form: είναι (they are)."
+        },
+        {
+            "id": "a1b2c3d4-0039-4000-8000-aabbcc334455",
+            "type": "drill",
+            "header": "Η Μαρία και το παιδί",
+            "options": {
+                "a": "είναι",
+                "b": "είμαι",
+                "c": "είστε",
+                "d": "είσαι"
+            },
+            "answer": "a",
+            "explanation": "Two 3rd person subjects (she and it) give a 3rd person plural verb: είναι (they are)."
+        },
+        {
+            "id": "a1b2c3d4-0040-4000-8000-778899aabbcc",
+            "type": "drill",
+            "header": "Εγώ και οι φίλοι",
+            "options": {
+                "a": "είναι",
+                "b": "είμαστε",
+                "c": "είσαι",
+                "d": "είστε"
+            },
+            "answer": "b",
+            "explanation": "When εγώ is part of the subject group, the verb is always 1st person plural: είμαστε (we are)."
+        },
+        {
+            "id": "a1b2c3d4-0041-4000-8000-ddeeff001122",
+            "type": "drill",
+            "header": "Εσύ και η Μαρία",
+            "options": {
+                "a": "είμαστε",
+                "b": "είσαστε",
+                "c": "είναι",
+                "d": "είμαι"
+            },
+            "answer": "b",
+            "explanation": "When εσύ is one of the subjects (without εγώ), the verb takes 2nd person plural: είσαστε or είστε (you all are)."
+        },
+        {
+            "id": "a1b2c3d4-0042-4000-8000-334455667799",
+            "type": "drill",
+            "header": "Εγώ",
+            "options": {
+                "a": "είμαι",
+                "b": "είστε",
+                "c": "είσαι",
+                "d": "είναι"
+            },
+            "answer": "a",
+            "explanation": "1st person singular: εγώ είμαι (I am). This is the only person that ends in -μαι."
+        },
+        {
+            "id": "a1b2c3d4-0043-4000-8000-aabbcceeff00",
+            "type": "drill",
+            "header": "Εσύ",
+            "options": {
+                "a": "είναι",
+                "b": "είσαι",
+                "c": "είσαστε",
+                "d": "είμαστε"
+            },
+            "answer": "b",
+            "explanation": "2nd person singular: εσύ είσαι (you are). Do not confuse with είσαστε which is 2nd person plural."
+        },
+        {
+            "id": "a1b2c3d4-0044-4000-8000-112200334455",
+            "type": "drill",
+            "header": "Αυτό",
+            "options": {
+                "a": "είναι",
+                "b": "είστε",
+                "c": "είμαι",
+                "d": "είμαστε"
+            },
+            "answer": "a",
+            "explanation": "3rd person singular neuter: αυτό είναι (it is). All 3rd person singular forms (αυτός/αυτή/αυτό) use είναι."
+        },
+        {
+            "id": "a1b2c3d4-0045-4000-8000-667788990011",
+            "type": "drill",
+            "header": "Εμείς",
+            "options": {
+                "a": "είναι",
+                "b": "είστε",
+                "c": "είμαστε",
+                "d": "είσαι"
+            },
+            "answer": "c",
+            "explanation": "1st person plural: εμείς είμαστε (we are). The -μαστε ending is distinctive for the 1st person plural."
+        },
+        {
+            "id": "a1b2c3d4-0046-4000-8000-aabb00ccdd11",
+            "type": "drill",
+            "header": "Εσείς",
+            "options": {
+                "a": "είσαι",
+                "b": "είναι",
+                "c": "είμαι",
+                "d": "είσαστε"
+            },
+            "answer": "d",
+            "explanation": "2nd person plural: εσείς είσαστε (you are, plural). This alternative to είστε is equally correct."
+        },
+        {
+            "id": "a1b2c3d4-0047-4000-8000-9900aabb1122",
+            "type": "drill",
+            "header": "Αυτή",
+            "options": {
+                "a": "είναι",
+                "b": "είμαστε",
+                "c": "είσαι",
+                "d": "είστε"
+            },
+            "answer": "a",
+            "explanation": "3rd person singular feminine: αυτή είναι (she is). The form είναι covers all genders in the 3rd person singular."
+        },
+        {
+            "id": "a1b2c3d4-0048-4000-8000-334400556677",
+            "type": "drill",
+            "header": "Αυτοί",
+            "options": {
+                "a": "είσαι",
+                "b": "είναι",
+                "c": "είμαι",
+                "d": "είμαστε"
+            },
+            "answer": "b",
+            "explanation": "3rd person plural masculine: αυτοί είναι (they are). Despite being plural, the form είναι is identical to the singular."
+        },
+        {
+            "id": "a1b2c3d4-0049-4000-8000-eeff11223344",
+            "type": "drill",
+            "header": "Αυτές",
+            "options": {
+                "a": "είμαστε",
+                "b": "είστε",
+                "c": "είναι",
+                "d": "είσαι"
+            },
+            "answer": "c",
+            "explanation": "3rd person plural feminine: αυτές είναι (they are). The verb είναι does not change between singular and plural 3rd person."
+        },
+        {
+            "id": "a1b2c3d4-0050-4000-8000-55667788aabb",
+            "type": "drill",
+            "header": "Αυτά",
+            "options": {
+                "a": "είστε",
+                "b": "είμαι",
+                "c": "είσαι",
+                "d": "είναι"
+            },
+            "answer": "d",
+            "explanation": "3rd person plural neuter: αυτά είναι (they are). All 3rd person plural forms — αυτοί/αυτές/αυτά — use είναι."
+        }
+    ]
+}

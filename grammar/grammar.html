@@ -55,6 +55,31 @@
             background: #e0e7ff;
         }
 
+        .drill-top-btn {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            color: #059669;
+            font-size: 0.9rem;
+            font-weight: 600;
+            padding: 8px 18px;
+            border-radius: 8px;
+            background: #ecfdf5;
+            border: none;
+            cursor: pointer;
+            font-family: inherit;
+            transition: background 0.15s;
+        }
+
+        .drill-top-btn:hover {
+            background: #d1fae5;
+        }
+
+        .header-btns {
+            display: flex;
+            gap: 10px;
+        }
+
         .topics-list {
             max-width: 680px;
             margin: 0 auto;
@@ -259,7 +284,10 @@
 <body>
     <div class="page-header">
         <h1>Grammar</h1>
-        <button class="exercises-top-btn" id="openExercisesModal">✏️ Exercises</button>
+        <div class="header-btns">
+            <button class="exercises-top-btn" id="openExercisesModal">✏️ Exercises</button>
+            <button class="drill-top-btn" id="openDrillModal">⚡ Drill</button>
+        </div>
     </div>
 
     <div class="topics-list" id="topicsList"></div>
@@ -330,14 +358,20 @@
             document.getElementById('modalStart').disabled = !any;
         }
 
-        document.getElementById('openExercisesModal').addEventListener('click', () => {
+        let currentMode = 'exercises';
+
+        function openModal(mode) {
+            currentMode = mode;
             document.querySelectorAll('#modalTopics input[type="checkbox"]').forEach(cb => {
                 cb.checked = false;
                 cb.closest('.modal-topic-row').classList.remove('checked');
             });
             document.getElementById('modalStart').disabled = true;
             document.getElementById('modalOverlay').classList.add('open');
-        });
+        }
+
+        document.getElementById('openExercisesModal').addEventListener('click', () => openModal('exercises'));
+        document.getElementById('openDrillModal').addEventListener('click', () => openModal('drill'));
 
         document.getElementById('modalCancel').addEventListener('click', closeModal);
         document.getElementById('modalOverlay').addEventListener('click', e => {
@@ -354,7 +388,8 @@
             const selected = [...document.querySelectorAll('#modalTopics input[type="checkbox"]')]
                 .filter(cb => cb.checked)
                 .map(cb => cb.value);
-            window.location.href = `exercises.html?ids=${selected.join(',')}`;
+            const base = `exercises.html?ids=${selected.join(',')}`;
+            window.location.href = currentMode === 'drill' ? `${base}&mode=drill` : base;
         });
     </script>
 </body>

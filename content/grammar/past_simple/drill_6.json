@@ -1,0 +1,434 @@
+{
+    "exercises": [
+        {
+            "id": "ps-dv-0051",
+            "type": "drill_verb",
+            "header": "πηγαίνω (to go)",
+            "conjugations": [
+                {
+                    "form": "εγώ",
+                    "options": {"a": "πήγα", "b": "πήγες", "c": "πήγε", "d": "πήγαμε"},
+                    "answer": "a",
+                    "explanation": "πηγαίνω is an irregular verb. Its past stem is πήγ-. 1sg: πήγα."
+                },
+                {
+                    "form": "εσύ",
+                    "options": {"a": "πήγα", "b": "πήγες", "c": "πήγαμε", "d": "πήγατε"},
+                    "answer": "b",
+                    "explanation": "Same irregular stem. 2sg ending -ες: πήγες."
+                },
+                {
+                    "form": "αυτός / αυτή / αυτό",
+                    "options": {"a": "πήγες", "b": "πήγαμε", "c": "πήγε", "d": "πήγαν"},
+                    "answer": "c",
+                    "explanation": "Same irregular stem. 3sg ending -ε: πήγε."
+                },
+                {
+                    "form": "εμείς",
+                    "options": {"a": "πήγαν", "b": "πήγες", "c": "πήγε", "d": "πήγαμε"},
+                    "answer": "d",
+                    "explanation": "1pl ending -αμε: πήγαμε."
+                },
+                {
+                    "form": "εσείς",
+                    "options": {"a": "πήγατε", "b": "πήγε", "c": "πήγαν", "d": "πήγα"},
+                    "answer": "a",
+                    "explanation": "2pl ending -ατε: πήγατε."
+                },
+                {
+                    "form": "αυτοί / αυτές / αυτά",
+                    "options": {"a": "πήγαμε", "b": "πήγαν", "c": "πήγες", "d": "πήγατε"},
+                    "answer": "b",
+                    "explanation": "3pl ending -αν: πήγαν."
+                }
+            ]
+        },
+        {
+            "id": "ps-dv-0052",
+            "type": "drill_verb",
+            "header": "φέρνω (to bring)",
+            "conjugations": [
+                {
+                    "form": "εγώ",
+                    "options": {"a": "έφερα", "b": "έφερες", "c": "έφερε", "d": "φέραμε"},
+                    "answer": "a",
+                    "explanation": "φέρνω is an irregular verb. Its past stem is φερ-. Add augment έ- and 1sg ending -α: έφερα."
+                },
+                {
+                    "form": "εσύ",
+                    "options": {"a": "έφερα", "b": "έφερες", "c": "φέραμε", "d": "φέρατε"},
+                    "answer": "b",
+                    "explanation": "Same irregular stem. 2sg ending -ες: έφερες."
+                },
+                {
+                    "form": "αυτός / αυτή / αυτό",
+                    "options": {"a": "έφερες", "b": "φέραμε", "c": "έφερε", "d": "έφεραν"},
+                    "answer": "c",
+                    "explanation": "Same irregular stem. 3sg ending -ε: έφερε."
+                },
+                {
+                    "form": "εμείς",
+                    "options": {"a": "έφεραν", "b": "έφερες", "c": "έφερε", "d": "φέραμε"},
+                    "answer": "d",
+                    "explanation": "Augment drops in 1pl. Ending -αμε: φέραμε."
+                },
+                {
+                    "form": "εσείς",
+                    "options": {"a": "φέρατε", "b": "έφερε", "c": "έφεραν", "d": "έφερα"},
+                    "answer": "a",
+                    "explanation": "Augment drops in 2pl. Ending -ατε: φέρατε."
+                },
+                {
+                    "form": "αυτοί / αυτές / αυτά",
+                    "options": {"a": "φέραμε", "b": "έφεραν", "c": "έφερες", "d": "φέρατε"},
+                    "answer": "b",
+                    "explanation": "3pl ending -αν: έφεραν."
+                }
+            ]
+        },
+        {
+            "id": "ps-dv-0053",
+            "type": "drill_verb",
+            "header": "βάζω (to put / place)",
+            "conjugations": [
+                {
+                    "form": "εγώ",
+                    "options": {"a": "έβαλα", "b": "έβαλες", "c": "έβαλε", "d": "βάλαμε"},
+                    "answer": "a",
+                    "explanation": "βάζω is an irregular verb. Its past stem is βαλ- (note the change from -ζ to -λ). Add augment έ- and 1sg ending -α: έβαλα."
+                },
+                {
+                    "form": "εσύ",
+                    "options": {"a": "έβαλα", "b": "έβαλες", "c": "βάλαμε", "d": "βάλατε"},
+                    "answer": "b",
+                    "explanation": "Same irregular stem. 2sg ending -ες: έβαλες."
+                },
+                {
+                    "form": "αυτός / αυτή / αυτό",
+                    "options": {"a": "έβαλες", "b": "βάλαμε", "c": "έβαλε", "d": "έβαλαν"},
+                    "answer": "c",
+                    "explanation": "Same irregular stem. 3sg ending -ε: έβαλε."
+                },
+                {
+                    "form": "εμείς",
+                    "options": {"a": "έβαλαν", "b": "έβαλες", "c": "έβαλε", "d": "βάλαμε"},
+                    "answer": "d",
+                    "explanation": "Augment drops in 1pl. Ending -αμε: βάλαμε."
+                },
+                {
+                    "form": "εσείς",
+                    "options": {"a": "βάλατε", "b": "έβαλε", "c": "έβαλαν", "d": "έβαλα"},
+                    "answer": "a",
+                    "explanation": "Augment drops in 2pl. Ending -ατε: βάλατε."
+                },
+                {
+                    "form": "αυτοί / αυτές / αυτά",
+                    "options": {"a": "βάλαμε", "b": "έβαλαν", "c": "έβαλες", "d": "βάλατε"},
+                    "answer": "b",
+                    "explanation": "3pl ending -αν: έβαλαν."
+                }
+            ]
+        },
+        {
+            "id": "ps-dv-0054",
+            "type": "drill_verb",
+            "header": "μένω (to stay / remain / live)",
+            "conjugations": [
+                {
+                    "form": "εγώ",
+                    "options": {"a": "έμεινα", "b": "έμεινες", "c": "έμεινε", "d": "μείναμε"},
+                    "answer": "a",
+                    "explanation": "μένω is an irregular verb. Its past stem is μειν-. Add augment έ- and 1sg ending -α: έμεινα."
+                },
+                {
+                    "form": "εσύ",
+                    "options": {"a": "έμεινα", "b": "έμεινες", "c": "μείναμε", "d": "μείνατε"},
+                    "answer": "b",
+                    "explanation": "Same irregular stem. 2sg ending -ες: έμεινες."
+                },
+                {
+                    "form": "αυτός / αυτή / αυτό",
+                    "options": {"a": "έμεινες", "b": "μείναμε", "c": "έμεινε", "d": "έμειναν"},
+                    "answer": "c",
+                    "explanation": "Same irregular stem. 3sg ending -ε: έμεινε."
+                },
+                {
+                    "form": "εμείς",
+                    "options": {"a": "έμειναν", "b": "έμεινες", "c": "έμεινε", "d": "μείναμε"},
+                    "answer": "d",
+                    "explanation": "Augment drops in 1pl. Ending -αμε: μείναμε."
+                },
+                {
+                    "form": "εσείς",
+                    "options": {"a": "μείνατε", "b": "έμεινε", "c": "έμειναν", "d": "έμεινα"},
+                    "answer": "a",
+                    "explanation": "Augment drops in 2pl. Ending -ατε: μείνατε."
+                },
+                {
+                    "form": "αυτοί / αυτές / αυτά",
+                    "options": {"a": "μείναμε", "b": "έμειναν", "c": "έμεινες", "d": "μείνατε"},
+                    "answer": "b",
+                    "explanation": "3pl ending -αν: έμειναν."
+                }
+            ]
+        },
+        {
+            "id": "ps-dv-0055",
+            "type": "drill_verb",
+            "header": "ανεβαίνω (to go up / climb)",
+            "conjugations": [
+                {
+                    "form": "εγώ",
+                    "options": {"a": "ανέβηκα", "b": "ανέβηκες", "c": "ανέβηκε", "d": "ανεβήκαμε"},
+                    "answer": "a",
+                    "explanation": "ανεβαίνω is an irregular verb. Its past stem is ανεβήκ-. 1sg: ανέβηκα."
+                },
+                {
+                    "form": "εσύ",
+                    "options": {"a": "ανέβηκα", "b": "ανέβηκες", "c": "ανεβήκαμε", "d": "ανεβήκατε"},
+                    "answer": "b",
+                    "explanation": "Same irregular stem. 2sg ending -ες: ανέβηκες."
+                },
+                {
+                    "form": "αυτός / αυτή / αυτό",
+                    "options": {"a": "ανέβηκες", "b": "ανεβήκαμε", "c": "ανέβηκε", "d": "ανέβηκαν"},
+                    "answer": "c",
+                    "explanation": "Same irregular stem. 3sg ending -ε: ανέβηκε."
+                },
+                {
+                    "form": "εμείς",
+                    "options": {"a": "ανέβηκαν", "b": "ανέβηκες", "c": "ανέβηκε", "d": "ανεβήκαμε"},
+                    "answer": "d",
+                    "explanation": "1pl ending -αμε: ανεβήκαμε."
+                },
+                {
+                    "form": "εσείς",
+                    "options": {"a": "ανεβήκατε", "b": "ανέβηκε", "c": "ανέβηκαν", "d": "ανέβηκα"},
+                    "answer": "a",
+                    "explanation": "2pl ending -ατε: ανεβήκατε."
+                },
+                {
+                    "form": "αυτοί / αυτές / αυτά",
+                    "options": {"a": "ανεβήκαμε", "b": "ανέβηκαν", "c": "ανέβηκες", "d": "ανεβήκατε"},
+                    "answer": "b",
+                    "explanation": "3pl ending -αν: ανέβηκαν."
+                }
+            ]
+        },
+        {
+            "id": "ps-dv-0056",
+            "type": "drill_verb",
+            "header": "κατεβαίνω (to go down / descend)",
+            "conjugations": [
+                {
+                    "form": "εγώ",
+                    "options": {"a": "κατέβηκα", "b": "κατέβηκες", "c": "κατέβηκε", "d": "κατεβήκαμε"},
+                    "answer": "a",
+                    "explanation": "κατεβαίνω is an irregular verb. Its past stem is κατεβήκ-. 1sg: κατέβηκα."
+                },
+                {
+                    "form": "εσύ",
+                    "options": {"a": "κατέβηκα", "b": "κατέβηκες", "c": "κατεβήκαμε", "d": "κατεβήκατε"},
+                    "answer": "b",
+                    "explanation": "Same irregular stem. 2sg ending -ες: κατέβηκες."
+                },
+                {
+                    "form": "αυτός / αυτή / αυτό",
+                    "options": {"a": "κατέβηκες", "b": "κατεβήκαμε", "c": "κατέβηκε", "d": "κατέβηκαν"},
+                    "answer": "c",
+                    "explanation": "Same irregular stem. 3sg ending -ε: κατέβηκε."
+                },
+                {
+                    "form": "εμείς",
+                    "options": {"a": "κατέβηκαν", "b": "κατέβηκες", "c": "κατέβηκε", "d": "κατεβήκαμε"},
+                    "answer": "d",
+                    "explanation": "1pl ending -αμε: κατεβήκαμε."
+                },
+                {
+                    "form": "εσείς",
+                    "options": {"a": "κατεβήκατε", "b": "κατέβηκε", "c": "κατέβηκαν", "d": "κατέβηκα"},
+                    "answer": "a",
+                    "explanation": "2pl ending -ατε: κατεβήκατε."
+                },
+                {
+                    "form": "αυτοί / αυτές / αυτά",
+                    "options": {"a": "κατεβήκαμε", "b": "κατέβηκαν", "c": "κατέβηκες", "d": "κατεβήκατε"},
+                    "answer": "b",
+                    "explanation": "3pl ending -αν: κατέβηκαν."
+                }
+            ]
+        },
+        {
+            "id": "ps-dv-0057",
+            "type": "drill_verb",
+            "header": "μαθαίνω (to learn / find out)",
+            "conjugations": [
+                {
+                    "form": "εγώ",
+                    "options": {"a": "έμαθα", "b": "έμαθες", "c": "έμαθε", "d": "μάθαμε"},
+                    "answer": "a",
+                    "explanation": "μαθαίνω is an irregular verb. Its past stem is μαθ-. Add augment έ- and 1sg ending -α: έμαθα."
+                },
+                {
+                    "form": "εσύ",
+                    "options": {"a": "έμαθα", "b": "έμαθες", "c": "μάθαμε", "d": "μάθατε"},
+                    "answer": "b",
+                    "explanation": "Same irregular stem. 2sg ending -ες: έμαθες."
+                },
+                {
+                    "form": "αυτός / αυτή / αυτό",
+                    "options": {"a": "έμαθες", "b": "μάθαμε", "c": "έμαθε", "d": "έμαθαν"},
+                    "answer": "c",
+                    "explanation": "Same irregular stem. 3sg ending -ε: έμαθε."
+                },
+                {
+                    "form": "εμείς",
+                    "options": {"a": "έμαθαν", "b": "έμαθες", "c": "έμαθε", "d": "μάθαμε"},
+                    "answer": "d",
+                    "explanation": "Augment drops in 1pl. Ending -αμε: μάθαμε."
+                },
+                {
+                    "form": "εσείς",
+                    "options": {"a": "μάθατε", "b": "έμαθε", "c": "έμαθαν", "d": "έμαθα"},
+                    "answer": "a",
+                    "explanation": "Augment drops in 2pl. Ending -ατε: μάθατε."
+                },
+                {
+                    "form": "αυτοί / αυτές / αυτά",
+                    "options": {"a": "μάθαμε", "b": "έμαθαν", "c": "έμαθες", "d": "μάθατε"},
+                    "answer": "b",
+                    "explanation": "3pl ending -αν: έμαθαν."
+                }
+            ]
+        },
+        {
+            "id": "ps-dv-0058",
+            "type": "drill_verb",
+            "header": "γίνομαι (to become / happen)",
+            "conjugations": [
+                {
+                    "form": "εγώ",
+                    "options": {"a": "έγινα", "b": "έγινες", "c": "έγινε", "d": "γίναμε"},
+                    "answer": "a",
+                    "explanation": "γίνομαι is an irregular verb. Its past stem is γιν-. Add augment έ- and 1sg ending -α: έγινα."
+                },
+                {
+                    "form": "εσύ",
+                    "options": {"a": "έγινα", "b": "έγινες", "c": "γίναμε", "d": "γίνατε"},
+                    "answer": "b",
+                    "explanation": "Same irregular stem. 2sg ending -ες: έγινες."
+                },
+                {
+                    "form": "αυτός / αυτή / αυτό",
+                    "options": {"a": "έγινες", "b": "γίναμε", "c": "έγινε", "d": "έγιναν"},
+                    "answer": "c",
+                    "explanation": "Same irregular stem. 3sg ending -ε: έγινε."
+                },
+                {
+                    "form": "εμείς",
+                    "options": {"a": "έγιναν", "b": "έγινες", "c": "έγινε", "d": "γίναμε"},
+                    "answer": "d",
+                    "explanation": "Augment drops in 1pl. Ending -αμε: γίναμε."
+                },
+                {
+                    "form": "εσείς",
+                    "options": {"a": "γίνατε", "b": "έγινε", "c": "έγιναν", "d": "έγινα"},
+                    "answer": "a",
+                    "explanation": "Augment drops in 2pl. Ending -ατε: γίνατε."
+                },
+                {
+                    "form": "αυτοί / αυτές / αυτά",
+                    "options": {"a": "γίναμε", "b": "έγιναν", "c": "έγινες", "d": "γίνατε"},
+                    "answer": "b",
+                    "explanation": "3pl ending -αν: έγιναν."
+                }
+            ]
+        },
+        {
+            "id": "ps-dv-0059",
+            "type": "drill_verb",
+            "header": "στέλνω (to send)",
+            "conjugations": [
+                {
+                    "form": "εγώ",
+                    "options": {"a": "έστειλα", "b": "έστειλες", "c": "έστειλε", "d": "στείλαμε"},
+                    "answer": "a",
+                    "explanation": "στέλνω is an irregular verb. Its past stem is στειλ-. Add augment έ- and 1sg ending -α: έστειλα."
+                },
+                {
+                    "form": "εσύ",
+                    "options": {"a": "έστειλα", "b": "έστειλες", "c": "στείλαμε", "d": "στείλατε"},
+                    "answer": "b",
+                    "explanation": "Same irregular stem. 2sg ending -ες: έστειλες."
+                },
+                {
+                    "form": "αυτός / αυτή / αυτό",
+                    "options": {"a": "έστειλες", "b": "στείλαμε", "c": "έστειλε", "d": "έστειλαν"},
+                    "answer": "c",
+                    "explanation": "Same irregular stem. 3sg ending -ε: έστειλε."
+                },
+                {
+                    "form": "εμείς",
+                    "options": {"a": "έστειλαν", "b": "έστειλες", "c": "έστειλε", "d": "στείλαμε"},
+                    "answer": "d",
+                    "explanation": "Augment drops in 1pl. Ending -αμε: στείλαμε."
+                },
+                {
+                    "form": "εσείς",
+                    "options": {"a": "στείλατε", "b": "έστειλε", "c": "έστειλαν", "d": "έστειλα"},
+                    "answer": "a",
+                    "explanation": "Augment drops in 2pl. Ending -ατε: στείλατε."
+                },
+                {
+                    "form": "αυτοί / αυτές / αυτά",
+                    "options": {"a": "στείλαμε", "b": "έστειλαν", "c": "έστειλες", "d": "στείλατε"},
+                    "answer": "b",
+                    "explanation": "3pl ending -αν: έστειλαν."
+                }
+            ]
+        },
+        {
+            "id": "ps-dv-0060",
+            "type": "drill_verb",
+            "header": "πλένω (to wash)",
+            "conjugations": [
+                {
+                    "form": "εγώ",
+                    "options": {"a": "έπλυνα", "b": "έπλυνες", "c": "έπλυνε", "d": "πλύναμε"},
+                    "answer": "a",
+                    "explanation": "πλένω has an irregular past stem πλυν-. Add augment έ- and 1sg ending -α: έπλυνα."
+                },
+                {
+                    "form": "εσύ",
+                    "options": {"a": "έπλυνα", "b": "έπλυνες", "c": "πλύναμε", "d": "πλύνατε"},
+                    "answer": "b",
+                    "explanation": "Same irregular stem. 2sg ending -ες: έπλυνες."
+                },
+                {
+                    "form": "αυτός / αυτή / αυτό",
+                    "options": {"a": "έπλυνες", "b": "πλύναμε", "c": "έπλυνε", "d": "έπλυναν"},
+                    "answer": "c",
+                    "explanation": "Same irregular stem. 3sg ending -ε: έπλυνε."
+                },
+                {
+                    "form": "εμείς",
+                    "options": {"a": "έπλυναν", "b": "έπλυνες", "c": "έπλυνε", "d": "πλύναμε"},
+                    "answer": "d",
+                    "explanation": "Augment drops in 1pl. Ending -αμε: πλύναμε."
+                },
+                {
+                    "form": "εσείς",
+                    "options": {"a": "πλύνατε", "b": "έπλυνε", "c": "έπλυναν", "d": "έπλυνα"},
+                    "answer": "a",
+                    "explanation": "Augment drops in 2pl. Ending -ατε: πλύνατε."
+                },
+                {
+                    "form": "αυτοί / αυτές / αυτά",
+                    "options": {"a": "πλύναμε", "b": "έπλυναν", "c": "έπλυνες", "d": "πλύνατε"},
+                    "answer": "b",
+                    "explanation": "3pl ending -αν: έπλυναν."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,654 @@
+{
+    "exercises": [
+        {
+            "id": "nacc-0051-4000-8000-000000000051",
+            "type": "drill",
+            "header": "ο αδελφός → accusative: ___",
+            "options": {
+                "a": "τους αδελφούς",
+                "b": "τον αδελφό",
+                "c": "την αδελφό",
+                "d": "το αδελφό"
+            },
+            "answer": "b",
+            "explanation": "ο αδελφός is masculine: article ο→τον, noun drops -ς: αδελφός→αδελφό. Full accusative: τον αδελφό."
+        },
+        {
+            "id": "nacc-0052-4000-8000-000000000052",
+            "type": "drill",
+            "header": "ο άντρας → accusative: ___",
+            "options": {
+                "a": "τους άντρες",
+                "b": "τον άντρα",
+                "c": "την άντρα",
+                "d": "το άντρα"
+            },
+            "answer": "b",
+            "explanation": "ο άντρας is masculine: article ο→τον, noun drops -ς: άντρας→άντρα. Full accusative: τον άντρα."
+        },
+        {
+            "id": "nacc-0053-4000-8000-000000000053",
+            "type": "drill",
+            "header": "ο εργάτης → accusative: ___",
+            "options": {
+                "a": "τον εργάτη",
+                "b": "τους εργάτες",
+                "c": "την εργάτη",
+                "d": "το εργάτη"
+            },
+            "answer": "a",
+            "explanation": "ο εργάτης is masculine: article ο→τον, noun drops -ς: εργάτης→εργάτη. Full accusative: τον εργάτη."
+        },
+        {
+            "id": "nacc-0054-4000-8000-000000000054",
+            "type": "drill",
+            "header": "η τράπεζα → accusative: ___",
+            "options": {
+                "a": "τον τράπεζα",
+                "b": "τις τράπεζες",
+                "c": "την τράπεζα",
+                "d": "το τράπεζα"
+            },
+            "answer": "c",
+            "explanation": "η τράπεζα is feminine: article η→την, noun keeps -α: τράπεζα→τράπεζα. Full accusative: την τράπεζα."
+        },
+        {
+            "id": "nacc-0055-4000-8000-000000000055",
+            "type": "drill",
+            "header": "η ζωή → accusative: ___",
+            "options": {
+                "a": "τον ζωή",
+                "b": "τις ζωές",
+                "c": "το ζωή",
+                "d": "την ζωή"
+            },
+            "answer": "d",
+            "explanation": "η ζωή is feminine: article η→την, noun keeps -ή: ζωή→ζωή. Full accusative: την ζωή."
+        },
+        {
+            "id": "nacc-0056-4000-8000-000000000056",
+            "type": "drill",
+            "header": "το αυτοκίνητο → accusative: ___",
+            "options": {
+                "a": "τα αυτοκίνητα",
+                "b": "τον αυτοκίνητο",
+                "c": "το αυτοκίνητο",
+                "d": "την αυτοκίνητο"
+            },
+            "answer": "c",
+            "explanation": "το αυτοκίνητο is neuter: nothing changes at all. Full accusative: το αυτοκίνητο."
+        },
+        {
+            "id": "nacc-0057-4000-8000-000000000057",
+            "type": "drill",
+            "header": "το πρόβλημα → accusative: ___",
+            "options": {
+                "a": "τον πρόβλημα",
+                "b": "τα προβλήματα",
+                "c": "την πρόβλημα",
+                "d": "το πρόβλημα"
+            },
+            "answer": "d",
+            "explanation": "το πρόβλημα is neuter: nothing changes at all. Full accusative: το πρόβλημα."
+        },
+        {
+            "id": "nacc-0058-4000-8000-000000000058",
+            "type": "drill",
+            "header": "ο γιατρός → accusative: ___",
+            "options": {
+                "a": "τους γιατρούς",
+                "b": "τον γιατρό",
+                "c": "την γιατρό",
+                "d": "το γιατρό"
+            },
+            "answer": "b",
+            "explanation": "ο γιατρός is masculine: article ο→τον, noun drops -ς: γιατρός→γιατρό. Full accusative: τον γιατρό."
+        },
+        {
+            "id": "nacc-0059-4000-8000-000000000059",
+            "type": "drill",
+            "header": "η δουλειά → accusative: ___",
+            "options": {
+                "a": "τον δουλειά",
+                "b": "τις δουλειές",
+                "c": "την δουλειά",
+                "d": "το δουλειά"
+            },
+            "answer": "c",
+            "explanation": "η δουλειά is feminine: article η→την, noun keeps -ά: δουλειά→δουλειά. Full accusative: την δουλειά."
+        },
+        {
+            "id": "nacc-0060-4000-8000-000000000060",
+            "type": "drill",
+            "header": "το όνομα → accusative: ___",
+            "options": {
+                "a": "τον όνομα",
+                "b": "τα ονόματα",
+                "c": "το όνομα",
+                "d": "την όνομα"
+            },
+            "answer": "c",
+            "explanation": "το όνομα is neuter: nothing changes at all. Full accusative: το όνομα."
+        },
+        {
+            "id": "nacc-0061-4000-8000-000000000061",
+            "type": "drill",
+            "header": "οι φίλοι → ___ φίλοι (plural accusative article)",
+            "options": {
+                "a": "τους",
+                "b": "τις",
+                "c": "τα",
+                "d": "τον"
+            },
+            "answer": "a",
+            "explanation": "Masculine plural accusative article: οι → τους."
+        },
+        {
+            "id": "nacc-0062-4000-8000-000000000062",
+            "type": "drill",
+            "header": "οι μητέρες → ___ μητέρες (plural accusative article)",
+            "options": {
+                "a": "τους",
+                "b": "τα",
+                "c": "τις",
+                "d": "τον"
+            },
+            "answer": "c",
+            "explanation": "Feminine plural accusative article: οι → τις."
+        },
+        {
+            "id": "nacc-0063-4000-8000-000000000063",
+            "type": "drill",
+            "header": "τα σπίτια → ___ σπίτια (plural accusative article)",
+            "options": {
+                "a": "τους",
+                "b": "τα",
+                "c": "τις",
+                "d": "τον"
+            },
+            "answer": "b",
+            "explanation": "Neuter plural accusative article: τα stays τα."
+        },
+        {
+            "id": "nacc-0064-4000-8000-000000000064",
+            "type": "drill",
+            "header": "οι μαθητές → ___ μαθητές (plural accusative article)",
+            "options": {
+                "a": "τις",
+                "b": "τα",
+                "c": "τους",
+                "d": "τον"
+            },
+            "answer": "c",
+            "explanation": "Masculine plural accusative article: οι → τους."
+        },
+        {
+            "id": "nacc-0065-4000-8000-000000000065",
+            "type": "drill",
+            "header": "οι πόλεις → ___ πόλεις (plural accusative article)",
+            "options": {
+                "a": "τους",
+                "b": "τα",
+                "c": "τις",
+                "d": "τον"
+            },
+            "answer": "c",
+            "explanation": "Feminine plural accusative article: οι → τις."
+        },
+        {
+            "id": "nacc-0066-4000-8000-000000000066",
+            "type": "drill",
+            "header": "τα βιβλία → ___ βιβλία (plural accusative article)",
+            "options": {
+                "a": "τους",
+                "b": "τα",
+                "c": "τις",
+                "d": "τον"
+            },
+            "answer": "b",
+            "explanation": "Neuter plural accusative article: τα stays τα."
+        },
+        {
+            "id": "nacc-0067-4000-8000-000000000067",
+            "type": "drill",
+            "header": "οι φίλοι → τους ___ (masculine plural noun in accusative)",
+            "options": {
+                "a": "φίλοι",
+                "b": "φίλες",
+                "c": "φίλους",
+                "d": "φίλον"
+            },
+            "answer": "c",
+            "explanation": "Masculine plural nouns ending in -οι change to -ους in the accusative: φίλοι → φίλους."
+        },
+        {
+            "id": "nacc-0068-4000-8000-000000000068",
+            "type": "drill",
+            "header": "οι δάσκαλοι → τους ___ (masculine plural noun in accusative)",
+            "options": {
+                "a": "δάσκαλοι",
+                "b": "δάσκαλους",
+                "c": "δάσκαλές",
+                "d": "δάσκαλον"
+            },
+            "answer": "b",
+            "explanation": "Masculine plural nouns ending in -οι change to -ους in the accusative: δάσκαλοι → δάσκαλους."
+        },
+        {
+            "id": "nacc-0069-4000-8000-000000000069",
+            "type": "drill",
+            "header": "οι πατέρες → τους ___ (masculine plural noun in accusative)",
+            "options": {
+                "a": "πατέρας",
+                "b": "πατέρους",
+                "c": "πατέρες",
+                "d": "πατέρας"
+            },
+            "answer": "c",
+            "explanation": "Masculine plural nouns ending in -ες (from -ας/-ης nouns) keep -ες in the accusative: πατέρες stays πατέρες."
+        },
+        {
+            "id": "nacc-0070-4000-8000-000000000070",
+            "type": "drill",
+            "header": "οι μαθητές → τους ___ (masculine plural noun in accusative)",
+            "options": {
+                "a": "μαθητάς",
+                "b": "μαθητούς",
+                "c": "μαθητές",
+                "d": "μαθητοί"
+            },
+            "answer": "c",
+            "explanation": "Masculine plural nouns ending in -ές (from -ής nouns) keep -ές in the accusative: μαθητές stays μαθητές."
+        },
+        {
+            "id": "nacc-0071-4000-8000-000000000071",
+            "type": "drill",
+            "header": "οι αδελφοί → τους ___ (masculine plural noun in accusative)",
+            "options": {
+                "a": "αδελφοί",
+                "b": "αδελφούς",
+                "c": "αδελφές",
+                "d": "αδελφόν"
+            },
+            "answer": "b",
+            "explanation": "Masculine plural nouns ending in -οί change to -ούς in the accusative: αδελφοί → αδελφούς."
+        },
+        {
+            "id": "nacc-0072-4000-8000-000000000072",
+            "type": "drill",
+            "header": "οι γιατροί → τους ___ (masculine plural noun in accusative)",
+            "options": {
+                "a": "γιατρούς",
+                "b": "γιατροί",
+                "c": "γιατρές",
+                "d": "γιατρόν"
+            },
+            "answer": "a",
+            "explanation": "Masculine plural nouns ending in -οί change to -ούς in the accusative: γιατροί → γιατρούς."
+        },
+        {
+            "id": "nacc-0073-4000-8000-000000000073",
+            "type": "drill",
+            "header": "οι φίλοι → accusative plural: ___",
+            "options": {
+                "a": "τους φίλους",
+                "b": "τις φίλες",
+                "c": "τα φίλα",
+                "d": "τον φίλο"
+            },
+            "answer": "a",
+            "explanation": "οι φίλοι (masculine plural): article οι→τους, noun -οι→-ους. Full accusative: τους φίλους."
+        },
+        {
+            "id": "nacc-0074-4000-8000-000000000074",
+            "type": "drill",
+            "header": "οι πατέρες → accusative plural: ___",
+            "options": {
+                "a": "τους πατέρους",
+                "b": "τους πατέρες",
+                "c": "τις πατέρες",
+                "d": "τα πατέρα"
+            },
+            "answer": "b",
+            "explanation": "οι πατέρες (masculine plural, -ας noun): article οι→τους, noun -ες stays -ες. Full accusative: τους πατέρες."
+        },
+        {
+            "id": "nacc-0075-4000-8000-000000000075",
+            "type": "drill",
+            "header": "οι μαθητές → accusative plural: ___",
+            "options": {
+                "a": "τους μαθητάς",
+                "b": "τις μαθητές",
+                "c": "τους μαθητές",
+                "d": "τα μαθητά"
+            },
+            "answer": "c",
+            "explanation": "οι μαθητές (masculine plural, -ής noun): article οι→τους, noun -ές stays -ές. Full accusative: τους μαθητές."
+        },
+        {
+            "id": "nacc-0076-4000-8000-000000000076",
+            "type": "drill",
+            "header": "οι μητέρες → accusative plural: ___",
+            "options": {
+                "a": "τους μητέρες",
+                "b": "τα μητέρα",
+                "c": "τις μητέρες",
+                "d": "τον μητέρα"
+            },
+            "answer": "c",
+            "explanation": "οι μητέρες (feminine plural): article οι→τις, noun ending stays -ες. Full accusative: τις μητέρες."
+        },
+        {
+            "id": "nacc-0077-4000-8000-000000000077",
+            "type": "drill",
+            "header": "οι πόλεις → accusative plural: ___",
+            "options": {
+                "a": "τους πόλεις",
+                "b": "τα πόλεα",
+                "c": "τον πόλη",
+                "d": "τις πόλεις"
+            },
+            "answer": "d",
+            "explanation": "οι πόλεις (feminine plural): article οι→τις, noun ending stays -εις. Full accusative: τις πόλεις."
+        },
+        {
+            "id": "nacc-0078-4000-8000-000000000078",
+            "type": "drill",
+            "header": "οι φίλες → accusative plural: ___",
+            "options": {
+                "a": "τους φίλες",
+                "b": "τις φίλες",
+                "c": "τα φίλα",
+                "d": "τον φίλη"
+            },
+            "answer": "b",
+            "explanation": "οι φίλες (feminine plural): article οι→τις, noun ending stays -ες. Full accusative: τις φίλες."
+        },
+        {
+            "id": "nacc-0079-4000-8000-000000000079",
+            "type": "drill",
+            "header": "τα σπίτια → accusative plural: ___",
+            "options": {
+                "a": "τους σπίτια",
+                "b": "τα σπίτια",
+                "c": "τις σπίτια",
+                "d": "τον σπίτι"
+            },
+            "answer": "b",
+            "explanation": "τα σπίτια (neuter plural): nothing changes at all. Full accusative: τα σπίτια."
+        },
+        {
+            "id": "nacc-0080-4000-8000-000000000080",
+            "type": "drill",
+            "header": "τα βιβλία → accusative plural: ___",
+            "options": {
+                "a": "τους βιβλίους",
+                "b": "τις βιβλίες",
+                "c": "τα βιβλία",
+                "d": "τον βιβλίο"
+            },
+            "answer": "c",
+            "explanation": "τα βιβλία (neuter plural): nothing changes at all. Full accusative: τα βιβλία."
+        },
+        {
+            "id": "nacc-0081-4000-8000-000000000081",
+            "type": "drill",
+            "header": "τα ονόματα → accusative plural: ___",
+            "options": {
+                "a": "τους ονόματα",
+                "b": "τα ονόματα",
+                "c": "τις ονόματα",
+                "d": "τον όνομα"
+            },
+            "answer": "b",
+            "explanation": "τα ονόματα (neuter plural): nothing changes at all. Full accusative: τα ονόματα."
+        },
+        {
+            "id": "nacc-0082-4000-8000-000000000082",
+            "type": "drill",
+            "header": "τους αδελφούς → nominative: ___",
+            "options": {
+                "a": "οι αδελφοί",
+                "b": "οι αδελφούς",
+                "c": "τα αδελφά",
+                "d": "ο αδελφό"
+            },
+            "answer": "a",
+            "explanation": "τους αδελφούς is the masculine plural accusative. Nominative: οι αδελφοί."
+        },
+        {
+            "id": "nacc-0083-4000-8000-000000000083",
+            "type": "drill",
+            "header": "τον φίλο → nominative: ___",
+            "options": {
+                "a": "το φίλο",
+                "b": "ο φίλος",
+                "c": "η φίλη",
+                "d": "οι φίλοι"
+            },
+            "answer": "b",
+            "explanation": "τον φίλο is the masculine singular accusative. Nominative: ο φίλος."
+        },
+        {
+            "id": "nacc-0084-4000-8000-000000000084",
+            "type": "drill",
+            "header": "την πόλη → nominative: ___",
+            "options": {
+                "a": "τον πόλη",
+                "b": "το πόλη",
+                "c": "η πόλη",
+                "d": "ο πόλης"
+            },
+            "answer": "c",
+            "explanation": "την πόλη is the feminine singular accusative. Nominative: η πόλη."
+        },
+        {
+            "id": "nacc-0085-4000-8000-000000000085",
+            "type": "drill",
+            "header": "τις μητέρες → nominative: ___",
+            "options": {
+                "a": "οι μητέρες",
+                "b": "τα μητέρα",
+                "c": "ο μητέρας",
+                "d": "οι μητέρας"
+            },
+            "answer": "a",
+            "explanation": "τις μητέρες is the feminine plural accusative. Nominative: οι μητέρες."
+        },
+        {
+            "id": "nacc-0086-4000-8000-000000000086",
+            "type": "drill",
+            "header": "τους μαθητές → nominative: ___",
+            "options": {
+                "a": "τα μαθητά",
+                "b": "ο μαθητής",
+                "c": "οι μαθητές",
+                "d": "η μαθήτρια"
+            },
+            "answer": "c",
+            "explanation": "τους μαθητές is the masculine plural accusative. Nominative: οι μαθητές."
+        },
+        {
+            "id": "nacc-0087-4000-8000-000000000087",
+            "type": "drill",
+            "header": "τον πατέρα → nominative: ___",
+            "options": {
+                "a": "ο πατέρα",
+                "b": "η πατέρα",
+                "c": "το πατέρας",
+                "d": "ο πατέρας"
+            },
+            "answer": "d",
+            "explanation": "τον πατέρα is the masculine singular accusative. Nominative: ο πατέρας."
+        },
+        {
+            "id": "nacc-0088-4000-8000-000000000088",
+            "type": "drill",
+            "header": "τον μαθητή → nominative: ___",
+            "options": {
+                "a": "ο μαθητής",
+                "b": "η μαθητή",
+                "c": "το μαθητή",
+                "d": "ο μαθητή"
+            },
+            "answer": "a",
+            "explanation": "τον μαθητή is the masculine singular accusative. Nominative: ο μαθητής."
+        },
+        {
+            "id": "nacc-0089-4000-8000-000000000089",
+            "type": "drill",
+            "header": "η οδός → ___ (accusative, feminine noun in -ος)",
+            "options": {
+                "a": "την οδός",
+                "b": "την οδό",
+                "c": "τον οδό",
+                "d": "την οδών"
+            },
+            "answer": "b",
+            "explanation": "η οδός is a feminine noun ending in -ος. It follows the masculine pattern for the ending in the accusative: οδός→οδό, but keeps the feminine article: την οδό."
+        },
+        {
+            "id": "nacc-0090-4000-8000-000000000090",
+            "type": "drill",
+            "header": "η οδός ends in -ος. What is special about its accusative?",
+            "options": {
+                "a": "It uses the neuter article: το οδό",
+                "b": "It does not change at all: την οδός",
+                "c": "The ending changes like a masculine noun: την οδό",
+                "d": "It becomes masculine in accusative: τον οδό"
+            },
+            "answer": "c",
+            "explanation": "Feminine nouns ending in -ος (like η οδός) are exceptions: the ending changes like a masculine noun (dropping -ς), but the article stays feminine: την οδό."
+        },
+        {
+            "id": "nacc-0091-4000-8000-000000000091",
+            "type": "drill",
+            "header": "Βλέπω ___ φίλο μου. (I see my friend.)",
+            "options": {
+                "a": "ο",
+                "b": "τον",
+                "c": "τους",
+                "d": "την"
+            },
+            "answer": "b",
+            "explanation": "φίλο is a masculine noun in the accusative (direct object of βλέπω). Use the accusative article τον."
+        },
+        {
+            "id": "nacc-0092-4000-8000-000000000092",
+            "type": "drill",
+            "header": "Έχω ___ αδελφή μου. (I have my sister.)",
+            "options": {
+                "a": "ο",
+                "b": "τον",
+                "c": "την",
+                "d": "τα"
+            },
+            "answer": "c",
+            "explanation": "αδελφή is a feminine noun in the accusative (direct object of Έχω). Use the accusative article την."
+        },
+        {
+            "id": "nacc-0093-4000-8000-000000000093",
+            "type": "drill",
+            "header": "Διαβάζω ___ βιβλίο. (I read the book.)",
+            "options": {
+                "a": "τον",
+                "b": "την",
+                "c": "τα",
+                "d": "το"
+            },
+            "answer": "d",
+            "explanation": "βιβλίο is a neuter noun in the accusative (direct object of Διαβάζω). Use the accusative article το."
+        },
+        {
+            "id": "nacc-0094-4000-8000-000000000094",
+            "type": "drill",
+            "header": "Ξέρω ___ μαθητές. (I know the students.)",
+            "options": {
+                "a": "τις",
+                "b": "τους",
+                "c": "τα",
+                "d": "τον"
+            },
+            "answer": "b",
+            "explanation": "μαθητές is masculine plural in the accusative (direct object of Ξέρω). Use τους."
+        },
+        {
+            "id": "nacc-0095-4000-8000-000000000095",
+            "type": "drill",
+            "header": "Αγαπώ ___ φίλες μου. (I love my [female] friends.)",
+            "options": {
+                "a": "τους",
+                "b": "τον",
+                "c": "τα",
+                "d": "τις"
+            },
+            "answer": "d",
+            "explanation": "φίλες is feminine plural in the accusative (direct object of Αγαπώ). Use τις."
+        },
+        {
+            "id": "nacc-0096-4000-8000-000000000096",
+            "type": "drill",
+            "header": "Θέλω ___ σπίτια. (I want the houses.)",
+            "options": {
+                "a": "τους",
+                "b": "τα",
+                "c": "τις",
+                "d": "τον"
+            },
+            "answer": "b",
+            "explanation": "σπίτια is neuter plural in the accusative (direct object of Θέλω). Neuter plural: τα."
+        },
+        {
+            "id": "nacc-0097-4000-8000-000000000097",
+            "type": "drill",
+            "header": "Πηγαίνω στην (σε + ___) πόλη. (I'm going to the city.)",
+            "options": {
+                "a": "ο",
+                "b": "τον",
+                "c": "την",
+                "d": "τα"
+            },
+            "answer": "c",
+            "explanation": "σε + την = στην. πόλη is feminine, so the preposition σε combines with the feminine accusative article την."
+        },
+        {
+            "id": "nacc-0098-4000-8000-000000000098",
+            "type": "drill",
+            "header": "Πάω στον (σε + ___) φίλο. (I'm going to [my] friend.)",
+            "options": {
+                "a": "τον",
+                "b": "την",
+                "c": "τα",
+                "d": "οι"
+            },
+            "answer": "a",
+            "explanation": "σε + τον = στον. φίλο is masculine accusative, so σε combines with τον."
+        },
+        {
+            "id": "nacc-0099-4000-8000-000000000099",
+            "type": "drill",
+            "header": "Which sentence is correct? (Βλέπω = I see)",
+            "options": {
+                "a": "Βλέπω ο δάσκαλος.",
+                "b": "Βλέπω τον δάσκαλο.",
+                "c": "Βλέπω τον δάσκαλος.",
+                "d": "Βλέπω την δάσκαλο."
+            },
+            "answer": "b",
+            "explanation": "The direct object of βλέπω must be in the accusative. ο δάσκαλος (nominative) becomes τον δάσκαλο (accusative): article ο→τον, noun δάσκαλος→δάσκαλο."
+        },
+        {
+            "id": "nacc-0100-4000-8000-000000000100",
+            "type": "drill",
+            "header": "Which sentence is correct? (Έχω = I have)",
+            "options": {
+                "a": "Έχω η μητέρα.",
+                "b": "Έχω τον μητέρα.",
+                "c": "Έχω μία μητέρα.",
+                "d": "Έχω μία μητέρας."
+            },
+            "answer": "c",
+            "explanation": "η μητέρα (nominative) becomes την μητέρα (definite accusative) or μία μητέρα (indefinite accusative). Only option c is grammatically correct."
+        }
+    ]
+}

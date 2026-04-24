@@ -1,0 +1,134 @@
+{
+    "exercises": [
+    {
+        "id": "pga-dv-0091",
+        "type": "drill_verb",
+        "header": "παρεμβαίνω (to intervene)",
+        "conjugations": [
+            {"form": "Εγώ", "options": {"a": "παρεμβαίνω", "b": "παρεμβαίνεις", "c": "παρεμβαίνει", "d": "παρεμβαίνουν"}, "answer": "a", "explanation": "1st person singular (εγώ): παρεμβαίνω. Group A ending: -ω."},
+            {"form": "Εσύ", "options": {"a": "παρεμβαίνω", "b": "παρεμβαίνεις", "c": "παρεμβαίνουμε", "d": "παρεμβαίνετε"}, "answer": "b", "explanation": "2nd person singular (εσύ): παρεμβαίνεις. Group A ending: -εις."},
+            {"form": "Αυτός/Αυτή/Αυτό", "options": {"a": "παρεμβαίνεις", "b": "παρεμβαίνουμε", "c": "παρεμβαίνει", "d": "παρεμβαίνουν"}, "answer": "c", "explanation": "3rd person singular (αυτός/ή/ό): παρεμβαίνει. Group A ending: -ει."},
+            {"form": "Εμείς", "options": {"a": "παρεμβαίνουν", "b": "παρεμβαίνεις", "c": "παρεμβαίνει", "d": "παρεμβαίνουμε"}, "answer": "d", "explanation": "1st person plural (εμείς): παρεμβαίνουμε. Group A ending: -ουμε."},
+            {"form": "Εσείς", "options": {"a": "παρεμβαίνετε", "b": "παρεμβαίνει", "c": "παρεμβαίνουν", "d": "παρεμβαίνω"}, "answer": "a", "explanation": "2nd person plural (εσείς): παρεμβαίνετε. Group A ending: -ετε."},
+            {"form": "Αυτοί/Αυτές/Αυτά", "options": {"a": "παρεμβαίνουμε", "b": "παρεμβαίνουν", "c": "παρεμβαίνεις", "d": "παρεμβαίνετε"}, "answer": "b", "explanation": "3rd person plural (αυτοί/ές/ά): παρεμβαίνουν. Group A ending: -ουν(ε)."}
+        ]
+    },
+    {
+        "id": "pga-dv-0092",
+        "type": "drill_verb",
+        "header": "προβλέπω (to foresee)",
+        "conjugations": [
+            {"form": "Εγώ", "options": {"a": "προβλέπω", "b": "προβλέπεις", "c": "προβλέπει", "d": "προβλέπουν"}, "answer": "a", "explanation": "1st person singular (εγώ): προβλέπω. Group A ending: -ω."},
+            {"form": "Εσύ", "options": {"a": "προβλέπω", "b": "προβλέπεις", "c": "προβλέπουμε", "d": "προβλέπετε"}, "answer": "b", "explanation": "2nd person singular (εσύ): προβλέπεις. Group A ending: -εις."},
+            {"form": "Αυτός/Αυτή/Αυτό", "options": {"a": "προβλέπεις", "b": "προβλέπουμε", "c": "προβλέπει", "d": "προβλέπουν"}, "answer": "c", "explanation": "3rd person singular (αυτός/ή/ό): προβλέπει. Group A ending: -ει."},
+            {"form": "Εμείς", "options": {"a": "προβλέπουν", "b": "προβλέπεις", "c": "προβλέπει", "d": "προβλέπουμε"}, "answer": "d", "explanation": "1st person plural (εμείς): προβλέπουμε. Group A ending: -ουμε."},
+            {"form": "Εσείς", "options": {"a": "προβλέπετε", "b": "προβλέπει", "c": "προβλέπουν", "d": "προβλέπω"}, "answer": "a", "explanation": "2nd person plural (εσείς): προβλέπετε. Group A ending: -ετε."},
+            {"form": "Αυτοί/Αυτές/Αυτά", "options": {"a": "προβλέπουμε", "b": "προβλέπουν", "c": "προβλέπεις", "d": "προβλέπετε"}, "answer": "b", "explanation": "3rd person plural (αυτοί/ές/ά): προβλέπουν. Group A ending: -ουν(ε)."}
+        ]
+    },
+    {
+        "id": "pga-dv-0093",
+        "type": "drill_verb",
+        "header": "διακόπτω (to interrupt)",
+        "conjugations": [
+            {"form": "Εγώ", "options": {"a": "διακόπτω", "b": "διακόπτεις", "c": "διακόπτει", "d": "διακόπτουν"}, "answer": "a", "explanation": "1st person singular (εγώ): διακόπτω. Group A ending: -ω."},
+            {"form": "Εσύ", "options": {"a": "διακόπτω", "b": "διακόπτεις", "c": "διακόπτουμε", "d": "διακόπτετε"}, "answer": "b", "explanation": "2nd person singular (εσύ): διακόπτεις. Group A ending: -εις."},
+            {"form": "Αυτός/Αυτή/Αυτό", "options": {"a": "διακόπτεις", "b": "διακόπτουμε", "c": "διακόπτει", "d": "διακόπτουν"}, "answer": "c", "explanation": "3rd person singular (αυτός/ή/ό): διακόπτει. Group A ending: -ει."},
+            {"form": "Εμείς", "options": {"a": "διακόπτουν", "b": "διακόπτεις", "c": "διακόπτει", "d": "διακόπτουμε"}, "answer": "d", "explanation": "1st person plural (εμείς): διακόπτουμε. Group A ending: -ουμε."},
+            {"form": "Εσείς", "options": {"a": "διακόπτετε", "b": "διακόπτει", "c": "διακόπτουν", "d": "διακόπτω"}, "answer": "a", "explanation": "2nd person plural (εσείς): διακόπτετε. Group A ending: -ετε."},
+            {"form": "Αυτοί/Αυτές/Αυτά", "options": {"a": "διακόπτουμε", "b": "διακόπτουν", "c": "διακόπτεις", "d": "διακόπτετε"}, "answer": "b", "explanation": "3rd person plural (αυτοί/ές/ά): διακόπτουν. Group A ending: -ουν(ε)."}
+        ]
+    },
+    {
+        "id": "pga-dv-0094",
+        "type": "drill_verb",
+        "header": "περιγράφω (to describe)",
+        "conjugations": [
+            {"form": "Εγώ", "options": {"a": "περιγράφω", "b": "περιγράφεις", "c": "περιγράφει", "d": "περιγράφουν"}, "answer": "a", "explanation": "1st person singular (εγώ): περιγράφω. Group A ending: -ω."},
+            {"form": "Εσύ", "options": {"a": "περιγράφω", "b": "περιγράφεις", "c": "περιγράφουμε", "d": "περιγράφετε"}, "answer": "b", "explanation": "2nd person singular (εσύ): περιγράφεις. Group A ending: -εις."},
+            {"form": "Αυτός/Αυτή/Αυτό", "options": {"a": "περιγράφεις", "b": "περιγράφουμε", "c": "περιγράφει", "d": "περιγράφουν"}, "answer": "c", "explanation": "3rd person singular (αυτός/ή/ό): περιγράφει. Group A ending: -ει."},
+            {"form": "Εμείς", "options": {"a": "περιγράφουν", "b": "περιγράφεις", "c": "περιγράφει", "d": "περιγράφουμε"}, "answer": "d", "explanation": "1st person plural (εμείς): περιγράφουμε. Group A ending: -ουμε."},
+            {"form": "Εσείς", "options": {"a": "περιγράφετε", "b": "περιγράφει", "c": "περιγράφουν", "d": "περιγράφω"}, "answer": "a", "explanation": "2nd person plural (εσείς): περιγράφετε. Group A ending: -ετε."},
+            {"form": "Αυτοί/Αυτές/Αυτά", "options": {"a": "περιγράφουμε", "b": "περιγράφουν", "c": "περιγράφεις", "d": "περιγράφετε"}, "answer": "b", "explanation": "3rd person plural (αυτοί/ές/ά): περιγράφουν. Group A ending: -ουν(ε)."}
+        ]
+    },
+    {
+        "id": "pga-dv-0095",
+        "type": "drill_verb",
+        "header": "φυτεύω (to plant)",
+        "conjugations": [
+            {"form": "Εγώ", "options": {"a": "φυτεύω", "b": "φυτεύεις", "c": "φυτεύει", "d": "φυτεύουν"}, "answer": "a", "explanation": "1st person singular (εγώ): φυτεύω. Group A ending: -ω."},
+            {"form": "Εσύ", "options": {"a": "φυτεύω", "b": "φυτεύεις", "c": "φυτεύουμε", "d": "φυτεύετε"}, "answer": "b", "explanation": "2nd person singular (εσύ): φυτεύεις. Group A ending: -εις."},
+            {"form": "Αυτός/Αυτή/Αυτό", "options": {"a": "φυτεύεις", "b": "φυτεύουμε", "c": "φυτεύει", "d": "φυτεύουν"}, "answer": "c", "explanation": "3rd person singular (αυτός/ή/ό): φυτεύει. Group A ending: -ει."},
+            {"form": "Εμείς", "options": {"a": "φυτεύουν", "b": "φυτεύεις", "c": "φυτεύει", "d": "φυτεύουμε"}, "answer": "d", "explanation": "1st person plural (εμείς): φυτεύουμε. Group A ending: -ουμε."},
+            {"form": "Εσείς", "options": {"a": "φυτεύετε", "b": "φυτεύει", "c": "φυτεύουν", "d": "φυτεύω"}, "answer": "a", "explanation": "2nd person plural (εσείς): φυτεύετε. Group A ending: -ετε."},
+            {"form": "Αυτοί/Αυτές/Αυτά", "options": {"a": "φυτεύουμε", "b": "φυτεύουν", "c": "φυτεύεις", "d": "φυτεύετε"}, "answer": "b", "explanation": "3rd person plural (αυτοί/ές/ά): φυτεύουν. Group A ending: -ουν(ε)."}
+        ]
+    },
+    {
+        "id": "pga-dv-0096",
+        "type": "drill_verb",
+        "header": "καταστρέφω (to destroy)",
+        "conjugations": [
+            {"form": "Εγώ", "options": {"a": "καταστρέφω", "b": "καταστρέφεις", "c": "καταστρέφει", "d": "καταστρέφουν"}, "answer": "a", "explanation": "1st person singular (εγώ): καταστρέφω. Group A ending: -ω."},
+            {"form": "Εσύ", "options": {"a": "καταστρέφω", "b": "καταστρέφεις", "c": "καταστρέφουμε", "d": "καταστρέφετε"}, "answer": "b", "explanation": "2nd person singular (εσύ): καταστρέφεις. Group A ending: -εις."},
+            {"form": "Αυτός/Αυτή/Αυτό", "options": {"a": "καταστρέφεις", "b": "καταστρέφουμε", "c": "καταστρέφει", "d": "καταστρέφουν"}, "answer": "c", "explanation": "3rd person singular (αυτός/ή/ό): καταστρέφει. Group A ending: -ει."},
+            {"form": "Εμείς", "options": {"a": "καταστρέφουν", "b": "καταστρέφεις", "c": "καταστρέφει", "d": "καταστρέφουμε"}, "answer": "d", "explanation": "1st person plural (εμείς): καταστρέφουμε. Group A ending: -ουμε."},
+            {"form": "Εσείς", "options": {"a": "καταστρέφετε", "b": "καταστρέφει", "c": "καταστρέφουν", "d": "καταστρέφω"}, "answer": "a", "explanation": "2nd person plural (εσείς): καταστρέφετε. Group A ending: -ετε."},
+            {"form": "Αυτοί/Αυτές/Αυτά", "options": {"a": "καταστρέφουμε", "b": "καταστρέφουν", "c": "καταστρέφεις", "d": "καταστρέφετε"}, "answer": "b", "explanation": "3rd person plural (αυτοί/ές/ά): καταστρέφουν. Group A ending: -ουν(ε)."}
+        ]
+    },
+    {
+        "id": "pga-dv-0097",
+        "type": "drill_verb",
+        "header": "προστατεύω (to protect)",
+        "conjugations": [
+            {"form": "Εγώ", "options": {"a": "προστατεύω", "b": "προστατεύεις", "c": "προστατεύει", "d": "προστατεύουν"}, "answer": "a", "explanation": "1st person singular (εγώ): προστατεύω. Group A ending: -ω."},
+            {"form": "Εσύ", "options": {"a": "προστατεύω", "b": "προστατεύεις", "c": "προστατεύουμε", "d": "προστατεύετε"}, "answer": "b", "explanation": "2nd person singular (εσύ): προστατεύεις. Group A ending: -εις."},
+            {"form": "Αυτός/Αυτή/Αυτό", "options": {"a": "προστατεύεις", "b": "προστατεύουμε", "c": "προστατεύει", "d": "προστατεύουν"}, "answer": "c", "explanation": "3rd person singular (αυτός/ή/ό): προστατεύει. Group A ending: -ει."},
+            {"form": "Εμείς", "options": {"a": "προστατεύουν", "b": "προστατεύεις", "c": "προστατεύει", "d": "προστατεύουμε"}, "answer": "d", "explanation": "1st person plural (εμείς): προστατεύουμε. Group A ending: -ουμε."},
+            {"form": "Εσείς", "options": {"a": "προστατεύετε", "b": "προστατεύει", "c": "προστατεύουν", "d": "προστατεύω"}, "answer": "a", "explanation": "2nd person plural (εσείς): προστατεύετε. Group A ending: -ετε."},
+            {"form": "Αυτοί/Αυτές/Αυτά", "options": {"a": "προστατεύουμε", "b": "προστατεύουν", "c": "προστατεύεις", "d": "προστατεύετε"}, "answer": "b", "explanation": "3rd person plural (αυτοί/ές/ά): προστατεύουν. Group A ending: -ουν(ε)."}
+        ]
+    },
+    {
+        "id": "pga-dv-0098",
+        "type": "drill_verb",
+        "header": "απλώνω (to spread/hang out)",
+        "conjugations": [
+            {"form": "Εγώ", "options": {"a": "απλώνω", "b": "απλώνεις", "c": "απλώνει", "d": "απλώνουν"}, "answer": "a", "explanation": "1st person singular (εγώ): απλώνω. Group A ending: -ω."},
+            {"form": "Εσύ", "options": {"a": "απλώνω", "b": "απλώνεις", "c": "απλώνουμε", "d": "απλώνετε"}, "answer": "b", "explanation": "2nd person singular (εσύ): απλώνεις. Group A ending: -εις."},
+            {"form": "Αυτός/Αυτή/Αυτό", "options": {"a": "απλώνεις", "b": "απλώνουμε", "c": "απλώνει", "d": "απλώνουν"}, "answer": "c", "explanation": "3rd person singular (αυτός/ή/ό): απλώνει. Group A ending: -ει."},
+            {"form": "Εμείς", "options": {"a": "απλώνουν", "b": "απλώνεις", "c": "απλώνει", "d": "απλώνουμε"}, "answer": "d", "explanation": "1st person plural (εμείς): απλώνουμε. Group A ending: -ουμε."},
+            {"form": "Εσείς", "options": {"a": "απλώνετε", "b": "απλώνει", "c": "απλώνουν", "d": "απλώνω"}, "answer": "a", "explanation": "2nd person plural (εσείς): απλώνετε. Group A ending: -ετε."},
+            {"form": "Αυτοί/Αυτές/Αυτά", "options": {"a": "απλώνουμε", "b": "απλώνουν", "c": "απλώνεις", "d": "απλώνετε"}, "answer": "b", "explanation": "3rd person plural (αυτοί/ές/ά): απλώνουν. Group A ending: -ουν(ε)."}
+        ]
+    },
+    {
+        "id": "pga-dv-0099",
+        "type": "drill_verb",
+        "header": "ανακατεύω (to stir/mix)",
+        "conjugations": [
+            {"form": "Εγώ", "options": {"a": "ανακατεύω", "b": "ανακατεύεις", "c": "ανακατεύει", "d": "ανακατεύουν"}, "answer": "a", "explanation": "1st person singular (εγώ): ανακατεύω. Group A ending: -ω."},
+            {"form": "Εσύ", "options": {"a": "ανακατεύω", "b": "ανακατεύεις", "c": "ανακατεύουμε", "d": "ανακατεύετε"}, "answer": "b", "explanation": "2nd person singular (εσύ): ανακατεύεις. Group A ending: -εις."},
+            {"form": "Αυτός/Αυτή/Αυτό", "options": {"a": "ανακατεύεις", "b": "ανακατεύουμε", "c": "ανακατεύει", "d": "ανακατεύουν"}, "answer": "c", "explanation": "3rd person singular (αυτός/ή/ό): ανακατεύει. Group A ending: -ει."},
+            {"form": "Εμείς", "options": {"a": "ανακατεύουν", "b": "ανακατεύεις", "c": "ανακατεύει", "d": "ανακατεύουμε"}, "answer": "d", "explanation": "1st person plural (εμείς): ανακατεύουμε. Group A ending: -ουμε."},
+            {"form": "Εσείς", "options": {"a": "ανακατεύετε", "b": "ανακατεύει", "c": "ανακατεύουν", "d": "ανακατεύω"}, "answer": "a", "explanation": "2nd person plural (εσείς): ανακατεύετε. Group A ending: -ετε."},
+            {"form": "Αυτοί/Αυτές/Αυτά", "options": {"a": "ανακατεύουμε", "b": "ανακατεύουν", "c": "ανακατεύεις", "d": "ανακατεύετε"}, "answer": "b", "explanation": "3rd person plural (αυτοί/ές/ά): ανακατεύουν. Group A ending: -ουν(ε)."}
+        ]
+    },
+    {
+        "id": "pga-dv-0100",
+        "type": "drill_verb",
+        "header": "αντιγράφω (to copy)",
+        "conjugations": [
+            {"form": "Εγώ", "options": {"a": "αντιγράφω", "b": "αντιγράφεις", "c": "αντιγράφει", "d": "αντιγράφουν"}, "answer": "a", "explanation": "1st person singular (εγώ): αντιγράφω. Group A ending: -ω."},
+            {"form": "Εσύ", "options": {"a": "αντιγράφω", "b": "αντιγράφεις", "c": "αντιγράφουμε", "d": "αντιγράφετε"}, "answer": "b", "explanation": "2nd person singular (εσύ): αντιγράφεις. Group A ending: -εις."},
+            {"form": "Αυτός/Αυτή/Αυτό", "options": {"a": "αντιγράφεις", "b": "αντιγράφουμε", "c": "αντιγράφει", "d": "αντιγράφουν"}, "answer": "c", "explanation": "3rd person singular (αυτός/ή/ό): αντιγράφει. Group A ending: -ει."},
+            {"form": "Εμείς", "options": {"a": "αντιγράφουν", "b": "αντιγράφεις", "c": "αντιγράφει", "d": "αντιγράφουμε"}, "answer": "d", "explanation": "1st person plural (εμείς): αντιγράφουμε. Group A ending: -ουμε."},
+            {"form": "Εσείς", "options": {"a": "αντιγράφετε", "b": "αντιγράφει", "c": "αντιγράφουν", "d": "αντιγράφω"}, "answer": "a", "explanation": "2nd person plural (εσείς): αντιγράφετε. Group A ending: -ετε."},
+            {"form": "Αυτοί/Αυτές/Αυτά", "options": {"a": "αντιγράφουμε", "b": "αντιγράφουν", "c": "αντιγράφεις", "d": "αντιγράφετε"}, "answer": "b", "explanation": "3rd person plural (αυτοί/ές/ά): αντιγράφουν. Group A ending: -ουν(ε)."}
+        ]
+    }
+    ]
+}

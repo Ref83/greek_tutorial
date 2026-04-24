@@ -1,0 +1,434 @@
+{
+    "exercises": [
+        {
+            "id": "ps-dv-0091",
+            "type": "drill_verb",
+            "header": "επιστρέφω (to return / come back)",
+            "conjugations": [
+                {
+                    "form": "εγώ",
+                    "options": {"a": "επέστρεψα", "b": "επέστρεψες", "c": "επέστρεψε", "d": "επιστρέψαμε"},
+                    "answer": "a",
+                    "explanation": "επιστρέφω ends in -φ. The -φ + -σ → -ψ. The augment έ- is inserted after the prefix επι-: επι-έ-στρεψα → επέστρεψα."
+                },
+                {
+                    "form": "εσύ",
+                    "options": {"a": "επέστρεψα", "b": "επέστρεψες", "c": "επιστρέψαμε", "d": "επιστρέψατε"},
+                    "answer": "b",
+                    "explanation": "Same stem. 2sg ending -ες: επέστρεψες."
+                },
+                {
+                    "form": "αυτός / αυτή / αυτό",
+                    "options": {"a": "επέστρεψες", "b": "επιστρέψαμε", "c": "επέστρεψε", "d": "επέστρεψαν"},
+                    "answer": "c",
+                    "explanation": "Same stem. 3sg ending -ε: επέστρεψε."
+                },
+                {
+                    "form": "εμείς",
+                    "options": {"a": "επέστρεψαν", "b": "επέστρεψες", "c": "επέστρεψε", "d": "επιστρέψαμε"},
+                    "answer": "d",
+                    "explanation": "In 1pl, the augment drops. Ending -αμε: επιστρέψαμε."
+                },
+                {
+                    "form": "εσείς",
+                    "options": {"a": "επιστρέψατε", "b": "επέστρεψε", "c": "επέστρεψαν", "d": "επέστρεψα"},
+                    "answer": "a",
+                    "explanation": "In 2pl, the augment drops. Ending -ατε: επιστρέψατε."
+                },
+                {
+                    "form": "αυτοί / αυτές / αυτά",
+                    "options": {"a": "επιστρέψαμε", "b": "επέστρεψαν", "c": "επέστρεψες", "d": "επιστρέψατε"},
+                    "answer": "b",
+                    "explanation": "3pl ending -αν: επέστρεψαν."
+                }
+            ]
+        },
+        {
+            "id": "ps-dv-0092",
+            "type": "drill_verb",
+            "header": "διορθώνω (to correct / fix)",
+            "conjugations": [
+                {
+                    "form": "εγώ",
+                    "options": {"a": "διόρθωσα", "b": "διόρθωσες", "c": "διόρθωσε", "d": "διορθώσαμε"},
+                    "answer": "a",
+                    "explanation": "διορθώνω drops -ν and adds -σα. The stress shifts: διόρθωσα (1sg)."
+                },
+                {
+                    "form": "εσύ",
+                    "options": {"a": "διόρθωσα", "b": "διόρθωσες", "c": "διορθώσαμε", "d": "διορθώσατε"},
+                    "answer": "b",
+                    "explanation": "Same stem. 2sg ending -ες: διόρθωσες."
+                },
+                {
+                    "form": "αυτός / αυτή / αυτό",
+                    "options": {"a": "διόρθωσες", "b": "διορθώσαμε", "c": "διόρθωσε", "d": "διόρθωσαν"},
+                    "answer": "c",
+                    "explanation": "Same stem. 3sg ending -ε: διόρθωσε."
+                },
+                {
+                    "form": "εμείς",
+                    "options": {"a": "διόρθωσαν", "b": "διόρθωσες", "c": "διόρθωσε", "d": "διορθώσαμε"},
+                    "answer": "d",
+                    "explanation": "1pl ending -αμε: διορθώσαμε."
+                },
+                {
+                    "form": "εσείς",
+                    "options": {"a": "διορθώσατε", "b": "διόρθωσε", "c": "διόρθωσαν", "d": "διόρθωσα"},
+                    "answer": "a",
+                    "explanation": "2pl ending -ατε: διορθώσατε."
+                },
+                {
+                    "form": "αυτοί / αυτές / αυτά",
+                    "options": {"a": "διορθώσαμε", "b": "διόρθωσαν", "c": "διόρθωσες", "d": "διορθώσατε"},
+                    "answer": "b",
+                    "explanation": "3pl ending -αν: διόρθωσαν."
+                }
+            ]
+        },
+        {
+            "id": "ps-dv-0093",
+            "type": "drill_verb",
+            "header": "αφήνω (to leave / let / allow)",
+            "conjugations": [
+                {
+                    "form": "εγώ",
+                    "options": {"a": "άφησα", "b": "άφησες", "c": "άφησε", "d": "αφήσαμε"},
+                    "answer": "a",
+                    "explanation": "αφήνω drops -ν and adds -σα. The stress shifts: άφησα (1sg)."
+                },
+                {
+                    "form": "εσύ",
+                    "options": {"a": "άφησα", "b": "άφησες", "c": "αφήσαμε", "d": "αφήσατε"},
+                    "answer": "b",
+                    "explanation": "Same stem. 2sg ending -ες: άφησες."
+                },
+                {
+                    "form": "αυτός / αυτή / αυτό",
+                    "options": {"a": "άφησες", "b": "αφήσαμε", "c": "άφησε", "d": "άφησαν"},
+                    "answer": "c",
+                    "explanation": "Same stem. 3sg ending -ε: άφησε."
+                },
+                {
+                    "form": "εμείς",
+                    "options": {"a": "άφησαν", "b": "άφησες", "c": "άφησε", "d": "αφήσαμε"},
+                    "answer": "d",
+                    "explanation": "Augment drops in 1pl. Ending -αμε: αφήσαμε."
+                },
+                {
+                    "form": "εσείς",
+                    "options": {"a": "αφήσατε", "b": "άφησε", "c": "άφησαν", "d": "άφησα"},
+                    "answer": "a",
+                    "explanation": "Augment drops in 2pl. Ending -ατε: αφήσατε."
+                },
+                {
+                    "form": "αυτοί / αυτές / αυτά",
+                    "options": {"a": "αφήσαμε", "b": "άφησαν", "c": "άφησες", "d": "αφήσατε"},
+                    "answer": "b",
+                    "explanation": "3pl ending -αν: άφησαν."
+                }
+            ]
+        },
+        {
+            "id": "ps-dv-0094",
+            "type": "drill_verb",
+            "header": "συμφωνώ (to agree)",
+            "conjugations": [
+                {
+                    "form": "εγώ",
+                    "options": {"a": "συμφώνησα", "b": "συμφώνησες", "c": "συμφώνησε", "d": "συμφωνήσαμε"},
+                    "answer": "a",
+                    "explanation": "συμφωνώ is a Group B verb. In the past, add -ησ- before the endings. 1sg: συμφώνησα."
+                },
+                {
+                    "form": "εσύ",
+                    "options": {"a": "συμφώνησα", "b": "συμφώνησες", "c": "συμφωνήσαμε", "d": "συμφωνήσατε"},
+                    "answer": "b",
+                    "explanation": "Same -ησ- stem. 2sg ending -ες: συμφώνησες."
+                },
+                {
+                    "form": "αυτός / αυτή / αυτό",
+                    "options": {"a": "συμφώνησες", "b": "συμφωνήσαμε", "c": "συμφώνησε", "d": "συμφώνησαν"},
+                    "answer": "c",
+                    "explanation": "Same -ησ- stem. 3sg ending -ε: συμφώνησε."
+                },
+                {
+                    "form": "εμείς",
+                    "options": {"a": "συμφώνησαν", "b": "συμφώνησες", "c": "συμφώνησε", "d": "συμφωνήσαμε"},
+                    "answer": "d",
+                    "explanation": "1pl ending -αμε: συμφωνήσαμε."
+                },
+                {
+                    "form": "εσείς",
+                    "options": {"a": "συμφωνήσατε", "b": "συμφώνησε", "c": "συμφώνησαν", "d": "συμφώνησα"},
+                    "answer": "a",
+                    "explanation": "2pl ending -ατε: συμφωνήσατε."
+                },
+                {
+                    "form": "αυτοί / αυτές / αυτά",
+                    "options": {"a": "συμφωνήσαμε", "b": "συμφώνησαν", "c": "συμφώνησες", "d": "συμφωνήσατε"},
+                    "answer": "b",
+                    "explanation": "3pl ending -αν: συμφώνησαν."
+                }
+            ]
+        },
+        {
+            "id": "ps-dv-0095",
+            "type": "drill_verb",
+            "header": "διαφωνώ (to disagree)",
+            "conjugations": [
+                {
+                    "form": "εγώ",
+                    "options": {"a": "διαφώνησα", "b": "διαφώνησες", "c": "διαφώνησε", "d": "διαφωνήσαμε"},
+                    "answer": "a",
+                    "explanation": "διαφωνώ is a Group B verb. In the past, add -ησ- before the endings. 1sg: διαφώνησα."
+                },
+                {
+                    "form": "εσύ",
+                    "options": {"a": "διαφώνησα", "b": "διαφώνησες", "c": "διαφωνήσαμε", "d": "διαφωνήσατε"},
+                    "answer": "b",
+                    "explanation": "Same -ησ- stem. 2sg ending -ες: διαφώνησες."
+                },
+                {
+                    "form": "αυτός / αυτή / αυτό",
+                    "options": {"a": "διαφώνησες", "b": "διαφωνήσαμε", "c": "διαφώνησε", "d": "διαφώνησαν"},
+                    "answer": "c",
+                    "explanation": "Same -ησ- stem. 3sg ending -ε: διαφώνησε."
+                },
+                {
+                    "form": "εμείς",
+                    "options": {"a": "διαφώνησαν", "b": "διαφώνησες", "c": "διαφώνησε", "d": "διαφωνήσαμε"},
+                    "answer": "d",
+                    "explanation": "1pl ending -αμε: διαφωνήσαμε."
+                },
+                {
+                    "form": "εσείς",
+                    "options": {"a": "διαφωνήσατε", "b": "διαφώνησε", "c": "διαφώνησαν", "d": "διαφώνησα"},
+                    "answer": "a",
+                    "explanation": "2pl ending -ατε: διαφωνήσατε."
+                },
+                {
+                    "form": "αυτοί / αυτές / αυτά",
+                    "options": {"a": "διαφωνήσαμε", "b": "διαφώνησαν", "c": "διαφώνησες", "d": "διαφωνήσατε"},
+                    "answer": "b",
+                    "explanation": "3pl ending -αν: διαφώνησαν."
+                }
+            ]
+        },
+        {
+            "id": "ps-dv-0096",
+            "type": "drill_verb",
+            "header": "παρουσιάζω (to present / introduce)",
+            "conjugations": [
+                {
+                    "form": "εγώ",
+                    "options": {"a": "παρουσίασα", "b": "παρουσίασες", "c": "παρουσίασε", "d": "παρουσιάσαμε"},
+                    "answer": "a",
+                    "explanation": "παρουσιάζω ends in -ζ → -σ in the past. The word is very long: παρουσίασα (1sg)."
+                },
+                {
+                    "form": "εσύ",
+                    "options": {"a": "παρουσίασα", "b": "παρουσίασες", "c": "παρουσιάσαμε", "d": "παρουσιάσατε"},
+                    "answer": "b",
+                    "explanation": "Same -σ stem. 2sg ending -ες: παρουσίασες."
+                },
+                {
+                    "form": "αυτός / αυτή / αυτό",
+                    "options": {"a": "παρουσίασες", "b": "παρουσιάσαμε", "c": "παρουσίασε", "d": "παρουσίασαν"},
+                    "answer": "c",
+                    "explanation": "Same -σ stem. 3sg ending -ε: παρουσίασε."
+                },
+                {
+                    "form": "εμείς",
+                    "options": {"a": "παρουσίασαν", "b": "παρουσίασες", "c": "παρουσίασε", "d": "παρουσιάσαμε"},
+                    "answer": "d",
+                    "explanation": "1pl ending -αμε: παρουσιάσαμε."
+                },
+                {
+                    "form": "εσείς",
+                    "options": {"a": "παρουσιάσατε", "b": "παρουσίασε", "c": "παρουσίασαν", "d": "παρουσίασα"},
+                    "answer": "a",
+                    "explanation": "2pl ending -ατε: παρουσιάσατε."
+                },
+                {
+                    "form": "αυτοί / αυτές / αυτά",
+                    "options": {"a": "παρουσιάσαμε", "b": "παρουσίασαν", "c": "παρουσίασες", "d": "παρουσιάσατε"},
+                    "answer": "b",
+                    "explanation": "3pl ending -αν: παρουσίασαν."
+                }
+            ]
+        },
+        {
+            "id": "ps-dv-0097",
+            "type": "drill_verb",
+            "header": "προσκαλώ (to invite)",
+            "conjugations": [
+                {
+                    "form": "εγώ",
+                    "options": {"a": "προσκάλεσα", "b": "προσκάλεσες", "c": "προσκάλεσε", "d": "προσκαλέσαμε"},
+                    "answer": "a",
+                    "explanation": "προσκαλώ is a Group B verb. Its past stem is προσκάλεσ-. 1sg: προσκάλεσα."
+                },
+                {
+                    "form": "εσύ",
+                    "options": {"a": "προσκάλεσα", "b": "προσκάλεσες", "c": "προσκαλέσαμε", "d": "προσκαλέσατε"},
+                    "answer": "b",
+                    "explanation": "Same stem. 2sg ending -ες: προσκάλεσες."
+                },
+                {
+                    "form": "αυτός / αυτή / αυτό",
+                    "options": {"a": "προσκάλεσες", "b": "προσκαλέσαμε", "c": "προσκάλεσε", "d": "προσκάλεσαν"},
+                    "answer": "c",
+                    "explanation": "Same stem. 3sg ending -ε: προσκάλεσε."
+                },
+                {
+                    "form": "εμείς",
+                    "options": {"a": "προσκάλεσαν", "b": "προσκάλεσες", "c": "προσκάλεσε", "d": "προσκαλέσαμε"},
+                    "answer": "d",
+                    "explanation": "1pl ending -αμε: προσκαλέσαμε."
+                },
+                {
+                    "form": "εσείς",
+                    "options": {"a": "προσκαλέσατε", "b": "προσκάλεσε", "c": "προσκάλεσαν", "d": "προσκάλεσα"},
+                    "answer": "a",
+                    "explanation": "2pl ending -ατε: προσκαλέσατε."
+                },
+                {
+                    "form": "αυτοί / αυτές / αυτά",
+                    "options": {"a": "προσκαλέσαμε", "b": "προσκάλεσαν", "c": "προσκάλεσες", "d": "προσκαλέσατε"},
+                    "answer": "b",
+                    "explanation": "3pl ending -αν: προσκάλεσαν."
+                }
+            ]
+        },
+        {
+            "id": "ps-dv-0098",
+            "type": "drill_verb",
+            "header": "εξηγώ (to explain)",
+            "conjugations": [
+                {
+                    "form": "εγώ",
+                    "options": {"a": "εξήγησα", "b": "εξήγησες", "c": "εξήγησε", "d": "εξηγήσαμε"},
+                    "answer": "a",
+                    "explanation": "εξηγώ is a Group B verb. In the past, add -ησ- before the endings. The word is long: εξήγησα (1sg)."
+                },
+                {
+                    "form": "εσύ",
+                    "options": {"a": "εξήγησα", "b": "εξήγησες", "c": "εξηγήσαμε", "d": "εξηγήσατε"},
+                    "answer": "b",
+                    "explanation": "Same -ησ- stem. 2sg ending -ες: εξήγησες."
+                },
+                {
+                    "form": "αυτός / αυτή / αυτό",
+                    "options": {"a": "εξήγησες", "b": "εξηγήσαμε", "c": "εξήγησε", "d": "εξήγησαν"},
+                    "answer": "c",
+                    "explanation": "Same -ησ- stem. 3sg ending -ε: εξήγησε."
+                },
+                {
+                    "form": "εμείς",
+                    "options": {"a": "εξήγησαν", "b": "εξήγησες", "c": "εξήγησε", "d": "εξηγήσαμε"},
+                    "answer": "d",
+                    "explanation": "1pl ending -αμε: εξηγήσαμε."
+                },
+                {
+                    "form": "εσείς",
+                    "options": {"a": "εξηγήσατε", "b": "εξήγησε", "c": "εξήγησαν", "d": "εξήγησα"},
+                    "answer": "a",
+                    "explanation": "2pl ending -ατε: εξηγήσατε."
+                },
+                {
+                    "form": "αυτοί / αυτές / αυτά",
+                    "options": {"a": "εξηγήσαμε", "b": "εξήγησαν", "c": "εξήγησες", "d": "εξηγήσατε"},
+                    "answer": "b",
+                    "explanation": "3pl ending -αν: εξήγησαν."
+                }
+            ]
+        },
+        {
+            "id": "ps-dv-0099",
+            "type": "drill_verb",
+            "header": "απαντώ (to answer / reply)",
+            "conjugations": [
+                {
+                    "form": "εγώ",
+                    "options": {"a": "απάντησα", "b": "απάντησες", "c": "απάντησε", "d": "απαντήσαμε"},
+                    "answer": "a",
+                    "explanation": "απαντώ is a Group B verb. In the past, add -ησ- before the endings. 1sg: απάντησα."
+                },
+                {
+                    "form": "εσύ",
+                    "options": {"a": "απάντησα", "b": "απάντησες", "c": "απαντήσαμε", "d": "απαντήσατε"},
+                    "answer": "b",
+                    "explanation": "Same -ησ- stem. 2sg ending -ες: απάντησες."
+                },
+                {
+                    "form": "αυτός / αυτή / αυτό",
+                    "options": {"a": "απάντησες", "b": "απαντήσαμε", "c": "απάντησε", "d": "απάντησαν"},
+                    "answer": "c",
+                    "explanation": "Same -ησ- stem. 3sg ending -ε: απάντησε."
+                },
+                {
+                    "form": "εμείς",
+                    "options": {"a": "απάντησαν", "b": "απάντησες", "c": "απάντησε", "d": "απαντήσαμε"},
+                    "answer": "d",
+                    "explanation": "1pl ending -αμε: απαντήσαμε."
+                },
+                {
+                    "form": "εσείς",
+                    "options": {"a": "απαντήσατε", "b": "απάντησε", "c": "απάντησαν", "d": "απάντησα"},
+                    "answer": "a",
+                    "explanation": "2pl ending -ατε: απαντήσατε."
+                },
+                {
+                    "form": "αυτοί / αυτές / αυτά",
+                    "options": {"a": "απαντήσαμε", "b": "απάντησαν", "c": "απάντησες", "d": "απαντήσατε"},
+                    "answer": "b",
+                    "explanation": "3pl ending -αν: απάντησαν."
+                }
+            ]
+        },
+        {
+            "id": "ps-dv-0100",
+            "type": "drill_verb",
+            "header": "σκοτώνω (to kill)",
+            "conjugations": [
+                {
+                    "form": "εγώ",
+                    "options": {"a": "σκότωσα", "b": "σκότωσες", "c": "σκότωσε", "d": "σκοτώσαμε"},
+                    "answer": "a",
+                    "explanation": "σκοτώνω drops -ν and adds -σα. The stress shifts: σκότωσα (1sg)."
+                },
+                {
+                    "form": "εσύ",
+                    "options": {"a": "σκότωσα", "b": "σκότωσες", "c": "σκοτώσαμε", "d": "σκοτώσατε"},
+                    "answer": "b",
+                    "explanation": "Same stem. 2sg ending -ες: σκότωσες."
+                },
+                {
+                    "form": "αυτός / αυτή / αυτό",
+                    "options": {"a": "σκότωσες", "b": "σκοτώσαμε", "c": "σκότωσε", "d": "σκότωσαν"},
+                    "answer": "c",
+                    "explanation": "Same stem. 3sg ending -ε: σκότωσε."
+                },
+                {
+                    "form": "εμείς",
+                    "options": {"a": "σκότωσαν", "b": "σκότωσες", "c": "σκότωσε", "d": "σκοτώσαμε"},
+                    "answer": "d",
+                    "explanation": "Augment drops in 1pl. Ending -αμε: σκοτώσαμε."
+                },
+                {
+                    "form": "εσείς",
+                    "options": {"a": "σκοτώσατε", "b": "σκότωσε", "c": "σκότωσαν", "d": "σκότωσα"},
+                    "answer": "a",
+                    "explanation": "Augment drops in 2pl. Ending -ατε: σκοτώσατε."
+                },
+                {
+                    "form": "αυτοί / αυτές / αυτά",
+                    "options": {"a": "σκοτώσαμε", "b": "σκότωσαν", "c": "σκότωσες", "d": "σκοτώσατε"},
+                    "answer": "b",
+                    "explanation": "3pl ending -αν: σκότωσαν."
+                }
+            ]
+        }
+    ]
+}

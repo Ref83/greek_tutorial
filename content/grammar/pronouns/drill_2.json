@@ -1,0 +1,329 @@
+{
+    "exercises": [
+        {
+            "id": "pr-0026-4000-8000-000000000026",
+            "type": "drill",
+            "header": "Possessive pronoun for 'my' (1st person singular)",
+            "options": {
+                "a": "με",
+                "b": "μου",
+                "c": "μας",
+                "d": "εγώ"
+            },
+            "answer": "b",
+            "explanation": "The possessive pronoun for 'my' is μου. It always follows the noun: το σπίτι μου (my house)."
+        },
+        {
+            "id": "pr-0027-4000-8000-000000000027",
+            "type": "drill",
+            "header": "Possessive pronoun for 'your' (2nd person singular)",
+            "options": {
+                "a": "σε",
+                "b": "σου",
+                "c": "σας",
+                "d": "εσύ"
+            },
+            "answer": "b",
+            "explanation": "The possessive pronoun for 'your' (singular) is σου. Example: η φίλη σου (your friend)."
+        },
+        {
+            "id": "pr-0028-4000-8000-000000000028",
+            "type": "drill",
+            "header": "Possessive pronoun for 'his' (3rd person singular masculine)",
+            "options": {
+                "a": "τον",
+                "b": "τη",
+                "c": "του",
+                "d": "τους"
+            },
+            "answer": "c",
+            "explanation": "The possessive pronoun for 'his' is του. Example: το βιβλίο του (his book)."
+        },
+        {
+            "id": "pr-0029-4000-8000-000000000029",
+            "type": "drill",
+            "header": "Possessive pronoun for 'her' (3rd person singular feminine)",
+            "options": {
+                "a": "τον",
+                "b": "της",
+                "c": "τους",
+                "d": "τη"
+            },
+            "answer": "b",
+            "explanation": "The possessive pronoun for 'her' is της. Example: η μητέρα της (her mother)."
+        },
+        {
+            "id": "pr-0030-4000-8000-000000000030",
+            "type": "drill",
+            "header": "Possessive pronoun for 'our' (1st person plural)",
+            "options": {
+                "a": "με",
+                "b": "μου",
+                "c": "μας",
+                "d": "εμείς"
+            },
+            "answer": "c",
+            "explanation": "The possessive pronoun for 'our' is μας. Example: το σχολείο μας (our school)."
+        },
+        {
+            "id": "pr-0031-4000-8000-000000000031",
+            "type": "drill",
+            "header": "Possessive pronoun for 'your' (2nd person plural / formal)",
+            "options": {
+                "a": "σε",
+                "b": "σου",
+                "c": "σας",
+                "d": "εσείς"
+            },
+            "answer": "c",
+            "explanation": "The possessive pronoun for 'your' (plural or formal singular) is σας. Example: το σπίτι σας (your house)."
+        },
+        {
+            "id": "pr-0032-4000-8000-000000000032",
+            "type": "drill",
+            "header": "Possessive pronoun for 'their' (3rd person plural)",
+            "options": {
+                "a": "τις",
+                "b": "τους",
+                "c": "τα",
+                "d": "αυτοί"
+            },
+            "answer": "b",
+            "explanation": "The possessive pronoun for 'their' is τους. Example: το σπίτι τους (their house)."
+        },
+        {
+            "id": "pr-0033-4000-8000-000000000033",
+            "type": "drill",
+            "header": "'My house' → Το σπίτι ___",
+            "options": {
+                "a": "με",
+                "b": "μου",
+                "c": "μας",
+                "d": "εμένα"
+            },
+            "answer": "b",
+            "explanation": "The possessive 'my' is μου, placed after the noun: Το σπίτι μου."
+        },
+        {
+            "id": "pr-0034-4000-8000-000000000034",
+            "type": "drill",
+            "header": "'Your (singular) friend (fem.)' → Η φίλη ___",
+            "options": {
+                "a": "σε",
+                "b": "σου",
+                "c": "σας",
+                "d": "εσύ"
+            },
+            "answer": "b",
+            "explanation": "The possessive 'your' (singular) is σου: Η φίλη σου."
+        },
+        {
+            "id": "pr-0035-4000-8000-000000000035",
+            "type": "drill",
+            "header": "'His book' → Το βιβλίο ___",
+            "options": {
+                "a": "τον",
+                "b": "της",
+                "c": "τους",
+                "d": "του"
+            },
+            "answer": "d",
+            "explanation": "The possessive 'his' is του: Το βιβλίο του."
+        },
+        {
+            "id": "pr-0036-4000-8000-000000000036",
+            "type": "drill",
+            "header": "'Her mother' → Η μητέρα ___",
+            "options": {
+                "a": "του",
+                "b": "της",
+                "c": "τους",
+                "d": "τη"
+            },
+            "answer": "b",
+            "explanation": "The possessive 'her' is της: Η μητέρα της."
+        },
+        {
+            "id": "pr-0037-4000-8000-000000000037",
+            "type": "drill",
+            "header": "'Our school' → Το σχολείο ___",
+            "options": {
+                "a": "με",
+                "b": "μου",
+                "c": "μας",
+                "d": "εμάς"
+            },
+            "answer": "c",
+            "explanation": "The possessive 'our' is μας: Το σχολείο μας."
+        },
+        {
+            "id": "pr-0038-4000-8000-000000000038",
+            "type": "drill",
+            "header": "'Your (plural) house' → Το σπίτι ___",
+            "options": {
+                "a": "σου",
+                "b": "σας",
+                "c": "τους",
+                "d": "σε"
+            },
+            "answer": "b",
+            "explanation": "The possessive 'your' (plural) is σας: Το σπίτι σας."
+        },
+        {
+            "id": "pr-0039-4000-8000-000000000039",
+            "type": "drill",
+            "header": "'Their car' → Το αυτοκίνητο ___",
+            "options": {
+                "a": "τους",
+                "b": "τα",
+                "c": "τις",
+                "d": "αυτών"
+            },
+            "answer": "a",
+            "explanation": "The possessive 'their' is τους: Το αυτοκίνητο τους."
+        },
+        {
+            "id": "pr-0040-4000-8000-000000000040",
+            "type": "drill",
+            "header": "Where does the possessive pronoun always go?",
+            "options": {
+                "a": "Before the noun",
+                "b": "Before the article",
+                "c": "After the noun",
+                "d": "After the verb"
+            },
+            "answer": "c",
+            "explanation": "Possessive pronouns always follow the noun they belong to. Example: Το σπίτι μου. (My house.) — never Μου το σπίτι."
+        },
+        {
+            "id": "pr-0041-4000-8000-000000000041",
+            "type": "drill",
+            "header": "Which is the correct form for 'my name'?",
+            "options": {
+                "a": "μου το όνομα",
+                "b": "το όνομά μου",
+                "c": "το μου όνομα",
+                "d": "το όνομα"
+            },
+            "answer": "b",
+            "explanation": "Το όνομά μου. The word όνομα is stressed on the 3rd syllable from the end, so it gains a second accent when followed by a weak possessive (double accent rule)."
+        },
+        {
+            "id": "pr-0042-4000-8000-000000000042",
+            "type": "drill",
+            "header": "'Her brother' → Ο αδερφός ___",
+            "options": {
+                "a": "του",
+                "b": "τους",
+                "c": "της",
+                "d": "τη"
+            },
+            "answer": "c",
+            "explanation": "The possessive 'her' is της: Ο αδερφός της."
+        },
+        {
+            "id": "pr-0043-4000-8000-000000000043",
+            "type": "drill",
+            "header": "'Their work' → Η δουλειά ___",
+            "options": {
+                "a": "τους",
+                "b": "τις",
+                "c": "αυτών",
+                "d": "τα"
+            },
+            "answer": "a",
+            "explanation": "The possessive 'their' is τους: Η δουλειά τους."
+        },
+        {
+            "id": "pr-0044-4000-8000-000000000044",
+            "type": "drill",
+            "header": "'Our child' → Το παιδί ___",
+            "options": {
+                "a": "με",
+                "b": "μου",
+                "c": "μας",
+                "d": "εμάς"
+            },
+            "answer": "c",
+            "explanation": "The possessive 'our' is μας: Το παιδί μας."
+        },
+        {
+            "id": "pr-0045-4000-8000-000000000045",
+            "type": "drill",
+            "header": "'Her bag' → Η τσάντα ___",
+            "options": {
+                "a": "τη",
+                "b": "την",
+                "c": "του",
+                "d": "της"
+            },
+            "answer": "d",
+            "explanation": "The possessive 'her' is της: Η τσάντα της."
+        },
+        {
+            "id": "pr-0046-4000-8000-000000000046",
+            "type": "drill",
+            "header": "'Where is your (singular) phone?' → Πού είναι το τηλέφωνο ___;",
+            "options": {
+                "a": "σε",
+                "b": "σου",
+                "c": "σας",
+                "d": "εσύ"
+            },
+            "answer": "b",
+            "explanation": "The possessive 'your' (singular) is σου: Πού είναι το τηλέφωνο σου;"
+        },
+        {
+            "id": "pr-0047-4000-8000-000000000047",
+            "type": "drill",
+            "header": "'Their house is big.' → Το σπίτι ___ είναι μεγάλο.",
+            "options": {
+                "a": "τα",
+                "b": "τους",
+                "c": "τις",
+                "d": "αυτά"
+            },
+            "answer": "b",
+            "explanation": "The possessive 'their' is τους: Το σπίτι τους είναι μεγάλο."
+        },
+        {
+            "id": "pr-0048-4000-8000-000000000048",
+            "type": "drill",
+            "header": "The double accent in 'Το όνομά μου' occurs because:",
+            "options": {
+                "a": "όνομα is a foreign word",
+                "b": "The possessive always adds an accent",
+                "c": "όνομα is stressed on the 3rd syllable from the end",
+                "d": "Greek rule requires all nouns to have two accents"
+            },
+            "answer": "c",
+            "explanation": "When a word is stressed on the 3rd syllable from the end (antepenultimate) and is followed by a weak possessive pronoun, it gains a second accent on the last syllable. ό-νο-μα → όνομά μου."
+        },
+        {
+            "id": "pr-0049-4000-8000-000000000049",
+            "type": "drill",
+            "header": "'His sister' → Η αδερφή ___",
+            "options": {
+                "a": "της",
+                "b": "τον",
+                "c": "τους",
+                "d": "του"
+            },
+            "answer": "d",
+            "explanation": "The possessive 'his' is του: Η αδερφή του."
+        },
+        {
+            "id": "pr-0050-4000-8000-000000000050",
+            "type": "drill",
+            "header": "'Our teacher' → Ο δάσκαλος ___",
+            "options": {
+                "a": "με",
+                "b": "μου",
+                "c": "μας",
+                "d": "εμάς"
+            },
+            "answer": "c",
+            "explanation": "The possessive 'our' is μας: Ο δάσκαλος μας."
+        }
+    ]
+}

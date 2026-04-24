@@ -1,0 +1,134 @@
+{
+    "exercises": [
+        {
+            "id": "pga-dv-0051",
+            "type": "drill_verb",
+            "header": "ρίχνω (to throw)",
+            "conjugations": [
+                {"form": "Εγώ", "options": {"a": "ρίχνω", "b": "ρίχνεις", "c": "ρίχνει", "d": "ρίχνουν"}, "answer": "a", "explanation": "1st person singular (εγώ): ρίχνω. Group A ending: -ω."},
+                {"form": "Εσύ", "options": {"a": "ρίχνω", "b": "ρίχνεις", "c": "ρίχνουμε", "d": "ρίχνετε"}, "answer": "b", "explanation": "2nd person singular (εσύ): ρίχνεις. Group A ending: -εις."},
+                {"form": "Αυτός/Αυτή/Αυτό", "options": {"a": "ρίχνεις", "b": "ρίχνουμε", "c": "ρίχνει", "d": "ρίχνουν"}, "answer": "c", "explanation": "3rd person singular (αυτός/ή/ό): ρίχνει. Group A ending: -ει."},
+                {"form": "Εμείς", "options": {"a": "ρίχνουν", "b": "ρίχνεις", "c": "ρίχνει", "d": "ρίχνουμε"}, "answer": "d", "explanation": "1st person plural (εμείς): ρίχνουμε. Group A ending: -ουμε."},
+                {"form": "Εσείς", "options": {"a": "ρίχνετε", "b": "ρίχνει", "c": "ρίχνουν", "d": "ρίχνω"}, "answer": "a", "explanation": "2nd person plural (εσείς): ρίχνετε. Group A ending: -ετε."},
+                {"form": "Αυτοί/Αυτές/Αυτά", "options": {"a": "ρίχνουμε", "b": "ρίχνουν", "c": "ρίχνεις", "d": "ρίχνετε"}, "answer": "b", "explanation": "3rd person plural (αυτοί/ές/ά): ρίχνουν. Group A ending: -ουν(ε)."}
+            ]
+        },
+        {
+            "id": "pga-dv-0052",
+            "type": "drill_verb",
+            "header": "πέφτω (to fall)",
+            "conjugations": [
+                {"form": "Εγώ", "options": {"a": "πέφτω", "b": "πέφτεις", "c": "πέφτει", "d": "πέφτουν"}, "answer": "a", "explanation": "1st person singular (εγώ): πέφτω. Group A ending: -ω."},
+                {"form": "Εσύ", "options": {"a": "πέφτω", "b": "πέφτεις", "c": "πέφτουμε", "d": "πέφτετε"}, "answer": "b", "explanation": "2nd person singular (εσύ): πέφτεις. Group A ending: -εις."},
+                {"form": "Αυτός/Αυτή/Αυτό", "options": {"a": "πέφτεις", "b": "πέφτουμε", "c": "πέφτει", "d": "πέφτουν"}, "answer": "c", "explanation": "3rd person singular (αυτός/ή/ό): πέφτει. Group A ending: -ει."},
+                {"form": "Εμείς", "options": {"a": "πέφτουν", "b": "πέφτεις", "c": "πέφτει", "d": "πέφτουμε"}, "answer": "d", "explanation": "1st person plural (εμείς): πέφτουμε. Group A ending: -ουμε."},
+                {"form": "Εσείς", "options": {"a": "πέφτετε", "b": "πέφτει", "c": "πέφτουν", "d": "πέφτω"}, "answer": "a", "explanation": "2nd person plural (εσείς): πέφτετε. Group A ending: -ετε."},
+                {"form": "Αυτοί/Αυτές/Αυτά", "options": {"a": "πέφτουμε", "b": "πέφτουν", "c": "πέφτεις", "d": "πέφτετε"}, "answer": "b", "explanation": "3rd person plural (αυτοί/ές/ά): πέφτουν. Group A ending: -ουν(ε)."}
+            ]
+        },
+        {
+            "id": "pga-dv-0053",
+            "type": "drill_verb",
+            "header": "κόβω (to cut)",
+            "conjugations": [
+                {"form": "Εγώ", "options": {"a": "κόβω", "b": "κόβεις", "c": "κόβει", "d": "κόβουν"}, "answer": "a", "explanation": "1st person singular (εγώ): κόβω. Group A ending: -ω."},
+                {"form": "Εσύ", "options": {"a": "κόβω", "b": "κόβεις", "c": "κόβουμε", "d": "κόβετε"}, "answer": "b", "explanation": "2nd person singular (εσύ): κόβεις. Group A ending: -εις."},
+                {"form": "Αυτός/Αυτή/Αυτό", "options": {"a": "κόβεις", "b": "κόβουμε", "c": "κόβει", "d": "κόβουν"}, "answer": "c", "explanation": "3rd person singular (αυτός/ή/ό): κόβει. Group A ending: -ει."},
+                {"form": "Εμείς", "options": {"a": "κόβουν", "b": "κόβεις", "c": "κόβει", "d": "κόβουμε"}, "answer": "d", "explanation": "1st person plural (εμείς): κόβουμε. Group A ending: -ουμε."},
+                {"form": "Εσείς", "options": {"a": "κόβετε", "b": "κόβει", "c": "κόβουν", "d": "κόβω"}, "answer": "a", "explanation": "2nd person plural (εσείς): κόβετε. Group A ending: -ετε."},
+                {"form": "Αυτοί/Αυτές/Αυτά", "options": {"a": "κόβουμε", "b": "κόβουν", "c": "κόβεις", "d": "κόβετε"}, "answer": "b", "explanation": "3rd person plural (αυτοί/ές/ά): κόβουν. Group A ending: -ουν(ε)."}
+            ]
+        },
+        {
+            "id": "pga-dv-0054",
+            "type": "drill_verb",
+            "header": "ράβω (to sew)",
+            "conjugations": [
+                {"form": "Εγώ", "options": {"a": "ράβω", "b": "ράβεις", "c": "ράβει", "d": "ράβουν"}, "answer": "a", "explanation": "1st person singular (εγώ): ράβω. Group A ending: -ω."},
+                {"form": "Εσύ", "options": {"a": "ράβω", "b": "ράβεις", "c": "ράβουμε", "d": "ράβετε"}, "answer": "b", "explanation": "2nd person singular (εσύ): ράβεις. Group A ending: -εις."},
+                {"form": "Αυτός/Αυτή/Αυτό", "options": {"a": "ράβεις", "b": "ράβουμε", "c": "ράβει", "d": "ράβουν"}, "answer": "c", "explanation": "3rd person singular (αυτός/ή/ό): ράβει. Group A ending: -ει."},
+                {"form": "Εμείς", "options": {"a": "ράβουν", "b": "ράβεις", "c": "ράβει", "d": "ράβουμε"}, "answer": "d", "explanation": "1st person plural (εμείς): ράβουμε. Group A ending: -ουμε."},
+                {"form": "Εσείς", "options": {"a": "ράβετε", "b": "ράβει", "c": "ράβουν", "d": "ράβω"}, "answer": "a", "explanation": "2nd person plural (εσείς): ράβετε. Group A ending: -ετε."},
+                {"form": "Αυτοί/Αυτές/Αυτά", "options": {"a": "ράβουμε", "b": "ράβουν", "c": "ράβεις", "d": "ράβετε"}, "answer": "b", "explanation": "3rd person plural (αυτοί/ές/ά): ράβουν. Group A ending: -ουν(ε)."}
+            ]
+        },
+        {
+            "id": "pga-dv-0055",
+            "type": "drill_verb",
+            "header": "ανάβω (to light/turn on)",
+            "conjugations": [
+                {"form": "Εγώ", "options": {"a": "ανάβω", "b": "ανάβεις", "c": "ανάβει", "d": "ανάβουν"}, "answer": "a", "explanation": "1st person singular (εγώ): ανάβω. Group A ending: -ω."},
+                {"form": "Εσύ", "options": {"a": "ανάβω", "b": "ανάβεις", "c": "ανάβουμε", "d": "ανάβετε"}, "answer": "b", "explanation": "2nd person singular (εσύ): ανάβεις. Group A ending: -εις."},
+                {"form": "Αυτός/Αυτή/Αυτό", "options": {"a": "ανάβεις", "b": "ανάβουμε", "c": "ανάβει", "d": "ανάβουν"}, "answer": "c", "explanation": "3rd person singular (αυτός/ή/ό): ανάβει. Group A ending: -ει."},
+                {"form": "Εμείς", "options": {"a": "ανάβουν", "b": "ανάβεις", "c": "ανάβει", "d": "ανάβουμε"}, "answer": "d", "explanation": "1st person plural (εμείς): ανάβουμε. Group A ending: -ουμε."},
+                {"form": "Εσείς", "options": {"a": "ανάβετε", "b": "ανάβει", "c": "ανάβουν", "d": "ανάβω"}, "answer": "a", "explanation": "2nd person plural (εσείς): ανάβετε. Group A ending: -ετε."},
+                {"form": "Αυτοί/Αυτές/Αυτά", "options": {"a": "ανάβουμε", "b": "ανάβουν", "c": "ανάβεις", "d": "ανάβετε"}, "answer": "b", "explanation": "3rd person plural (αυτοί/ές/ά): ανάβουν. Group A ending: -ουν(ε)."}
+            ]
+        },
+        {
+            "id": "pga-dv-0056",
+            "type": "drill_verb",
+            "header": "σβήνω (to turn off/erase)",
+            "conjugations": [
+                {"form": "Εγώ", "options": {"a": "σβήνω", "b": "σβήνεις", "c": "σβήνει", "d": "σβήνουν"}, "answer": "a", "explanation": "1st person singular (εγώ): σβήνω. Group A ending: -ω."},
+                {"form": "Εσύ", "options": {"a": "σβήνω", "b": "σβήνεις", "c": "σβήνουμε", "d": "σβήνετε"}, "answer": "b", "explanation": "2nd person singular (εσύ): σβήνεις. Group A ending: -εις."},
+                {"form": "Αυτός/Αυτή/Αυτό", "options": {"a": "σβήνεις", "b": "σβήνουμε", "c": "σβήνει", "d": "σβήνουν"}, "answer": "c", "explanation": "3rd person singular (αυτός/ή/ό): σβήνει. Group A ending: -ει."},
+                {"form": "Εμείς", "options": {"a": "σβήνουν", "b": "σβήνεις", "c": "σβήνει", "d": "σβήνουμε"}, "answer": "d", "explanation": "1st person plural (εμείς): σβήνουμε. Group A ending: -ουμε."},
+                {"form": "Εσείς", "options": {"a": "σβήνετε", "b": "σβήνει", "c": "σβήνουν", "d": "σβήνω"}, "answer": "a", "explanation": "2nd person plural (εσείς): σβήνετε. Group A ending: -ετε."},
+                {"form": "Αυτοί/Αυτές/Αυτά", "options": {"a": "σβήνουμε", "b": "σβήνουν", "c": "σβήνεις", "d": "σβήνετε"}, "answer": "b", "explanation": "3rd person plural (αυτοί/ές/ά): σβήνουν. Group A ending: -ουν(ε)."}
+            ]
+        },
+        {
+            "id": "pga-dv-0057",
+            "type": "drill_verb",
+            "header": "βάφω (to paint/dye)",
+            "conjugations": [
+                {"form": "Εγώ", "options": {"a": "βάφω", "b": "βάφεις", "c": "βάφει", "d": "βάφουν"}, "answer": "a", "explanation": "1st person singular (εγώ): βάφω. Group A ending: -ω."},
+                {"form": "Εσύ", "options": {"a": "βάφω", "b": "βάφεις", "c": "βάφουμε", "d": "βάφετε"}, "answer": "b", "explanation": "2nd person singular (εσύ): βάφεις. Group A ending: -εις."},
+                {"form": "Αυτός/Αυτή/Αυτό", "options": {"a": "βάφεις", "b": "βάφουμε", "c": "βάφει", "d": "βάφουν"}, "answer": "c", "explanation": "3rd person singular (αυτός/ή/ό): βάφει. Group A ending: -ει."},
+                {"form": "Εμείς", "options": {"a": "βάφουν", "b": "βάφεις", "c": "βάφει", "d": "βάφουμε"}, "answer": "d", "explanation": "1st person plural (εμείς): βάφουμε. Group A ending: -ουμε."},
+                {"form": "Εσείς", "options": {"a": "βάφετε", "b": "βάφει", "c": "βάφουν", "d": "βάφω"}, "answer": "a", "explanation": "2nd person plural (εσείς): βάφετε. Group A ending: -ετε."},
+                {"form": "Αυτοί/Αυτές/Αυτά", "options": {"a": "βάφουμε", "b": "βάφουν", "c": "βάφεις", "d": "βάφετε"}, "answer": "b", "explanation": "3rd person plural (αυτοί/ές/ά): βάφουν. Group A ending: -ουν(ε)."}
+            ]
+        },
+        {
+            "id": "pga-dv-0058",
+            "type": "drill_verb",
+            "header": "ψάχνω (to search/look for)",
+            "conjugations": [
+                {"form": "Εγώ", "options": {"a": "ψάχνω", "b": "ψάχνεις", "c": "ψάχνει", "d": "ψάχνουν"}, "answer": "a", "explanation": "1st person singular (εγώ): ψάχνω. Group A ending: -ω."},
+                {"form": "Εσύ", "options": {"a": "ψάχνω", "b": "ψάχνεις", "c": "ψάχνουμε", "d": "ψάχνετε"}, "answer": "b", "explanation": "2nd person singular (εσύ): ψάχνεις. Group A ending: -εις."},
+                {"form": "Αυτός/Αυτή/Αυτό", "options": {"a": "ψάχνεις", "b": "ψάχνουμε", "c": "ψάχνει", "d": "ψάχνουν"}, "answer": "c", "explanation": "3rd person singular (αυτός/ή/ό): ψάχνει. Group A ending: -ει."},
+                {"form": "Εμείς", "options": {"a": "ψάχνουν", "b": "ψάχνεις", "c": "ψάχνει", "d": "ψάχνουμε"}, "answer": "d", "explanation": "1st person plural (εμείς): ψάχνουμε. Group A ending: -ουμε."},
+                {"form": "Εσείς", "options": {"a": "ψάχνετε", "b": "ψάχνει", "c": "ψάχνουν", "d": "ψάχνω"}, "answer": "a", "explanation": "2nd person plural (εσείς): ψάχνετε. Group A ending: -ετε."},
+                {"form": "Αυτοί/Αυτές/Αυτά", "options": {"a": "ψάχνουμε", "b": "ψάχνουν", "c": "ψάχνεις", "d": "ψάχνετε"}, "answer": "b", "explanation": "3rd person plural (αυτοί/ές/ά): ψάχνουν. Group A ending: -ουν(ε)."}
+            ]
+        },
+        {
+            "id": "pga-dv-0059",
+            "type": "drill_verb",
+            "header": "αντέχω (to endure/stand)",
+            "conjugations": [
+                {"form": "Εγώ", "options": {"a": "αντέχω", "b": "αντέχεις", "c": "αντέχει", "d": "αντέχουν"}, "answer": "a", "explanation": "1st person singular (εγώ): αντέχω. Group A ending: -ω."},
+                {"form": "Εσύ", "options": {"a": "αντέχω", "b": "αντέχεις", "c": "αντέχουμε", "d": "αντέχετε"}, "answer": "b", "explanation": "2nd person singular (εσύ): αντέχεις. Group A ending: -εις."},
+                {"form": "Αυτός/Αυτή/Αυτό", "options": {"a": "αντέχεις", "b": "αντέχουμε", "c": "αντέχει", "d": "αντέχουν"}, "answer": "c", "explanation": "3rd person singular (αυτός/ή/ό): αντέχει. Group A ending: -ει."},
+                {"form": "Εμείς", "options": {"a": "αντέχουν", "b": "αντέχεις", "c": "αντέχει", "d": "αντέχουμε"}, "answer": "d", "explanation": "1st person plural (εμείς): αντέχουμε. Group A ending: -ουμε."},
+                {"form": "Εσείς", "options": {"a": "αντέχετε", "b": "αντέχει", "c": "αντέχουν", "d": "αντέχω"}, "answer": "a", "explanation": "2nd person plural (εσείς): αντέχετε. Group A ending: -ετε."},
+                {"form": "Αυτοί/Αυτές/Αυτά", "options": {"a": "αντέχουμε", "b": "αντέχουν", "c": "αντέχεις", "d": "αντέχετε"}, "answer": "b", "explanation": "3rd person plural (αυτοί/ές/ά): αντέχουν. Group A ending: -ουν(ε)."}
+            ]
+        },
+        {
+            "id": "pga-dv-0060",
+            "type": "drill_verb",
+            "header": "αγγίζω (to touch)",
+            "conjugations": [
+                {"form": "Εγώ", "options": {"a": "αγγίζω", "b": "αγγίζεις", "c": "αγγίζει", "d": "αγγίζουν"}, "answer": "a", "explanation": "1st person singular (εγώ): αγγίζω. Group A ending: -ω."},
+                {"form": "Εσύ", "options": {"a": "αγγίζω", "b": "αγγίζεις", "c": "αγγίζουμε", "d": "αγγίζετε"}, "answer": "b", "explanation": "2nd person singular (εσύ): αγγίζεις. Group A ending: -εις."},
+                {"form": "Αυτός/Αυτή/Αυτό", "options": {"a": "αγγίζεις", "b": "αγγίζουμε", "c": "αγγίζει", "d": "αγγίζουν"}, "answer": "c", "explanation": "3rd person singular (αυτός/ή/ό): αγγίζει. Group A ending: -ει."},
+                {"form": "Εμείς", "options": {"a": "αγγίζουν", "b": "αγγίζεις", "c": "αγγίζει", "d": "αγγίζουμε"}, "answer": "d", "explanation": "1st person plural (εμείς): αγγίζουμε. Group A ending: -ουμε."},
+                {"form": "Εσείς", "options": {"a": "αγγίζετε", "b": "αγγίζει", "c": "αγγίζουν", "d": "αγγίζω"}, "answer": "a", "explanation": "2nd person plural (εσείς): αγγίζετε. Group A ending: -ετε."},
+                {"form": "Αυτοί/Αυτές/Αυτά", "options": {"a": "αγγίζουμε", "b": "αγγίζουν", "c": "αγγίζεις", "d": "αγγίζετε"}, "answer": "b", "explanation": "3rd person plural (αυτοί/ές/ά): αγγίζουν. Group A ending: -ουν(ε)."}
+            ]
+        }
+    ]
+}

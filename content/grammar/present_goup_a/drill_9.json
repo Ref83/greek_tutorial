@@ -1,0 +1,134 @@
+{
+    "exercises": [
+    {
+        "id": "pga-dv-0081",
+        "type": "drill_verb",
+        "header": "επιλέγω (to choose)",
+        "conjugations": [
+            {"form": "Εγώ", "options": {"a": "επιλέγω", "b": "επιλέγεις", "c": "επιλέγει", "d": "επιλέγουν"}, "answer": "a", "explanation": "1st person singular (εγώ): επιλέγω. Group A ending: -ω."},
+            {"form": "Εσύ", "options": {"a": "επιλέγω", "b": "επιλέγεις", "c": "επιλέγουμε", "d": "επιλέγετε"}, "answer": "b", "explanation": "2nd person singular (εσύ): επιλέγεις. Group A ending: -εις."},
+            {"form": "Αυτός/Αυτή/Αυτό", "options": {"a": "επιλέγεις", "b": "επιλέγουμε", "c": "επιλέγει", "d": "επιλέγουν"}, "answer": "c", "explanation": "3rd person singular (αυτός/ή/ό): επιλέγει. Group A ending: -ει."},
+            {"form": "Εμείς", "options": {"a": "επιλέγουν", "b": "επιλέγεις", "c": "επιλέγει", "d": "επιλέγουμε"}, "answer": "d", "explanation": "1st person plural (εμείς): επιλέγουμε. Group A ending: -ουμε."},
+            {"form": "Εσείς", "options": {"a": "επιλέγετε", "b": "επιλέγει", "c": "επιλέγουν", "d": "επιλέγω"}, "answer": "a", "explanation": "2nd person plural (εσείς): επιλέγετε. Group A ending: -ετε."},
+            {"form": "Αυτοί/Αυτές/Αυτά", "options": {"a": "επιλέγουμε", "b": "επιλέγουν", "c": "επιλέγεις", "d": "επιλέγετε"}, "answer": "b", "explanation": "3rd person plural (αυτοί/ές/ά): επιλέγουν. Group A ending: -ουν(ε)."}
+        ]
+    },
+    {
+        "id": "pga-dv-0082",
+        "type": "drill_verb",
+        "header": "προτείνω (to suggest)",
+        "conjugations": [
+            {"form": "Εγώ", "options": {"a": "προτείνω", "b": "προτείνεις", "c": "προτείνει", "d": "προτείνουν"}, "answer": "a", "explanation": "1st person singular (εγώ): προτείνω. Group A ending: -ω."},
+            {"form": "Εσύ", "options": {"a": "προτείνω", "b": "προτείνεις", "c": "προτείνουμε", "d": "προτείνετε"}, "answer": "b", "explanation": "2nd person singular (εσύ): προτείνεις. Group A ending: -εις."},
+            {"form": "Αυτός/Αυτή/Αυτό", "options": {"a": "προτείνεις", "b": "προτείνουμε", "c": "προτείνει", "d": "προτείνουν"}, "answer": "c", "explanation": "3rd person singular (αυτός/ή/ό): προτείνει. Group A ending: -ει."},
+            {"form": "Εμείς", "options": {"a": "προτείνουν", "b": "προτείνεις", "c": "προτείνει", "d": "προτείνουμε"}, "answer": "d", "explanation": "1st person plural (εμείς): προτείνουμε. Group A ending: -ουμε."},
+            {"form": "Εσείς", "options": {"a": "προτείνετε", "b": "προτείνει", "c": "προτείνουν", "d": "προτείνω"}, "answer": "a", "explanation": "2nd person plural (εσείς): προτείνετε. Group A ending: -ετε."},
+            {"form": "Αυτοί/Αυτές/Αυτά", "options": {"a": "προτείνουμε", "b": "προτείνουν", "c": "προτείνεις", "d": "προτείνετε"}, "answer": "b", "explanation": "3rd person plural (αυτοί/ές/ά): προτείνουν. Group A ending: -ουν(ε)."}
+        ]
+    },
+    {
+        "id": "pga-dv-0083",
+        "type": "drill_verb",
+        "header": "μεταφέρω (to transfer/carry)",
+        "conjugations": [
+            {"form": "Εγώ", "options": {"a": "μεταφέρω", "b": "μεταφέρεις", "c": "μεταφέρει", "d": "μεταφέρουν"}, "answer": "a", "explanation": "1st person singular (εγώ): μεταφέρω. Group A ending: -ω."},
+            {"form": "Εσύ", "options": {"a": "μεταφέρω", "b": "μεταφέρεις", "c": "μεταφέρουμε", "d": "μεταφέρετε"}, "answer": "b", "explanation": "2nd person singular (εσύ): μεταφέρεις. Group A ending: -εις."},
+            {"form": "Αυτός/Αυτή/Αυτό", "options": {"a": "μεταφέρεις", "b": "μεταφέρουμε", "c": "μεταφέρει", "d": "μεταφέρουν"}, "answer": "c", "explanation": "3rd person singular (αυτός/ή/ό): μεταφέρει. Group A ending: -ει."},
+            {"form": "Εμείς", "options": {"a": "μεταφέρουν", "b": "μεταφέρεις", "c": "μεταφέρει", "d": "μεταφέρουμε"}, "answer": "d", "explanation": "1st person plural (εμείς): μεταφέρουμε. Group A ending: -ουμε."},
+            {"form": "Εσείς", "options": {"a": "μεταφέρετε", "b": "μεταφέρει", "c": "μεταφέρουν", "d": "μεταφέρω"}, "answer": "a", "explanation": "2nd person plural (εσείς): μεταφέρετε. Group A ending: -ετε."},
+            {"form": "Αυτοί/Αυτές/Αυτά", "options": {"a": "μεταφέρουμε", "b": "μεταφέρουν", "c": "μεταφέρεις", "d": "μεταφέρετε"}, "answer": "b", "explanation": "3rd person plural (αυτοί/ές/ά): μεταφέρουν. Group A ending: -ουν(ε)."}
+        ]
+    },
+    {
+        "id": "pga-dv-0084",
+        "type": "drill_verb",
+        "header": "ανακαλύπτω (to discover)",
+        "conjugations": [
+            {"form": "Εγώ", "options": {"a": "ανακαλύπτω", "b": "ανακαλύπτεις", "c": "ανακαλύπτει", "d": "ανακαλύπτουν"}, "answer": "a", "explanation": "1st person singular (εγώ): ανακαλύπτω. Group A ending: -ω."},
+            {"form": "Εσύ", "options": {"a": "ανακαλύπτω", "b": "ανακαλύπτεις", "c": "ανακαλύπτουμε", "d": "ανακαλύπτετε"}, "answer": "b", "explanation": "2nd person singular (εσύ): ανακαλύπτεις. Group A ending: -εις."},
+            {"form": "Αυτός/Αυτή/Αυτό", "options": {"a": "ανακαλύπτεις", "b": "ανακαλύπτουμε", "c": "ανακαλύπτει", "d": "ανακαλύπτουν"}, "answer": "c", "explanation": "3rd person singular (αυτός/ή/ό): ανακαλύπτει. Group A ending: -ει."},
+            {"form": "Εμείς", "options": {"a": "ανακαλύπτουν", "b": "ανακαλύπτεις", "c": "ανακαλύπτει", "d": "ανακαλύπτουμε"}, "answer": "d", "explanation": "1st person plural (εμείς): ανακαλύπτουμε. Group A ending: -ουμε."},
+            {"form": "Εσείς", "options": {"a": "ανακαλύπτετε", "b": "ανακαλύπτει", "c": "ανακαλύπτουν", "d": "ανακαλύπτω"}, "answer": "a", "explanation": "2nd person plural (εσείς): ανακαλύπτετε. Group A ending: -ετε."},
+            {"form": "Αυτοί/Αυτές/Αυτά", "options": {"a": "ανακαλύπτουμε", "b": "ανακαλύπτουν", "c": "ανακαλύπτεις", "d": "ανακαλύπτετε"}, "answer": "b", "explanation": "3rd person plural (αυτοί/ές/ά): ανακαλύπτουν. Group A ending: -ουν(ε)."}
+        ]
+    },
+    {
+        "id": "pga-dv-0085",
+        "type": "drill_verb",
+        "header": "ζυγίζω (to weigh)",
+        "conjugations": [
+            {"form": "Εγώ", "options": {"a": "ζυγίζω", "b": "ζυγίζεις", "c": "ζυγίζει", "d": "ζυγίζουν"}, "answer": "a", "explanation": "1st person singular (εγώ): ζυγίζω. Group A ending: -ω."},
+            {"form": "Εσύ", "options": {"a": "ζυγίζω", "b": "ζυγίζεις", "c": "ζυγίζουμε", "d": "ζυγίζετε"}, "answer": "b", "explanation": "2nd person singular (εσύ): ζυγίζεις. Group A ending: -εις."},
+            {"form": "Αυτός/Αυτή/Αυτό", "options": {"a": "ζυγίζεις", "b": "ζυγίζουμε", "c": "ζυγίζει", "d": "ζυγίζουν"}, "answer": "c", "explanation": "3rd person singular (αυτός/ή/ό): ζυγίζει. Group A ending: -ει."},
+            {"form": "Εμείς", "options": {"a": "ζυγίζουν", "b": "ζυγίζεις", "c": "ζυγίζει", "d": "ζυγίζουμε"}, "answer": "d", "explanation": "1st person plural (εμείς): ζυγίζουμε. Group A ending: -ουμε."},
+            {"form": "Εσείς", "options": {"a": "ζυγίζετε", "b": "ζυγίζει", "c": "ζυγίζουν", "d": "ζυγίζω"}, "answer": "a", "explanation": "2nd person plural (εσείς): ζυγίζετε. Group A ending: -ετε."},
+            {"form": "Αυτοί/Αυτές/Αυτά", "options": {"a": "ζυγίζουμε", "b": "ζυγίζουν", "c": "ζυγίζεις", "d": "ζυγίζετε"}, "answer": "b", "explanation": "3rd person plural (αυτοί/ές/ά): ζυγίζουν. Group A ending: -ουν(ε)."}
+        ]
+    },
+    {
+        "id": "pga-dv-0086",
+        "type": "drill_verb",
+        "header": "υπολογίζω (to calculate)",
+        "conjugations": [
+            {"form": "Εγώ", "options": {"a": "υπολογίζω", "b": "υπολογίζεις", "c": "υπολογίζει", "d": "υπολογίζουν"}, "answer": "a", "explanation": "1st person singular (εγώ): υπολογίζω. Group A ending: -ω."},
+            {"form": "Εσύ", "options": {"a": "υπολογίζω", "b": "υπολογίζεις", "c": "υπολογίζουμε", "d": "υπολογίζετε"}, "answer": "b", "explanation": "2nd person singular (εσύ): υπολογίζεις. Group A ending: -εις."},
+            {"form": "Αυτός/Αυτή/Αυτό", "options": {"a": "υπολογίζεις", "b": "υπολογίζουμε", "c": "υπολογίζει", "d": "υπολογίζουν"}, "answer": "c", "explanation": "3rd person singular (αυτός/ή/ό): υπολογίζει. Group A ending: -ει."},
+            {"form": "Εμείς", "options": {"a": "υπολογίζουν", "b": "υπολογίζεις", "c": "υπολογίζει", "d": "υπολογίζουμε"}, "answer": "d", "explanation": "1st person plural (εμείς): υπολογίζουμε. Group A ending: -ουμε."},
+            {"form": "Εσείς", "options": {"a": "υπολογίζετε", "b": "υπολογίζει", "c": "υπολογίζουν", "d": "υπολογίζω"}, "answer": "a", "explanation": "2nd person plural (εσείς): υπολογίζετε. Group A ending: -ετε."},
+            {"form": "Αυτοί/Αυτές/Αυτά", "options": {"a": "υπολογίζουμε", "b": "υπολογίζουν", "c": "υπολογίζεις", "d": "υπολογίζετε"}, "answer": "b", "explanation": "3rd person plural (αυτοί/ές/ά): υπολογίζουν. Group A ending: -ουν(ε)."}
+        ]
+    },
+    {
+        "id": "pga-dv-0087",
+        "type": "drill_verb",
+        "header": "ανακοινώνω (to announce)",
+        "conjugations": [
+            {"form": "Εγώ", "options": {"a": "ανακοινώνω", "b": "ανακοινώνεις", "c": "ανακοινώνει", "d": "ανακοινώνουν"}, "answer": "a", "explanation": "1st person singular (εγώ): ανακοινώνω. Group A ending: -ω."},
+            {"form": "Εσύ", "options": {"a": "ανακοινώνω", "b": "ανακοινώνεις", "c": "ανακοινώνουμε", "d": "ανακοινώνετε"}, "answer": "b", "explanation": "2nd person singular (εσύ): ανακοινώνεις. Group A ending: -εις."},
+            {"form": "Αυτός/Αυτή/Αυτό", "options": {"a": "ανακοινώνεις", "b": "ανακοινώνουμε", "c": "ανακοινώνει", "d": "ανακοινώνουν"}, "answer": "c", "explanation": "3rd person singular (αυτός/ή/ό): ανακοινώνει. Group A ending: -ει."},
+            {"form": "Εμείς", "options": {"a": "ανακοινώνουν", "b": "ανακοινώνεις", "c": "ανακοινώνει", "d": "ανακοινώνουμε"}, "answer": "d", "explanation": "1st person plural (εμείς): ανακοινώνουμε. Group A ending: -ουμε."},
+            {"form": "Εσείς", "options": {"a": "ανακοινώνετε", "b": "ανακοινώνει", "c": "ανακοινώνουν", "d": "ανακοινώνω"}, "answer": "a", "explanation": "2nd person plural (εσείς): ανακοινώνετε. Group A ending: -ετε."},
+            {"form": "Αυτοί/Αυτές/Αυτά", "options": {"a": "ανακοινώνουμε", "b": "ανακοινώνουν", "c": "ανακοινώνεις", "d": "ανακοινώνετε"}, "answer": "b", "explanation": "3rd person plural (αυτοί/ές/ά): ανακοινώνουν. Group A ending: -ουν(ε)."}
+        ]
+    },
+    {
+        "id": "pga-dv-0088",
+        "type": "drill_verb",
+        "header": "εντοπίζω (to locate)",
+        "conjugations": [
+            {"form": "Εγώ", "options": {"a": "εντοπίζω", "b": "εντοπίζεις", "c": "εντοπίζει", "d": "εντοπίζουν"}, "answer": "a", "explanation": "1st person singular (εγώ): εντοπίζω. Group A ending: -ω."},
+            {"form": "Εσύ", "options": {"a": "εντοπίζω", "b": "εντοπίζεις", "c": "εντοπίζουμε", "d": "εντοπίζετε"}, "answer": "b", "explanation": "2nd person singular (εσύ): εντοπίζεις. Group A ending: -εις."},
+            {"form": "Αυτός/Αυτή/Αυτό", "options": {"a": "εντοπίζεις", "b": "εντοπίζουμε", "c": "εντοπίζει", "d": "εντοπίζουν"}, "answer": "c", "explanation": "3rd person singular (αυτός/ή/ό): εντοπίζει. Group A ending: -ει."},
+            {"form": "Εμείς", "options": {"a": "εντοπίζουν", "b": "εντοπίζεις", "c": "εντοπίζει", "d": "εντοπίζουμε"}, "answer": "d", "explanation": "1st person plural (εμείς): εντοπίζουμε. Group A ending: -ουμε."},
+            {"form": "Εσείς", "options": {"a": "εντοπίζετε", "b": "εντοπίζει", "c": "εντοπίζουν", "d": "εντοπίζω"}, "answer": "a", "explanation": "2nd person plural (εσείς): εντοπίζετε. Group A ending: -ετε."},
+            {"form": "Αυτοί/Αυτές/Αυτά", "options": {"a": "εντοπίζουμε", "b": "εντοπίζουν", "c": "εντοπίζεις", "d": "εντοπίζετε"}, "answer": "b", "explanation": "3rd person plural (αυτοί/ές/ά): εντοπίζουν. Group A ending: -ουν(ε)."}
+        ]
+    },
+    {
+        "id": "pga-dv-0089",
+        "type": "drill_verb",
+        "header": "επαναλαμβάνω (to repeat)",
+        "conjugations": [
+            {"form": "Εγώ", "options": {"a": "επαναλαμβάνω", "b": "επαναλαμβάνεις", "c": "επαναλαμβάνει", "d": "επαναλαμβάνουν"}, "answer": "a", "explanation": "1st person singular (εγώ): επαναλαμβάνω. Group A ending: -ω."},
+            {"form": "Εσύ", "options": {"a": "επαναλαμβάνω", "b": "επαναλαμβάνεις", "c": "επαναλαμβάνουμε", "d": "επαναλαμβάνετε"}, "answer": "b", "explanation": "2nd person singular (εσύ): επαναλαμβάνεις. Group A ending: -εις."},
+            {"form": "Αυτός/Αυτή/Αυτό", "options": {"a": "επαναλαμβάνεις", "b": "επαναλαμβάνουμε", "c": "επαναλαμβάνει", "d": "επαναλαμβάνουν"}, "answer": "c", "explanation": "3rd person singular (αυτός/ή/ό): επαναλαμβάνει. Group A ending: -ει."},
+            {"form": "Εμείς", "options": {"a": "επαναλαμβάνουν", "b": "επαναλαμβάνεις", "c": "επαναλαμβάνει", "d": "επαναλαμβάνουμε"}, "answer": "d", "explanation": "1st person plural (εμείς): επαναλαμβάνουμε. Group A ending: -ουμε."},
+            {"form": "Εσείς", "options": {"a": "επαναλαμβάνετε", "b": "επαναλαμβάνει", "c": "επαναλαμβάνουν", "d": "επαναλαμβάνω"}, "answer": "a", "explanation": "2nd person plural (εσείς): επαναλαμβάνετε. Group A ending: -ετε."},
+            {"form": "Αυτοί/Αυτές/Αυτά", "options": {"a": "επαναλαμβάνουμε", "b": "επαναλαμβάνουν", "c": "επαναλαμβάνεις", "d": "επαναλαμβάνετε"}, "answer": "b", "explanation": "3rd person plural (αυτοί/ές/ά): επαναλαμβάνουν. Group A ending: -ουν(ε)."}
+        ]
+    },
+    {
+        "id": "pga-dv-0090",
+        "type": "drill_verb",
+        "header": "ανιχνεύω (to detect)",
+        "conjugations": [
+            {"form": "Εγώ", "options": {"a": "ανιχνεύω", "b": "ανιχνεύεις", "c": "ανιχνεύει", "d": "ανιχνεύουν"}, "answer": "a", "explanation": "1st person singular (εγώ): ανιχνεύω. Group A ending: -ω."},
+            {"form": "Εσύ", "options": {"a": "ανιχνεύω", "b": "ανιχνεύεις", "c": "ανιχνεύουμε", "d": "ανιχνεύετε"}, "answer": "b", "explanation": "2nd person singular (εσύ): ανιχνεύεις. Group A ending: -εις."},
+            {"form": "Αυτός/Αυτή/Αυτό", "options": {"a": "ανιχνεύεις", "b": "ανιχνεύουμε", "c": "ανιχνεύει", "d": "ανιχνεύουν"}, "answer": "c", "explanation": "3rd person singular (αυτός/ή/ό): ανιχνεύει. Group A ending: -ει."},
+            {"form": "Εμείς", "options": {"a": "ανιχνεύουν", "b": "ανιχνεύεις", "c": "ανιχνεύει", "d": "ανιχνεύουμε"}, "answer": "d", "explanation": "1st person plural (εμείς): ανιχνεύουμε. Group A ending: -ουμε."},
+            {"form": "Εσείς", "options": {"a": "ανιχνεύετε", "b": "ανιχνεύει", "c": "ανιχνεύουν", "d": "ανιχνεύω"}, "answer": "a", "explanation": "2nd person plural (εσείς): ανιχνεύετε. Group A ending: -ετε."},
+            {"form": "Αυτοί/Αυτές/Αυτά", "options": {"a": "ανιχνεύουμε", "b": "ανιχνεύουν", "c": "ανιχνεύεις", "d": "ανιχνεύετε"}, "answer": "b", "explanation": "3rd person plural (αυτοί/ές/ά): ανιχνεύουν. Group A ending: -ουν(ε)."}
+        ]
+    }
+    ]
+}

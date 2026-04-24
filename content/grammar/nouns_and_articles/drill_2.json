@@ -1,0 +1,654 @@
+{
+    "exercises": [
+        {
+            "id": "na2-0001-4000-8000-000000000001",
+            "type": "drill",
+            "header": "αδελφός → ___",
+            "options": {
+                "a": "η",
+                "b": "ο",
+                "c": "τα",
+                "d": "το"
+            },
+            "answer": "b",
+            "explanation": "αδελφός ends in -ος, a masculine ending. Masculine singular article: ο."
+        },
+        {
+            "id": "na2-0002-4000-8000-000000000002",
+            "type": "drill",
+            "header": "χρόνος → ___",
+            "options": {
+                "a": "ο",
+                "b": "η",
+                "c": "οι",
+                "d": "το"
+            },
+            "answer": "a",
+            "explanation": "χρόνος ends in -ος, a masculine ending. Masculine singular article: ο."
+        },
+        {
+            "id": "na2-0003-4000-8000-000000000003",
+            "type": "drill",
+            "header": "κόσμος → ___",
+            "options": {
+                "a": "τα",
+                "b": "η",
+                "c": "ο",
+                "d": "το"
+            },
+            "answer": "c",
+            "explanation": "κόσμος ends in -ος, a masculine ending. Masculine singular article: ο."
+        },
+        {
+            "id": "na2-0004-4000-8000-000000000004",
+            "type": "drill",
+            "header": "άντρας → ___",
+            "options": {
+                "a": "η",
+                "b": "το",
+                "c": "οι",
+                "d": "ο"
+            },
+            "answer": "d",
+            "explanation": "άντρας ends in -ας, a masculine ending. Masculine singular article: ο."
+        },
+        {
+            "id": "na2-0005-4000-8000-000000000005",
+            "type": "drill",
+            "header": "δρόμος → ___",
+            "options": {
+                "a": "το",
+                "b": "ο",
+                "c": "η",
+                "d": "τα"
+            },
+            "answer": "b",
+            "explanation": "δρόμος ends in -ος, a masculine ending. Masculine singular article: ο."
+        },
+        {
+            "id": "na2-0006-4000-8000-000000000006",
+            "type": "drill",
+            "header": "οικογένεια → ___",
+            "options": {
+                "a": "ο",
+                "b": "τα",
+                "c": "η",
+                "d": "οι"
+            },
+            "answer": "c",
+            "explanation": "οικογένεια ends in -α, a feminine ending. Feminine singular article: η."
+        },
+        {
+            "id": "na2-0007-4000-8000-000000000007",
+            "type": "drill",
+            "header": "εργασία → ___",
+            "options": {
+                "a": "η",
+                "b": "ο",
+                "c": "τα",
+                "d": "το"
+            },
+            "answer": "a",
+            "explanation": "εργασία ends in -α, a feminine ending. Feminine singular article: η."
+        },
+        {
+            "id": "na2-0008-4000-8000-000000000008",
+            "type": "drill",
+            "header": "αδελφή → ___",
+            "options": {
+                "a": "τα",
+                "b": "ο",
+                "c": "οι",
+                "d": "η"
+            },
+            "answer": "d",
+            "explanation": "αδελφή ends in -η, a feminine ending. Feminine singular article: η."
+        },
+        {
+            "id": "na2-0009-4000-8000-000000000009",
+            "type": "drill",
+            "header": "κυρία → ___",
+            "options": {
+                "a": "ο",
+                "b": "η",
+                "c": "τα",
+                "d": "το"
+            },
+            "answer": "b",
+            "explanation": "κυρία ends in -α, a feminine ending. Feminine singular article: η."
+        },
+        {
+            "id": "na2-0010-4000-8000-000000000010",
+            "type": "drill",
+            "header": "χώρα → ___",
+            "options": {
+                "a": "το",
+                "b": "οι",
+                "c": "η",
+                "d": "ο"
+            },
+            "answer": "c",
+            "explanation": "χώρα ends in -α, a feminine ending. Feminine singular article: η."
+        },
+        {
+            "id": "na2-0011-4000-8000-000000000011",
+            "type": "drill",
+            "header": "γράμμα → ___",
+            "options": {
+                "a": "η",
+                "b": "οι",
+                "c": "ο",
+                "d": "το"
+            },
+            "answer": "d",
+            "explanation": "γράμμα ends in -μα, a neuter ending. Neuter singular article: το."
+        },
+        {
+            "id": "na2-0012-4000-8000-000000000012",
+            "type": "drill",
+            "header": "τραπέζι → ___",
+            "options": {
+                "a": "τα",
+                "b": "το",
+                "c": "η",
+                "d": "ο"
+            },
+            "answer": "b",
+            "explanation": "τραπέζι ends in -ι, a neuter ending. Neuter singular article: το."
+        },
+        {
+            "id": "na2-0013-4000-8000-000000000013",
+            "type": "drill",
+            "header": "σχολείο → ___",
+            "options": {
+                "a": "ο",
+                "b": "η",
+                "c": "το",
+                "d": "οι"
+            },
+            "answer": "c",
+            "explanation": "σχολείο ends in -ο, a neuter ending. Neuter singular article: το."
+        },
+        {
+            "id": "na2-0014-4000-8000-000000000014",
+            "type": "drill",
+            "header": "αυτοκίνητο → ___",
+            "options": {
+                "a": "το",
+                "b": "η",
+                "c": "τα",
+                "d": "ο"
+            },
+            "answer": "a",
+            "explanation": "αυτοκίνητο ends in -ο, a neuter ending. Neuter singular article: το."
+        },
+        {
+            "id": "na2-0015-4000-8000-000000000015",
+            "type": "drill",
+            "header": "φως → ___",
+            "options": {
+                "a": "οι",
+                "b": "η",
+                "c": "ο",
+                "d": "το"
+            },
+            "answer": "d",
+            "explanation": "φως (light) is neuter and does not follow the typical endings (-ο, -ι, -μα). Always learn such nouns with their article: το φως."
+        },
+        {
+            "id": "na2-0016-4000-8000-000000000016",
+            "type": "drill",
+            "header": "ο ___",
+            "options": {
+                "a": "θάλασσα",
+                "b": "σπίτι",
+                "c": "γιατρός",
+                "d": "τάξη"
+            },
+            "answer": "c",
+            "explanation": "γιατρός ends in -ός, a masculine ending, so it takes the article ο. The others are feminine (θάλασσα, τάξη) or neuter (σπίτι)."
+        },
+        {
+            "id": "na2-0017-4000-8000-000000000017",
+            "type": "drill",
+            "header": "η ___",
+            "options": {
+                "a": "φίλος",
+                "b": "παιδί",
+                "c": "δρόμος",
+                "d": "μητέρα"
+            },
+            "answer": "d",
+            "explanation": "μητέρα ends in -α, a feminine ending, so it takes the article η. The others are masculine (φίλος, δρόμος) or neuter (παιδί)."
+        },
+        {
+            "id": "na2-0018-4000-8000-000000000018",
+            "type": "drill",
+            "header": "το ___",
+            "options": {
+                "a": "πατέρας",
+                "b": "μάθημα",
+                "c": "φίλη",
+                "d": "μαθητής"
+            },
+            "answer": "b",
+            "explanation": "μάθημα ends in -μα, a neuter ending, so it takes the article το. The others are masculine (πατέρας, μαθητής) or feminine (φίλη)."
+        },
+        {
+            "id": "na2-0019-4000-8000-000000000019",
+            "type": "drill",
+            "header": "ο ___",
+            "options": {
+                "a": "ζωή",
+                "b": "αδελφός",
+                "c": "βιβλίο",
+                "d": "νύχτα"
+            },
+            "answer": "b",
+            "explanation": "αδελφός ends in -ος, a masculine ending, so it takes the article ο. The others are feminine (ζωή, νύχτα) or neuter (βιβλίο)."
+        },
+        {
+            "id": "na2-0020-4000-8000-000000000020",
+            "type": "drill",
+            "header": "η ___",
+            "options": {
+                "a": "αδελφός",
+                "b": "χρόνος",
+                "c": "εργασία",
+                "d": "σχολείο"
+            },
+            "answer": "c",
+            "explanation": "εργασία ends in -α, a feminine ending, so it takes the article η. The others are masculine (αδελφός, χρόνος) or neuter (σχολείο)."
+        },
+        {
+            "id": "na2-0021-4000-8000-000000000021",
+            "type": "drill",
+            "header": "το ___",
+            "options": {
+                "a": "κόσμος",
+                "b": "οικογένεια",
+                "c": "τραπέζι",
+                "d": "άντρας"
+            },
+            "answer": "c",
+            "explanation": "τραπέζι ends in -ι, a neuter ending, so it takes the article το. The others are masculine (κόσμος, άντρας) or feminine (οικογένεια)."
+        },
+        {
+            "id": "na2-0022-4000-8000-000000000022",
+            "type": "drill",
+            "header": "ο ___",
+            "options": {
+                "a": "οικογένεια",
+                "b": "αυτοκίνητο",
+                "c": "κυρία",
+                "d": "χρόνος"
+            },
+            "answer": "d",
+            "explanation": "χρόνος ends in -ος, a masculine ending, so it takes the article ο. The others are feminine (οικογένεια, κυρία) or neuter (αυτοκίνητο)."
+        },
+        {
+            "id": "na2-0023-4000-8000-000000000023",
+            "type": "drill",
+            "header": "η ___",
+            "options": {
+                "a": "βιβλίο",
+                "b": "γράμμα",
+                "c": "κυρία",
+                "d": "δρόμος"
+            },
+            "answer": "c",
+            "explanation": "κυρία ends in -α, a feminine ending, so it takes the article η. The others are neuter (βιβλίο, γράμμα) or masculine (δρόμος)."
+        },
+        {
+            "id": "na2-0024-4000-8000-000000000024",
+            "type": "drill",
+            "header": "το ___",
+            "options": {
+                "a": "φίλος",
+                "b": "αδελφή",
+                "c": "σχολείο",
+                "d": "άντρας"
+            },
+            "answer": "c",
+            "explanation": "σχολείο ends in -ο, a neuter ending, so it takes the article το. The others are masculine (φίλος, άντρας) or feminine (αδελφή)."
+        },
+        {
+            "id": "na2-0025-4000-8000-000000000025",
+            "type": "drill",
+            "header": "ο ___",
+            "options": {
+                "a": "εργασία",
+                "b": "τραπέζι",
+                "c": "χώρα",
+                "d": "άντρας"
+            },
+            "answer": "d",
+            "explanation": "άντρας ends in -ας, a masculine ending, so it takes the article ο. The others are feminine (εργασία, χώρα) or neuter (τραπέζι)."
+        },
+        {
+            "id": "na2-0026-4000-8000-000000000026",
+            "type": "drill",
+            "header": "ο αδελφός → οι ___",
+            "options": {
+                "a": "αδελφές",
+                "b": "αδελφά",
+                "c": "αδελφοί",
+                "d": "αδελφούς"
+            },
+            "answer": "c",
+            "explanation": "Masculine nouns ending in -ος form the plural with -οι: αδελφός → αδελφοί."
+        },
+        {
+            "id": "na2-0027-4000-8000-000000000027",
+            "type": "drill",
+            "header": "ο χρόνος → οι ___",
+            "options": {
+                "a": "χρόνοι",
+                "b": "χρόνες",
+                "c": "χρόνα",
+                "d": "χρόνους"
+            },
+            "answer": "a",
+            "explanation": "Masculine nouns ending in -ος form the plural with -οι: χρόνος → χρόνοι."
+        },
+        {
+            "id": "na2-0028-4000-8000-000000000028",
+            "type": "drill",
+            "header": "ο κόσμος → οι ___",
+            "options": {
+                "a": "κόσμες",
+                "b": "κόσμοι",
+                "c": "κόσμα",
+                "d": "κόσμους"
+            },
+            "answer": "b",
+            "explanation": "Masculine nouns ending in -ος form the plural with -οι: κόσμος → κόσμοι."
+        },
+        {
+            "id": "na2-0029-4000-8000-000000000029",
+            "type": "drill",
+            "header": "ο άντρας → οι ___",
+            "options": {
+                "a": "άντροι",
+                "b": "άντρες",
+                "c": "άντρα",
+                "d": "άντρας"
+            },
+            "answer": "b",
+            "explanation": "Masculine nouns ending in -ας form the plural with -ες: άντρας → άντρες."
+        },
+        {
+            "id": "na2-0030-4000-8000-000000000030",
+            "type": "drill",
+            "header": "ο δρόμος → οι ___",
+            "options": {
+                "a": "δρόμοι",
+                "b": "δρόμες",
+                "c": "δρόμα",
+                "d": "δρόμους"
+            },
+            "answer": "a",
+            "explanation": "Masculine nouns ending in -ος form the plural with -οι: δρόμος → δρόμοι."
+        },
+        {
+            "id": "na2-0031-4000-8000-000000000031",
+            "type": "drill",
+            "header": "ο γιατρός → οι ___",
+            "options": {
+                "a": "γιατρές",
+                "b": "γιατρά",
+                "c": "γιατροί",
+                "d": "γιατρούς"
+            },
+            "answer": "c",
+            "explanation": "Masculine nouns ending in -ός form the plural with -οί: γιατρός → γιατροί."
+        },
+        {
+            "id": "na2-0032-4000-8000-000000000032",
+            "type": "drill",
+            "header": "ο μαθητής → οι ___",
+            "options": {
+                "a": "μαθητοί",
+                "b": "μαθητές",
+                "c": "μαθητά",
+                "d": "μαθητής"
+            },
+            "answer": "b",
+            "explanation": "Masculine nouns ending in -ης form the plural with -ες: μαθητής → μαθητές."
+        },
+        {
+            "id": "na2-0033-4000-8000-000000000033",
+            "type": "drill",
+            "header": "η οικογένεια → οι ___",
+            "options": {
+                "a": "οικογένειοι",
+                "b": "οικογένεια",
+                "c": "οικογένειες",
+                "d": "οικογένεια"
+            },
+            "answer": "c",
+            "explanation": "Feminine nouns ending in -α form the plural with -ες: οικογένεια → οικογένειες."
+        },
+        {
+            "id": "na2-0034-4000-8000-000000000034",
+            "type": "drill",
+            "header": "η αδελφή → οι ___",
+            "options": {
+                "a": "αδελφές",
+                "b": "αδελφοί",
+                "c": "αδελφά",
+                "d": "αδελφή"
+            },
+            "answer": "a",
+            "explanation": "Feminine nouns ending in -η form the plural with -ες: αδελφή → αδελφές."
+        },
+        {
+            "id": "na2-0035-4000-8000-000000000035",
+            "type": "drill",
+            "header": "η εργασία → οι ___",
+            "options": {
+                "a": "εργασίοι",
+                "b": "εργασία",
+                "c": "εργασίατα",
+                "d": "εργασίες"
+            },
+            "answer": "d",
+            "explanation": "Feminine nouns ending in -α form the plural with -ες: εργασία → εργασίες."
+        },
+        {
+            "id": "na2-0036-4000-8000-000000000036",
+            "type": "drill",
+            "header": "η ζωή → οι ___",
+            "options": {
+                "a": "ζωοί",
+                "b": "ζωές",
+                "c": "ζωά",
+                "d": "ζωή"
+            },
+            "answer": "b",
+            "explanation": "Feminine nouns ending in -η form the plural with -ες: ζωή → ζωές."
+        },
+        {
+            "id": "na2-0037-4000-8000-000000000037",
+            "type": "drill",
+            "header": "η χώρα → οι ___",
+            "options": {
+                "a": "χώροι",
+                "b": "χώρα",
+                "c": "χώρες",
+                "d": "χώρατα"
+            },
+            "answer": "c",
+            "explanation": "Feminine nouns ending in -α form the plural with -ες: χώρα → χώρες."
+        },
+        {
+            "id": "na2-0038-4000-8000-000000000038",
+            "type": "drill",
+            "header": "το γράμμα → τα ___",
+            "options": {
+                "a": "γράμματα",
+                "b": "γράμματες",
+                "c": "γράμματοι",
+                "d": "γράμμα"
+            },
+            "answer": "a",
+            "explanation": "Neuter nouns ending in -μα form the plural with -ματα: γράμμα → γράμματα."
+        },
+        {
+            "id": "na2-0039-4000-8000-000000000039",
+            "type": "drill",
+            "header": "το τραπέζι → τα ___",
+            "options": {
+                "a": "τραπέζοι",
+                "b": "τραπέζες",
+                "c": "τραπέζια",
+                "d": "τραπέζα"
+            },
+            "answer": "c",
+            "explanation": "Neuter nouns ending in -ι form the plural with -ια: τραπέζι → τραπέζια."
+        },
+        {
+            "id": "na2-0040-4000-8000-000000000040",
+            "type": "drill",
+            "header": "το σχολείο → τα ___",
+            "options": {
+                "a": "σχολείοι",
+                "b": "σχολεία",
+                "c": "σχολείες",
+                "d": "σχολείο"
+            },
+            "answer": "b",
+            "explanation": "Neuter nouns ending in -ο form the plural with -α: σχολείο → σχολεία."
+        },
+        {
+            "id": "na2-0041-4000-8000-000000000041",
+            "type": "drill",
+            "header": "το αυτοκίνητο → τα ___",
+            "options": {
+                "a": "αυτοκίνητοι",
+                "b": "αυτοκίνητα",
+                "c": "αυτοκίνητες",
+                "d": "αυτοκίνητο"
+            },
+            "answer": "b",
+            "explanation": "Neuter nouns ending in -ο form the plural with -α: αυτοκίνητο → αυτοκίνητα."
+        },
+        {
+            "id": "na2-0042-4000-8000-000000000042",
+            "type": "drill",
+            "header": "αδελφός → ___ αδελφός",
+            "options": {
+                "a": "μία",
+                "b": "ένα",
+                "c": "ένας",
+                "d": "οι"
+            },
+            "answer": "c",
+            "explanation": "αδελφός is masculine. The masculine indefinite article is ένας."
+        },
+        {
+            "id": "na2-0043-4000-8000-000000000043",
+            "type": "drill",
+            "header": "άντρας → ___ άντρας",
+            "options": {
+                "a": "ένα",
+                "b": "ένας",
+                "c": "μία",
+                "d": "τα"
+            },
+            "answer": "b",
+            "explanation": "άντρας is masculine (-ας ending). The masculine indefinite article is ένας."
+        },
+        {
+            "id": "na2-0044-4000-8000-000000000044",
+            "type": "drill",
+            "header": "δρόμος → ___ δρόμος",
+            "options": {
+                "a": "μία",
+                "b": "ένα",
+                "c": "τα",
+                "d": "ένας"
+            },
+            "answer": "d",
+            "explanation": "δρόμος is masculine (-ος ending). The masculine indefinite article is ένας."
+        },
+        {
+            "id": "na2-0045-4000-8000-000000000045",
+            "type": "drill",
+            "header": "οικογένεια → ___ οικογένεια",
+            "options": {
+                "a": "ένας",
+                "b": "μία",
+                "c": "ένα",
+                "d": "οι"
+            },
+            "answer": "b",
+            "explanation": "οικογένεια is feminine (-α ending). The feminine indefinite article is μία."
+        },
+        {
+            "id": "na2-0046-4000-8000-000000000046",
+            "type": "drill",
+            "header": "αδελφή → ___ αδελφή",
+            "options": {
+                "a": "ένα",
+                "b": "ένας",
+                "c": "μία",
+                "d": "τα"
+            },
+            "answer": "c",
+            "explanation": "αδελφή is feminine (-η ending). The feminine indefinite article is μία."
+        },
+        {
+            "id": "na2-0047-4000-8000-000000000047",
+            "type": "drill",
+            "header": "εργασία → ___ εργασία",
+            "options": {
+                "a": "μία",
+                "b": "ένας",
+                "c": "ένα",
+                "d": "οι"
+            },
+            "answer": "a",
+            "explanation": "εργασία is feminine (-α ending). The feminine indefinite article is μία."
+        },
+        {
+            "id": "na2-0048-4000-8000-000000000048",
+            "type": "drill",
+            "header": "γράμμα → ___ γράμμα",
+            "options": {
+                "a": "ένα",
+                "b": "μία",
+                "c": "ένας",
+                "d": "τα"
+            },
+            "answer": "a",
+            "explanation": "γράμμα is neuter (-μα ending). The neuter indefinite article is ένα."
+        },
+        {
+            "id": "na2-0049-4000-8000-000000000049",
+            "type": "drill",
+            "header": "τραπέζι → ___ τραπέζι",
+            "options": {
+                "a": "μία",
+                "b": "ένας",
+                "c": "ένα",
+                "d": "οι"
+            },
+            "answer": "c",
+            "explanation": "τραπέζι is neuter (-ι ending). The neuter indefinite article is ένα."
+        },
+        {
+            "id": "na2-0050-4000-8000-000000000050",
+            "type": "drill",
+            "header": "σχολείο → ___ σχολείο",
+            "options": {
+                "a": "ένας",
+                "b": "ένα",
+                "c": "μία",
+                "d": "οι"
+            },
+            "answer": "b",
+            "explanation": "σχολείο is neuter (-ο ending). The neuter indefinite article is ένα."
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "exercises": [
+        {
+            "id": "pga-dv-0041",
+            "type": "drill_verb",
+            "header": "φέρνω (to bring)",
+            "conjugations": [
+                {"form": "Εγώ", "options": {"a": "φέρνω", "b": "φέρνεις", "c": "φέρνει", "d": "φέρνουν"}, "answer": "a", "explanation": "1st person singular (εγώ): φέρνω. Group A ending: -ω."},
+                {"form": "Εσύ", "options": {"a": "φέρνω", "b": "φέρνεις", "c": "φέρνουμε", "d": "φέρνετε"}, "answer": "b", "explanation": "2nd person singular (εσύ): φέρνεις. Group A ending: -εις."},
+                {"form": "Αυτός/Αυτή/Αυτό", "options": {"a": "φέρνεις", "b": "φέρνουμε", "c": "φέρνει", "d": "φέρνουν"}, "answer": "c", "explanation": "3rd person singular (αυτός/ή/ό): φέρνει. Group A ending: -ει."},
+                {"form": "Εμείς", "options": {"a": "φέρνουν", "b": "φέρνεις", "c": "φέρνει", "d": "φέρνουμε"}, "answer": "d", "explanation": "1st person plural (εμείς): φέρνουμε. Group A ending: -ουμε."},
+                {"form": "Εσείς", "options": {"a": "φέρνετε", "b": "φέρνει", "c": "φέρνουν", "d": "φέρνω"}, "answer": "a", "explanation": "2nd person plural (εσείς): φέρνετε. Group A ending: -ετε."},
+                {"form": "Αυτοί/Αυτές/Αυτά", "options": {"a": "φέρνουμε", "b": "φέρνουν", "c": "φέρνεις", "d": "φέρνετε"}, "answer": "b", "explanation": "3rd person plural (αυτοί/ές/ά): φέρνουν. Group A ending: -ουν(ε)."}
+            ]
+        },
+        {
+            "id": "pga-dv-0042",
+            "type": "drill_verb",
+            "header": "αλλάζω (to change)",
+            "conjugations": [
+                {"form": "Εγώ", "options": {"a": "αλλάζω", "b": "αλλάζεις", "c": "αλλάζει", "d": "αλλάζουν"}, "answer": "a", "explanation": "1st person singular (εγώ): αλλάζω. Group A ending: -ω."},
+                {"form": "Εσύ", "options": {"a": "αλλάζω", "b": "αλλάζεις", "c": "αλλάζουμε", "d": "αλλάζετε"}, "answer": "b", "explanation": "2nd person singular (εσύ): αλλάζεις. Group A ending: -εις."},
+                {"form": "Αυτός/Αυτή/Αυτό", "options": {"a": "αλλάζεις", "b": "αλλάζουμε", "c": "αλλάζει", "d": "αλλάζουν"}, "answer": "c", "explanation": "3rd person singular (αυτός/ή/ό): αλλάζει. Group A ending: -ει."},
+                {"form": "Εμείς", "options": {"a": "αλλάζουν", "b": "αλλάζεις", "c": "αλλάζει", "d": "αλλάζουμε"}, "answer": "d", "explanation": "1st person plural (εμείς): αλλάζουμε. Group A ending: -ουμε."},
+                {"form": "Εσείς", "options": {"a": "αλλάζετε", "b": "αλλάζει", "c": "αλλάζουν", "d": "αλλάζω"}, "answer": "a", "explanation": "2nd person plural (εσείς): αλλάζετε. Group A ending: -ετε."},
+                {"form": "Αυτοί/Αυτές/Αυτά", "options": {"a": "αλλάζουμε", "b": "αλλάζουν", "c": "αλλάζεις", "d": "αλλάζετε"}, "answer": "b", "explanation": "3rd person plural (αυτοί/ές/ά): αλλάζουν. Group A ending: -ουν(ε)."}
+            ]
+        },
+        {
+            "id": "pga-dv-0043",
+            "type": "drill_verb",
+            "header": "νιώθω (to feel)",
+            "conjugations": [
+                {"form": "Εγώ", "options": {"a": "νιώθω", "b": "νιώθεις", "c": "νιώθει", "d": "νιώθουν"}, "answer": "a", "explanation": "1st person singular (εγώ): νιώθω. Group A ending: -ω."},
+                {"form": "Εσύ", "options": {"a": "νιώθω", "b": "νιώθεις", "c": "νιώθουμε", "d": "νιώθετε"}, "answer": "b", "explanation": "2nd person singular (εσύ): νιώθεις. Group A ending: -εις."},
+                {"form": "Αυτός/Αυτή/Αυτό", "options": {"a": "νιώθεις", "b": "νιώθουμε", "c": "νιώθει", "d": "νιώθουν"}, "answer": "c", "explanation": "3rd person singular (αυτός/ή/ό): νιώθει. Group A ending: -ει."},
+                {"form": "Εμείς", "options": {"a": "νιώθουν", "b": "νιώθεις", "c": "νιώθει", "d": "νιώθουμε"}, "answer": "d", "explanation": "1st person plural (εμείς): νιώθουμε. Group A ending: -ουμε."},
+                {"form": "Εσείς", "options": {"a": "νιώθετε", "b": "νιώθει", "c": "νιώθουν", "d": "νιώθω"}, "answer": "a", "explanation": "2nd person plural (εσείς): νιώθετε. Group A ending: -ετε."},
+                {"form": "Αυτοί/Αυτές/Αυτά", "options": {"a": "νιώθουμε", "b": "νιώθουν", "c": "νιώθεις", "d": "νιώθετε"}, "answer": "b", "explanation": "3rd person plural (αυτοί/ές/ά): νιώθουν. Group A ending: -ουν(ε)."}
+            ]
+        },
+        {
+            "id": "pga-dv-0044",
+            "type": "drill_verb",
+            "header": "συνεχίζω (to continue)",
+            "conjugations": [
+                {"form": "Εγώ", "options": {"a": "συνεχίζω", "b": "συνεχίζεις", "c": "συνεχίζει", "d": "συνεχίζουν"}, "answer": "a", "explanation": "1st person singular (εγώ): συνεχίζω. Group A ending: -ω."},
+                {"form": "Εσύ", "options": {"a": "συνεχίζω", "b": "συνεχίζεις", "c": "συνεχίζουμε", "d": "συνεχίζετε"}, "answer": "b", "explanation": "2nd person singular (εσύ): συνεχίζεις. Group A ending: -εις."},
+                {"form": "Αυτός/Αυτή/Αυτό", "options": {"a": "συνεχίζεις", "b": "συνεχίζουμε", "c": "συνεχίζει", "d": "συνεχίζουν"}, "answer": "c", "explanation": "3rd person singular (αυτός/ή/ό): συνεχίζει. Group A ending: -ει."},
+                {"form": "Εμείς", "options": {"a": "συνεχίζουν", "b": "συνεχίζεις", "c": "συνεχίζει", "d": "συνεχίζουμε"}, "answer": "d", "explanation": "1st person plural (εμείς): συνεχίζουμε. Group A ending: -ουμε."},
+                {"form": "Εσείς", "options": {"a": "συνεχίζετε", "b": "συνεχίζει", "c": "συνεχίζουν", "d": "συνεχίζω"}, "answer": "a", "explanation": "2nd person plural (εσείς): συνεχίζετε. Group A ending: -ετε."},
+                {"form": "Αυτοί/Αυτές/Αυτά", "options": {"a": "συνεχίζουμε", "b": "συνεχίζουν", "c": "συνεχίζεις", "d": "συνεχίζετε"}, "answer": "b", "explanation": "3rd person plural (αυτοί/ές/ά): συνεχίζουν. Group A ending: -ουν(ε)."}
+            ]
+        },
+        {
+            "id": "pga-dv-0045",
+            "type": "drill_verb",
+            "header": "πλένω (to wash)",
+            "conjugations": [
+                {"form": "Εγώ", "options": {"a": "πλένω", "b": "πλένεις", "c": "πλένει", "d": "πλένουν"}, "answer": "a", "explanation": "1st person singular (εγώ): πλένω. Group A ending: -ω."},
+                {"form": "Εσύ", "options": {"a": "πλένω", "b": "πλένεις", "c": "πλένουμε", "d": "πλένετε"}, "answer": "b", "explanation": "2nd person singular (εσύ): πλένεις. Group A ending: -εις."},
+                {"form": "Αυτός/Αυτή/Αυτό", "options": {"a": "πλένεις", "b": "πλένουμε", "c": "πλένει", "d": "πλένουν"}, "answer": "c", "explanation": "3rd person singular (αυτός/ή/ό): πλένει. Group A ending: -ει."},
+                {"form": "Εμείς", "options": {"a": "πλένουν", "b": "πλένεις", "c": "πλένει", "d": "πλένουμε"}, "answer": "d", "explanation": "1st person plural (εμείς): πλένουμε. Group A ending: -ουμε."},
+                {"form": "Εσείς", "options": {"a": "πλένετε", "b": "πλένει", "c": "πλένουν", "d": "πλένω"}, "answer": "a", "explanation": "2nd person plural (εσείς): πλένετε. Group A ending: -ετε."},
+                {"form": "Αυτοί/Αυτές/Αυτά", "options": {"a": "πλένουμε", "b": "πλένουν", "c": "πλένεις", "d": "πλένετε"}, "answer": "b", "explanation": "3rd person plural (αυτοί/ές/ά): πλένουν. Group A ending: -ουν(ε)."}
+            ]
+        },
+        {
+            "id": "pga-dv-0046",
+            "type": "drill_verb",
+            "header": "ακούω (to listen/hear)",
+            "conjugations": [
+                {"form": "Εγώ", "options": {"a": "ακούω", "b": "ακούς", "c": "ακούει", "d": "ακούν"}, "answer": "a", "explanation": "1st person singular (εγώ): ακούω. Note: ακούω uses contracted forms in some persons."},
+                {"form": "Εσύ", "options": {"a": "ακούω", "b": "ακούς", "c": "ακούμε", "d": "ακούτε"}, "answer": "b", "explanation": "2nd person singular (εσύ): ακούς. Contracted form (not ακούεις in everyday speech)."},
+                {"form": "Αυτός/Αυτή/Αυτό", "options": {"a": "ακούς", "b": "ακούμε", "c": "ακούει", "d": "ακούν"}, "answer": "c", "explanation": "3rd person singular (αυτός/ή/ό): ακούει. Regular Group A ending: -ει."},
+                {"form": "Εμείς", "options": {"a": "ακούν", "b": "ακούς", "c": "ακούει", "d": "ακούμε"}, "answer": "d", "explanation": "1st person plural (εμείς): ακούμε. Contracted from ακούουμε."},
+                {"form": "Εσείς", "options": {"a": "ακούτε", "b": "ακούει", "c": "ακούν", "d": "ακούω"}, "answer": "a", "explanation": "2nd person plural (εσείς): ακούτε. Contracted from ακούετε."},
+                {"form": "Αυτοί/Αυτές/Αυτά", "options": {"a": "ακούμε", "b": "ακούν", "c": "ακούς", "d": "ακούτε"}, "answer": "b", "explanation": "3rd person plural (αυτοί/ές/ά): ακούν(ε). Contracted from ακούουν."}
+            ]
+        },
+        {
+            "id": "pga-dv-0047",
+            "type": "drill_verb",
+            "header": "κλέβω (to steal)",
+            "conjugations": [
+                {"form": "Εγώ", "options": {"a": "κλέβω", "b": "κλέβεις", "c": "κλέβει", "d": "κλέβουν"}, "answer": "a", "explanation": "1st person singular (εγώ): κλέβω. Group A ending: -ω."},
+                {"form": "Εσύ", "options": {"a": "κλέβω", "b": "κλέβεις", "c": "κλέβουμε", "d": "κλέβετε"}, "answer": "b", "explanation": "2nd person singular (εσύ): κλέβεις. Group A ending: -εις."},
+                {"form": "Αυτός/Αυτή/Αυτό", "options": {"a": "κλέβεις", "b": "κλέβουμε", "c": "κλέβει", "d": "κλέβουν"}, "answer": "c", "explanation": "3rd person singular (αυτός/ή/ό): κλέβει. Group A ending: -ει."},
+                {"form": "Εμείς", "options": {"a": "κλέβουν", "b": "κλέβεις", "c": "κλέβει", "d": "κλέβουμε"}, "answer": "d", "explanation": "1st person plural (εμείς): κλέβουμε. Group A ending: -ουμε."},
+                {"form": "Εσείς", "options": {"a": "κλέβετε", "b": "κλέβει", "c": "κλέβουν", "d": "κλέβω"}, "answer": "a", "explanation": "2nd person plural (εσείς): κλέβετε. Group A ending: -ετε."},
+                {"form": "Αυτοί/Αυτές/Αυτά", "options": {"a": "κλέβουμε", "b": "κλέβουν", "c": "κλέβεις", "d": "κλέβετε"}, "answer": "b", "explanation": "3rd person plural (αυτοί/ές/ά): κλέβουν. Group A ending: -ουν(ε)."}
+            ]
+        },
+        {
+            "id": "pga-dv-0048",
+            "type": "drill_verb",
+            "header": "σώζω (to save)",
+            "conjugations": [
+                {"form": "Εγώ", "options": {"a": "σώζω", "b": "σώζεις", "c": "σώζει", "d": "σώζουν"}, "answer": "a", "explanation": "1st person singular (εγώ): σώζω. Group A ending: -ω."},
+                {"form": "Εσύ", "options": {"a": "σώζω", "b": "σώζεις", "c": "σώζουμε", "d": "σώζετε"}, "answer": "b", "explanation": "2nd person singular (εσύ): σώζεις. Group A ending: -εις."},
+                {"form": "Αυτός/Αυτή/Αυτό", "options": {"a": "σώζεις", "b": "σώζουμε", "c": "σώζει", "d": "σώζουν"}, "answer": "c", "explanation": "3rd person singular (αυτός/ή/ό): σώζει. Group A ending: -ει."},
+                {"form": "Εμείς", "options": {"a": "σώζουν", "b": "σώζεις", "c": "σώζει", "d": "σώζουμε"}, "answer": "d", "explanation": "1st person plural (εμείς): σώζουμε. Group A ending: -ουμε."},
+                {"form": "Εσείς", "options": {"a": "σώζετε", "b": "σώζει", "c": "σώζουν", "d": "σώζω"}, "answer": "a", "explanation": "2nd person plural (εσείς): σώζετε. Group A ending: -ετε."},
+                {"form": "Αυτοί/Αυτές/Αυτά", "options": {"a": "σώζουμε", "b": "σώζουν", "c": "σώζεις", "d": "σώζετε"}, "answer": "b", "explanation": "3rd person plural (αυτοί/ές/ά): σώζουν. Group A ending: -ουν(ε)."}
+            ]
+        },
+        {
+            "id": "pga-dv-0049",
+            "type": "drill_verb",
+            "header": "καπνίζω (to smoke)",
+            "conjugations": [
+                {"form": "Εγώ", "options": {"a": "καπνίζω", "b": "καπνίζεις", "c": "καπνίζει", "d": "καπνίζουν"}, "answer": "a", "explanation": "1st person singular (εγώ): καπνίζω. Group A ending: -ω."},
+                {"form": "Εσύ", "options": {"a": "καπνίζω", "b": "καπνίζεις", "c": "καπνίζουμε", "d": "καπνίζετε"}, "answer": "b", "explanation": "2nd person singular (εσύ): καπνίζεις. Group A ending: -εις."},
+                {"form": "Αυτός/Αυτή/Αυτό", "options": {"a": "καπνίζεις", "b": "καπνίζουμε", "c": "καπνίζει", "d": "καπνίζουν"}, "answer": "c", "explanation": "3rd person singular (αυτός/ή/ό): καπνίζει. Group A ending: -ει."},
+                {"form": "Εμείς", "options": {"a": "καπνίζουν", "b": "καπνίζεις", "c": "καπνίζει", "d": "καπνίζουμε"}, "answer": "d", "explanation": "1st person plural (εμείς): καπνίζουμε. Group A ending: -ουμε."},
+                {"form": "Εσείς", "options": {"a": "καπνίζετε", "b": "καπνίζει", "c": "καπνίζουν", "d": "καπνίζω"}, "answer": "a", "explanation": "2nd person plural (εσείς): καπνίζετε. Group A ending: -ετε."},
+                {"form": "Αυτοί/Αυτές/Αυτά", "options": {"a": "καπνίζουμε", "b": "καπνίζουν", "c": "καπνίζεις", "d": "καπνίζετε"}, "answer": "b", "explanation": "3rd person plural (αυτοί/ές/ά): καπνίζουν. Group A ending: -ουν(ε)."}
+            ]
+        },
+        {
+            "id": "pga-dv-0050",
+            "type": "drill_verb",
+            "header": "ταιριάζω (to match/suit)",
+            "conjugations": [
+                {"form": "Εγώ", "options": {"a": "ταιριάζω", "b": "ταιριάζεις", "c": "ταιριάζει", "d": "ταιριάζουν"}, "answer": "a", "explanation": "1st person singular (εγώ): ταιριάζω. Group A ending: -ω."},
+                {"form": "Εσύ", "options": {"a": "ταιριάζω", "b": "ταιριάζεις", "c": "ταιριάζουμε", "d": "ταιριάζετε"}, "answer": "b", "explanation": "2nd person singular (εσύ): ταιριάζεις. Group A ending: -εις."},
+                {"form": "Αυτός/Αυτή/Αυτό", "options": {"a": "ταιριάζεις", "b": "ταιριάζουμε", "c": "ταιριάζει", "d": "ταιριάζουν"}, "answer": "c", "explanation": "3rd person singular (αυτός/ή/ό): ταιριάζει. Group A ending: -ει."},
+                {"form": "Εμείς", "options": {"a": "ταιριάζουν", "b": "ταιριάζεις", "c": "ταιριάζει", "d": "ταιριάζουμε"}, "answer": "d", "explanation": "1st person plural (εμείς): ταιριάζουμε. Group A ending: -ουμε."},
+                {"form": "Εσείς", "options": {"a": "ταιριάζετε", "b": "ταιριάζει", "c": "ταιριάζουν", "d": "ταιριάζω"}, "answer": "a", "explanation": "2nd person plural (εσείς): ταιριάζετε. Group A ending: -ετε."},
+                {"form": "Αυτοί/Αυτές/Αυτά", "options": {"a": "ταιριάζουμε", "b": "ταιριάζουν", "c": "ταιριάζεις", "d": "ταιριάζετε"}, "answer": "b", "explanation": "3rd person plural (αυτοί/ές/ά): ταιριάζουν. Group A ending: -ουν(ε)."}
+            ]
+        }
+    ]
+}

@@ -63,6 +63,61 @@ Neuter nouns are the easiest of all! They **do not change** from Nominative to A
 
 ---
 
+## Plural Accusative
+
+In the plural, the pattern is similar: the **article changes** and masculine nouns also change their ending.
+
+### 1. Masculine Plural (οι → τους)
+The article changes from **οι** to **τους**. The noun ending depends on the original nominative ending.
+* **-ος nouns:** plural nominative -οι → accusative **-ους**
+* **-ας / -ης nouns:** plural ending **-ες** stays **-ες** (no change)
+
+| Nominative Plural | Accusative Plural | English |
+| :--- | :--- | :--- |
+| οι φίλοι | **τους φίλους** | the friends |
+| οι πατέρες | **τους πατέρες** | the fathers |
+| οι μαθητές | **τους μαθητές** | the students |
+
+**Examples:**
+* Βλέπω τους φίλους μου. (I see my friends.)
+* Ξέρω τους μαθητές. (I know the students.)
+
+---
+
+### 2. Feminine Plural (οι → τις)
+The article changes from **οι** to **τις**. The noun ending stays exactly the same as in the nominative plural.
+* **Article change:** οι → **τις**
+* **Ending:** stays **-ες**
+
+| Nominative Plural | Accusative Plural | English |
+| :--- | :--- | :--- |
+| οι μητέρες | **τις μητέρες** | the mothers |
+| οι πόλεις | **τις πόλεις** | the cities |
+| οι φίλες | **τις φίλες** | the friends (f.) |
+
+**Examples:**
+* Αγαπώ τις μητέρες. (I love the mothers.)
+* Βλέπω τις φίλες μου. (I see my friends.)
+
+---
+
+### 3. Neuter Plural (τα → τα)
+Neuter nouns in the plural **do not change at all** — the accusative plural is identical to the nominative plural.
+* **Article:** stays **τα**
+* **Ending:** unchanged
+
+| Nominative Plural | Accusative Plural | English |
+| :--- | :--- | :--- |
+| τα σπίτια | **τα σπίτια** | the houses |
+| τα βιβλία | **τα βιβλία** | the books |
+| τα ονόματα | **τα ονόματα** | the names |
+
+**Examples:**
+* Διαβάζω τα βιβλία. (I am reading the books.)
+* Θέλω τα σπίτια. (I want the houses.)
+
+---
+
 ## Exceptions & Special Rules
 * **The "N" Rule (τον/την):** In modern speech, the final **-ν** in **τον** and **την** is always kept if the next word starts with a vowel or certain consonants (κ, π, τ, ξ, ψ). If it starts with other consonants (like β, δ, γ, φ, θ, σ, ζ, λ, ρ, μ, ν), the **-ν** is often dropped in **την**, but usually kept in **τον** to distinguish it from the neuter **το**.
 * **Nouns in -ος (Feminine):** Feminine nouns ending in **-ος** (like *η οδός*) follow the masculine pattern in the Accusative: **την οδό**.

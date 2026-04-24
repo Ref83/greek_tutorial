@@ -1,0 +1,329 @@
+{
+    "exercises": [
+        {
+            "id": "pr-0051-4000-8000-000000000051",
+            "type": "drill",
+            "header": "What is 'με' used for?",
+            "options": {
+                "a": "Possessive (my)",
+                "b": "Direct object (me)",
+                "c": "Indirect object (to me)",
+                "d": "Subject (I)"
+            },
+            "answer": "b",
+            "explanation": "Με is the direct object (accusative) personal pronoun meaning 'me'. Example: Με βλέπεις. (You see me.) Contrast with μου which is possessive (my) or indirect object (to me)."
+        },
+        {
+            "id": "pr-0052-4000-8000-000000000052",
+            "type": "drill",
+            "header": "What is 'μου' used for?",
+            "options": {
+                "a": "Direct object (me)",
+                "b": "Subject (I)",
+                "c": "Possessive (my) and indirect object (to me)",
+                "d": "Never used in modern Greek"
+            },
+            "answer": "c",
+            "explanation": "Μου serves two purposes: possessive 'my' (το σπίτι μου — my house) and indirect object 'to me' (Μου γράφει — She writes to me). Contrast with με which is the direct object."
+        },
+        {
+            "id": "pr-0053-4000-8000-000000000053",
+            "type": "drill",
+            "header": "Αυτός ___ βλέπει. (He sees me.)",
+            "options": {
+                "a": "μου",
+                "b": "με",
+                "c": "μας",
+                "d": "εμένα"
+            },
+            "answer": "b",
+            "explanation": "Με is the direct object pronoun for 'me'. Αυτός με βλέπει. The pronoun goes before the verb."
+        },
+        {
+            "id": "pr-0054-4000-8000-000000000054",
+            "type": "drill",
+            "header": "Το σπίτι ___. (My house.)",
+            "options": {
+                "a": "με",
+                "b": "εγώ",
+                "c": "μου",
+                "d": "εμένα"
+            },
+            "answer": "c",
+            "explanation": "Μου is the possessive pronoun for 'my'. It follows the noun: Το σπίτι μου."
+        },
+        {
+            "id": "pr-0055-4000-8000-000000000055",
+            "type": "drill",
+            "header": "Αυτός ___ βλέπει. (He sees her.)",
+            "options": {
+                "a": "της",
+                "b": "τη",
+                "c": "την",
+                "d": "αυτή"
+            },
+            "answer": "c",
+            "explanation": "Την is the direct object pronoun for 'her'. Αυτός την βλέπει. (Note: τη is also acceptable in spoken Greek, but την is the standard form.)"
+        },
+        {
+            "id": "pr-0056-4000-8000-000000000056",
+            "type": "drill",
+            "header": "Το αυτοκίνητο ___. (Her car.)",
+            "options": {
+                "a": "τη",
+                "b": "την",
+                "c": "αυτής",
+                "d": "της"
+            },
+            "answer": "d",
+            "explanation": "Της is the possessive pronoun for 'her'. It follows the noun: Το αυτοκίνητο της."
+        },
+        {
+            "id": "pr-0057-4000-8000-000000000057",
+            "type": "drill",
+            "header": "'I call them (masculine group)' → ___ τηλεφωνώ.",
+            "options": {
+                "a": "Τους",
+                "b": "Τα",
+                "c": "Τις",
+                "d": "Αυτούς"
+            },
+            "answer": "a",
+            "explanation": "Τους is the direct object pronoun for 'them' (masculine or mixed group). Τους τηλεφωνώ. (I call them.)"
+        },
+        {
+            "id": "pr-0058-4000-8000-000000000058",
+            "type": "drill",
+            "header": "'Their dog' → Ο σκύλος ___",
+            "options": {
+                "a": "τους",
+                "b": "τα",
+                "c": "τις",
+                "d": "αυτών"
+            },
+            "answer": "a",
+            "explanation": "Τους is the possessive pronoun for 'their'. Ο σκύλος τους."
+        },
+        {
+            "id": "pr-0059-4000-8000-000000000059",
+            "type": "drill",
+            "header": "'Do you know us?' → ___ ξέρεις;",
+            "options": {
+                "a": "Εμάς",
+                "b": "Μου",
+                "c": "Μας",
+                "d": "Με"
+            },
+            "answer": "c",
+            "explanation": "Μας is the direct object pronoun for 'us'. Μας ξέρεις; (Do you know us?) — pronoun before the verb."
+        },
+        {
+            "id": "pr-0060-4000-8000-000000000060",
+            "type": "drill",
+            "header": "'I don't see you (singular)' → Δεν ___ βλέπω.",
+            "options": {
+                "a": "σου",
+                "b": "σε",
+                "c": "σας",
+                "d": "εσένα"
+            },
+            "answer": "b",
+            "explanation": "Σε is the direct object pronoun for 'you' (singular). Δεν σε βλέπω."
+        },
+        {
+            "id": "pr-0061-4000-8000-000000000061",
+            "type": "drill",
+            "header": "'Your (singular) bag' → Η τσάντα ___",
+            "options": {
+                "a": "σε",
+                "b": "σου",
+                "c": "εσύ",
+                "d": "σας"
+            },
+            "answer": "b",
+            "explanation": "Σου is the possessive pronoun for 'your' (singular). Η τσάντα σου."
+        },
+        {
+            "id": "pr-0062-4000-8000-000000000062",
+            "type": "drill",
+            "header": "'I hear you (plural)' → ___ ακούω.",
+            "options": {
+                "a": "Σε",
+                "b": "Σου",
+                "c": "Σας",
+                "d": "Εσάς"
+            },
+            "answer": "c",
+            "explanation": "Σας is the direct object pronoun for 'you' (plural). Σας ακούω."
+        },
+        {
+            "id": "pr-0063-4000-8000-000000000063",
+            "type": "drill",
+            "header": "'Our teacher' → Ο δάσκαλος ___",
+            "options": {
+                "a": "με",
+                "b": "μου",
+                "c": "μας",
+                "d": "εμάς"
+            },
+            "answer": "c",
+            "explanation": "Μας is the possessive pronoun for 'our'. Ο δάσκαλος μας."
+        },
+        {
+            "id": "pr-0064-4000-8000-000000000064",
+            "type": "drill",
+            "header": "Which is the correct word order for 'I see him'?",
+            "options": {
+                "a": "Βλέπω τον.",
+                "b": "Τον βλέπω.",
+                "c": "Βλέπω αυτόν.",
+                "d": "Αυτόν βλέπω."
+            },
+            "answer": "b",
+            "explanation": "Τον βλέπω. — The weak object pronoun goes BEFORE the verb in statements. The form 'Βλέπω τον' is incorrect; 'Βλέπω αυτόν' uses the strong pronoun which is grammatically possible but less common."
+        },
+        {
+            "id": "pr-0065-4000-8000-000000000065",
+            "type": "drill",
+            "header": "'She doesn't know me' → Δεν ___ ξέρει.",
+            "options": {
+                "a": "εμένα",
+                "b": "μου",
+                "c": "με",
+                "d": "μας"
+            },
+            "answer": "c",
+            "explanation": "Με is the direct object pronoun for 'me'. Δεν με ξέρει."
+        },
+        {
+            "id": "pr-0066-4000-8000-000000000066",
+            "type": "drill",
+            "header": "'My father' → Ο πατέρας ___",
+            "options": {
+                "a": "με",
+                "b": "μου",
+                "c": "εγώ",
+                "d": "μας"
+            },
+            "answer": "b",
+            "explanation": "Μου is the possessive pronoun for 'my'. Ο πατέρας μου."
+        },
+        {
+            "id": "pr-0067-4000-8000-000000000067",
+            "type": "drill",
+            "header": "'He loves us' → Αυτός ___ αγαπά.",
+            "options": {
+                "a": "μου",
+                "b": "με",
+                "c": "μας",
+                "d": "εμάς"
+            },
+            "answer": "c",
+            "explanation": "Μας is the direct object pronoun for 'us'. Αυτός μας αγαπά."
+        },
+        {
+            "id": "pr-0068-4000-8000-000000000068",
+            "type": "drill",
+            "header": "'Their friend (masculine)' → Ο φίλος ___",
+            "options": {
+                "a": "τους",
+                "b": "τα",
+                "c": "τις",
+                "d": "αυτών"
+            },
+            "answer": "a",
+            "explanation": "Τους is the possessive pronoun for 'their'. Ο φίλος τους."
+        },
+        {
+            "id": "pr-0069-4000-8000-000000000069",
+            "type": "drill",
+            "header": "'I see them (feminine plural)' → ___ βλέπω.",
+            "options": {
+                "a": "Τους",
+                "b": "Τα",
+                "c": "Τις",
+                "d": "Τη"
+            },
+            "answer": "c",
+            "explanation": "Τις is the direct object pronoun for 'them' (feminine plural). Τις βλέπω."
+        },
+        {
+            "id": "pr-0070-4000-8000-000000000070",
+            "type": "drill",
+            "header": "'Our neighborhood' → Η γειτονιά ___",
+            "options": {
+                "a": "μου",
+                "b": "μας",
+                "c": "σας",
+                "d": "τους"
+            },
+            "answer": "b",
+            "explanation": "Μας is the possessive pronoun for 'our'. Η γειτονιά μας."
+        },
+        {
+            "id": "pr-0071-4000-8000-000000000071",
+            "type": "drill",
+            "header": "Which of these is NOT a possessive pronoun?",
+            "options": {
+                "a": "μου",
+                "b": "σου",
+                "c": "με",
+                "d": "τους"
+            },
+            "answer": "c",
+            "explanation": "Με is a personal accusative (direct object) pronoun meaning 'me', not a possessive. The possessives are: μου, σου, του, της, μας, σας, τους."
+        },
+        {
+            "id": "pr-0072-4000-8000-000000000072",
+            "type": "drill",
+            "header": "Which of these is NOT a personal accusative pronoun?",
+            "options": {
+                "a": "με",
+                "b": "σε",
+                "c": "τον",
+                "d": "μου"
+            },
+            "answer": "d",
+            "explanation": "Μου is a possessive/indirect pronoun (meaning 'my' or 'to me'), not a direct object accusative. The accusative personal pronouns are: με, σε, τον, την, το, μας, σας, τους, τις, τα."
+        },
+        {
+            "id": "pr-0073-4000-8000-000000000073",
+            "type": "drill",
+            "header": "'He is waiting for you (singular)' → Αυτός ___ περιμένει.",
+            "options": {
+                "a": "σου",
+                "b": "σε",
+                "c": "σας",
+                "d": "εσένα"
+            },
+            "answer": "b",
+            "explanation": "Σε is the direct object pronoun for 'you' (singular). Αυτός σε περιμένει."
+        },
+        {
+            "id": "pr-0074-4000-8000-000000000074",
+            "type": "drill",
+            "header": "'Your (plural) help' → Η βοήθεια ___",
+            "options": {
+                "a": "σε",
+                "b": "σου",
+                "c": "σας",
+                "d": "εσείς"
+            },
+            "answer": "c",
+            "explanation": "Σας is the possessive pronoun for 'your' (plural). Η βοήθεια σας."
+        },
+        {
+            "id": "pr-0075-4000-8000-000000000075",
+            "type": "drill",
+            "header": "'She calls me' → Αυτή ___ φωνάζει.",
+            "options": {
+                "a": "μου",
+                "b": "εμένα",
+                "c": "με",
+                "d": "μας"
+            },
+            "answer": "c",
+            "explanation": "Με is the direct object pronoun for 'me'. Αυτή με φωνάζει. (She calls me.)"
+        }
+    ]
+}

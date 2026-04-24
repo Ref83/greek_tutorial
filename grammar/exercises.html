@@ -578,6 +578,7 @@
         const params = new URLSearchParams(window.location.search);
         const id = params.get('id');
         const ids = params.get('ids') ? params.get('ids').split(',').filter(Boolean) : (id ? [id] : []);
+        const mode = params.get('mode'); // 'drill' or null
         let exercises = [];
         let current = 0;
         let done = 0;
@@ -700,12 +701,31 @@
             }
         }
 
+        async function loadTopicDrills(topicId) {
+            const dirUrl = `../content/grammar/${topicId}/`;
+            let n = 1;
+            while (true) {
+                const r = await fetch(`${dirUrl}drill_${n}.json`);
+                if (!r.ok) break;
+                const data = await r.json();
+                exercises = exercises.concat(data.exercises.map(e => ({ ...e, topicId })));
+                n++;
+            }
+        }
+
         async function loadExercises() {
-            await Promise.all([
-                Promise.all(ids.map(topicId => loadTopicExercises(topicId))),
-                fetchCheatsheets()
-            ]);
-            shuffle(exercises);
+            if (mode === 'drill') {
+                await Promise.all([
+                    Promise.all(ids.map(topicId => loadTopicDrills(topicId))),
+                    fetchCheatsheets()
+                ]);
+            } else {
+                await Promise.all([
+                    Promise.all(ids.map(topicId => loadTopicExercises(topicId))),
+                    fetchCheatsheets()
+                ]);
+                shuffle(exercises);
+            }
             showExercise();
         }
 
@@ -733,13 +753,14 @@
             }
             content.innerHTML = '';
             const ex = exercises[current];
-            if (ex.type === 'select') renderSelect(ex, content);
+            if (ex.type === 'select' || ex.type === 'drill') renderSelect(ex, content);
+            else if (ex.type === 'drill_verb') renderDrillVerb(ex, content);
             else if (ex.type === 'fill') renderFill(ex, content);
             else if (ex.type === 'match') renderMatch(ex, content);
         }
 
         function typeLabel(type) {
-            return { select: 'Multiple Choice', fill: 'Fill in the Blank', match: 'Matching' }[type] || type;
+            return { select: 'Multiple Choice', fill: 'Fill in the Blank', match: 'Matching', drill: 'Drill', drill_verb: 'Drill' }[type] || type;
         }
 
         function appendHeaderBlock(ex, container) {
@@ -840,6 +861,112 @@
             container.appendChild(optsList);
             container.appendChild(explanationBox);
             container.appendChild(nextBtn);
+        }
+
+        function renderDrillVerb(ex, container) {
+            // Badge + cheatsheet row
+            const badgeRow = document.createElement('div');
+            badgeRow.style.cssText = 'display:flex;align-items:center;justify-content:space-between;margin-bottom:20px;';
+            const badge = document.createElement('div');
+            badge.className = 'exercise-type-badge';
+            badge.style.marginBottom = '0';
+            badge.textContent = 'Drill';
+            badgeRow.appendChild(badge);
+            const csBtn = document.createElement('button');
+            csBtn.className = 'cheatsheet-btn';
+            csBtn.textContent = '📋 Cheatsheet';
+            if (cheatsheetMap[ex.topicId]) csBtn.classList.add('visible');
+            csBtn.addEventListener('click', () => openCheatsheet(ex.topicId));
+            badgeRow.appendChild(csBtn);
+            container.appendChild(badgeRow);
+
+            const conjugations = [...ex.conjugations].sort(() => Math.random() - 0.5);
+            let conjIndex = 0;
+            let hadError = false;
+            const nextBtn = makeNextBtn();
+            const conjContainer = document.createElement('div');
+            container.appendChild(conjContainer);
+            container.appendChild(nextBtn);
+
+            function advance() {
+                conjIndex++;
+                if (conjIndex < conjugations.length) {
+                    showConjugation(conjIndex);
+                } else {
+                    done++;
+                    if (hadError) errors++;
+                    updateStats();
+                    conjContainer.innerHTML = '';
+                    const doneMsg = document.createElement('div');
+                    doneMsg.style.cssText = 'text-align:center;padding:20px 0;color:#16a34a;font-weight:600;';
+                    doneMsg.textContent = '✓ All conjugations complete!';
+                    conjContainer.appendChild(doneMsg);
+                    nextBtn.classList.add('visible');
+                }
+            }
+
+            function showConjugation(i) {
+                conjContainer.innerHTML = '';
+                const conj = conjugations[i];
+
+                const progress = document.createElement('div');
+                progress.style.cssText = 'font-size:0.75rem;color:#aaa;margin-bottom:12px;';
+                progress.textContent = `${i + 1} / ${conjugations.length}`;
+                conjContainer.appendChild(progress);
+
+                const headerRow = document.createElement('div');
+                headerRow.className = 'exercise-header';
+                const headerText = document.createElement('div');
+                headerText.className = 'header-text';
+                headerText.textContent = `${conj.form} (${ex.header})`;
+                headerRow.appendChild(headerText);
+                conjContainer.appendChild(headerRow);
+
+                const optsList = document.createElement('div');
+                optsList.className = 'options-list';
+
+                const explanationBox = document.createElement('div');
+                explanationBox.className = 'explanation-box';
+                explanationBox.innerHTML = `Correct answer: <span class="correct-answer">${conj.answer}) ${conj.options[conj.answer]}</span>. ${conj.explanation || ''}`;
+
+                let answered = false;
+
+                Object.entries(conj.options).forEach(([key, val]) => {
+                    const btn = document.createElement('button');
+                    btn.className = 'option-btn';
+                    btn.innerHTML = `<span class="option-key">${key})</span><span>${val}</span>`;
+                    btn.addEventListener('click', () => {
+                        if (answered) return;
+                        answered = true;
+                        const isCorrect = key === conj.answer;
+                        if (!isCorrect) hadError = true;
+                        optsList.querySelectorAll('.option-btn').forEach(b => b.disabled = true);
+                        if (isCorrect) {
+                            btn.classList.add('correct');
+                            setTimeout(advance, 500);
+                        } else {
+                            btn.classList.add('wrong');
+                            optsList.querySelectorAll('.option-btn').forEach(b => {
+                                const k = b.querySelector('.option-key').textContent.replace(')', '').trim();
+                                if (k === conj.answer) b.classList.add('correct');
+                            });
+                            explanationBox.classList.add('visible');
+                            const contBtn = document.createElement('button');
+                            contBtn.className = 'next-btn visible';
+                            contBtn.style.marginTop = '12px';
+                            contBtn.textContent = i + 1 < conjugations.length ? 'Continue →' : 'Done';
+                            contBtn.addEventListener('click', advance);
+                            conjContainer.appendChild(contBtn);
+                        }
+                    });
+                    optsList.appendChild(btn);
+                });
+
+                conjContainer.appendChild(optsList);
+                conjContainer.appendChild(explanationBox);
+            }
+
+            showConjugation(0);
         }
 
         function renderFill(ex, container) {

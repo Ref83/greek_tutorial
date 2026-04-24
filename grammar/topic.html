@@ -53,6 +53,24 @@
             font-size: 1.1rem;
         }
 
+        .drill-btn {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            text-decoration: none;
+            color: #059669;
+            font-size: 0.9rem;
+            font-weight: 600;
+            padding: 8px 16px;
+            border-radius: 8px;
+            background: #ecfdf5;
+            transition: background 0.15s;
+        }
+
+        .drill-btn:hover {
+            background: #d1fae5;
+        }
+
         .content-card {
             max-width: 680px;
             margin: 0 auto;
@@ -124,6 +142,9 @@
             <span class="exercises-btn-icon">✏️</span>
             Exercises
         </a>
+        <a class="drill-btn" id="drill-link" href="#">
+            ⚡ Drill
+        </a>
     </div>
 
     <div class="content-card" id="content"></div>
@@ -132,6 +153,7 @@
     <script>
         const id = new URLSearchParams(window.location.search).get('id');
         document.getElementById('exercises-link').href = `exercises.html?id=${id}`;
+        document.getElementById('drill-link').href = `exercises.html?ids=${id}&mode=drill`;
         fetch('../content/grammar/topics.json')
             .then(r => r.json())
             .then(data => {

@@ -1,0 +1,434 @@
+{
+    "exercises": [
+        {
+            "id": "ps-dv-0041",
+            "type": "drill_verb",
+            "header": "βλέπω (to see)",
+            "conjugations": [
+                {
+                    "form": "εγώ",
+                    "options": {"a": "είδα", "b": "είδες", "c": "είδε", "d": "είδαμε"},
+                    "answer": "a",
+                    "explanation": "βλέπω is an irregular verb. Its past stem is είδ- (completely different from the present). 1sg: είδα."
+                },
+                {
+                    "form": "εσύ",
+                    "options": {"a": "είδα", "b": "είδες", "c": "είδαμε", "d": "είδατε"},
+                    "answer": "b",
+                    "explanation": "Same irregular stem. 2sg ending -ες: είδες."
+                },
+                {
+                    "form": "αυτός / αυτή / αυτό",
+                    "options": {"a": "είδες", "b": "είδαμε", "c": "είδε", "d": "είδαν"},
+                    "answer": "c",
+                    "explanation": "Same irregular stem. 3sg ending -ε: είδε."
+                },
+                {
+                    "form": "εμείς",
+                    "options": {"a": "είδαν", "b": "είδες", "c": "είδε", "d": "είδαμε"},
+                    "answer": "d",
+                    "explanation": "1pl ending -αμε: είδαμε. No augment needed since the form is already long."
+                },
+                {
+                    "form": "εσείς",
+                    "options": {"a": "είδατε", "b": "είδε", "c": "είδαν", "d": "είδα"},
+                    "answer": "a",
+                    "explanation": "2pl ending -ατε: είδατε."
+                },
+                {
+                    "form": "αυτοί / αυτές / αυτά",
+                    "options": {"a": "είδαμε", "b": "είδαν", "c": "είδες", "d": "είδατε"},
+                    "answer": "b",
+                    "explanation": "3pl ending -αν: είδαν."
+                }
+            ]
+        },
+        {
+            "id": "ps-dv-0042",
+            "type": "drill_verb",
+            "header": "λέω (to say / tell)",
+            "conjugations": [
+                {
+                    "form": "εγώ",
+                    "options": {"a": "είπα", "b": "είπες", "c": "είπε", "d": "είπαμε"},
+                    "answer": "a",
+                    "explanation": "λέω is an irregular verb. Its past stem is είπ- (completely different from the present). 1sg: είπα."
+                },
+                {
+                    "form": "εσύ",
+                    "options": {"a": "είπα", "b": "είπες", "c": "είπαμε", "d": "είπατε"},
+                    "answer": "b",
+                    "explanation": "Same irregular stem. 2sg ending -ες: είπες."
+                },
+                {
+                    "form": "αυτός / αυτή / αυτό",
+                    "options": {"a": "είπες", "b": "είπαμε", "c": "είπε", "d": "είπαν"},
+                    "answer": "c",
+                    "explanation": "Same irregular stem. 3sg ending -ε: είπε."
+                },
+                {
+                    "form": "εμείς",
+                    "options": {"a": "είπαν", "b": "είπες", "c": "είπε", "d": "είπαμε"},
+                    "answer": "d",
+                    "explanation": "1pl ending -αμε: είπαμε."
+                },
+                {
+                    "form": "εσείς",
+                    "options": {"a": "είπατε", "b": "είπε", "c": "είπαν", "d": "είπα"},
+                    "answer": "a",
+                    "explanation": "2pl ending -ατε: είπατε."
+                },
+                {
+                    "form": "αυτοί / αυτές / αυτά",
+                    "options": {"a": "είπαμε", "b": "είπαν", "c": "είπες", "d": "είπατε"},
+                    "answer": "b",
+                    "explanation": "3pl ending -αν: είπαν."
+                }
+            ]
+        },
+        {
+            "id": "ps-dv-0043",
+            "type": "drill_verb",
+            "header": "πίνω (to drink)",
+            "conjugations": [
+                {
+                    "form": "εγώ",
+                    "options": {"a": "ήπια", "b": "ήπιες", "c": "ήπιε", "d": "ήπιαμε"},
+                    "answer": "a",
+                    "explanation": "πίνω is an irregular verb. Its past stem is ήπι-. 1sg: ήπια."
+                },
+                {
+                    "form": "εσύ",
+                    "options": {"a": "ήπια", "b": "ήπιες", "c": "ήπιαμε", "d": "ήπιατε"},
+                    "answer": "b",
+                    "explanation": "Same irregular stem. 2sg ending -ες: ήπιες."
+                },
+                {
+                    "form": "αυτός / αυτή / αυτό",
+                    "options": {"a": "ήπιες", "b": "ήπιαμε", "c": "ήπιε", "d": "ήπιαν"},
+                    "answer": "c",
+                    "explanation": "Same irregular stem. 3sg ending -ε: ήπιε."
+                },
+                {
+                    "form": "εμείς",
+                    "options": {"a": "ήπιαν", "b": "ήπιες", "c": "ήπιε", "d": "ήπιαμε"},
+                    "answer": "d",
+                    "explanation": "1pl ending -αμε: ήπιαμε."
+                },
+                {
+                    "form": "εσείς",
+                    "options": {"a": "ήπιατε", "b": "ήπιε", "c": "ήπιαν", "d": "ήπια"},
+                    "answer": "a",
+                    "explanation": "2pl ending -ατε: ήπιατε."
+                },
+                {
+                    "form": "αυτοί / αυτές / αυτά",
+                    "options": {"a": "ήπιαμε", "b": "ήπιαν", "c": "ήπιες", "d": "ήπιατε"},
+                    "answer": "b",
+                    "explanation": "3pl ending -αν: ήπιαν."
+                }
+            ]
+        },
+        {
+            "id": "ps-dv-0044",
+            "type": "drill_verb",
+            "header": "τρώω (to eat)",
+            "conjugations": [
+                {
+                    "form": "εγώ",
+                    "options": {"a": "έφαγα", "b": "έφαγες", "c": "έφαγε", "d": "φάγαμε"},
+                    "answer": "a",
+                    "explanation": "τρώω is an irregular verb. Its past stem is φαγ- (completely unrelated to the present). Add augment έ- and 1sg ending -α: έφαγα."
+                },
+                {
+                    "form": "εσύ",
+                    "options": {"a": "έφαγα", "b": "έφαγες", "c": "φάγαμε", "d": "φάγατε"},
+                    "answer": "b",
+                    "explanation": "Same irregular stem. 2sg ending -ες: έφαγες."
+                },
+                {
+                    "form": "αυτός / αυτή / αυτό",
+                    "options": {"a": "έφαγες", "b": "φάγαμε", "c": "έφαγε", "d": "έφαγαν"},
+                    "answer": "c",
+                    "explanation": "Same irregular stem. 3sg ending -ε: έφαγε."
+                },
+                {
+                    "form": "εμείς",
+                    "options": {"a": "έφαγαν", "b": "έφαγες", "c": "έφαγε", "d": "φάγαμε"},
+                    "answer": "d",
+                    "explanation": "Augment drops in 1pl. Ending -αμε: φάγαμε."
+                },
+                {
+                    "form": "εσείς",
+                    "options": {"a": "φάγατε", "b": "έφαγε", "c": "έφαγαν", "d": "έφαγα"},
+                    "answer": "a",
+                    "explanation": "Augment drops in 2pl. Ending -ατε: φάγατε."
+                },
+                {
+                    "form": "αυτοί / αυτές / αυτά",
+                    "options": {"a": "φάγαμε", "b": "έφαγαν", "c": "έφαγες", "d": "φάγατε"},
+                    "answer": "b",
+                    "explanation": "3pl ending -αν: έφαγαν."
+                }
+            ]
+        },
+        {
+            "id": "ps-dv-0045",
+            "type": "drill_verb",
+            "header": "έρχομαι (to come)",
+            "conjugations": [
+                {
+                    "form": "εγώ",
+                    "options": {"a": "ήρθα", "b": "ήρθες", "c": "ήρθε", "d": "ήρθαμε"},
+                    "answer": "a",
+                    "explanation": "έρχομαι is an irregular verb. Its past stem is ήρθ-. 1sg: ήρθα."
+                },
+                {
+                    "form": "εσύ",
+                    "options": {"a": "ήρθα", "b": "ήρθες", "c": "ήρθαμε", "d": "ήρθατε"},
+                    "answer": "b",
+                    "explanation": "Same irregular stem. 2sg ending -ες: ήρθες."
+                },
+                {
+                    "form": "αυτός / αυτή / αυτό",
+                    "options": {"a": "ήρθες", "b": "ήρθαμε", "c": "ήρθε", "d": "ήρθαν"},
+                    "answer": "c",
+                    "explanation": "Same irregular stem. 3sg ending -ε: ήρθε."
+                },
+                {
+                    "form": "εμείς",
+                    "options": {"a": "ήρθαν", "b": "ήρθες", "c": "ήρθε", "d": "ήρθαμε"},
+                    "answer": "d",
+                    "explanation": "1pl ending -αμε: ήρθαμε."
+                },
+                {
+                    "form": "εσείς",
+                    "options": {"a": "ήρθατε", "b": "ήρθε", "c": "ήρθαν", "d": "ήρθα"},
+                    "answer": "a",
+                    "explanation": "2pl ending -ατε: ήρθατε."
+                },
+                {
+                    "form": "αυτοί / αυτές / αυτά",
+                    "options": {"a": "ήρθαμε", "b": "ήρθαν", "c": "ήρθες", "d": "ήρθατε"},
+                    "answer": "b",
+                    "explanation": "3pl ending -αν: ήρθαν."
+                }
+            ]
+        },
+        {
+            "id": "ps-dv-0046",
+            "type": "drill_verb",
+            "header": "φεύγω (to leave / go away)",
+            "conjugations": [
+                {
+                    "form": "εγώ",
+                    "options": {"a": "έφυγα", "b": "έφυγες", "c": "έφυγε", "d": "φύγαμε"},
+                    "answer": "a",
+                    "explanation": "φεύγω is an irregular verb. Its past stem is φυγ-. Add augment έ- and 1sg ending -α: έφυγα."
+                },
+                {
+                    "form": "εσύ",
+                    "options": {"a": "έφυγα", "b": "έφυγες", "c": "φύγαμε", "d": "φύγατε"},
+                    "answer": "b",
+                    "explanation": "Same irregular stem. 2sg ending -ες: έφυγες."
+                },
+                {
+                    "form": "αυτός / αυτή / αυτό",
+                    "options": {"a": "έφυγες", "b": "φύγαμε", "c": "έφυγε", "d": "έφυγαν"},
+                    "answer": "c",
+                    "explanation": "Same irregular stem. 3sg ending -ε: έφυγε."
+                },
+                {
+                    "form": "εμείς",
+                    "options": {"a": "έφυγαν", "b": "έφυγες", "c": "έφυγε", "d": "φύγαμε"},
+                    "answer": "d",
+                    "explanation": "Augment drops in 1pl. Ending -αμε: φύγαμε."
+                },
+                {
+                    "form": "εσείς",
+                    "options": {"a": "φύγατε", "b": "έφυγε", "c": "έφυγαν", "d": "έφυγα"},
+                    "answer": "a",
+                    "explanation": "Augment drops in 2pl. Ending -ατε: φύγατε."
+                },
+                {
+                    "form": "αυτοί / αυτές / αυτά",
+                    "options": {"a": "φύγαμε", "b": "έφυγαν", "c": "έφυγες", "d": "φύγατε"},
+                    "answer": "b",
+                    "explanation": "3pl ending -αν: έφυγαν."
+                }
+            ]
+        },
+        {
+            "id": "ps-dv-0047",
+            "type": "drill_verb",
+            "header": "μπαίνω (to enter / go in)",
+            "conjugations": [
+                {
+                    "form": "εγώ",
+                    "options": {"a": "μπήκα", "b": "μπήκες", "c": "μπήκε", "d": "μπήκαμε"},
+                    "answer": "a",
+                    "explanation": "μπαίνω is an irregular verb. Its past stem is μπήκ-. 1sg: μπήκα."
+                },
+                {
+                    "form": "εσύ",
+                    "options": {"a": "μπήκα", "b": "μπήκες", "c": "μπήκαμε", "d": "μπήκατε"},
+                    "answer": "b",
+                    "explanation": "Same irregular stem. 2sg ending -ες: μπήκες."
+                },
+                {
+                    "form": "αυτός / αυτή / αυτό",
+                    "options": {"a": "μπήκες", "b": "μπήκαμε", "c": "μπήκε", "d": "μπήκαν"},
+                    "answer": "c",
+                    "explanation": "Same irregular stem. 3sg ending -ε: μπήκε."
+                },
+                {
+                    "form": "εμείς",
+                    "options": {"a": "μπήκαν", "b": "μπήκες", "c": "μπήκε", "d": "μπήκαμε"},
+                    "answer": "d",
+                    "explanation": "1pl ending -αμε: μπήκαμε."
+                },
+                {
+                    "form": "εσείς",
+                    "options": {"a": "μπήκατε", "b": "μπήκε", "c": "μπήκαν", "d": "μπήκα"},
+                    "answer": "a",
+                    "explanation": "2pl ending -ατε: μπήκατε."
+                },
+                {
+                    "form": "αυτοί / αυτές / αυτά",
+                    "options": {"a": "μπήκαμε", "b": "μπήκαν", "c": "μπήκες", "d": "μπήκατε"},
+                    "answer": "b",
+                    "explanation": "3pl ending -αν: μπήκαν."
+                }
+            ]
+        },
+        {
+            "id": "ps-dv-0048",
+            "type": "drill_verb",
+            "header": "βγαίνω (to go out / exit)",
+            "conjugations": [
+                {
+                    "form": "εγώ",
+                    "options": {"a": "βγήκα", "b": "βγήκες", "c": "βγήκε", "d": "βγήκαμε"},
+                    "answer": "a",
+                    "explanation": "βγαίνω is an irregular verb. Its past stem is βγήκ-. 1sg: βγήκα."
+                },
+                {
+                    "form": "εσύ",
+                    "options": {"a": "βγήκα", "b": "βγήκες", "c": "βγήκαμε", "d": "βγήκατε"},
+                    "answer": "b",
+                    "explanation": "Same irregular stem. 2sg ending -ες: βγήκες."
+                },
+                {
+                    "form": "αυτός / αυτή / αυτό",
+                    "options": {"a": "βγήκες", "b": "βγήκαμε", "c": "βγήκε", "d": "βγήκαν"},
+                    "answer": "c",
+                    "explanation": "Same irregular stem. 3sg ending -ε: βγήκε."
+                },
+                {
+                    "form": "εμείς",
+                    "options": {"a": "βγήκαν", "b": "βγήκες", "c": "βγήκε", "d": "βγήκαμε"},
+                    "answer": "d",
+                    "explanation": "1pl ending -αμε: βγήκαμε."
+                },
+                {
+                    "form": "εσείς",
+                    "options": {"a": "βγήκατε", "b": "βγήκε", "c": "βγήκαν", "d": "βγήκα"},
+                    "answer": "a",
+                    "explanation": "2pl ending -ατε: βγήκατε."
+                },
+                {
+                    "form": "αυτοί / αυτές / αυτά",
+                    "options": {"a": "βγήκαμε", "b": "βγήκαν", "c": "βγήκες", "d": "βγήκατε"},
+                    "answer": "b",
+                    "explanation": "3pl ending -αν: βγήκαν."
+                }
+            ]
+        },
+        {
+            "id": "ps-dv-0049",
+            "type": "drill_verb",
+            "header": "βρίσκω (to find)",
+            "conjugations": [
+                {
+                    "form": "εγώ",
+                    "options": {"a": "βρήκα", "b": "βρήκες", "c": "βρήκε", "d": "βρήκαμε"},
+                    "answer": "a",
+                    "explanation": "βρίσκω is an irregular verb. Its past stem is βρήκ-. 1sg: βρήκα."
+                },
+                {
+                    "form": "εσύ",
+                    "options": {"a": "βρήκα", "b": "βρήκες", "c": "βρήκαμε", "d": "βρήκατε"},
+                    "answer": "b",
+                    "explanation": "Same irregular stem. 2sg ending -ες: βρήκες."
+                },
+                {
+                    "form": "αυτός / αυτή / αυτό",
+                    "options": {"a": "βρήκες", "b": "βρήκαμε", "c": "βρήκε", "d": "βρήκαν"},
+                    "answer": "c",
+                    "explanation": "Same irregular stem. 3sg ending -ε: βρήκε."
+                },
+                {
+                    "form": "εμείς",
+                    "options": {"a": "βρήκαν", "b": "βρήκες", "c": "βρήκε", "d": "βρήκαμε"},
+                    "answer": "d",
+                    "explanation": "1pl ending -αμε: βρήκαμε."
+                },
+                {
+                    "form": "εσείς",
+                    "options": {"a": "βρήκατε", "b": "βρήκε", "c": "βρήκαν", "d": "βρήκα"},
+                    "answer": "a",
+                    "explanation": "2pl ending -ατε: βρήκατε."
+                },
+                {
+                    "form": "αυτοί / αυτές / αυτά",
+                    "options": {"a": "βρήκαμε", "b": "βρήκαν", "c": "βρήκες", "d": "βρήκατε"},
+                    "answer": "b",
+                    "explanation": "3pl ending -αν: βρήκαν."
+                }
+            ]
+        },
+        {
+            "id": "ps-dv-0050",
+            "type": "drill_verb",
+            "header": "παίρνω (to take / get)",
+            "conjugations": [
+                {
+                    "form": "εγώ",
+                    "options": {"a": "πήρα", "b": "πήρες", "c": "πήρε", "d": "πήραμε"},
+                    "answer": "a",
+                    "explanation": "παίρνω is an irregular verb. Its past stem is πήρ-. 1sg: πήρα."
+                },
+                {
+                    "form": "εσύ",
+                    "options": {"a": "πήρα", "b": "πήρες", "c": "πήραμε", "d": "πήρατε"},
+                    "answer": "b",
+                    "explanation": "Same irregular stem. 2sg ending -ες: πήρες."
+                },
+                {
+                    "form": "αυτός / αυτή / αυτό",
+                    "options": {"a": "πήρες", "b": "πήραμε", "c": "πήρε", "d": "πήραν"},
+                    "answer": "c",
+                    "explanation": "Same irregular stem. 3sg ending -ε: πήρε."
+                },
+                {
+                    "form": "εμείς",
+                    "options": {"a": "πήραν", "b": "πήρες", "c": "πήρε", "d": "πήραμε"},
+                    "answer": "d",
+                    "explanation": "1pl ending -αμε: πήραμε."
+                },
+                {
+                    "form": "εσείς",
+                    "options": {"a": "πήρατε", "b": "πήρε", "c": "πήραν", "d": "πήρα"},
+                    "answer": "a",
+                    "explanation": "2pl ending -ατε: πήρατε."
+                },
+                {
+                    "form": "αυτοί / αυτές / αυτά",
+                    "options": {"a": "πήραμε", "b": "πήραν", "c": "πήρες", "d": "πήρατε"},
+                    "answer": "b",
+                    "explanation": "3pl ending -αν: πήραν."
+                }
+            ]
+        }
+    ]
+}

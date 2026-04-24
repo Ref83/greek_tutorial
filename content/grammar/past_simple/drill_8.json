@@ -1,0 +1,434 @@
+{
+    "exercises": [
+        {
+            "id": "ps-dv-0071",
+            "type": "drill_verb",
+            "header": "ζηλεύω (to be jealous / envy)",
+            "conjugations": [
+                {
+                    "form": "εγώ",
+                    "options": {"a": "ζήλεψα", "b": "ζήλεψες", "c": "ζήλεψε", "d": "ζηλέψαμε"},
+                    "answer": "a",
+                    "explanation": "ζηλεύω ends in -εύω. In the past, -εύ- → -εψ-. 1sg: ζήλεψα."
+                },
+                {
+                    "form": "εσύ",
+                    "options": {"a": "ζήλεψα", "b": "ζήλεψες", "c": "ζηλέψαμε", "d": "ζηλέψατε"},
+                    "answer": "b",
+                    "explanation": "Same -εψ- stem. 2sg ending -ες: ζήλεψες."
+                },
+                {
+                    "form": "αυτός / αυτή / αυτό",
+                    "options": {"a": "ζήλεψες", "b": "ζηλέψαμε", "c": "ζήλεψε", "d": "ζήλεψαν"},
+                    "answer": "c",
+                    "explanation": "Same -εψ- stem. 3sg ending -ε: ζήλεψε."
+                },
+                {
+                    "form": "εμείς",
+                    "options": {"a": "ζήλεψαν", "b": "ζήλεψες", "c": "ζήλεψε", "d": "ζηλέψαμε"},
+                    "answer": "d",
+                    "explanation": "No augment in 1pl. Ending -αμε: ζηλέψαμε."
+                },
+                {
+                    "form": "εσείς",
+                    "options": {"a": "ζηλέψατε", "b": "ζήλεψε", "c": "ζήλεψαν", "d": "ζήλεψα"},
+                    "answer": "a",
+                    "explanation": "No augment in 2pl. Ending -ατε: ζηλέψατε."
+                },
+                {
+                    "form": "αυτοί / αυτές / αυτά",
+                    "options": {"a": "ζηλέψαμε", "b": "ζήλεψαν", "c": "ζήλεψες", "d": "ζηλέψατε"},
+                    "answer": "b",
+                    "explanation": "3pl ending -αν: ζήλεψαν."
+                }
+            ]
+        },
+        {
+            "id": "ps-dv-0072",
+            "type": "drill_verb",
+            "header": "λατρεύω (to adore / worship)",
+            "conjugations": [
+                {
+                    "form": "εγώ",
+                    "options": {"a": "λάτρεψα", "b": "λάτρεψες", "c": "λάτρεψε", "d": "λατρέψαμε"},
+                    "answer": "a",
+                    "explanation": "λατρεύω ends in -εύω. In the past, -εύ- → -εψ-. 1sg: λάτρεψα."
+                },
+                {
+                    "form": "εσύ",
+                    "options": {"a": "λάτρεψα", "b": "λάτρεψες", "c": "λατρέψαμε", "d": "λατρέψατε"},
+                    "answer": "b",
+                    "explanation": "Same -εψ- stem. 2sg ending -ες: λάτρεψες."
+                },
+                {
+                    "form": "αυτός / αυτή / αυτό",
+                    "options": {"a": "λάτρεψες", "b": "λατρέψαμε", "c": "λάτρεψε", "d": "λάτρεψαν"},
+                    "answer": "c",
+                    "explanation": "Same -εψ- stem. 3sg ending -ε: λάτρεψε."
+                },
+                {
+                    "form": "εμείς",
+                    "options": {"a": "λάτρεψαν", "b": "λάτρεψες", "c": "λάτρεψε", "d": "λατρέψαμε"},
+                    "answer": "d",
+                    "explanation": "No augment in 1pl. Ending -αμε: λατρέψαμε."
+                },
+                {
+                    "form": "εσείς",
+                    "options": {"a": "λατρέψατε", "b": "λάτρεψε", "c": "λάτρεψαν", "d": "λάτρεψα"},
+                    "answer": "a",
+                    "explanation": "No augment in 2pl. Ending -ατε: λατρέψατε."
+                },
+                {
+                    "form": "αυτοί / αυτές / αυτά",
+                    "options": {"a": "λατρέψαμε", "b": "λάτρεψαν", "c": "λάτρεψες", "d": "λατρέψατε"},
+                    "answer": "b",
+                    "explanation": "3pl ending -αν: λάτρεψαν."
+                }
+            ]
+        },
+        {
+            "id": "ps-dv-0073",
+            "type": "drill_verb",
+            "header": "ανάβω (to light / turn on)",
+            "conjugations": [
+                {
+                    "form": "εγώ",
+                    "options": {"a": "άναψα", "b": "άναψες", "c": "άναψε", "d": "ανάψαμε"},
+                    "answer": "a",
+                    "explanation": "ανάβω ends in -β. The -β + -σ → -ψ. The stress shifts: άναψα (1sg)."
+                },
+                {
+                    "form": "εσύ",
+                    "options": {"a": "άναψα", "b": "άναψες", "c": "ανάψαμε", "d": "ανάψατε"},
+                    "answer": "b",
+                    "explanation": "Same -ψ stem. 2sg ending -ες: άναψες."
+                },
+                {
+                    "form": "αυτός / αυτή / αυτό",
+                    "options": {"a": "άναψες", "b": "ανάψαμε", "c": "άναψε", "d": "άναψαν"},
+                    "answer": "c",
+                    "explanation": "Same -ψ stem. 3sg ending -ε: άναψε."
+                },
+                {
+                    "form": "εμείς",
+                    "options": {"a": "άναψαν", "b": "άναψες", "c": "άναψε", "d": "ανάψαμε"},
+                    "answer": "d",
+                    "explanation": "Augment drops in 1pl. Ending -αμε: ανάψαμε."
+                },
+                {
+                    "form": "εσείς",
+                    "options": {"a": "ανάψατε", "b": "άναψε", "c": "άναψαν", "d": "άναψα"},
+                    "answer": "a",
+                    "explanation": "Augment drops in 2pl. Ending -ατε: ανάψατε."
+                },
+                {
+                    "form": "αυτοί / αυτές / αυτά",
+                    "options": {"a": "ανάψαμε", "b": "άναψαν", "c": "άναψες", "d": "ανάψατε"},
+                    "answer": "b",
+                    "explanation": "3pl ending -αν: άναψαν."
+                }
+            ]
+        },
+        {
+            "id": "ps-dv-0074",
+            "type": "drill_verb",
+            "header": "λείπω (to be absent / miss)",
+            "conjugations": [
+                {
+                    "form": "εγώ",
+                    "options": {"a": "έλειψα", "b": "έλειψες", "c": "έλειψε", "d": "λείψαμε"},
+                    "answer": "a",
+                    "explanation": "λείπω ends in -π. The -π + -σ → -ψ. Add augment έ- and 1sg ending -α: έλειψα."
+                },
+                {
+                    "form": "εσύ",
+                    "options": {"a": "έλειψα", "b": "έλειψες", "c": "λείψαμε", "d": "λείψατε"},
+                    "answer": "b",
+                    "explanation": "Same -ψ stem. 2sg ending -ες: έλειψες."
+                },
+                {
+                    "form": "αυτός / αυτή / αυτό",
+                    "options": {"a": "έλειψες", "b": "λείψαμε", "c": "έλειψε", "d": "έλειψαν"},
+                    "answer": "c",
+                    "explanation": "Same -ψ stem. 3sg ending -ε: έλειψε."
+                },
+                {
+                    "form": "εμείς",
+                    "options": {"a": "έλειψαν", "b": "έλειψες", "c": "έλειψε", "d": "λείψαμε"},
+                    "answer": "d",
+                    "explanation": "Augment drops in 1pl. Ending -αμε: λείψαμε."
+                },
+                {
+                    "form": "εσείς",
+                    "options": {"a": "λείψατε", "b": "έλειψε", "c": "έλειψαν", "d": "έλειψα"},
+                    "answer": "a",
+                    "explanation": "Augment drops in 2pl. Ending -ατε: λείψατε."
+                },
+                {
+                    "form": "αυτοί / αυτές / αυτά",
+                    "options": {"a": "λείψαμε", "b": "έλειψαν", "c": "έλειψες", "d": "λείψατε"},
+                    "answer": "b",
+                    "explanation": "3pl ending -αν: έλειψαν."
+                }
+            ]
+        },
+        {
+            "id": "ps-dv-0075",
+            "type": "drill_verb",
+            "header": "στρίβω (to turn / twist)",
+            "conjugations": [
+                {
+                    "form": "εγώ",
+                    "options": {"a": "έστριψα", "b": "έστριψες", "c": "έστριψε", "d": "στρίψαμε"},
+                    "answer": "a",
+                    "explanation": "στρίβω ends in -β. The -β + -σ → -ψ. Add augment έ- and 1sg ending -α: έστριψα."
+                },
+                {
+                    "form": "εσύ",
+                    "options": {"a": "έστριψα", "b": "έστριψες", "c": "στρίψαμε", "d": "στρίψατε"},
+                    "answer": "b",
+                    "explanation": "Same -ψ stem. 2sg ending -ες: έστριψες."
+                },
+                {
+                    "form": "αυτός / αυτή / αυτό",
+                    "options": {"a": "έστριψες", "b": "στρίψαμε", "c": "έστριψε", "d": "έστριψαν"},
+                    "answer": "c",
+                    "explanation": "Same -ψ stem. 3sg ending -ε: έστριψε."
+                },
+                {
+                    "form": "εμείς",
+                    "options": {"a": "έστριψαν", "b": "έστριψες", "c": "έστριψε", "d": "στρίψαμε"},
+                    "answer": "d",
+                    "explanation": "Augment drops in 1pl. Ending -αμε: στρίψαμε."
+                },
+                {
+                    "form": "εσείς",
+                    "options": {"a": "στρίψατε", "b": "έστριψε", "c": "έστριψαν", "d": "έστριψα"},
+                    "answer": "a",
+                    "explanation": "Augment drops in 2pl. Ending -ατε: στρίψατε."
+                },
+                {
+                    "form": "αυτοί / αυτές / αυτά",
+                    "options": {"a": "στρίψαμε", "b": "έστριψαν", "c": "έστριψες", "d": "στρίψατε"},
+                    "answer": "b",
+                    "explanation": "3pl ending -αν: έστριψαν."
+                }
+            ]
+        },
+        {
+            "id": "ps-dv-0076",
+            "type": "drill_verb",
+            "header": "ανακαλύπτω (to discover)",
+            "conjugations": [
+                {
+                    "form": "εγώ",
+                    "options": {"a": "ανακάλυψα", "b": "ανακάλυψες", "c": "ανακάλυψε", "d": "ανακαλύψαμε"},
+                    "answer": "a",
+                    "explanation": "ανακαλύπτω ends in -πτ. The -π + -σ → -ψ (the τ is dropped). Stress shifts: ανακάλυψα (1sg)."
+                },
+                {
+                    "form": "εσύ",
+                    "options": {"a": "ανακάλυψα", "b": "ανακάλυψες", "c": "ανακαλύψαμε", "d": "ανακαλύψατε"},
+                    "answer": "b",
+                    "explanation": "Same -ψ stem. 2sg ending -ες: ανακάλυψες."
+                },
+                {
+                    "form": "αυτός / αυτή / αυτό",
+                    "options": {"a": "ανακάλυψες", "b": "ανακαλύψαμε", "c": "ανακάλυψε", "d": "ανακάλυψαν"},
+                    "answer": "c",
+                    "explanation": "Same -ψ stem. 3sg ending -ε: ανακάλυψε."
+                },
+                {
+                    "form": "εμείς",
+                    "options": {"a": "ανακάλυψαν", "b": "ανακάλυψες", "c": "ανακάλυψε", "d": "ανακαλύψαμε"},
+                    "answer": "d",
+                    "explanation": "1pl ending -αμε: ανακαλύψαμε."
+                },
+                {
+                    "form": "εσείς",
+                    "options": {"a": "ανακαλύψατε", "b": "ανακάλυψε", "c": "ανακάλυψαν", "d": "ανακάλυψα"},
+                    "answer": "a",
+                    "explanation": "2pl ending -ατε: ανακαλύψατε."
+                },
+                {
+                    "form": "αυτοί / αυτές / αυτά",
+                    "options": {"a": "ανακαλύψαμε", "b": "ανακάλυψαν", "c": "ανακάλυψες", "d": "ανακαλύψατε"},
+                    "answer": "b",
+                    "explanation": "3pl ending -αν: ανακάλυψαν."
+                }
+            ]
+        },
+        {
+            "id": "ps-dv-0077",
+            "type": "drill_verb",
+            "header": "περιγράφω (to describe)",
+            "conjugations": [
+                {
+                    "form": "εγώ",
+                    "options": {"a": "περιέγραψα", "b": "περιέγραψες", "c": "περιέγραψε", "d": "περιγράψαμε"},
+                    "answer": "a",
+                    "explanation": "περιγράφω ends in -φ. The -φ + -σ → -ψ. The augment έ- is inserted after the prefix περι-: περι-έ-γραψα."
+                },
+                {
+                    "form": "εσύ",
+                    "options": {"a": "περιέγραψα", "b": "περιέγραψες", "c": "περιγράψαμε", "d": "περιγράψατε"},
+                    "answer": "b",
+                    "explanation": "Same stem. 2sg ending -ες: περιέγραψες."
+                },
+                {
+                    "form": "αυτός / αυτή / αυτό",
+                    "options": {"a": "περιέγραψες", "b": "περιγράψαμε", "c": "περιέγραψε", "d": "περιέγραψαν"},
+                    "answer": "c",
+                    "explanation": "Same stem. 3sg ending -ε: περιέγραψε."
+                },
+                {
+                    "form": "εμείς",
+                    "options": {"a": "περιέγραψαν", "b": "περιέγραψες", "c": "περιέγραψε", "d": "περιγράψαμε"},
+                    "answer": "d",
+                    "explanation": "In 1pl, the augment drops. Ending -αμε: περιγράψαμε."
+                },
+                {
+                    "form": "εσείς",
+                    "options": {"a": "περιγράψατε", "b": "περιέγραψε", "c": "περιέγραψαν", "d": "περιέγραψα"},
+                    "answer": "a",
+                    "explanation": "In 2pl, the augment drops. Ending -ατε: περιγράψατε."
+                },
+                {
+                    "form": "αυτοί / αυτές / αυτά",
+                    "options": {"a": "περιγράψαμε", "b": "περιέγραψαν", "c": "περιέγραψες", "d": "περιγράψατε"},
+                    "answer": "b",
+                    "explanation": "3pl ending -αν: περιέγραψαν."
+                }
+            ]
+        },
+        {
+            "id": "ps-dv-0078",
+            "type": "drill_verb",
+            "header": "αντιγράφω (to copy)",
+            "conjugations": [
+                {
+                    "form": "εγώ",
+                    "options": {"a": "αντέγραψα", "b": "αντέγραψες", "c": "αντέγραψε", "d": "αντιγράψαμε"},
+                    "answer": "a",
+                    "explanation": "αντιγράφω ends in -φ. The -φ + -σ → -ψ. The augment έ- is inserted after the prefix αντι-: αντι-έ-γραψα → αντέγραψα."
+                },
+                {
+                    "form": "εσύ",
+                    "options": {"a": "αντέγραψα", "b": "αντέγραψες", "c": "αντιγράψαμε", "d": "αντιγράψατε"},
+                    "answer": "b",
+                    "explanation": "Same stem. 2sg ending -ες: αντέγραψες."
+                },
+                {
+                    "form": "αυτός / αυτή / αυτό",
+                    "options": {"a": "αντέγραψες", "b": "αντιγράψαμε", "c": "αντέγραψε", "d": "αντέγραψαν"},
+                    "answer": "c",
+                    "explanation": "Same stem. 3sg ending -ε: αντέγραψε."
+                },
+                {
+                    "form": "εμείς",
+                    "options": {"a": "αντέγραψαν", "b": "αντέγραψες", "c": "αντέγραψε", "d": "αντιγράψαμε"},
+                    "answer": "d",
+                    "explanation": "In 1pl, the augment drops. Ending -αμε: αντιγράψαμε."
+                },
+                {
+                    "form": "εσείς",
+                    "options": {"a": "αντιγράψατε", "b": "αντέγραψε", "c": "αντέγραψαν", "d": "αντέγραψα"},
+                    "answer": "a",
+                    "explanation": "In 2pl, the augment drops. Ending -ατε: αντιγράψατε."
+                },
+                {
+                    "form": "αυτοί / αυτές / αυτά",
+                    "options": {"a": "αντιγράψαμε", "b": "αντέγραψαν", "c": "αντέγραψες", "d": "αντιγράψατε"},
+                    "answer": "b",
+                    "explanation": "3pl ending -αν: αντέγραψαν."
+                }
+            ]
+        },
+        {
+            "id": "ps-dv-0079",
+            "type": "drill_verb",
+            "header": "σκέφτομαι (to think / consider)",
+            "conjugations": [
+                {
+                    "form": "εγώ",
+                    "options": {"a": "σκέφτηκα", "b": "σκέφτηκες", "c": "σκέφτηκε", "d": "σκεφτήκαμε"},
+                    "answer": "a",
+                    "explanation": "σκέφτομαι is a deponent verb. Its past uses the -ηκα pattern. 1sg: σκέφτηκα."
+                },
+                {
+                    "form": "εσύ",
+                    "options": {"a": "σκέφτηκα", "b": "σκέφτηκες", "c": "σκεφτήκαμε", "d": "σκεφτήκατε"},
+                    "answer": "b",
+                    "explanation": "Same -ηκ- stem. 2sg ending -ες: σκέφτηκες."
+                },
+                {
+                    "form": "αυτός / αυτή / αυτό",
+                    "options": {"a": "σκέφτηκες", "b": "σκεφτήκαμε", "c": "σκέφτηκε", "d": "σκέφτηκαν"},
+                    "answer": "c",
+                    "explanation": "Same -ηκ- stem. 3sg ending -ε: σκέφτηκε."
+                },
+                {
+                    "form": "εμείς",
+                    "options": {"a": "σκέφτηκαν", "b": "σκέφτηκες", "c": "σκέφτηκε", "d": "σκεφτήκαμε"},
+                    "answer": "d",
+                    "explanation": "1pl ending -αμε: σκεφτήκαμε."
+                },
+                {
+                    "form": "εσείς",
+                    "options": {"a": "σκεφτήκατε", "b": "σκέφτηκε", "c": "σκέφτηκαν", "d": "σκέφτηκα"},
+                    "answer": "a",
+                    "explanation": "2pl ending -ατε: σκεφτήκατε."
+                },
+                {
+                    "form": "αυτοί / αυτές / αυτά",
+                    "options": {"a": "σκεφτήκαμε", "b": "σκέφτηκαν", "c": "σκέφτηκες", "d": "σκεφτήκατε"},
+                    "answer": "b",
+                    "explanation": "3pl ending -αν: σκέφτηκαν."
+                }
+            ]
+        },
+        {
+            "id": "ps-dv-0080",
+            "type": "drill_verb",
+            "header": "αποφασίζω (to decide)",
+            "conjugations": [
+                {
+                    "form": "εγώ",
+                    "options": {"a": "αποφάσισα", "b": "αποφάσισες", "c": "αποφάσισε", "d": "αποφασίσαμε"},
+                    "answer": "a",
+                    "explanation": "αποφασίζω ends in -ζ → -σ in the past. The word is very long so no augment: αποφάσισα (1sg)."
+                },
+                {
+                    "form": "εσύ",
+                    "options": {"a": "αποφάσισα", "b": "αποφάσισες", "c": "αποφασίσαμε", "d": "αποφασίσατε"},
+                    "answer": "b",
+                    "explanation": "Same -σ stem. 2sg ending -ες: αποφάσισες."
+                },
+                {
+                    "form": "αυτός / αυτή / αυτό",
+                    "options": {"a": "αποφάσισες", "b": "αποφασίσαμε", "c": "αποφάσισε", "d": "αποφάσισαν"},
+                    "answer": "c",
+                    "explanation": "Same -σ stem. 3sg ending -ε: αποφάσισε."
+                },
+                {
+                    "form": "εμείς",
+                    "options": {"a": "αποφάσισαν", "b": "αποφάσισες", "c": "αποφάσισε", "d": "αποφασίσαμε"},
+                    "answer": "d",
+                    "explanation": "1pl ending -αμε: αποφασίσαμε."
+                },
+                {
+                    "form": "εσείς",
+                    "options": {"a": "αποφασίσατε", "b": "αποφάσισε", "c": "αποφάσισαν", "d": "αποφάσισα"},
+                    "answer": "a",
+                    "explanation": "2pl ending -ατε: αποφασίσατε."
+                },
+                {
+                    "form": "αυτοί / αυτές / αυτά",
+                    "options": {"a": "αποφασίσαμε", "b": "αποφάσισαν", "c": "αποφάσισες", "d": "αποφασίσατε"},
+                    "answer": "b",
+                    "explanation": "3pl ending -αν: αποφάσισαν."
+                }
+            ]
+        }
+    ]
+}
