@@ -70,6 +70,12 @@
         const topicId = params.get('id');
         const blocksList = document.getElementById('blocksList');
 
+        if (!topicId) {
+            blocksList.innerHTML = '<div class="block-card"><span class="block-name">Invalid topic.</span></div>';
+            document.getElementById('topicTitle').textContent = 'Invalid Topic';
+            return;
+        }
+
         Promise.all([
             fetch('../content/vocabulary/topics.json').then(r => r.json()),
             fetch(`../content/vocabulary/${topicId}/vocabulary.json`).then(r => {
