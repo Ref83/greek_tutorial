@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercises – Greek Tutorial</title>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #f5f5f0;
+            color: #1a1a1a;
+            min-height: 100vh;
+            padding: 40px 20px;
+        }
+        .stats-panel {
+            max-width: 680px;
+            margin: 0 auto 20px;
+            background: #fff;
+            border-radius: 12px;
+            padding: 16px 28px;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .stats-text {
+            font-size: 0.95rem;
+            color: #555;
+            font-weight: 500;
+        }
+        .stats-text .errors { color: #dc2626; font-weight: 700; }
+        .complete-btn {
+            padding: 8px 18px;
+            border-radius: 8px;
+            border: none;
+            background: #eef2ff;
+            color: #4f46e5;
+            font-size: 0.9rem;
+            font-weight: 600;
+            font-family: inherit;
+            cursor: pointer;
+            transition: background 0.15s;
+        }
+        .complete-btn:hover { background: #e0e7ff; }
+        .exercise-panel {
+            max-width: 680px;
+            margin: 0 auto;
+            background: #fff;
+            border-radius: 12px;
+            padding: 32px 36px;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+        }
+        .exercise-type {
+            font-size: 0.75rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            color: #9ca3af;
+            margin-bottom: 16px;
+        }
+        .exercise-header {
+            font-size: 1.15rem;
+            font-weight: 600;
+            color: #111;
+            margin-bottom: 24px;
+            line-height: 1.5;
+        }
+        .answer-input {
+            width: 100%;
+            padding: 12px 16px;
+            border: 1.5px solid #d1d5db;
+            border-radius: 8px;
+            font-size: 1rem;
+            font-family: inherit;
+            color: #1a1a1a;
+            outline: none;
+            transition: border-color 0.15s;
+        }
+        .answer-input:focus { border-color: #4f46e5; }
+        .answer-input.correct { border-color: #059669; background: #f0fdf4; }
+        .answer-input.wrong { border-color: #dc2626; background: #fef2f2; }
+        .answer-input:disabled { background: #f9fafb; cursor: default; }
+        .feedback {
+            margin-top: 12px;
+            font-size: 0.9rem;
+            min-height: 20px;
+        }
+        .feedback.correct { color: #059669; font-weight: 600; }
+        .feedback.wrong { color: #dc2626; }
+        .btn-row {
+            margin-top: 24px;
+            display: flex;
+            gap: 12px;
+        }
+        .submit-btn {
+            padding: 10px 24px;
+            border: none;
+            border-radius: 8px;
+            background: #4f46e5;
+            color: #fff;
+            font-size: 0.95rem;
+            font-weight: 600;
+            font-family: inherit;
+            cursor: pointer;
+            transition: background 0.15s;
+        }
+        .submit-btn:hover:not(:disabled) { background: #4338ca; }
+        .submit-btn:disabled { background: #a5b4fc; cursor: default; }
+        .next-btn {
+            padding: 10px 24px;
+            border: none;
+            border-radius: 8px;
+            background: #ecfdf5;
+            color: #059669;
+            font-size: 0.95rem;
+            font-weight: 600;
+            font-family: inherit;
+            cursor: pointer;
+            transition: background 0.15s;
+            display: none;
+        }
+        .next-btn:hover { background: #d1fae5; }
+        .summary-panel {
+            max-width: 680px;
+            margin: 0 auto;
+            background: #fff;
+            border-radius: 12px;
+            padding: 48px 36px;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+            text-align: center;
+            display: none;
+        }
+        .summary-panel h2 {
+            font-size: 1.4rem;
+            font-weight: 700;
+            color: #111;
+            margin-bottom: 12px;
+        }
+        .summary-panel p {
+            font-size: 1rem;
+            color: #555;
+            margin-bottom: 28px;
+        }
+        .summary-panel .errors { color: #dc2626; font-weight: 700; }
+        @media (max-width: 480px) {
+            .exercise-panel { padding: 24px 20px; }
+            .stats-panel { padding: 14px 20px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="stats-panel">
+        <span class="stats-text" id="statsText">0 done / <span class="errors">0 errors</span></span>
+        <button class="complete-btn" onclick="history.back()">Complete</button>
+    </div>
+    <div class="exercise-panel" id="exercisePanel">
+        <div class="exercise-type" id="exerciseType"></div>
+        <div class="exercise-header" id="exerciseHeader">Loading exercises...</div>
+        <input class="answer-input" id="answerInput" type="text" placeholder="Type your answer…" autocomplete="off" autocorrect="off" spellcheck="false">
+        <div class="feedback" id="feedback"></div>
+        <div class="btn-row">
+            <button class="submit-btn" id="submitBtn">Check</button>
+            <button class="next-btn" id="nextBtn">Next →</button>
+        </div>
+    </div>
+    <div class="summary-panel" id="summaryPanel">
+        <h2>All done!</h2>
+        <p id="summaryText"></p>
+        <button class="complete-btn" onclick="history.back()">Back</button>
+    </div>
+    <script>
+        const params = new URLSearchParams(window.location.search);
+        const topicId = params.get('id');
+        const blockIndex = parseInt(params.get('block') || '0', 10);
+        const blockNum = blockIndex + 1;
+
+        let exercises = [];
+        let current = 0;
+        let done = 0;
+        let errors = 0;
+
+        function esc(s) { const d = document.createElement('div'); d.textContent = String(s); return d.innerHTML; }
+
+        function shuffle(arr) {
+            for (let i = arr.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [arr[i], arr[j]] = [arr[j], arr[i]];
+            }
+            return arr;
+        }
+
+        async function loadAllExercises() {
+            const all = [];
+            let i = 1;
+            while (true) {
+                const url = `../content/vocabulary/${topicId}/block_${blockNum}_exercises_${i}.json`;
+                const resp = await fetch(url);
+                if (!resp.ok) break;
+                const data = await resp.json();
+                all.push(...(data.exercises || []));
+                i++;
+            }
+            return shuffle(all);
+        }
+
+        function updateStats() {
+            document.getElementById('statsText').innerHTML =
+                `${done} done / <span class="errors">${errors} errors</span>`;
+        }
+
+        function showExercise(ex) {
+            const typeLabel = { translate: 'Translate' }[ex.type] || esc(ex.type);
+            document.getElementById('exerciseType').textContent = typeLabel;
+            document.getElementById('exerciseHeader').textContent = ex.header;
+
+            const input = document.getElementById('answerInput');
+            input.value = '';
+            input.disabled = false;
+            input.className = 'answer-input';
+            input.style.display = '';
+
+            document.getElementById('feedback').textContent = '';
+            document.getElementById('feedback').className = 'feedback';
+            document.getElementById('submitBtn').disabled = false;
+            document.getElementById('submitBtn').style.display = '';
+            document.getElementById('nextBtn').style.display = 'none';
+
+            input.focus();
+        }
+
+        function checkAnswer(ex) {
+            const input = document.getElementById('answerInput');
+            const userAnswer = input.value.trim().toLowerCase();
+            const correct = ex.answer.trim().toLowerCase();
+            const isCorrect = userAnswer === correct;
+
+            input.disabled = true;
+            document.getElementById('submitBtn').disabled = true;
+            document.getElementById('nextBtn').style.display = '';
+
+            done++;
+            if (!isCorrect) {
+                errors++;
+                input.classList.add('wrong');
+                document.getElementById('feedback').textContent = `Correct answer: ${ex.answer}`;
+                document.getElementById('feedback').className = 'feedback wrong';
+            } else {
+                input.classList.add('correct');
+                document.getElementById('feedback').textContent = 'Correct!';
+                document.getElementById('feedback').className = 'feedback correct';
+            }
+            updateStats();
+        }
+
+        function advance() {
+            current++;
+            if (current >= exercises.length) {
+                document.getElementById('exercisePanel').style.display = 'none';
+                const summary = document.getElementById('summaryPanel');
+                summary.style.display = 'block';
+                document.getElementById('summaryText').innerHTML =
+                    `${done} done${errors > 0 ? `, <span class="errors">${errors} errors</span>` : ', no errors!'}`;
+                return;
+            }
+            showExercise(exercises[current]);
+        }
+
+        document.getElementById('submitBtn').addEventListener('click', () => {
+            const input = document.getElementById('answerInput');
+            if (!input.value.trim()) return;
+            checkAnswer(exercises[current]);
+        });
+
+        document.getElementById('answerInput').addEventListener('keydown', e => {
+            if (e.key === 'Enter') {
+                const submitBtn = document.getElementById('submitBtn');
+                const nextBtn = document.getElementById('nextBtn');
+                if (!submitBtn.disabled && submitBtn.style.display !== 'none') {
+                    const input = document.getElementById('answerInput');
+                    if (input.value.trim()) checkAnswer(exercises[current]);
+                } else if (nextBtn.style.display !== 'none') {
+                    advance();
+                }
+            }
+        });
+
+        document.getElementById('nextBtn').addEventListener('click', advance);
+
+        if (!topicId) {
+            document.getElementById('exerciseHeader').textContent = 'Invalid topic.';
+            document.getElementById('answerInput').style.display = 'none';
+            document.getElementById('submitBtn').style.display = 'none';
+        } else {
+            loadAllExercises().then(exs => {
+                exercises = exs;
+                if (!exercises.length) {
+                    document.getElementById('exerciseHeader').textContent = 'No exercises available for this block.';
+                    document.getElementById('answerInput').style.display = 'none';
+                    document.getElementById('submitBtn').style.display = 'none';
+                    return;
+                }
+                showExercise(exercises[0]);
+            });
+        }
+    </script>
+</body>
+</html>
