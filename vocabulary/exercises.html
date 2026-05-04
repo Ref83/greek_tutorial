@@ -232,7 +232,7 @@
         function checkAnswer(ex) {
             const input = document.getElementById('answerInput');
             const userAnswer = input.value.trim().toLowerCase();
-            const correct = ex.answer.trim().toLowerCase();
+            const correct = (ex.answer || '').trim().toLowerCase();
             const isCorrect = userAnswer === correct;
 
             input.disabled = true;
