@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vocabulary Block – Greek Tutorial</title>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #f5f5f0;
+            color: #1a1a1a;
+            min-height: 100vh;
+            padding: 40px 20px;
+        }
+        .top-panel {
+            max-width: 680px;
+            margin: 0 auto 20px;
+            background: #fff;
+            border-radius: 12px;
+            padding: 16px 28px;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+            display: flex;
+            gap: 12px;
+        }
+        .action-btn {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            text-decoration: none;
+            font-size: 0.9rem;
+            font-weight: 600;
+            padding: 8px 16px;
+            border-radius: 8px;
+            transition: background 0.15s;
+        }
+        .exercises-btn { color: #4f46e5; background: #eef2ff; }
+        .exercises-btn:hover { background: #e0e7ff; }
+        .read-btn { color: #059669; background: #ecfdf5; }
+        .read-btn:hover { background: #d1fae5; }
+        .items-list {
+            max-width: 680px;
+            margin: 0 auto;
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+        .item-row {
+            background: #fff;
+            border-radius: 12px;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+            overflow: hidden;
+        }
+        .item-header {
+            padding: 18px 28px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            cursor: pointer;
+            user-select: none;
+        }
+        .item-header:hover { background: #f8f7ff; }
+        .item-greek {
+            font-size: 1rem;
+            font-weight: 600;
+            color: #1a1a1a;
+        }
+        .item-toggle {
+            color: #4f46e5;
+            font-size: 1.1rem;
+            transition: transform 0.2s;
+        }
+        .item-row.open .item-toggle { transform: rotate(90deg); }
+        .item-detail {
+            display: none;
+            padding: 0 28px 20px;
+            border-top: 1px solid #f0f0f0;
+        }
+        .item-row.open .item-detail { display: block; }
+        .detail-meaning {
+            font-size: 0.95rem;
+            color: #555;
+            margin: 14px 0 16px;
+        }
+        .detail-section-label {
+            font-size: 0.75rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            color: #9ca3af;
+            margin-bottom: 8px;
+        }
+        .detail-examples, .detail-collocations {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+            margin-bottom: 16px;
+        }
+        .detail-entry {
+            background: #f8f7ff;
+            border-radius: 8px;
+            padding: 10px 14px;
+        }
+        .detail-greek { font-size: 0.95rem; color: #1a1a1a; margin-bottom: 2px; }
+        .detail-translation { font-size: 0.85rem; color: #888; }
+        @media (max-width: 480px) {
+            .item-header { padding: 16px 20px; }
+            .item-detail { padding: 0 20px 16px; }
+            .top-panel { padding: 14px 20px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="top-panel">
+        <a class="action-btn exercises-btn" id="exercisesBtn" href="#">✏️ Exercises</a>
+        <a class="action-btn read-btn" id="readBtn" href="#">📖 Read</a>
+    </div>
+    <div class="items-list" id="itemsList"></div>
+    <script>
+        const params = new URLSearchParams(window.location.search);
+        const topicId = params.get('id');
+        const blockIndex = parseInt(params.get('block') || '0', 10);
+
+        if (!topicId) {
+            document.getElementById('itemsList').innerHTML = '<div style="padding:20px;color:#888;">Invalid topic.</div>';
+        } else {
+            document.getElementById('exercisesBtn').href =
+                `exercises.html?id=${encodeURIComponent(topicId)}&block=${blockIndex}`;
+            document.getElementById('readBtn').href =
+                `read.html?id=${encodeURIComponent(topicId)}&block=${blockIndex}`;
+
+            fetch(`../content/vocabulary/${topicId}/vocabulary.json`)
+                .then(r => { if (!r.ok) throw new Error(); return r.json(); })
+                .then(data => {
+                    const block = (data.blocks || [])[blockIndex];
+                    if (!block) return;
+                    document.title = `Block ${blockIndex + 1} – Greek Tutorial`;
+
+                    const list = document.getElementById('itemsList');
+                    (block.items || []).forEach(item => {
+                        const examplesHtml = (item.examples || []).map(e => `
+                            <div class="detail-entry">
+                                <div class="detail-greek">${e.example}</div>
+                                <div class="detail-translation">${e.translation}</div>
+                            </div>`).join('');
+
+                        const collocationsHtml = (item.collocations || []).map(c => `
+                            <div class="detail-entry">
+                                <div class="detail-greek">${c.collocation}</div>
+                                <div class="detail-translation">${c.translation}</div>
+                            </div>`).join('');
+
+                        const row = document.createElement('div');
+                        row.className = 'item-row';
+                        row.innerHTML = `
+                            <div class="item-header">
+                                <span class="item-greek">${item.item}</span>
+                                <span class="item-toggle">›</span>
+                            </div>
+                            <div class="item-detail">
+                                <div class="detail-meaning">${item.meaning}</div>
+                                ${examplesHtml ? `<div class="detail-section-label">Examples</div><div class="detail-examples">${examplesHtml}</div>` : ''}
+                                ${collocationsHtml ? `<div class="detail-section-label">Collocations</div><div class="detail-collocations">${collocationsHtml}</div>` : ''}
+                            </div>`;
+
+                        row.querySelector('.item-header').addEventListener('click', () => {
+                            row.classList.toggle('open');
+                        });
+                        list.appendChild(row);
+                    });
+                });
+        }
+    </script>
+</body>
+</html>
