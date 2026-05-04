@@ -1,6 +1,5 @@
 # Content vocabulary topic page
 
-The page should consist of list of items from `vocabulary.json` from the corresponding topic
-Each item in the list should show `phrase` from the JSON file
-When user click on the item, the item card page should be opened
-The item card page described in `vocabulary_item.md`
+Vocabulary topic should consist of blocks from `vocabulary.json`
+Each block should be represented with panel with `Block <N>. <K> items`. Where N - number of block, K - number of vocabulary items in the block.
+When user press on block it should lead to the page that described in `vocabulary_block.md`

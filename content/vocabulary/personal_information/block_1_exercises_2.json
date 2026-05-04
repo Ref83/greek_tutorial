@@ -1,15 +1,15 @@
 {
     "exercises": [
         {
-            "id": "e1a1-004",
+            "id": "e1a1-007",
             "type": "translate",
-            "header": "Are you well today?",
+            "header": "Are you well today 3?",
             "answer": "Εσύ είσαι καλά σήμερα;"
         },
         {
-            "id": "e1a1-005",
+            "id": "e1a1-008",
             "type": "translate",
-            "header": "Are you well today 1?",
+            "header": "Are you well today 4?",
             "answer": "Εσύ είσαι καλά σήμερα 1;"
         }
     ]
