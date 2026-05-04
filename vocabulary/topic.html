@@ -73,38 +73,37 @@
         if (!topicId) {
             blocksList.innerHTML = '<div class="block-card"><span class="block-name">Invalid topic.</span></div>';
             document.getElementById('topicTitle').textContent = 'Invalid Topic';
-            return;
-        }
+        } else {
+            Promise.all([
+                fetch('../content/vocabulary/topics.json').then(r => r.json()),
+                fetch(`../content/vocabulary/${topicId}/vocabulary.json`).then(r => {
+                    if (!r.ok) throw new Error('Not found');
+                    return r.json();
+                })
+            ]).then(([topicsData, vocabData]) => {
+                const topic = (topicsData.topics || []).find(t => t.id === topicId);
+                if (topic) {
+                    document.title = topic.name + ' – Greek Tutorial';
+                    document.getElementById('topicTitle').textContent = topic.name;
+                }
 
-        Promise.all([
-            fetch('../content/vocabulary/topics.json').then(r => r.json()),
-            fetch(`../content/vocabulary/${topicId}/vocabulary.json`).then(r => {
-                if (!r.ok) throw new Error('Not found');
-                return r.json();
-            })
-        ]).then(([topicsData, vocabData]) => {
-            const topic = (topicsData.topics || []).find(t => t.id === topicId);
-            if (topic) {
-                document.title = topic.name + ' – Greek Tutorial';
-                document.getElementById('topicTitle').textContent = topic.name;
-            }
+                const blocks = vocabData.blocks || [];
+                if (!blocks.length) {
+                    blocksList.innerHTML = '<div class="block-card"><span class="block-name">No blocks available.</span></div>';
+                    return;
+                }
 
-            const blocks = vocabData.blocks || [];
-            if (!blocks.length) {
-                blocksList.innerHTML = '<div class="block-card"><span class="block-name">No blocks available.</span></div>';
-                return;
-            }
-
-            blocks.forEach((block, i) => {
-                const a = document.createElement('a');
-                a.className = 'block-card';
-                a.href = `block.html?id=${encodeURIComponent(topicId)}&block=${i}`;
-                a.innerHTML = `<span class="block-name">Block ${i + 1}. ${(block.items || []).length} items</span><span class="block-arrow">→</span>`;
-                blocksList.appendChild(a);
+                blocks.forEach((block, i) => {
+                    const a = document.createElement('a');
+                    a.className = 'block-card';
+                    a.href = `block.html?id=${encodeURIComponent(topicId)}&block=${i}`;
+                    a.innerHTML = `<span class="block-name">Block ${i + 1}. ${(block.items || []).length} items</span><span class="block-arrow">→</span>`;
+                    blocksList.appendChild(a);
+                });
+            }).catch(() => {
+                blocksList.innerHTML = '<div class="block-card"><span class="block-name">Unable to load vocabulary.</span></div>';
             });
-        }).catch(() => {
-            blocksList.innerHTML = '<div class="block-card"><span class="block-name">Unable to load vocabulary.</span></div>';
-        });
+        }
     </script>
 </body>
 </html>
