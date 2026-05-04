@@ -135,7 +135,11 @@
 
                         row.appendChild(textDiv);
                         row.appendChild(translationDiv);
-                        row.addEventListener('click', () => row.classList.toggle('open'));
+                        row.addEventListener('click', () => {
+                            const isOpen = row.classList.contains('open');
+                            list.querySelectorAll('.sentence-row.open').forEach(r => r.classList.remove('open'));
+                            if (!isOpen) row.classList.add('open');
+                        });
                         sentencesList.appendChild(row);
                     });
                 })
