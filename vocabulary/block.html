@@ -166,7 +166,9 @@
                             </div>`;
 
                         row.querySelector('.item-header').addEventListener('click', () => {
-                            row.classList.toggle('open');
+                            const isOpen = row.classList.contains('open');
+                            list.querySelectorAll('.item-row.open').forEach(r => r.classList.remove('open'));
+                            if (!isOpen) row.classList.add('open');
                         });
                         list.appendChild(row);
                     });
