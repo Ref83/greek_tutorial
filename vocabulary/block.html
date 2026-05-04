@@ -136,29 +136,31 @@
                     if (!block) return;
                     document.title = `Block ${blockIndex + 1} – Greek Tutorial`;
 
+                    function esc(s) { const d = document.createElement('div'); d.textContent = String(s); return d.innerHTML; }
+
                     const list = document.getElementById('itemsList');
                     (block.items || []).forEach(item => {
                         const examplesHtml = (item.examples || []).map(e => `
                             <div class="detail-entry">
-                                <div class="detail-greek">${e.example}</div>
-                                <div class="detail-translation">${e.translation}</div>
+                                <div class="detail-greek">${esc(e.example)}</div>
+                                <div class="detail-translation">${esc(e.translation)}</div>
                             </div>`).join('');
 
                         const collocationsHtml = (item.collocations || []).map(c => `
                             <div class="detail-entry">
-                                <div class="detail-greek">${c.collocation}</div>
-                                <div class="detail-translation">${c.translation}</div>
+                                <div class="detail-greek">${esc(c.collocation)}</div>
+                                <div class="detail-translation">${esc(c.translation)}</div>
                             </div>`).join('');
 
                         const row = document.createElement('div');
                         row.className = 'item-row';
                         row.innerHTML = `
                             <div class="item-header">
-                                <span class="item-greek">${item.item}</span>
+                                <span class="item-greek">${esc(item.item)}</span>
                                 <span class="item-toggle">›</span>
                             </div>
                             <div class="item-detail">
-                                <div class="detail-meaning">${item.meaning}</div>
+                                <div class="detail-meaning">${esc(item.meaning)}</div>
                                 ${examplesHtml ? `<div class="detail-section-label">Examples</div><div class="detail-examples">${examplesHtml}</div>` : ''}
                                 ${collocationsHtml ? `<div class="detail-section-label">Collocations</div><div class="detail-collocations">${collocationsHtml}</div>` : ''}
                             </div>`;
