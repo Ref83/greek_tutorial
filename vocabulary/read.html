@@ -44,32 +44,26 @@
         .sentences-list {
             max-width: 680px;
             margin: 0 auto;
-            background: #fff;
-            border-radius: 12px;
-            box-shadow: 0 1px 4px rgba(0,0,0,0.08);
-            overflow: hidden;
         }
         .sentence-row {
             cursor: pointer;
-            border-bottom: 1px solid #f0f0f0;
+            border-radius: 8px;
+            -webkit-tap-highlight-color: transparent;
         }
-        .sentence-row:last-child { border-bottom: none; }
+        .sentence-row:hover,
+        .sentence-row.open { background: rgba(79,70,229,0.05); }
         .sentence-text {
-            padding: 16px 20px;
+            padding: 12px 16px;
             font-size: 1rem;
             font-weight: 500;
             color: #1a1a1a;
             user-select: none;
-            -webkit-tap-highlight-color: transparent;
         }
-        .sentence-row:active .sentence-text,
-        .sentence-row.open .sentence-text { background: #f8f7ff; }
         .sentence-translation {
             display: none;
-            padding: 0 20px 14px;
+            padding: 0 16px 12px;
             font-size: 0.9rem;
             color: #888;
-            background: #f8f7ff;
         }
         .sentence-row.open .sentence-translation { display: block; }
         @media (max-width: 480px) {
