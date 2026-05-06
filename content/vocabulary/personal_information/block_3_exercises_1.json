@@ -1,0 +1,94 @@
+{
+    "exercises": [
+        {
+            "id": "e-pi-b3-001",
+            "type": "translate",
+            "header": "My profession is engineer.",
+            "answer": "Το επάγγελμά μου είναι μηχανικός."
+        },
+        {
+            "id": "e-pi-b3-002",
+            "type": "translate",
+            "header": "What is your profession?",
+            "answer": "Ποιο είναι το επάγγελμά σου;"
+        },
+        {
+            "id": "e-pi-b3-003",
+            "type": "translate",
+            "header": "My work is very interesting.",
+            "answer": "Η εργασία μου είναι πολύ ενδιαφέρουσα."
+        },
+        {
+            "id": "e-pi-b3-004",
+            "type": "translate",
+            "header": "I work every day from nine in the morning.",
+            "answer": "Δουλεύω κάθε μέρα από τις εννέα το πρωί."
+        },
+        {
+            "id": "e-pi-b3-005",
+            "type": "translate",
+            "header": "Where do you work?",
+            "answer": "Πού δουλεύεις;"
+        },
+        {
+            "id": "e-pi-b3-006",
+            "type": "translate",
+            "header": "My company has many employees.",
+            "answer": "Η εταιρεία μου έχει πολλούς υπαλλήλους."
+        },
+        {
+            "id": "e-pi-b3-007",
+            "type": "translate",
+            "header": "I went to a good school in Athens.",
+            "answer": "Πήγα σε ένα καλό σχολείο στην Αθήνα."
+        },
+        {
+            "id": "e-pi-b3-008",
+            "type": "translate",
+            "header": "I studied at the university in Athens.",
+            "answer": "Σπούδασα στο πανεπιστήμιο στην Αθήνα."
+        },
+        {
+            "id": "e-pi-b3-009",
+            "type": "translate",
+            "header": "I am studying the Greek language now.",
+            "answer": "Σπουδάζω τώρα ελληνική γλώσσα."
+        },
+        {
+            "id": "e-pi-b3-010",
+            "type": "translate",
+            "header": "My hobbies are photography and music.",
+            "answer": "Τα χόμπι μου είναι η φωτογραφία και η μουσική."
+        },
+        {
+            "id": "e-pi-b3-011",
+            "type": "translate",
+            "header": "Do you speak Greek?",
+            "answer": "Μιλάς ελληνικά;"
+        },
+        {
+            "id": "e-pi-b3-012",
+            "type": "translate",
+            "header": "I learn new words every day.",
+            "answer": "Μαθαίνω νέες λέξεις κάθε μέρα."
+        },
+        {
+            "id": "e-pi-b3-013",
+            "type": "translate",
+            "header": "My passport is Greek.",
+            "answer": "Το διαβατήριό μου είναι ελληνικό."
+        },
+        {
+            "id": "e-pi-b3-014",
+            "type": "translate",
+            "header": "I need my passport to travel.",
+            "answer": "Χρειάζομαι το διαβατήριό μου για να ταξιδέψω."
+        },
+        {
+            "id": "e-pi-b3-015",
+            "type": "translate",
+            "header": "My ID card has all my information.",
+            "answer": "Η ταυτότητά μου έχει όλες τις πληροφορίες μου."
+        }
+    ]
+}

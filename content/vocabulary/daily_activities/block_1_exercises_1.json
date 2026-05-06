@@ -1,0 +1,17 @@
+{
+    "exercises": [
+        {"id": "e-da-b1-001", "type": "translate", "header": "I wake up at seven in the morning.", "answer": "Ξυπνώ στις επτά το πρωί."},
+        {"id": "e-da-b1-002", "type": "translate", "header": "What time do you wake up?", "answer": "Τι ώρα ξυπνάς;"},
+        {"id": "e-da-b1-003", "type": "translate", "header": "I get up from bed every morning.", "answer": "Σηκώνομαι από το κρεβάτι κάθε πρωί."},
+        {"id": "e-da-b1-004", "type": "translate", "header": "I don't want to get up today.", "answer": "Δεν θέλω να σηκωθώ σήμερα."},
+        {"id": "e-da-b1-005", "type": "translate", "header": "I wash every morning with cold water.", "answer": "Πλένομαι κάθε πρωί με κρύο νερό."},
+        {"id": "e-da-b1-006", "type": "translate", "header": "Wash your hands before you eat!", "answer": "Πλύνε τα χέρια σου πριν φας!"},
+        {"id": "e-da-b1-007", "type": "translate", "header": "I get dressed quickly and leave.", "answer": "Ντύνομαι γρήγορα και φεύγω."},
+        {"id": "e-da-b1-008", "type": "translate", "header": "What are you wearing today?", "answer": "Τι φοράς σήμερα;"},
+        {"id": "e-da-b1-009", "type": "translate", "header": "I have breakfast every morning before work.", "answer": "Τρώω πρωινό κάθε πρωί πριν τη δουλειά."},
+        {"id": "e-da-b1-010", "type": "translate", "header": "I never skip breakfast.", "answer": "Ποτέ δεν παραλείπω το πρωινό."},
+        {"id": "e-da-b1-011", "type": "translate", "header": "I leave for work at eight.", "answer": "Φεύγω για τη δουλειά στις οκτώ."},
+        {"id": "e-da-b1-012", "type": "translate", "header": "When do you usually leave?", "answer": "Πότε φεύγεις συνήθως;"},
+        {"id": "e-da-b1-013", "type": "translate", "header": "I return home every evening at six.", "answer": "Επιστρέφω σπίτι κάθε βράδυ στις έξι."}
+    ]
+}

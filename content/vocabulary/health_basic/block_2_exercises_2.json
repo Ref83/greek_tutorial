@@ -1,0 +1,88 @@
+{
+    "exercises": [
+        {
+            "id": "e2hb2-001",
+            "type": "translate",
+            "header": "I feel sick today.",
+            "answer": "Αισθάνομαι άρρωστος σήμερα."
+        },
+        {
+            "id": "e2hb2-002",
+            "type": "translate",
+            "header": "My brother is sick and stays home.",
+            "answer": "Ο αδερφός μου είναι άρρωστος και μένει σπίτι."
+        },
+        {
+            "id": "e2hb2-003",
+            "type": "translate",
+            "header": "I feel very tired after work.",
+            "answer": "Αισθάνομαι πολύ κουρασμένος μετά τη δουλειά."
+        },
+        {
+            "id": "e2hb2-004",
+            "type": "translate",
+            "header": "She is tired and needs rest.",
+            "answer": "Είναι κουρασμένη και χρειάζεται ξεκούραση."
+        },
+        {
+            "id": "e2hb2-005",
+            "type": "translate",
+            "header": "He has a headache and cannot concentrate.",
+            "answer": "Έχει πονοκέφαλο και δεν μπορεί να συγκεντρωθεί."
+        },
+        {
+            "id": "e2hb2-006",
+            "type": "translate",
+            "header": "My sore throat has lasted three days.",
+            "answer": "Ο πονόλαιμός μου διαρκεί τρεις μέρες."
+        },
+        {
+            "id": "e2hb2-007",
+            "type": "translate",
+            "header": "She goes to the doctor in the morning.",
+            "answer": "Πηγαίνει στον γιατρό το πρωί."
+        },
+        {
+            "id": "e2hb2-008",
+            "type": "translate",
+            "header": "How do you feel? asks the doctor.",
+            "answer": "«Πώς αισθάνεσαι;» ρωτάει ο γιατρός."
+        },
+        {
+            "id": "e2hb2-009",
+            "type": "translate",
+            "header": "I feel dizzy and I have nausea.",
+            "answer": "Ζαλίζομαι και έχω ναυτία."
+        },
+        {
+            "id": "e2hb2-010",
+            "type": "translate",
+            "header": "The flu is common in winter.",
+            "answer": "Η γρίπη είναι συχνή τον χειμώνα."
+        },
+        {
+            "id": "e2hb2-011",
+            "type": "translate",
+            "header": "The nurse takes my temperature every morning.",
+            "answer": "Η νοσοκόμα μετράει τη θερμοκρασία μου κάθε πρωί."
+        },
+        {
+            "id": "e2hb2-012",
+            "type": "translate",
+            "header": "The doctor orders a medical examination.",
+            "answer": "Ο γιατρός ζητάει μια εξέταση."
+        },
+        {
+            "id": "e2hb2-013",
+            "type": "translate",
+            "header": "The injection did not hurt at all.",
+            "answer": "Η ένεση δεν πόνεσε καθόλου."
+        },
+        {
+            "id": "e2hb2-014",
+            "type": "translate",
+            "header": "My temperature is normal now.",
+            "answer": "Η θερμοκρασία μου είναι κανονική τώρα."
+        }
+    ]
+}

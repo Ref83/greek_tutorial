@@ -1,16 +1,94 @@
 {
     "exercises": [
         {
-            "id": "e1a1-014",
+            "id": "e-pi-b2-001",
             "type": "translate",
-            "header": "1 Are you well today?",
-            "answer": "2 Εσύ είσαι καλά σήμερα;"
+            "header": "My family is large.",
+            "answer": "Η οικογένειά μου είναι πολυπληθής."
         },
         {
-            "id": "e1a1-025",
+            "id": "e-pi-b2-002",
             "type": "translate",
-            "header": "2 Are you well today 1?",
-            "answer": "1 Εσύ είσαι καλά σήμερα 1;"
+            "header": "I love my family very much.",
+            "answer": "Αγαπώ πολύ την οικογένειά μου."
+        },
+        {
+            "id": "e-pi-b2-003",
+            "type": "translate",
+            "header": "My husband's name is Giorgis.",
+            "answer": "Ο σύζυγός μου λέγεται Γιώργης."
+        },
+        {
+            "id": "e-pi-b2-004",
+            "type": "translate",
+            "header": "My friend's wife is a teacher.",
+            "answer": "Η γυναίκα του φίλου μου είναι δασκάλα."
+        },
+        {
+            "id": "e-pi-b2-005",
+            "type": "translate",
+            "header": "We have three children.",
+            "answer": "Έχουμε τρία παιδιά."
+        },
+        {
+            "id": "e-pi-b2-006",
+            "type": "translate",
+            "header": "My child goes to school.",
+            "answer": "Το παιδί μου πηγαίνει στο σχολείο."
+        },
+        {
+            "id": "e-pi-b2-007",
+            "type": "translate",
+            "header": "My brother lives in Athens.",
+            "answer": "Ο αδελφός μου ζει στην Αθήνα."
+        },
+        {
+            "id": "e-pi-b2-008",
+            "type": "translate",
+            "header": "My sister is a doctor.",
+            "answer": "Η αδελφή μου είναι γιατρός."
+        },
+        {
+            "id": "e-pi-b2-009",
+            "type": "translate",
+            "header": "My parents live in Crete.",
+            "answer": "Οι γονείς μου μένουν στην Κρήτη."
+        },
+        {
+            "id": "e-pi-b2-010",
+            "type": "translate",
+            "header": "My father's name is Michalis.",
+            "answer": "Ο πατέρας μου λέγεται Μιχάλης."
+        },
+        {
+            "id": "e-pi-b2-011",
+            "type": "translate",
+            "header": "My mother is a very good cook.",
+            "answer": "Η μητέρα μου είναι πολύ καλή μαγείρισσα."
+        },
+        {
+            "id": "e-pi-b2-012",
+            "type": "translate",
+            "header": "Where do you come from?",
+            "answer": "Από πού κατάγεσαι;"
+        },
+        {
+            "id": "e-pi-b2-013",
+            "type": "translate",
+            "header": "Now I live in Limassol.",
+            "answer": "Τώρα μένω στη Λεμεσό."
+        },
+        {
+            "id": "e-pi-b2-014",
+            "type": "translate",
+            "header": "Where do you live?",
+            "answer": "Πού μένεις;"
+        },
+        {
+            "id": "e-pi-b2-015",
+            "type": "translate",
+            "header": "I speak two languages, Greek and English.",
+            "answer": "Μιλώ δύο γλώσσες, ελληνικά και αγγλικά."
         }
     ]
 }

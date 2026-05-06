@@ -1,0 +1,94 @@
+{
+    "exercises": [
+        {
+            "id": "e-pi-b3-201",
+            "type": "translate",
+            "header": "I found a good job in the city.",
+            "answer": "Βρήκα καλή εργασία στην πόλη."
+        },
+        {
+            "id": "e-pi-b3-202",
+            "type": "translate",
+            "header": "I work at a large company.",
+            "answer": "Δουλεύω σε μια μεγάλη εταιρεία."
+        },
+        {
+            "id": "e-pi-b3-203",
+            "type": "translate",
+            "header": "The children go to school every day.",
+            "answer": "Τα παιδιά πηγαίνουν στο σχολείο κάθε μέρα."
+        },
+        {
+            "id": "e-pi-b3-204",
+            "type": "translate",
+            "header": "The university is near my house.",
+            "answer": "Το πανεπιστήμιο είναι κοντά στο σπίτι μου."
+        },
+        {
+            "id": "e-pi-b3-205",
+            "type": "translate",
+            "header": "What are you studying?",
+            "answer": "Τι σπουδάζεις;"
+        },
+        {
+            "id": "e-pi-b3-206",
+            "type": "translate",
+            "header": "What is your favourite hobby?",
+            "answer": "Ποιο είναι το αγαπημένο σου χόμπι;"
+        },
+        {
+            "id": "e-pi-b3-207",
+            "type": "translate",
+            "header": "I speak Greek, English, and a little French.",
+            "answer": "Μιλώ ελληνικά, αγγλικά και λίγο γαλλικά."
+        },
+        {
+            "id": "e-pi-b3-208",
+            "type": "translate",
+            "header": "I have been learning Greek for a year.",
+            "answer": "Μαθαίνω ελληνικά εδώ και έναν χρόνο."
+        },
+        {
+            "id": "e-pi-b3-209",
+            "type": "translate",
+            "header": "What is your passport number?",
+            "answer": "Ποιος είναι ο αριθμός του διαβατηρίου σου;"
+        },
+        {
+            "id": "e-pi-b3-210",
+            "type": "translate",
+            "header": "Can I see your ID card?",
+            "answer": "Μπορώ να δω την ταυτότητά σου;"
+        },
+        {
+            "id": "e-pi-b3-211",
+            "type": "translate",
+            "header": "I work hard every day.",
+            "answer": "Δουλεύω σκληρά κάθε μέρα."
+        },
+        {
+            "id": "e-pi-b3-212",
+            "type": "translate",
+            "header": "She works part-time.",
+            "answer": "Δουλεύει μερική απασχόληση."
+        },
+        {
+            "id": "e-pi-b3-213",
+            "type": "translate",
+            "header": "He studies medicine.",
+            "answer": "Σπουδάζει ιατρική."
+        },
+        {
+            "id": "e-pi-b3-214",
+            "type": "translate",
+            "header": "I am studying abroad.",
+            "answer": "Σπουδάζω στο εξωτερικό."
+        },
+        {
+            "id": "e-pi-b3-215",
+            "type": "translate",
+            "header": "My hobbies and activities take time.",
+            "answer": "Τα χόμπι και οι δραστηριότητές μου παίρνουν χρόνο."
+        }
+    ]
+}

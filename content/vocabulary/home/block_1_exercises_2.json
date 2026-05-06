@@ -1,0 +1,17 @@
+{
+  "exercises": [
+    {"id": "e-home-b1-014", "type": "translate", "header": "Please knock on the front door.", "answer": "Παρακαλώ χτύπα την εξώπορτα."},
+    {"id": "e-home-b1-015", "type": "translate", "header": "We live on the third floor.", "answer": "Μένουμε στον τρίτο όροφο."},
+    {"id": "e-home-b1-016", "type": "translate", "header": "The elevator goes to every floor.", "answer": "Το ασανσέρ πηγαίνει σε κάθε όροφο."},
+    {"id": "e-home-b1-017", "type": "translate", "header": "The basement is used for storage.", "answer": "Το υπόγειο χρησιμοποιείται για αποθήκευση."},
+    {"id": "e-home-b1-018", "type": "translate", "header": "The car is in the basement.", "answer": "Το αυτοκίνητο είναι στο υπόγειο."},
+    {"id": "e-home-b1-019", "type": "translate", "header": "We sit on the balcony in the evenings.", "answer": "Κάθομαστε στο μπαλκόνι τα βράδια."},
+    {"id": "e-home-b1-020", "type": "translate", "header": "The balcony has a great view of the city.", "answer": "Το μπαλκόνι έχει θέα στην πόλη."},
+    {"id": "e-home-b1-021", "type": "translate", "header": "Please open the window, it is hot.", "answer": "Παρακαλώ άνοιξε το παράθυρο, κάνει ζέστη."},
+    {"id": "e-home-b1-022", "type": "translate", "header": "The window looks out onto the street.", "answer": "Το παράθυρο βλέπει στον δρόμο."},
+    {"id": "e-home-b1-023", "type": "translate", "header": "The door of my room is always open.", "answer": "Η πόρτα του δωματίου μου είναι πάντα ανοιχτή."},
+    {"id": "e-home-b1-024", "type": "translate", "header": "Close the door, please.", "answer": "Κλείσε την πόρτα, παρακαλώ."},
+    {"id": "e-home-b1-025", "type": "translate", "header": "The garden is full of flowers.", "answer": "Ο κήπος είναι γεμάτος λουλούδια."},
+    {"id": "e-home-b1-026", "type": "translate", "header": "We spend weekends in the garden.", "answer": "Περνάμε τα Σαββατοκύριακα στον κήπο."}
+  ]
+}

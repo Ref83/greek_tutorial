@@ -1,0 +1,88 @@
+{
+    "exercises": [
+        {
+            "id": "e3hb2-001",
+            "type": "translate",
+            "header": "'Take a deep breath.'",
+            "answer": "«Πάρτε μια βαθιά αναπνοή.»"
+        },
+        {
+            "id": "e3hb2-002",
+            "type": "translate",
+            "header": "Slow breathing helps you relax.",
+            "answer": "Η αργή αναπνοή σε βοηθά να χαλαρώσεις."
+        },
+        {
+            "id": "e3hb2-003",
+            "type": "translate",
+            "header": "Nikos relaxes a little.",
+            "answer": "Ο Νίκος χαλαρώνει λίγο."
+        },
+        {
+            "id": "e3hb2-004",
+            "type": "translate",
+            "header": "I relax when I listen to music.",
+            "answer": "Χαλαρώνω όταν ακούω μουσική."
+        },
+        {
+            "id": "e3hb2-005",
+            "type": "translate",
+            "header": "He trusts his doctor.",
+            "answer": "Εμπιστεύεται τον γιατρό του."
+        },
+        {
+            "id": "e3hb2-006",
+            "type": "translate",
+            "header": "Do you trust the nurse?",
+            "answer": "Εμπιστεύεσαι τη νοσοκόμα;"
+        },
+        {
+            "id": "e3hb2-007",
+            "type": "translate",
+            "header": "The doctor soothes his concerns.",
+            "answer": "Ο γιατρός ανακουφίζει τις ανησυχίες του."
+        },
+        {
+            "id": "e3hb2-008",
+            "type": "translate",
+            "header": "This medicine relieves the pain.",
+            "answer": "Αυτό το φάρμακο ανακουφίζει τον πόνο."
+        },
+        {
+            "id": "e3hb2-009",
+            "type": "translate",
+            "header": "'You are handling it very well,' says the nurse.",
+            "answer": "«Αντέχεις πολύ καλά», λέει η νοσοκόμα."
+        },
+        {
+            "id": "e3hb2-010",
+            "type": "translate",
+            "header": "She endures the pain bravely.",
+            "answer": "Αντέχει τον πόνο με θάρρος."
+        },
+        {
+            "id": "e3hb2-011",
+            "type": "translate",
+            "header": "I cannot bear this stress anymore.",
+            "answer": "Δεν αντέχω άλλο αυτό το άγχος."
+        },
+        {
+            "id": "e3hb2-012",
+            "type": "translate",
+            "header": "The fear of illness is very common.",
+            "answer": "Ο φόβος της αρρώστιας είναι πολύ συνηθισμένος."
+        },
+        {
+            "id": "e3hb2-013",
+            "type": "translate",
+            "header": "Are you afraid to go to the hospital?",
+            "answer": "Φοβάσαι να πας στο νοσοκομείο;"
+        },
+        {
+            "id": "e3hb2-014",
+            "type": "translate",
+            "header": "After the visit, Nikos feels much better.",
+            "answer": "Μετά την επίσκεψη, ο Νίκος αισθάνεται πολύ καλύτερα."
+        }
+    ]
+}

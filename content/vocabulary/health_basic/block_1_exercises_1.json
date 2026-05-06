@@ -1,0 +1,82 @@
+{
+    "exercises": [
+        {
+            "id": "e1hb1-001",
+            "type": "translate",
+            "header": "Giorgis doesn't feel well today.",
+            "answer": "Ο Γιώργης δεν αισθάνεται καλά σήμερα."
+        },
+        {
+            "id": "e1hb1-002",
+            "type": "translate",
+            "header": "He has a high fever and a strong cough.",
+            "answer": "Έχει υψηλό πυρετό και δυνατό βήχα."
+        },
+        {
+            "id": "e1hb1-003",
+            "type": "translate",
+            "header": "He calls the clinic and makes an appointment.",
+            "answer": "Τηλεφωνεί στο ιατρείο και κλείνει ένα ραντεβού."
+        },
+        {
+            "id": "e1hb1-004",
+            "type": "translate",
+            "header": "The doctor examines him carefully.",
+            "answer": "Ο γιατρός τον εξετάζει με προσοχή."
+        },
+        {
+            "id": "e1hb1-005",
+            "type": "translate",
+            "header": "The doctor writes him a prescription.",
+            "answer": "Ο γιατρός του γράφει μια συνταγή."
+        },
+        {
+            "id": "e1hb1-006",
+            "type": "translate",
+            "header": "Giorgis goes to the pharmacy and picks up the medicine.",
+            "answer": "Ο Γιώργης πηγαίνει στο φαρμακείο και παίρνει το φάρμακο."
+        },
+        {
+            "id": "e1hb1-007",
+            "type": "translate",
+            "header": "The pain in his head slowly goes away.",
+            "answer": "Ο πόνος στο κεφάλι του σιγά σιγά φεύγει."
+        },
+        {
+            "id": "e1hb1-008",
+            "type": "translate",
+            "header": "After three days, he feels much better.",
+            "answer": "Μετά από τρεις μέρες, αισθάνεται πολύ καλύτερα."
+        },
+        {
+            "id": "e1hb1-009",
+            "type": "translate",
+            "header": "The patient is waiting at the hospital.",
+            "answer": "Ο ασθενής περιμένει στο νοσοκομείο."
+        },
+        {
+            "id": "e1hb1-010",
+            "type": "translate",
+            "header": "My appointment is at ten o'clock.",
+            "answer": "Το ραντεβού μου είναι στις δέκα."
+        },
+        {
+            "id": "e1hb1-011",
+            "type": "translate",
+            "header": "I have a cold and I feel bad.",
+            "answer": "Έχω κρυολόγημα και αισθάνομαι άσχημα."
+        },
+        {
+            "id": "e1hb1-012",
+            "type": "translate",
+            "header": "Does your throat hurt?",
+            "answer": "Πονάς στον λαιμό;"
+        },
+        {
+            "id": "e1hb1-013",
+            "type": "translate",
+            "header": "The doctor is at the clinic every morning.",
+            "answer": "Ο γιατρός είναι στο ιατρείο κάθε πρωί."
+        }
+    ]
+}

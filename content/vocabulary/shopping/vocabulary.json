@@ -1,0 +1,532 @@
+{
+    "blocks": [
+        {
+            "items": [
+                {
+                    "id": "v-sh-001",
+                    "item": "το ψωμί",
+                    "meaning": "bread",
+                    "examples": [
+                        {"example": "Αγοράζω ψωμί από τον φούρνο.", "translation": "I buy bread from the bakery."},
+                        {"example": "Θέλω φρέσκο ψωμί.", "translation": "I want fresh bread."}
+                    ],
+                    "collocations": [
+                        {"collocation": "φρέσκο ψωμί", "translation": "fresh bread"},
+                        {"collocation": "κομμάτι ψωμί", "translation": "piece of bread"}
+                    ]
+                },
+                {
+                    "id": "v-sh-002",
+                    "item": "η φραντζόλα",
+                    "meaning": "loaf (of bread)",
+                    "examples": [
+                        {"example": "Αγοράζω μια φραντζόλα ψωμί.", "translation": "I buy a loaf of bread."},
+                        {"example": "Κόβω τη φραντζόλα σε φέτες.", "translation": "I cut the loaf into slices."}
+                    ],
+                    "collocations": [
+                        {"collocation": "φραντζόλα ψωμί", "translation": "loaf of bread"},
+                        {"collocation": "μισή φραντζόλα", "translation": "half a loaf"}
+                    ]
+                },
+                {
+                    "id": "v-sh-003",
+                    "item": "το ψωμάκι",
+                    "meaning": "bread roll",
+                    "examples": [
+                        {"example": "Παίρνω δύο ψωμάκια για το γεύμα.", "translation": "I take two bread rolls for lunch."},
+                        {"example": "Τα ψωμάκια είναι ζεστά.", "translation": "The bread rolls are warm."}
+                    ],
+                    "collocations": [
+                        {"collocation": "φρέσκα ψωμάκια", "translation": "fresh bread rolls"},
+                        {"collocation": "ψωμάκι με βούτυρο", "translation": "bread roll with butter"}
+                    ]
+                },
+                {
+                    "id": "v-sh-004",
+                    "item": "το κουλούρι",
+                    "meaning": "sesame ring bread",
+                    "examples": [
+                        {"example": "Τρώω ένα κουλούρι με καφέ.", "translation": "I eat a sesame ring with coffee."},
+                        {"example": "Τα κουλούρια είναι τυπικό ελληνικό πρωινό.", "translation": "Sesame rings are a typical Greek breakfast."}
+                    ],
+                    "collocations": [
+                        {"collocation": "κουλούρι Θεσσαλονίκης", "translation": "Thessaloniki-style sesame ring"},
+                        {"collocation": "κουλούρι με σουσάμι", "translation": "sesame ring with sesame"}
+                    ]
+                },
+                {
+                    "id": "v-sh-005",
+                    "item": "η πίτα",
+                    "meaning": "flatbread / pita",
+                    "examples": [
+                        {"example": "Θέλω μια πίτα με γύρο.", "translation": "I want a pita with gyro."},
+                        {"example": "Η πίτα είναι ζεστή.", "translation": "The pita is warm."}
+                    ],
+                    "collocations": [
+                        {"collocation": "πίτα με γύρο", "translation": "pita with gyro"},
+                        {"collocation": "αραβική πίτα", "translation": "Arabic pita"}
+                    ]
+                },
+                {
+                    "id": "v-sh-006",
+                    "item": "το μπαγκέτ",
+                    "meaning": "baguette",
+                    "examples": [
+                        {"example": "Αγοράζω ένα φρέσκο μπαγκέτ.", "translation": "I buy a fresh baguette."},
+                        {"example": "Το μπαγκέτ είναι τραγανό.", "translation": "The baguette is crispy."}
+                    ],
+                    "collocations": [
+                        {"collocation": "φρέσκο μπαγκέτ", "translation": "fresh baguette"},
+                        {"collocation": "μπαγκέτ με τυρί", "translation": "baguette with cheese"}
+                    ]
+                },
+                {
+                    "id": "v-sh-007",
+                    "item": "το τοστ",
+                    "meaning": "toast",
+                    "examples": [
+                        {"example": "Κάνω τοστ για πρωινό.", "translation": "I make toast for breakfast."},
+                        {"example": "Θέλω τοστ με βούτυρο.", "translation": "I want toast with butter."}
+                    ],
+                    "collocations": [
+                        {"collocation": "τοστ με βούτυρο", "translation": "toast with butter"},
+                        {"collocation": "τοστ με τυρί", "translation": "cheese toast"}
+                    ]
+                },
+                {
+                    "id": "v-sh-008",
+                    "item": "το ψωμί ολικής άλεσης",
+                    "meaning": "whole grain bread",
+                    "examples": [
+                        {"example": "Το ψωμί ολικής άλεσης είναι πιο υγιεινό.", "translation": "Whole grain bread is healthier."},
+                        {"example": "Αγοράζω συνήθως ψωμί ολικής άλεσης.", "translation": "I usually buy whole grain bread."}
+                    ],
+                    "collocations": [
+                        {"collocation": "ψωμί ολικής άλεσης", "translation": "whole grain bread"},
+                        {"collocation": "δημητριακά ολικής άλεσης", "translation": "whole grain cereals"}
+                    ]
+                },
+                {
+                    "id": "v-sh-009",
+                    "item": "το σταρένιο ψωμί",
+                    "meaning": "wheat bread",
+                    "examples": [
+                        {"example": "Προτιμώ το σταρένιο ψωμί.", "translation": "I prefer wheat bread."},
+                        {"example": "Το σταρένιο ψωμί έχει ωραία γεύση.", "translation": "Wheat bread has a nice taste."}
+                    ],
+                    "collocations": [
+                        {"collocation": "σταρένιο ψωμί", "translation": "wheat bread"},
+                        {"collocation": "αλεύρι σιταριού", "translation": "wheat flour"}
+                    ]
+                },
+                {
+                    "id": "v-sh-010",
+                    "item": "η φέτα",
+                    "meaning": "slice",
+                    "examples": [
+                        {"example": "Κόβω μια φέτα ψωμί.", "translation": "I cut a slice of bread."},
+                        {"example": "Θέλω δύο φέτες ψωμί.", "translation": "I want two slices of bread."}
+                    ],
+                    "collocations": [
+                        {"collocation": "φέτα ψωμί", "translation": "slice of bread"},
+                        {"collocation": "λεπτή φέτα", "translation": "thin slice"}
+                    ]
+                },
+                {
+                    "id": "v-sh-011",
+                    "item": "φρέσκος / φρέσκια / φρέσκο",
+                    "meaning": "fresh",
+                    "examples": [
+                        {"example": "Το ψωμί είναι φρέσκο.", "translation": "The bread is fresh."},
+                        {"example": "Αγοράζω φρέσκο ψωμί κάθε μέρα.", "translation": "I buy fresh bread every day."}
+                    ],
+                    "collocations": [
+                        {"collocation": "φρέσκο ψωμί", "translation": "fresh bread"},
+                        {"collocation": "φρέσκα προϊόντα", "translation": "fresh products"}
+                    ]
+                },
+                {
+                    "id": "v-sh-012",
+                    "item": "ο φούρνος",
+                    "meaning": "bakery / oven",
+                    "examples": [
+                        {"example": "Πηγαίνω στον φούρνο κάθε πρωί.", "translation": "I go to the bakery every morning."},
+                        {"example": "Ο φούρνος ανοίγει στις 7.", "translation": "The bakery opens at 7."}
+                    ],
+                    "collocations": [
+                        {"collocation": "τοπικός φούρνος", "translation": "local bakery"},
+                        {"collocation": "αρτοποιείο", "translation": "bread bakery"}
+                    ]
+                }
+            ],
+            "story": {
+                "sentences": [
+                    {"sentence": "Κάθε πρωί πηγαίνω στον φούρνο.", "translation": "Every morning I go to the bakery."},
+                    {"sentence": "Αγοράζω μια φρέσκια φραντζόλα.", "translation": "I buy a fresh loaf of bread."},
+                    {"sentence": "Παίρνω και δύο ψωμάκια για τα παιδιά.", "translation": "I also take two bread rolls for the children."},
+                    {"sentence": "Σήμερα υπάρχουν φρέσκα κουλούρια.", "translation": "Today there are fresh sesame rings."},
+                    {"sentence": "Αγοράζω ένα κουλούρι για τον καφέ μου.", "translation": "I buy a sesame ring for my coffee."},
+                    {"sentence": "Ο φούρνος έχει και μπαγκέτ.", "translation": "The bakery also has baguettes."},
+                    {"sentence": "Παίρνω ένα τραγανό μπαγκέτ.", "translation": "I take a crispy baguette."},
+                    {"sentence": "Τρώω μια πίτα με τυρί.", "translation": "I eat a pita with cheese."},
+                    {"sentence": "Κόβω το ψωμί σε φέτες.", "translation": "I cut the bread into slices."},
+                    {"sentence": "Προτιμώ το ψωμί ολικής άλεσης γιατί είναι υγιεινό.", "translation": "I prefer whole grain bread because it is healthy."},
+                    {"sentence": "Αγοράζω επίσης σταρένιο ψωμί.", "translation": "I also buy wheat bread."},
+                    {"sentence": "Κάνω τοστ για πρωινό.", "translation": "I make toast for breakfast."}
+                ]
+            }
+        },
+        {
+            "items": [
+                {
+                    "id": "v2-sh-001",
+                    "item": "το γλυκό",
+                    "meaning": "sweet / dessert",
+                    "examples": [
+                        {"example": "Αγαπώ τα γλυκά.", "translation": "I love sweets."},
+                        {"example": "Θέλω ένα γλυκό με τον καφέ μου.", "translation": "I want a sweet with my coffee."}
+                    ],
+                    "collocations": [
+                        {"collocation": "παραδοσιακό γλυκό", "translation": "traditional sweet"},
+                        {"collocation": "γλυκό του κουταλιού", "translation": "spoon sweet"}
+                    ]
+                },
+                {
+                    "id": "v2-sh-002",
+                    "item": "το κέικ",
+                    "meaning": "cake",
+                    "examples": [
+                        {"example": "Φτιάχνω ένα κέικ σοκολάτας.", "translation": "I make a chocolate cake."},
+                        {"example": "Αγοράζω κέικ από τον φούρνο.", "translation": "I buy cake from the bakery."}
+                    ],
+                    "collocations": [
+                        {"collocation": "κέικ σοκολάτας", "translation": "chocolate cake"},
+                        {"collocation": "κέικ βανίλιας", "translation": "vanilla cake"}
+                    ]
+                },
+                {
+                    "id": "v2-sh-003",
+                    "item": "η τούρτα",
+                    "meaning": "layer cake / torte",
+                    "examples": [
+                        {"example": "Παραγγέλνω τούρτα για τα γενέθλιά μου.", "translation": "I order a cake for my birthday."},
+                        {"example": "Η τούρτα έχει κρέμα.", "translation": "The cake has cream."}
+                    ],
+                    "collocations": [
+                        {"collocation": "τούρτα γενεθλίων", "translation": "birthday cake"},
+                        {"collocation": "τούρτα σοκολάτας", "translation": "chocolate cake"}
+                    ]
+                },
+                {
+                    "id": "v2-sh-004",
+                    "item": "το μπισκότο",
+                    "meaning": "biscuit / cookie",
+                    "examples": [
+                        {"example": "Τρώω μπισκότα με τον καφέ μου.", "translation": "I eat biscuits with my coffee."},
+                        {"example": "Αγοράζω μισό κιλό μπισκότα.", "translation": "I buy half a kilo of biscuits."}
+                    ],
+                    "collocations": [
+                        {"collocation": "μπισκότο σοκολάτας", "translation": "chocolate biscuit"},
+                        {"collocation": "σπιτικά μπισκότα", "translation": "homemade biscuits"}
+                    ]
+                },
+                {
+                    "id": "v2-sh-005",
+                    "item": "το κρουασάν",
+                    "meaning": "croissant",
+                    "examples": [
+                        {"example": "Τρώω ένα κρουασάν για πρωινό.", "translation": "I eat a croissant for breakfast."},
+                        {"example": "Θέλω κρουασάν με βούτυρο.", "translation": "I want a croissant with butter."}
+                    ],
+                    "collocations": [
+                        {"collocation": "κρουασάν βουτύρου", "translation": "butter croissant"},
+                        {"collocation": "κρουασάν με μαρμελάδα", "translation": "croissant with jam"}
+                    ]
+                },
+                {
+                    "id": "v2-sh-006",
+                    "item": "το τσουρέκι",
+                    "meaning": "sweet braided bread",
+                    "examples": [
+                        {"example": "Το τσουρέκι είναι παραδοσιακό ελληνικό γλυκό.", "translation": "Tsoureki is a traditional Greek sweet bread."},
+                        {"example": "Τρώμε τσουρέκι το Πάσχα.", "translation": "We eat tsoureki at Easter."}
+                    ],
+                    "collocations": [
+                        {"collocation": "πασχαλινό τσουρέκι", "translation": "Easter tsoureki"},
+                        {"collocation": "τσουρέκι με μαχλέπι", "translation": "tsoureki with mahlab"}
+                    ]
+                },
+                {
+                    "id": "v2-sh-007",
+                    "item": "ο μπακλαβάς",
+                    "meaning": "baklava",
+                    "examples": [
+                        {"example": "Ο μπακλαβάς είναι πολύ γλυκός.", "translation": "Baklava is very sweet."},
+                        {"example": "Αγοράζω μπακλαβά από το ζαχαροπλαστείο.", "translation": "I buy baklava from the pastry shop."}
+                    ],
+                    "collocations": [
+                        {"collocation": "μπακλαβάς με μέλι", "translation": "baklava with honey"},
+                        {"collocation": "μπακλαβάς με καρύδια", "translation": "baklava with walnuts"}
+                    ]
+                },
+                {
+                    "id": "v2-sh-008",
+                    "item": "το ντόνατ",
+                    "meaning": "donut",
+                    "examples": [
+                        {"example": "Τα παιδιά αγαπούν τα ντόνατ.", "translation": "Children love donuts."},
+                        {"example": "Παίρνω ένα ντόνατ με σοκολάτα.", "translation": "I get a chocolate donut."}
+                    ],
+                    "collocations": [
+                        {"collocation": "ντόνατ με γλάσο", "translation": "glazed donut"},
+                        {"collocation": "ντόνατ με σοκολάτα", "translation": "chocolate donut"}
+                    ]
+                },
+                {
+                    "id": "v2-sh-009",
+                    "item": "το μάφιν",
+                    "meaning": "muffin",
+                    "examples": [
+                        {"example": "Φτιάχνω μάφιν με μύρτιλα.", "translation": "I make blueberry muffins."},
+                        {"example": "Αγοράζω ένα μάφιν για πρωινό.", "translation": "I buy a muffin for breakfast."}
+                    ],
+                    "collocations": [
+                        {"collocation": "μάφιν σοκολάτας", "translation": "chocolate muffin"},
+                        {"collocation": "μάφιν βανίλιας", "translation": "vanilla muffin"}
+                    ]
+                },
+                {
+                    "id": "v2-sh-010",
+                    "item": "η μηλόπιτα",
+                    "meaning": "apple pie",
+                    "examples": [
+                        {"example": "Η μηλόπιτα μυρίζει κανέλα.", "translation": "The apple pie smells like cinnamon."},
+                        {"example": "Τρώω μηλόπιτα με παγωτό.", "translation": "I eat apple pie with ice cream."}
+                    ],
+                    "collocations": [
+                        {"collocation": "ζεστή μηλόπιτα", "translation": "warm apple pie"},
+                        {"collocation": "μηλόπιτα με κανέλα", "translation": "apple pie with cinnamon"}
+                    ]
+                },
+                {
+                    "id": "v2-sh-011",
+                    "item": "το κανταΐφι",
+                    "meaning": "kataifi (shredded wheat pastry)",
+                    "examples": [
+                        {"example": "Το κανταΐφι είναι ένα παραδοσιακό ελληνικό γλυκό.", "translation": "Kataifi is a traditional Greek sweet."},
+                        {"example": "Αγοράζω κανταΐφι από το ζαχαροπλαστείο.", "translation": "I buy kataifi from the pastry shop."}
+                    ],
+                    "collocations": [
+                        {"collocation": "κανταΐφι με σιρόπι", "translation": "kataifi with syrup"},
+                        {"collocation": "κανταΐφι με κρέμα", "translation": "kataifi with cream"}
+                    ]
+                },
+                {
+                    "id": "v2-sh-012",
+                    "item": "το ρολό",
+                    "meaning": "pastry roll / Swiss roll",
+                    "examples": [
+                        {"example": "Αγοράζω ένα ρολό με κρέμα.", "translation": "I buy a cream roll."},
+                        {"example": "Το ρολό σοκολάτας είναι νόστιμο.", "translation": "The chocolate roll is delicious."}
+                    ],
+                    "collocations": [
+                        {"collocation": "ρολό σοκολάτας", "translation": "chocolate roll"},
+                        {"collocation": "ρολό βανίλιας", "translation": "vanilla roll"}
+                    ]
+                }
+            ],
+            "story": {
+                "sentences": [
+                    {"sentence": "Σήμερα πηγαίνω στο ζαχαροπλαστείο.", "translation": "Today I go to the pastry shop."},
+                    {"sentence": "Βλέπω πολλά γλυκά στη βιτρίνα.", "translation": "I see many sweets in the display case."},
+                    {"sentence": "Θέλω ένα κρουασάν βουτύρου.", "translation": "I want a butter croissant."},
+                    {"sentence": "Αγοράζω και ένα τσουρέκι.", "translation": "I also buy a tsoureki."},
+                    {"sentence": "Ο μπακλαβάς με καρύδια φαίνεται νόστιμος.", "translation": "The baklava with walnuts looks delicious."},
+                    {"sentence": "Παίρνω δύο μπισκότα σοκολάτας.", "translation": "I take two chocolate biscuits."},
+                    {"sentence": "Αγοράζω ένα ντόνατ για τα παιδιά.", "translation": "I buy a donut for the children."},
+                    {"sentence": "Παραγγέλνω ένα κέικ βανίλιας.", "translation": "I order a vanilla cake."},
+                    {"sentence": "Η τούρτα σοκολάτας είναι η πιο ακριβή.", "translation": "The chocolate cake is the most expensive."},
+                    {"sentence": "Η μηλόπιτα μυρίζει κανέλα.", "translation": "The apple pie smells like cinnamon."},
+                    {"sentence": "Αγοράζω ένα ρολό με κρέμα.", "translation": "I buy a cream roll."},
+                    {"sentence": "Το κανταΐφι είναι το αγαπημένο μου γλυκό.", "translation": "Kataifi is my favorite sweet."}
+                ]
+            }
+        },
+        {
+            "items": [
+                {
+                    "id": "v3-sh-001",
+                    "item": "αγοράζω",
+                    "meaning": "to buy",
+                    "examples": [
+                        {"example": "Αγοράζω ψωμί και γλυκά.", "translation": "I buy bread and sweets."},
+                        {"example": "Τι θέλεις να αγοράσεις;", "translation": "What do you want to buy?"}
+                    ],
+                    "collocations": [
+                        {"collocation": "αγοράζω από τον φούρνο", "translation": "buy from the bakery"},
+                        {"collocation": "αγοράζω φρέσκο", "translation": "buy fresh"}
+                    ]
+                },
+                {
+                    "id": "v3-sh-002",
+                    "item": "πληρώνω",
+                    "meaning": "to pay",
+                    "examples": [
+                        {"example": "Πληρώνω στο ταμείο.", "translation": "I pay at the cash register."},
+                        {"example": "Πόσο πληρώνω;", "translation": "How much do I pay?"}
+                    ],
+                    "collocations": [
+                        {"collocation": "πληρώνω με κάρτα", "translation": "pay by card"},
+                        {"collocation": "πληρώνω μετρητά", "translation": "pay cash"}
+                    ]
+                },
+                {
+                    "id": "v3-sh-003",
+                    "item": "η τιμή",
+                    "meaning": "price",
+                    "examples": [
+                        {"example": "Ποια είναι η τιμή;", "translation": "What is the price?"},
+                        {"example": "Η τιμή είναι λογική.", "translation": "The price is reasonable."}
+                    ],
+                    "collocations": [
+                        {"collocation": "τιμή ανά κιλό", "translation": "price per kilo"},
+                        {"collocation": "τελική τιμή", "translation": "final price"}
+                    ]
+                },
+                {
+                    "id": "v3-sh-004",
+                    "item": "η απόδειξη",
+                    "meaning": "receipt",
+                    "examples": [
+                        {"example": "Παίρνω την απόδειξη.", "translation": "I take the receipt."},
+                        {"example": "Χρειάζομαι απόδειξη.", "translation": "I need a receipt."}
+                    ],
+                    "collocations": [
+                        {"collocation": "φορολογική απόδειξη", "translation": "tax receipt"},
+                        {"collocation": "απόδειξη αγοράς", "translation": "purchase receipt"}
+                    ]
+                },
+                {
+                    "id": "v3-sh-005",
+                    "item": "η σακούλα",
+                    "meaning": "bag",
+                    "examples": [
+                        {"example": "Βάζω το ψωμί στη σακούλα.", "translation": "I put the bread in the bag."},
+                        {"example": "Θέλω μια χάρτινη σακούλα.", "translation": "I want a paper bag."}
+                    ],
+                    "collocations": [
+                        {"collocation": "πλαστική σακούλα", "translation": "plastic bag"},
+                        {"collocation": "χάρτινη σακούλα", "translation": "paper bag"}
+                    ]
+                },
+                {
+                    "id": "v3-sh-006",
+                    "item": "παραγγέλνω",
+                    "meaning": "to order",
+                    "examples": [
+                        {"example": "Παραγγέλνω τούρτα για τα γενέθλιά μου.", "translation": "I order a cake for my birthday."},
+                        {"example": "Μπορώ να παραγγείλω εδώ;", "translation": "Can I place an order here?"}
+                    ],
+                    "collocations": [
+                        {"collocation": "παραγγελία για σήμερα", "translation": "order for today"},
+                        {"collocation": "παραγγέλνω εκ των προτέρων", "translation": "order in advance"}
+                    ]
+                },
+                {
+                    "id": "v3-sh-007",
+                    "item": "πόσο κάνει;",
+                    "meaning": "how much does it cost?",
+                    "examples": [
+                        {"example": "Πόσο κάνει αυτή η τούρτα;", "translation": "How much does this cake cost?"},
+                        {"example": "Πόσο κάνει το κιλό;", "translation": "How much does a kilo cost?"}
+                    ],
+                    "collocations": [
+                        {"collocation": "πόσο κάνει σύνολο;", "translation": "how much is the total?"},
+                        {"collocation": "πόσο κάνει ανά τεμάχιο;", "translation": "how much per piece?"}
+                    ]
+                },
+                {
+                    "id": "v3-sh-008",
+                    "item": "το κιλό",
+                    "meaning": "kilogram",
+                    "examples": [
+                        {"example": "Θέλω ένα κιλό μπισκότα.", "translation": "I want a kilogram of biscuits."},
+                        {"example": "Το ψωμί κοστίζει δύο ευρώ το κιλό.", "translation": "Bread costs two euros per kilo."}
+                    ],
+                    "collocations": [
+                        {"collocation": "μισό κιλό", "translation": "half a kilo"},
+                        {"collocation": "τιμή ανά κιλό", "translation": "price per kilo"}
+                    ]
+                },
+                {
+                    "id": "v3-sh-009",
+                    "item": "η μερίδα",
+                    "meaning": "portion",
+                    "examples": [
+                        {"example": "Θέλω μια μεγάλη μερίδα.", "translation": "I want a large portion."},
+                        {"example": "Η μερίδα είναι αρκετή.", "translation": "The portion is enough."}
+                    ],
+                    "collocations": [
+                        {"collocation": "μεγάλη μερίδα", "translation": "large portion"},
+                        {"collocation": "μικρή μερίδα", "translation": "small portion"}
+                    ]
+                },
+                {
+                    "id": "v3-sh-010",
+                    "item": "ζυγίζω",
+                    "meaning": "to weigh",
+                    "examples": [
+                        {"example": "Ζυγίζω τα μπισκότα.", "translation": "I weigh the biscuits."},
+                        {"example": "Μπορείτε να ζυγίσετε αυτό;", "translation": "Can you weigh this?"}
+                    ],
+                    "collocations": [
+                        {"collocation": "ζυγίζω στη ζυγαριά", "translation": "weigh on the scale"},
+                        {"collocation": "ζυγίζω ανά κιλό", "translation": "weigh per kilo"}
+                    ]
+                },
+                {
+                    "id": "v3-sh-011",
+                    "item": "τα ρέστα",
+                    "meaning": "change (money)",
+                    "examples": [
+                        {"example": "Δεν έχω ρέστα.", "translation": "I don't have change."},
+                        {"example": "Πάρτε τα ρέστα σας.", "translation": "Take your change."}
+                    ],
+                    "collocations": [
+                        {"collocation": "ρέστα αλλαγής", "translation": "change"},
+                        {"collocation": "χωρίς ρέστα", "translation": "exact change"}
+                    ]
+                },
+                {
+                    "id": "v3-sh-012",
+                    "item": "ο αρτοποιός",
+                    "meaning": "baker",
+                    "examples": [
+                        {"example": "Ο αρτοποιός ψήνει ψωμί κάθε πρωί.", "translation": "The baker bakes bread every morning."},
+                        {"example": "Ο αρτοποιός φτιάχνει φρέσκο ψωμί.", "translation": "The baker makes fresh bread."}
+                    ],
+                    "collocations": [
+                        {"collocation": "τοπικός αρτοποιός", "translation": "local baker"},
+                        {"collocation": "αρτοποιός στον φούρνο", "translation": "baker at the bakery"}
+                    ]
+                }
+            ],
+            "story": {
+                "sentences": [
+                    {"sentence": "Πηγαίνω στον φούρνο να κάνω ψώνια.", "translation": "I go to the bakery to go shopping."},
+                    {"sentence": "Ρωτάω τον αρτοποιό: «Πόσο κάνει το ψωμί;»", "translation": "I ask the baker: 'How much does the bread cost?'"},
+                    {"sentence": "«Δύο ευρώ το κιλό», λέει.", "translation": "'Two euros per kilo,' he says."},
+                    {"sentence": "Θέλω να αγοράσω ψωμί και γλυκά.", "translation": "I want to buy bread and sweets."},
+                    {"sentence": "Παραγγέλνω μια τούρτα για τα γενέθλια.", "translation": "I order a cake for the birthday."},
+                    {"sentence": "Ο αρτοποιός ζυγίζει τα μπισκότα.", "translation": "The baker weighs the biscuits."},
+                    {"sentence": "Αγοράζω μισό κιλό μπισκότα.", "translation": "I buy half a kilo of biscuits."},
+                    {"sentence": "Η τιμή είναι λογική.", "translation": "The price is reasonable."},
+                    {"sentence": "Πληρώνω με κάρτα.", "translation": "I pay by card."},
+                    {"sentence": "Παίρνω την απόδειξη.", "translation": "I take the receipt."},
+                    {"sentence": "Ο φούρνος βάζει όλα σε μια χάρτινη σακούλα.", "translation": "The bakery puts everything in a paper bag."},
+                    {"sentence": "Φεύγω χαρούμενος με τη σακούλα μου.", "translation": "I leave happy with my bag."}
+                ]
+            }
+        }
+    ]
+}

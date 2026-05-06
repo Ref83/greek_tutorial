@@ -1,0 +1,94 @@
+{
+    "exercises": [
+        {
+            "id": "e-pi-b2-301",
+            "type": "translate",
+            "header": "Do you have a younger brother?",
+            "answer": "Έχεις μικρό αδελφό;"
+        },
+        {
+            "id": "e-pi-b2-302",
+            "type": "translate",
+            "header": "My older brother is married.",
+            "answer": "Ο μεγάλος μου αδελφός είναι παντρεμένος."
+        },
+        {
+            "id": "e-pi-b2-303",
+            "type": "translate",
+            "header": "Good parents love their children.",
+            "answer": "Καλοί γονείς αγαπούν τα παιδιά τους."
+        },
+        {
+            "id": "e-pi-b2-304",
+            "type": "translate",
+            "header": "My good father is here.",
+            "answer": "Ο καλός μου πατέρας είναι εδώ."
+        },
+        {
+            "id": "e-pi-b2-305",
+            "type": "translate",
+            "header": "She is a new mother.",
+            "answer": "Είναι νέα μητέρα."
+        },
+        {
+            "id": "e-pi-b2-306",
+            "type": "translate",
+            "header": "I love my husband very much.",
+            "answer": "Αγαπώ πολύ τον σύζυγό μου."
+        },
+        {
+            "id": "e-pi-b2-307",
+            "type": "translate",
+            "header": "She is a young woman.",
+            "answer": "Είναι νέα γυναίκα."
+        },
+        {
+            "id": "e-pi-b2-308",
+            "type": "translate",
+            "header": "My small child is sleeping.",
+            "answer": "Το μικρό μου παιδί κοιμάται."
+        },
+        {
+            "id": "e-pi-b2-309",
+            "type": "translate",
+            "header": "He comes from Greek origin.",
+            "answer": "Κατάγεται από ελληνική καταγωγή."
+        },
+        {
+            "id": "e-pi-b2-310",
+            "type": "translate",
+            "header": "What is his place of origin?",
+            "answer": "Ποιος είναι ο τόπος καταγωγής του;"
+        },
+        {
+            "id": "e-pi-b2-311",
+            "type": "translate",
+            "header": "English is a foreign language for me.",
+            "answer": "Τα αγγλικά είναι ξένη γλώσσα για μένα."
+        },
+        {
+            "id": "e-pi-b2-312",
+            "type": "translate",
+            "header": "I am learning a foreign language.",
+            "answer": "Μαθαίνω μια ξένη γλώσσα."
+        },
+        {
+            "id": "e-pi-b2-313",
+            "type": "translate",
+            "header": "Where does your family live?",
+            "answer": "Πού μένει η οικογένειά σου;"
+        },
+        {
+            "id": "e-pi-b2-314",
+            "type": "translate",
+            "header": "I am a family member.",
+            "answer": "Είμαι μέλος της οικογένειας."
+        },
+        {
+            "id": "e-pi-b2-315",
+            "type": "translate",
+            "header": "My sister lives in Thessaloniki.",
+            "answer": "Η αδελφή μου μένει στη Θεσσαλονίκη."
+        }
+    ]
+}

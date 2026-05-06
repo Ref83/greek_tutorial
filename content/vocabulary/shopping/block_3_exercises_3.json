@@ -1,0 +1,82 @@
+{
+    "exercises": [
+        {
+            "id": "e3sh3-001",
+            "type": "translate",
+            "header": "I go to the bakery to go shopping.",
+            "answer": "Πηγαίνω στον φούρνο να κάνω ψώνια."
+        },
+        {
+            "id": "e3sh3-002",
+            "type": "translate",
+            "header": "I ask the baker: How much does the bread cost?",
+            "answer": "Ρωτάω τον αρτοποιό: «Πόσο κάνει το ψωμί;»"
+        },
+        {
+            "id": "e3sh3-003",
+            "type": "translate",
+            "header": "Two euros per kilo, he says.",
+            "answer": "«Δύο ευρώ το κιλό», λέει."
+        },
+        {
+            "id": "e3sh3-004",
+            "type": "translate",
+            "header": "I want to buy bread and sweets.",
+            "answer": "Θέλω να αγοράσω ψωμί και γλυκά."
+        },
+        {
+            "id": "e3sh3-005",
+            "type": "translate",
+            "header": "I order a cake for the birthday.",
+            "answer": "Παραγγέλνω μια τούρτα για τα γενέθλια."
+        },
+        {
+            "id": "e3sh3-006",
+            "type": "translate",
+            "header": "The baker weighs the biscuits.",
+            "answer": "Ο αρτοποιός ζυγίζει τα μπισκότα."
+        },
+        {
+            "id": "e3sh3-007",
+            "type": "translate",
+            "header": "I buy half a kilo of biscuits.",
+            "answer": "Αγοράζω μισό κιλό μπισκότα."
+        },
+        {
+            "id": "e3sh3-008",
+            "type": "translate",
+            "header": "The price is reasonable.",
+            "answer": "Η τιμή είναι λογική."
+        },
+        {
+            "id": "e3sh3-009",
+            "type": "translate",
+            "header": "I pay by card.",
+            "answer": "Πληρώνω με κάρτα."
+        },
+        {
+            "id": "e3sh3-010",
+            "type": "translate",
+            "header": "I take the receipt.",
+            "answer": "Παίρνω την απόδειξη."
+        },
+        {
+            "id": "e3sh3-011",
+            "type": "translate",
+            "header": "The bakery puts everything in a paper bag.",
+            "answer": "Ο φούρνος βάζει όλα σε μια χάρτινη σακούλα."
+        },
+        {
+            "id": "e3sh3-012",
+            "type": "translate",
+            "header": "I leave happy with my bag.",
+            "answer": "Φεύγω χαρούμενος με τη σακούλα μου."
+        },
+        {
+            "id": "e3sh3-013",
+            "type": "translate",
+            "header": "I pay cash at the cash register.",
+            "answer": "Πληρώνω μετρητά στο ταμείο."
+        }
+    ]
+}

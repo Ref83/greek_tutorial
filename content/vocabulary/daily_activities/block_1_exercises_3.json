@@ -1,0 +1,17 @@
+{
+    "exercises": [
+        {"id": "e-da-b1-027", "type": "translate", "header": "Markos wakes up every morning at seven.", "answer": "Ο Μάρκος ξυπνά κάθε πρωί στις επτά."},
+        {"id": "e-da-b1-028", "type": "translate", "header": "He gets up from bed and washes quickly.", "answer": "Σηκώνεται από το κρεβάτι και πλένεται γρήγορα."},
+        {"id": "e-da-b1-029", "type": "translate", "header": "Then he gets dressed and has breakfast.", "answer": "Μετά ντύνεται και τρώει πρωινό."},
+        {"id": "e-da-b1-030", "type": "translate", "header": "At eight he leaves for work.", "answer": "Στις οκτώ φεύγει για τη δουλειά."},
+        {"id": "e-da-b1-031", "type": "translate", "header": "He is in a hurry because the bus leaves soon.", "answer": "Βιάζεται γιατί το λεωφορείο φεύγει σύντομα."},
+        {"id": "e-da-b1-032", "type": "translate", "header": "In the evening he returns home tired.", "answer": "Το βράδυ επιστρέφει σπίτι κουρασμένος."},
+        {"id": "e-da-b1-033", "type": "translate", "header": "He cooks a simple recipe and has dinner.", "answer": "Μαγειρεύει μια απλή συνταγή και δειπνά."},
+        {"id": "e-da-b1-034", "type": "translate", "header": "Then he relaxes on the sofa and goes to sleep early.", "answer": "Μετά χαλαρώνει στον καναπέ και κοιμάται νωρίς."},
+        {"id": "e-da-b1-035", "type": "translate", "header": "Do you sleep well at night?", "answer": "Κοιμάσαι καλά τη νύχτα;"},
+        {"id": "e-da-b1-036", "type": "translate", "header": "I dress elegantly for work.", "answer": "Ντύνομαι κομψά για τη δουλειά."},
+        {"id": "e-da-b1-037", "type": "translate", "header": "He comes back tired from work.", "answer": "Επιστρέφει κουρασμένος από τη δουλειά."},
+        {"id": "e-da-b1-038", "type": "translate", "header": "I relax with music after a long day.", "answer": "Χαλαρώνω με μουσική μετά από μια μεγάλη μέρα."},
+        {"id": "e-da-b1-039", "type": "translate", "header": "I am in a hurry for work every morning.", "answer": "Βιάζομαι για δουλειά κάθε πρωί."}
+    ]
+}

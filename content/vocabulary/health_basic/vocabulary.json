@@ -1,0 +1,1052 @@
+{
+    "blocks": [
+        {
+            "items": [
+                {
+                    "id": "v-hb-001",
+                    "item": "ο γιατρός",
+                    "meaning": "doctor",
+                    "examples": [
+                        {
+                            "example": "Ο γιατρός με εξετάζει.",
+                            "translation": "The doctor examines me."
+                        },
+                        {
+                            "example": "Πηγαίνω στον γιατρό κάθε χρόνο.",
+                            "translation": "I go to the doctor every year."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "οικογενειακός γιατρός",
+                            "translation": "family doctor"
+                        },
+                        {
+                            "collocation": "γιατρός ειδικός",
+                            "translation": "specialist doctor"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-hb-002",
+                    "item": "το νοσοκομείο",
+                    "meaning": "hospital",
+                    "examples": [
+                        {
+                            "example": "Πηγαίνουμε στο νοσοκομείο με ασθενοφόρο.",
+                            "translation": "We go to the hospital by ambulance."
+                        },
+                        {
+                            "example": "Το νοσοκομείο είναι ανοιχτό όλη νύχτα.",
+                            "translation": "The hospital is open all night."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "κρατικό νοσοκομείο",
+                            "translation": "public hospital"
+                        },
+                        {
+                            "collocation": "ιδιωτικό νοσοκομείο",
+                            "translation": "private hospital"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-hb-003",
+                    "item": "το ιατρείο",
+                    "meaning": "doctor's office / clinic",
+                    "examples": [
+                        {
+                            "example": "Το ιατρείο του γιατρού είναι στο κέντρο.",
+                            "translation": "The doctor's office is in the center."
+                        },
+                        {
+                            "example": "Περιμένω στο ιατρείο.",
+                            "translation": "I wait at the clinic."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "αίθουσα αναμονής",
+                            "translation": "waiting room"
+                        },
+                        {
+                            "collocation": "ώρες ιατρείου",
+                            "translation": "clinic hours"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-hb-004",
+                    "item": "το ραντεβού",
+                    "meaning": "appointment",
+                    "examples": [
+                        {
+                            "example": "Κλείνω ένα ραντεβού με τον γιατρό.",
+                            "translation": "I make an appointment with the doctor."
+                        },
+                        {
+                            "example": "Έχω ραντεβού στις τρεις.",
+                            "translation": "I have an appointment at three."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "κλείνω ραντεβού",
+                            "translation": "to make an appointment"
+                        },
+                        {
+                            "collocation": "ακυρώνω ραντεβού",
+                            "translation": "to cancel an appointment"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-hb-005",
+                    "item": "ο ασθενής / η ασθενής",
+                    "meaning": "patient",
+                    "examples": [
+                        {
+                            "example": "Ο ασθενής περιμένει τον γιατρό.",
+                            "translation": "The patient is waiting for the doctor."
+                        },
+                        {
+                            "example": "Η ασθενής νιώθει καλύτερα σήμερα.",
+                            "translation": "The patient feels better today."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "χρόνιος ασθενής",
+                            "translation": "chronic patient"
+                        },
+                        {
+                            "collocation": "εσωτερικός ασθενής",
+                            "translation": "inpatient"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-hb-006",
+                    "item": "η συνταγή",
+                    "meaning": "prescription",
+                    "examples": [
+                        {
+                            "example": "Ο γιατρός μου γράφει μια συνταγή.",
+                            "translation": "The doctor writes me a prescription."
+                        },
+                        {
+                            "example": "Πηγαίνω στο φαρμακείο με τη συνταγή.",
+                            "translation": "I go to the pharmacy with the prescription."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "γράφω συνταγή",
+                            "translation": "to write a prescription"
+                        },
+                        {
+                            "collocation": "φαρμακευτική συνταγή",
+                            "translation": "medical prescription"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-hb-007",
+                    "item": "το φάρμακο",
+                    "meaning": "medicine / medication",
+                    "examples": [
+                        {
+                            "example": "Παίρνω το φάρμακο τρεις φορές τη μέρα.",
+                            "translation": "I take the medicine three times a day."
+                        },
+                        {
+                            "example": "Αυτό το φάρμακο με βοηθάει.",
+                            "translation": "This medicine helps me."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "παίρνω φάρμακο",
+                            "translation": "to take medicine"
+                        },
+                        {
+                            "collocation": "παρενέργεια φαρμάκου",
+                            "translation": "side effect of medicine"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-hb-008",
+                    "item": "ο πόνος",
+                    "meaning": "pain",
+                    "examples": [
+                        {
+                            "example": "Έχω δυνατό πόνο στην πλάτη.",
+                            "translation": "I have strong pain in my back."
+                        },
+                        {
+                            "example": "Ο πόνος δεν με αφήνει να κοιμηθώ.",
+                            "translation": "The pain doesn't let me sleep."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "δυνατός πόνος",
+                            "translation": "strong pain"
+                        },
+                        {
+                            "collocation": "χρόνιος πόνος",
+                            "translation": "chronic pain"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-hb-009",
+                    "item": "πονάω",
+                    "meaning": "to hurt / to be in pain",
+                    "examples": [
+                        {
+                            "example": "Με πονάει το κεφάλι μου.",
+                            "translation": "My head hurts."
+                        },
+                        {
+                            "example": "Πονάς κάπου;",
+                            "translation": "Does something hurt?"
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "πονάω πολύ",
+                            "translation": "to hurt a lot"
+                        },
+                        {
+                            "collocation": "με πονάει η κοιλιά",
+                            "translation": "my stomach hurts"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-hb-010",
+                    "item": "ο πυρετός",
+                    "meaning": "fever",
+                    "examples": [
+                        {
+                            "example": "Έχω υψηλό πυρετό.",
+                            "translation": "I have a high fever."
+                        },
+                        {
+                            "example": "Ο πυρετός έπεσε χθες το βράδυ.",
+                            "translation": "The fever went down last night."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "έχω πυρετό",
+                            "translation": "to have a fever"
+                        },
+                        {
+                            "collocation": "μετράω πυρετό",
+                            "translation": "to check the temperature"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-hb-011",
+                    "item": "ο βήχας",
+                    "meaning": "cough",
+                    "examples": [
+                        {
+                            "example": "Έχω συχνό βήχα.",
+                            "translation": "I have a frequent cough."
+                        },
+                        {
+                            "example": "Ο βήχας με ξυπνάει τη νύχτα.",
+                            "translation": "The cough wakes me up at night."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "ξηρός βήχας",
+                            "translation": "dry cough"
+                        },
+                        {
+                            "collocation": "βήχω συνέχεια",
+                            "translation": "to cough constantly"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-hb-012",
+                    "item": "το κρυολόγημα",
+                    "meaning": "cold (illness)",
+                    "examples": [
+                        {
+                            "example": "Έχω κρυολόγημα και μένω σπίτι.",
+                            "translation": "I have a cold and stay home."
+                        },
+                        {
+                            "example": "Το κρυολόγημα περνάει σε μια εβδομάδα.",
+                            "translation": "A cold passes in a week."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "πιάνω κρυολόγημα",
+                            "translation": "to catch a cold"
+                        },
+                        {
+                            "collocation": "βαρύ κρυολόγημα",
+                            "translation": "heavy cold"
+                        }
+                    ]
+                }
+            ],
+            "story": {
+                "sentences": [
+                    {
+                        "sentence": "Ο Γιώργης δεν αισθάνεται καλά σήμερα.",
+                        "translation": "Giorgis doesn't feel well today."
+                    },
+                    {
+                        "sentence": "Έχει υψηλό πυρετό και δυνατό βήχα.",
+                        "translation": "He has a high fever and a strong cough."
+                    },
+                    {
+                        "sentence": "Τηλεφωνεί στο ιατρείο και κλείνει ένα ραντεβού.",
+                        "translation": "He calls the clinic and makes an appointment."
+                    },
+                    {
+                        "sentence": "Ο γιατρός τον εξετάζει με προσοχή.",
+                        "translation": "The doctor examines him carefully."
+                    },
+                    {
+                        "sentence": "«Έχεις βαρύ κρυολόγημα», λέει ο γιατρός.",
+                        "translation": "'You have a heavy cold,' says the doctor."
+                    },
+                    {
+                        "sentence": "Ο γιατρός του γράφει μια συνταγή.",
+                        "translation": "The doctor writes him a prescription."
+                    },
+                    {
+                        "sentence": "Ο Γιώργης πηγαίνει στο φαρμακείο και παίρνει το φάρμακο.",
+                        "translation": "Giorgis goes to the pharmacy and picks up the medicine."
+                    },
+                    {
+                        "sentence": "Ο πόνος στο κεφάλι του σιγά σιγά φεύγει.",
+                        "translation": "The pain in his head slowly goes away."
+                    },
+                    {
+                        "sentence": "Μετά από τρεις μέρες, αισθάνεται πολύ καλύτερα.",
+                        "translation": "After three days, he feels much better."
+                    }
+                ]
+            }
+        },
+        {
+            "items": [
+                {
+                    "id": "v-hb-013",
+                    "item": "αισθάνομαι",
+                    "meaning": "to feel",
+                    "examples": [
+                        {
+                            "example": "Αισθάνομαι πολύ άσχημα σήμερα.",
+                            "translation": "I feel very bad today."
+                        },
+                        {
+                            "example": "Πώς αισθάνεσαι;",
+                            "translation": "How do you feel?"
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "αισθάνομαι καλά",
+                            "translation": "to feel well"
+                        },
+                        {
+                            "collocation": "αισθάνομαι αδύναμος",
+                            "translation": "to feel weak"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-hb-014",
+                    "item": "άρρωστος / άρρωστη",
+                    "meaning": "sick / ill",
+                    "examples": [
+                        {
+                            "example": "Είμαι άρρωστος και δεν πηγαίνω στη δουλειά.",
+                            "translation": "I am sick and not going to work."
+                        },
+                        {
+                            "example": "Η κόρη μου είναι άρρωστη.",
+                            "translation": "My daughter is sick."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "νιώθω άρρωστος",
+                            "translation": "to feel sick"
+                        },
+                        {
+                            "collocation": "πολύ άρρωστος",
+                            "translation": "very sick"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-hb-015",
+                    "item": "κουρασμένος / κουρασμένη",
+                    "meaning": "tired / exhausted",
+                    "examples": [
+                        {
+                            "example": "Είμαι πολύ κουρασμένη και θέλω να ξεκουραστώ.",
+                            "translation": "I am very tired and want to rest."
+                        },
+                        {
+                            "example": "Αισθάνομαι κουρασμένος όλη μέρα.",
+                            "translation": "I feel tired all day."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "πολύ κουρασμένος",
+                            "translation": "very tired"
+                        },
+                        {
+                            "collocation": "νιώθω κουρασμένος",
+                            "translation": "to feel tired"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-hb-016",
+                    "item": "ο πονοκέφαλος",
+                    "meaning": "headache",
+                    "examples": [
+                        {
+                            "example": "Έχω φοβερό πονοκέφαλο.",
+                            "translation": "I have a terrible headache."
+                        },
+                        {
+                            "example": "Ο πονοκέφαλος δεν φεύγει.",
+                            "translation": "The headache won't go away."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "έχω πονοκέφαλο",
+                            "translation": "to have a headache"
+                        },
+                        {
+                            "collocation": "δυνατός πονοκέφαλος",
+                            "translation": "strong headache"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-hb-017",
+                    "item": "ο πονόλαιμος",
+                    "meaning": "sore throat",
+                    "examples": [
+                        {
+                            "example": "Με πονάει ο λαιμός μου.",
+                            "translation": "My throat hurts."
+                        },
+                        {
+                            "example": "Έχω πονόλαιμο και δυσκολεύομαι να καταπιώ.",
+                            "translation": "I have a sore throat and difficulty swallowing."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "έχω πονόλαιμο",
+                            "translation": "to have a sore throat"
+                        },
+                        {
+                            "collocation": "κόκκινος λαιμός",
+                            "translation": "red throat"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-hb-018",
+                    "item": "ζαλίζομαι",
+                    "meaning": "to feel dizzy",
+                    "examples": [
+                        {
+                            "example": "Ζαλίζομαι όταν σηκώνομαι γρήγορα.",
+                            "translation": "I get dizzy when I stand up quickly."
+                        },
+                        {
+                            "example": "Μην οδηγείς αν ζαλίζεσαι.",
+                            "translation": "Don't drive if you feel dizzy."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "νιώθω ζάλη",
+                            "translation": "to feel dizziness"
+                        },
+                        {
+                            "collocation": "ζαλίζομαι πολύ",
+                            "translation": "to feel very dizzy"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-hb-019",
+                    "item": "η ναυτία",
+                    "meaning": "nausea",
+                    "examples": [
+                        {
+                            "example": "Έχω ναυτία και δεν μπορώ να φάω.",
+                            "translation": "I have nausea and cannot eat."
+                        },
+                        {
+                            "example": "Η ναυτία εμφανίζεται το πρωί.",
+                            "translation": "The nausea appears in the morning."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "αισθάνομαι ναυτία",
+                            "translation": "to feel nausea"
+                        },
+                        {
+                            "collocation": "έχω ναυτία",
+                            "translation": "to have nausea"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-hb-020",
+                    "item": "η γρίπη",
+                    "meaning": "flu",
+                    "examples": [
+                        {
+                            "example": "Έχω γρίπη και μένω σπίτι μια εβδομάδα.",
+                            "translation": "I have the flu and stay home for a week."
+                        },
+                        {
+                            "example": "Η γρίπη εξαπλώνεται το χειμώνα.",
+                            "translation": "The flu spreads in winter."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "εποχική γρίπη",
+                            "translation": "seasonal flu"
+                        },
+                        {
+                            "collocation": "εμβόλιο γρίπης",
+                            "translation": "flu vaccine"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-hb-021",
+                    "item": "η εξέταση",
+                    "meaning": "examination / medical test",
+                    "examples": [
+                        {
+                            "example": "Ο γιατρός κάνει μια εξέταση αίματος.",
+                            "translation": "The doctor does a blood test."
+                        },
+                        {
+                            "example": "Η εξέταση δεν πονάει.",
+                            "translation": "The examination doesn't hurt."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "εξέταση αίματος",
+                            "translation": "blood test"
+                        },
+                        {
+                            "collocation": "κλινική εξέταση",
+                            "translation": "clinical examination"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-hb-022",
+                    "item": "μετράω τη θερμοκρασία",
+                    "meaning": "to take someone's temperature",
+                    "examples": [
+                        {
+                            "example": "Ο γιατρός μετράει τη θερμοκρασία μου.",
+                            "translation": "The doctor takes my temperature."
+                        },
+                        {
+                            "example": "Μέτρησέ του τη θερμοκρασία.",
+                            "translation": "Take his temperature."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "θερμόμετρο",
+                            "translation": "thermometer"
+                        },
+                        {
+                            "collocation": "υψηλή θερμοκρασία",
+                            "translation": "high temperature"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-hb-023",
+                    "item": "η θερμοκρασία",
+                    "meaning": "temperature",
+                    "examples": [
+                        {
+                            "example": "Η θερμοκρασία μου είναι 39 βαθμοί.",
+                            "translation": "My temperature is 39 degrees."
+                        },
+                        {
+                            "example": "Έχεις υψηλή θερμοκρασία.",
+                            "translation": "You have a high temperature."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "υψηλή θερμοκρασία",
+                            "translation": "high temperature"
+                        },
+                        {
+                            "collocation": "κανονική θερμοκρασία",
+                            "translation": "normal temperature"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-hb-024",
+                    "item": "η ένεση",
+                    "meaning": "injection / shot",
+                    "examples": [
+                        {
+                            "example": "Ο γιατρός μου κάνει μια ένεση.",
+                            "translation": "The doctor gives me an injection."
+                        },
+                        {
+                            "example": "Η ένεση με βοήθησε γρήγορα.",
+                            "translation": "The injection helped me quickly."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "κάνω ένεση",
+                            "translation": "to give an injection"
+                        },
+                        {
+                            "collocation": "ενδοφλέβια ένεση",
+                            "translation": "intravenous injection"
+                        }
+                    ]
+                }
+            ],
+            "story": {
+                "sentences": [
+                    {
+                        "sentence": "Η Μαρία αισθάνεται πολύ άρρωστη από χθες.",
+                        "translation": "Maria has been feeling very sick since yesterday."
+                    },
+                    {
+                        "sentence": "Είναι κουρασμένη και έχει δυνατό πονοκέφαλο.",
+                        "translation": "She is tired and has a strong headache."
+                    },
+                    {
+                        "sentence": "Έχει επίσης πονόλαιμο και ζαλίζεται.",
+                        "translation": "She also has a sore throat and feels dizzy."
+                    },
+                    {
+                        "sentence": "Έχει ναυτία και δεν μπορεί να φάει τίποτα.",
+                        "translation": "She has nausea and cannot eat anything."
+                    },
+                    {
+                        "sentence": "Πηγαίνει στον γιατρό το πρωί.",
+                        "translation": "She goes to the doctor in the morning."
+                    },
+                    {
+                        "sentence": "«Πώς αισθάνεσαι;» ρωτάει ο γιατρός.",
+                        "translation": "'How do you feel?' asks the doctor."
+                    },
+                    {
+                        "sentence": "Ο γιατρός μετράει τη θερμοκρασία της.",
+                        "translation": "The doctor takes her temperature."
+                    },
+                    {
+                        "sentence": "«Έχετε υψηλή θερμοκρασία — 38.5 βαθμοί», λέει.",
+                        "translation": "'You have a high temperature — 38.5 degrees,' he says."
+                    },
+                    {
+                        "sentence": "Κάνει μια εξέταση αίματος.",
+                        "translation": "He does a blood test."
+                    },
+                    {
+                        "sentence": "«Έχετε γρίπη», λέει ο γιατρός.",
+                        "translation": "'You have the flu,' says the doctor."
+                    },
+                    {
+                        "sentence": "Κάνει στη Μαρία μια ένεση για να της ανακουφίσει τον πόνο.",
+                        "translation": "He gives Maria an injection to relieve her pain."
+                    }
+                ]
+            }
+        },
+        {
+            "items": [
+                {
+                    "id": "v-hb-025",
+                    "item": "ο φόβος",
+                    "meaning": "fear",
+                    "examples": [
+                        {
+                            "example": "Έχω μεγάλο φόβο από τους γιατρούς.",
+                            "translation": "I have a great fear of doctors."
+                        },
+                        {
+                            "example": "Ο φόβος του είναι κατανοητός.",
+                            "translation": "His fear is understandable."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "νιώθω φόβο",
+                            "translation": "to feel fear"
+                        },
+                        {
+                            "collocation": "φόβος από γιατρό",
+                            "translation": "fear of doctors"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-hb-026",
+                    "item": "φοβάμαι",
+                    "meaning": "to be afraid / to fear",
+                    "examples": [
+                        {
+                            "example": "Φοβάμαι τις ενέσεις.",
+                            "translation": "I am afraid of injections."
+                        },
+                        {
+                            "example": "Μην φοβάσαι, δεν πονάει.",
+                            "translation": "Don't be afraid, it doesn't hurt."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "φοβάμαι πολύ",
+                            "translation": "to be very afraid"
+                        },
+                        {
+                            "collocation": "φοβάμαι τον γιατρό",
+                            "translation": "to be afraid of the doctor"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-hb-027",
+                    "item": "το άγχος",
+                    "meaning": "anxiety / stress",
+                    "examples": [
+                        {
+                            "example": "Έχω πολύ άγχος πριν την επίσκεψη στον γιατρό.",
+                            "translation": "I have a lot of anxiety before the doctor's visit."
+                        },
+                        {
+                            "example": "Το άγχος με εμποδίζει να κοιμηθώ.",
+                            "translation": "Anxiety prevents me from sleeping."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "νιώθω άγχος",
+                            "translation": "to feel anxiety"
+                        },
+                        {
+                            "collocation": "έχω άγχος",
+                            "translation": "to have anxiety"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-hb-028",
+                    "item": "αγχώνομαι",
+                    "meaning": "to feel anxious / to get stressed",
+                    "examples": [
+                        {
+                            "example": "Αγχώνομαι πάντα στο ιατρείο.",
+                            "translation": "I always get anxious at the clinic."
+                        },
+                        {
+                            "example": "Μην αγχώνεσαι, όλα θα πάνε καλά.",
+                            "translation": "Don't get anxious, everything will be fine."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "αγχώνομαι εύκολα",
+                            "translation": "to get anxious easily"
+                        },
+                        {
+                            "collocation": "αγχωτική κατάσταση",
+                            "translation": "stressful situation"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-hb-029",
+                    "item": "ανησυχώ",
+                    "meaning": "to worry",
+                    "examples": [
+                        {
+                            "example": "Ανησυχώ για τα αποτελέσματα της εξέτασης.",
+                            "translation": "I worry about the test results."
+                        },
+                        {
+                            "example": "Μην ανησυχείς τόσο πολύ.",
+                            "translation": "Don't worry so much."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "ανησυχώ πολύ",
+                            "translation": "to worry a lot"
+                        },
+                        {
+                            "collocation": "ανησυχώ για την υγεία",
+                            "translation": "to worry about health"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-hb-030",
+                    "item": "η ανησυχία",
+                    "meaning": "worry / concern",
+                    "examples": [
+                        {
+                            "example": "Η ανησυχία μου είναι μεγάλη πριν την εξέταση.",
+                            "translation": "My concern is great before the examination."
+                        },
+                        {
+                            "example": "Ο γιατρός καταλαβαίνει την ανησυχία μου.",
+                            "translation": "The doctor understands my concern."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "μεγάλη ανησυχία",
+                            "translation": "great concern"
+                        },
+                        {
+                            "collocation": "δικαιολογημένη ανησυχία",
+                            "translation": "justified concern"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-hb-031",
+                    "item": "ήρεμος / ήρεμη",
+                    "meaning": "calm",
+                    "examples": [
+                        {
+                            "example": "Προσπαθώ να μείνω ήρεμος στον γιατρό.",
+                            "translation": "I try to stay calm at the doctor's."
+                        },
+                        {
+                            "example": "Η νοσοκόμα είναι πάντα ήρεμη.",
+                            "translation": "The nurse is always calm."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "μένω ήρεμος",
+                            "translation": "to stay calm"
+                        },
+                        {
+                            "collocation": "ήρεμη φωνή",
+                            "translation": "calm voice"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-hb-032",
+                    "item": "χαλαρώνω",
+                    "meaning": "to relax",
+                    "examples": [
+                        {
+                            "example": "Προσπαθώ να χαλαρώσω πριν την εξέταση.",
+                            "translation": "I try to relax before the examination."
+                        },
+                        {
+                            "example": "Χαλάρωσε, δεν υπάρχει τίποτα σοβαρό.",
+                            "translation": "Relax, there is nothing serious."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "χαλαρώνω λίγο",
+                            "translation": "to relax a little"
+                        },
+                        {
+                            "collocation": "χαλαρωτική αναπνοή",
+                            "translation": "relaxing breath"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-hb-033",
+                    "item": "εμπιστεύομαι",
+                    "meaning": "to trust",
+                    "examples": [
+                        {
+                            "example": "Εμπιστεύομαι πολύ τον γιατρό μου.",
+                            "translation": "I trust my doctor a lot."
+                        },
+                        {
+                            "example": "Μπορείς να με εμπιστευτείς.",
+                            "translation": "You can trust me."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "εμπιστεύομαι τον γιατρό",
+                            "translation": "to trust the doctor"
+                        },
+                        {
+                            "collocation": "εμπιστοσύνη",
+                            "translation": "trust"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-hb-034",
+                    "item": "η αναπνοή",
+                    "meaning": "breath / breathing",
+                    "examples": [
+                        {
+                            "example": "Η αναπνοή μου είναι βαριά.",
+                            "translation": "My breathing is heavy."
+                        },
+                        {
+                            "example": "Πάρε βαθιά αναπνοή.",
+                            "translation": "Take a deep breath."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "βαθιά αναπνοή",
+                            "translation": "deep breath"
+                        },
+                        {
+                            "collocation": "δύσκολη αναπνοή",
+                            "translation": "difficult breathing"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-hb-035",
+                    "item": "ανακουφίζω",
+                    "meaning": "to relieve / to soothe",
+                    "examples": [
+                        {
+                            "example": "Το φάρμακο ανακουφίζει τον πόνο.",
+                            "translation": "The medicine relieves the pain."
+                        },
+                        {
+                            "example": "Ο γιατρός ανακουφίζει τις ανησυχίες μου.",
+                            "translation": "The doctor soothes my concerns."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "ανακουφίζω τον πόνο",
+                            "translation": "to relieve pain"
+                        },
+                        {
+                            "collocation": "νιώθω ανακούφιση",
+                            "translation": "to feel relief"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-hb-036",
+                    "item": "αντέχω",
+                    "meaning": "to endure / to bear / to handle",
+                    "examples": [
+                        {
+                            "example": "Αντέχω τον πόνο για λίγο ακόμα.",
+                            "translation": "I can endure the pain a little longer."
+                        },
+                        {
+                            "example": "«Αντέχεις;» ρωτάει η νοσοκόμα.",
+                            "translation": "'Can you handle it?' asks the nurse."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "αντέχω τον πόνο",
+                            "translation": "to endure pain"
+                        },
+                        {
+                            "collocation": "δεν αντέχω άλλο",
+                            "translation": "I can't take it anymore"
+                        }
+                    ]
+                }
+            ],
+            "story": {
+                "sentences": [
+                    {
+                        "sentence": "Ο Νίκος έχει μεγάλο φόβο από τους γιατρούς.",
+                        "translation": "Nikos has a great fear of doctors."
+                    },
+                    {
+                        "sentence": "Κάθε φορά που πηγαίνει στο ιατρείο, αγχώνεται πολύ.",
+                        "translation": "Every time he goes to the clinic, he gets very anxious."
+                    },
+                    {
+                        "sentence": "Ανησυχεί για την εξέταση και τα αποτελέσματα.",
+                        "translation": "He worries about the examination and the results."
+                    },
+                    {
+                        "sentence": "Η ανησυχία του είναι μεγάλη.",
+                        "translation": "His concern is great."
+                    },
+                    {
+                        "sentence": "«Προσπαθήστε να είστε ήρεμος», λέει ο γιατρός με ήρεμη φωνή.",
+                        "translation": "'Try to stay calm,' says the doctor with a calm voice."
+                    },
+                    {
+                        "sentence": "«Πάρτε μια βαθιά αναπνοή.»",
+                        "translation": "'Take a deep breath.'"
+                    },
+                    {
+                        "sentence": "Ο Νίκος χαλαρώνει λίγο.",
+                        "translation": "Nikos relaxes a little."
+                    },
+                    {
+                        "sentence": "Εμπιστεύεται τον γιατρό του.",
+                        "translation": "He trusts his doctor."
+                    },
+                    {
+                        "sentence": "Ο γιατρός ανακουφίζει τις ανησυχίες του.",
+                        "translation": "The doctor soothes his concerns."
+                    },
+                    {
+                        "sentence": "«Αντέχεις πολύ καλά», λέει η νοσοκόμα.",
+                        "translation": "'You are handling it very well,' says the nurse."
+                    },
+                    {
+                        "sentence": "Μετά την επίσκεψη, ο Νίκος αισθάνεται πολύ καλύτερα.",
+                        "translation": "After the visit, Nikos feels much better."
+                    }
+                ]
+            }
+        }
+    ]
+}

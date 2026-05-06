@@ -1,0 +1,611 @@
+{
+    "blocks": [
+        {
+            "items": [
+                {
+                    "id": "v-home-001",
+                    "item": "το σπίτι",
+                    "meaning": "house / home",
+                    "examples": [
+                        {"example": "Μένω σε ένα μικρό σπίτι.", "translation": "I live in a small house."},
+                        {"example": "Το σπίτι μου είναι κοντά στη θάλασσα.", "translation": "My house is near the sea."}
+                    ],
+                    "collocations": [
+                        {"collocation": "οικογενειακό σπίτι", "translation": "family home"},
+                        {"collocation": "σπίτι με κήπο", "translation": "house with a garden"}
+                    ]
+                },
+                {
+                    "id": "v-home-002",
+                    "item": "το διαμέρισμα",
+                    "meaning": "apartment / flat",
+                    "examples": [
+                        {"example": "Νοικιάζω ένα διαμέρισμα στο κέντρο.", "translation": "I am renting an apartment in the center."},
+                        {"example": "Το διαμέρισμά μου είναι στον δεύτερο όροφο.", "translation": "My apartment is on the second floor."}
+                    ],
+                    "collocations": [
+                        {"collocation": "μικρό διαμέρισμα", "translation": "small apartment"},
+                        {"collocation": "νοικιάζω διαμέρισμα", "translation": "to rent an apartment"}
+                    ]
+                },
+                {
+                    "id": "v-home-003",
+                    "item": "η μονοκατοικία",
+                    "meaning": "detached house / single-family house",
+                    "examples": [
+                        {"example": "Ονειρεύομαι να αγοράσω μια μονοκατοικία.", "translation": "I dream of buying a detached house."},
+                        {"example": "Η μονοκατοικία έχει μεγάλο κήπο.", "translation": "The detached house has a large garden."}
+                    ],
+                    "collocations": [
+                        {"collocation": "αγοράζω μονοκατοικία", "translation": "to buy a detached house"},
+                        {"collocation": "μονοκατοικία με κήπο", "translation": "detached house with a garden"}
+                    ]
+                },
+                {
+                    "id": "v-home-004",
+                    "item": "το διώροφο",
+                    "meaning": "two-story house",
+                    "examples": [
+                        {"example": "Μένουν σε ένα όμορφο διώροφο.", "translation": "They live in a beautiful two-story house."},
+                        {"example": "Το διώροφο έχει ταράτσα.", "translation": "The two-story house has a roof terrace."}
+                    ],
+                    "collocations": [
+                        {"collocation": "διώροφο σπίτι", "translation": "two-story house"},
+                        {"collocation": "ισόγειο διώροφο", "translation": "ground-floor two-story"}
+                    ]
+                },
+                {
+                    "id": "v-home-005",
+                    "item": "το κτίριο",
+                    "meaning": "building",
+                    "examples": [
+                        {"example": "Το κτίριο έχει δέκα ορόφους.", "translation": "The building has ten floors."},
+                        {"example": "Μένω στο κτίριο δίπλα στο πάρκο.", "translation": "I live in the building next to the park."}
+                    ],
+                    "collocations": [
+                        {"collocation": "πολυώροφο κτίριο", "translation": "multi-story building"},
+                        {"collocation": "κτίριο κατοικιών", "translation": "residential building"}
+                    ]
+                },
+                {
+                    "id": "v-home-006",
+                    "item": "η είσοδος",
+                    "meaning": "entrance / entry",
+                    "examples": [
+                        {"example": "Η είσοδος του κτιρίου είναι στα αριστερά.", "translation": "The entrance of the building is on the left."},
+                        {"example": "Σε περιμένω στην είσοδο.", "translation": "I am waiting for you at the entrance."}
+                    ],
+                    "collocations": [
+                        {"collocation": "κεντρική είσοδος", "translation": "main entrance"},
+                        {"collocation": "πόρτα εισόδου", "translation": "entrance door"}
+                    ]
+                },
+                {
+                    "id": "v-home-007",
+                    "item": "η εξώπορτα",
+                    "meaning": "front door",
+                    "examples": [
+                        {"example": "Κλείδωσε η εξώπορτα.", "translation": "The front door is locked."},
+                        {"example": "Χτύπησε την εξώπορτα.", "translation": "He knocked on the front door."}
+                    ],
+                    "collocations": [
+                        {"collocation": "κλειδώνω την εξώπορτα", "translation": "to lock the front door"},
+                        {"collocation": "ξεκλειδώνω την εξώπορτα", "translation": "to unlock the front door"}
+                    ]
+                },
+                {
+                    "id": "v-home-008",
+                    "item": "ο όροφος",
+                    "meaning": "floor / storey",
+                    "examples": [
+                        {"example": "Μένω στον τρίτο όροφο.", "translation": "I live on the third floor."},
+                        {"example": "Δεν υπάρχει ασανσέρ, ανεβαίνω με τις σκάλες στον πέμπτο όροφο.", "translation": "There is no elevator, I go up to the fifth floor by stairs."}
+                    ],
+                    "collocations": [
+                        {"collocation": "ισόγειο", "translation": "ground floor"},
+                        {"collocation": "πρώτος όροφος", "translation": "first floor"}
+                    ]
+                },
+                {
+                    "id": "v-home-009",
+                    "item": "το υπόγειο",
+                    "meaning": "basement / underground level",
+                    "examples": [
+                        {"example": "Το υπόγειο χρησιμεύει ως αποθήκη.", "translation": "The basement serves as a storage room."},
+                        {"example": "Το αυτοκίνητο παρκάρει στο υπόγειο.", "translation": "The car parks in the basement."}
+                    ],
+                    "collocations": [
+                        {"collocation": "υπόγειο γκαράζ", "translation": "underground garage"},
+                        {"collocation": "υπόγειο διαμέρισμα", "translation": "basement apartment"}
+                    ]
+                },
+                {
+                    "id": "v-home-010",
+                    "item": "το μπαλκόνι",
+                    "meaning": "balcony",
+                    "examples": [
+                        {"example": "Πίνω τον καφέ μου στο μπαλκόνι.", "translation": "I drink my coffee on the balcony."},
+                        {"example": "Το μπαλκόνι έχει θέα στη θάλασσα.", "translation": "The balcony has a sea view."}
+                    ],
+                    "collocations": [
+                        {"collocation": "θέα από το μπαλκόνι", "translation": "view from the balcony"},
+                        {"collocation": "μεγάλο μπαλκόνι", "translation": "large balcony"}
+                    ]
+                },
+                {
+                    "id": "v-home-011",
+                    "item": "το παράθυρο",
+                    "meaning": "window",
+                    "examples": [
+                        {"example": "Άνοιξε το παράθυρο γιατί κάνει ζέστη.", "translation": "Open the window because it is hot."},
+                        {"example": "Το παράθυρο βλέπει στον κήπο.", "translation": "The window looks onto the garden."}
+                    ],
+                    "collocations": [
+                        {"collocation": "ανοιχτό παράθυρο", "translation": "open window"},
+                        {"collocation": "τζάμι παραθύρου", "translation": "window glass / pane"}
+                    ]
+                },
+                {
+                    "id": "v-home-012",
+                    "item": "η πόρτα",
+                    "meaning": "door",
+                    "examples": [
+                        {"example": "Κλείσε την πόρτα, παρακαλώ.", "translation": "Close the door, please."},
+                        {"example": "Η πόρτα της κουζίνας είναι ανοιχτή.", "translation": "The kitchen door is open."}
+                    ],
+                    "collocations": [
+                        {"collocation": "κλείνω την πόρτα", "translation": "to close the door"},
+                        {"collocation": "χτυπώ την πόρτα", "translation": "to knock on the door"}
+                    ]
+                },
+                {
+                    "id": "v-home-013",
+                    "item": "ο κήπος",
+                    "meaning": "garden",
+                    "examples": [
+                        {"example": "Ο κήπος έχει πολλά λουλούδια.", "translation": "The garden has many flowers."},
+                        {"example": "Τα παιδιά παίζουν στον κήπο.", "translation": "The children are playing in the garden."}
+                    ],
+                    "collocations": [
+                        {"collocation": "περιποιούμαι τον κήπο", "translation": "to tend the garden"},
+                        {"collocation": "κήπος με δέντρα", "translation": "garden with trees"}
+                    ]
+                },
+                {
+                    "id": "v-home-014",
+                    "item": "η ταράτσα",
+                    "meaning": "roof terrace / flat roof",
+                    "examples": [
+                        {"example": "Ανεβήκαμε στην ταράτσα για να δούμε τα πυροτεχνήματα.", "translation": "We went up to the roof terrace to watch the fireworks."},
+                        {"example": "Η ταράτσα έχει θέα σε ολόκληρη την πόλη.", "translation": "The roof terrace has a view of the entire city."}
+                    ],
+                    "collocations": [
+                        {"collocation": "ηλιοθεραπεία στην ταράτσα", "translation": "sunbathing on the terrace"},
+                        {"collocation": "ανοιχτή ταράτσα", "translation": "open rooftop"}
+                    ]
+                },
+                {
+                    "id": "v-home-015",
+                    "item": "το γκαράζ",
+                    "meaning": "garage",
+                    "examples": [
+                        {"example": "Παρκάρω το αυτοκίνητό μου στο γκαράζ.", "translation": "I park my car in the garage."},
+                        {"example": "Το γκαράζ είναι κάτω από το σπίτι.", "translation": "The garage is under the house."}
+                    ],
+                    "collocations": [
+                        {"collocation": "υπόγειο γκαράζ", "translation": "underground garage"},
+                        {"collocation": "χώρος γκαράζ", "translation": "garage space"}
+                    ]
+                }
+            ],
+            "story": {
+                "sentences": [
+                    {"sentence": "Μένω σε ένα διαμέρισμα στην Αθήνα.", "translation": "I live in an apartment in Athens."},
+                    {"sentence": "Το κτίριο έχει πέντε ορόφους και υπόγειο γκαράζ.", "translation": "The building has five floors and an underground garage."},
+                    {"sentence": "Το διαμέρισμά μου είναι στον τρίτο όροφο.", "translation": "My apartment is on the third floor."},
+                    {"sentence": "Έχει μεγάλα παράθυρα και ένα μπαλκόνι με θέα στον κήπο.", "translation": "It has large windows and a balcony with a view of the garden."},
+                    {"sentence": "Η εξώπορτα του κτιρίου είναι πάντα κλειδωμένη.", "translation": "The front door of the building is always locked."},
+                    {"sentence": "Η είσοδος είναι στα δεξιά.", "translation": "The entrance is on the right."},
+                    {"sentence": "Κάποτε ήθελα να μένω σε μονοκατοικία με μεγάλο κήπο.", "translation": "Once I wanted to live in a detached house with a large garden."},
+                    {"sentence": "Ένα διώροφο σπίτι με ταράτσα θα ήταν τέλειο!", "translation": "A two-story house with a roof terrace would be perfect!"}
+                ]
+            }
+        },
+        {
+            "items": [
+                {
+                    "id": "v-home-016",
+                    "item": "η κουζίνα",
+                    "meaning": "kitchen",
+                    "examples": [
+                        {"example": "Μαγειρεύω στην κουζίνα κάθε βράδυ.", "translation": "I cook in the kitchen every evening."},
+                        {"example": "Η κουζίνα είναι μεγάλη και φωτεινή.", "translation": "The kitchen is large and bright."}
+                    ],
+                    "collocations": [
+                        {"collocation": "σύγχρονη κουζίνα", "translation": "modern kitchen"},
+                        {"collocation": "κουζίνα με νησίδα", "translation": "kitchen with an island"}
+                    ]
+                },
+                {
+                    "id": "v-home-017",
+                    "item": "το σαλόνι",
+                    "meaning": "living room / lounge",
+                    "examples": [
+                        {"example": "Βλέπουμε τηλεόραση στο σαλόνι.", "translation": "We watch TV in the living room."},
+                        {"example": "Το σαλόνι έχει μεγάλο καναπέ και πολυθρόνα.", "translation": "The living room has a big sofa and an armchair."}
+                    ],
+                    "collocations": [
+                        {"collocation": "ευρύχωρο σαλόνι", "translation": "spacious living room"},
+                        {"collocation": "σαλόνι με τζάκι", "translation": "living room with a fireplace"}
+                    ]
+                },
+                {
+                    "id": "v-home-018",
+                    "item": "η τραπεζαρία",
+                    "meaning": "dining room",
+                    "examples": [
+                        {"example": "Τρώμε μαζί στην τραπεζαρία.", "translation": "We eat together in the dining room."},
+                        {"example": "Η τραπεζαρία είναι δίπλα στην κουζίνα.", "translation": "The dining room is next to the kitchen."}
+                    ],
+                    "collocations": [
+                        {"collocation": "τραπεζαρία για έξι άτομα", "translation": "dining room for six people"},
+                        {"collocation": "σετ τραπεζαρίας", "translation": "dining room set"}
+                    ]
+                },
+                {
+                    "id": "v-home-019",
+                    "item": "η κρεβατοκάμαρα",
+                    "meaning": "bedroom",
+                    "examples": [
+                        {"example": "Η κρεβατοκάμαρά μου είναι ήσυχη.", "translation": "My bedroom is quiet."},
+                        {"example": "Έχουμε τρεις κρεβατοκάμαρες στο σπίτι.", "translation": "We have three bedrooms in the house."}
+                    ],
+                    "collocations": [
+                        {"collocation": "κύρια κρεβατοκάμαρα", "translation": "master bedroom"},
+                        {"collocation": "κρεβατοκάμαρα με μπάνιο", "translation": "bedroom with bathroom"}
+                    ]
+                },
+                {
+                    "id": "v-home-020",
+                    "item": "το μπάνιο",
+                    "meaning": "bathroom",
+                    "examples": [
+                        {"example": "Κάνω ντους στο μπάνιο κάθε πρωί.", "translation": "I take a shower in the bathroom every morning."},
+                        {"example": "Το μπάνιο μας είναι μικρό αλλά λειτουργικό.", "translation": "Our bathroom is small but functional."}
+                    ],
+                    "collocations": [
+                        {"collocation": "ιδιωτικό μπάνιο", "translation": "private bathroom"},
+                        {"collocation": "μπάνιο με μπανιέρα", "translation": "bathroom with a bathtub"}
+                    ]
+                },
+                {
+                    "id": "v-home-021",
+                    "item": "η τουαλέτα",
+                    "meaning": "toilet / WC",
+                    "examples": [
+                        {"example": "Η τουαλέτα είναι στο τέλος του διαδρόμου.", "translation": "The toilet is at the end of the hallway."},
+                        {"example": "Υπάρχει ξεχωριστή τουαλέτα για τους επισκέπτες.", "translation": "There is a separate toilet for guests."}
+                    ],
+                    "collocations": [
+                        {"collocation": "κοινόχρηστη τουαλέτα", "translation": "shared toilet"},
+                        {"collocation": "τουαλέτα επισκεπτών", "translation": "guest toilet"}
+                    ]
+                },
+                {
+                    "id": "v-home-022",
+                    "item": "το γραφείο",
+                    "meaning": "study / home office",
+                    "examples": [
+                        {"example": "Δουλεύω από το γραφείο στο σπίτι.", "translation": "I work from the home office."},
+                        {"example": "Το γραφείο έχει μεγάλο παράθυρο.", "translation": "The study has a large window."}
+                    ],
+                    "collocations": [
+                        {"collocation": "χώρος γραφείου", "translation": "office space"},
+                        {"collocation": "εργάζομαι στο γραφείο", "translation": "to work in the study"}
+                    ]
+                },
+                {
+                    "id": "v-home-023",
+                    "item": "ο διάδρομος",
+                    "meaning": "hallway / corridor",
+                    "examples": [
+                        {"example": "Ο διάδρομος συνδέει όλα τα δωμάτια.", "translation": "The hallway connects all the rooms."},
+                        {"example": "Αφήσαμε τα παπούτσια στον διάδρομο.", "translation": "We left our shoes in the hallway."}
+                    ],
+                    "collocations": [
+                        {"collocation": "μακρύς διάδρομος", "translation": "long hallway"},
+                        {"collocation": "φωτεινός διάδρομος", "translation": "bright hallway"}
+                    ]
+                },
+                {
+                    "id": "v-home-024",
+                    "item": "η αποθήκη",
+                    "meaning": "storage room / storeroom",
+                    "examples": [
+                        {"example": "Βάζουμε τα εργαλεία στην αποθήκη.", "translation": "We put the tools in the storage room."},
+                        {"example": "Η αποθήκη είναι γεμάτη παλιά πράγματα.", "translation": "The storage room is full of old things."}
+                    ],
+                    "collocations": [
+                        {"collocation": "αποθήκη κελαριού", "translation": "cellar storage"},
+                        {"collocation": "χώρος αποθήκευσης", "translation": "storage space"}
+                    ]
+                },
+                {
+                    "id": "v-home-025",
+                    "item": "το δωμάτιο",
+                    "meaning": "room",
+                    "examples": [
+                        {"example": "Κάθε δωμάτιο έχει το δικό του χρώμα.", "translation": "Every room has its own colour."},
+                        {"example": "Το δωμάτιό μου είναι πολύ ζεστό το καλοκαίρι.", "translation": "My room is very hot in summer."}
+                    ],
+                    "collocations": [
+                        {"collocation": "καθαρίζω το δωμάτιο", "translation": "to clean the room"},
+                        {"collocation": "τακτοποιώ το δωμάτιο", "translation": "to tidy up the room"}
+                    ]
+                },
+                {
+                    "id": "v-home-026",
+                    "item": "το παιδικό δωμάτιο",
+                    "meaning": "children's room / kids' room",
+                    "examples": [
+                        {"example": "Τα παιδιά παίζουν στο παιδικό δωμάτιο.", "translation": "The children play in the kids' room."},
+                        {"example": "Το παιδικό δωμάτιο είναι γεμάτο παιχνίδια.", "translation": "The children's room is full of toys."}
+                    ],
+                    "collocations": [
+                        {"collocation": "διακόσμηση παιδικού δωματίου", "translation": "children's room decoration"},
+                        {"collocation": "παιδικό δωμάτιο για αγόρι", "translation": "kids' room for a boy"}
+                    ]
+                },
+                {
+                    "id": "v-home-027",
+                    "item": "το δωμάτιο φιλοξενίας",
+                    "meaning": "guest room",
+                    "examples": [
+                        {"example": "Οι φίλοι μας κοιμούνται στο δωμάτιο φιλοξενίας.", "translation": "Our friends sleep in the guest room."},
+                        {"example": "Ετοιμάσαμε το δωμάτιο φιλοξενίας για τους επισκέπτες.", "translation": "We prepared the guest room for the visitors."}
+                    ],
+                    "collocations": [
+                        {"collocation": "άνετο δωμάτιο φιλοξενίας", "translation": "comfortable guest room"},
+                        {"collocation": "ετοιμάζω δωμάτιο φιλοξενίας", "translation": "to prepare the guest room"}
+                    ]
+                },
+                {
+                    "id": "v-home-028",
+                    "item": "η σκάλα",
+                    "meaning": "stairs / staircase",
+                    "examples": [
+                        {"example": "Ανεβαίνω τη σκάλα κάθε μέρα.", "translation": "I go up the stairs every day."},
+                        {"example": "Η σκάλα είναι ξύλινη.", "translation": "The staircase is wooden."}
+                    ],
+                    "collocations": [
+                        {"collocation": "ανεβαίνω τη σκάλα", "translation": "to go up the stairs"},
+                        {"collocation": "κατεβαίνω τη σκάλα", "translation": "to go down the stairs"}
+                    ]
+                }
+            ],
+            "story": {
+                "sentences": [
+                    {"sentence": "Το σπίτι μας έχει πολλά δωμάτια.", "translation": "Our house has many rooms."},
+                    {"sentence": "Η κουζίνα είναι μεγάλη και φωτεινή.", "translation": "The kitchen is large and bright."},
+                    {"sentence": "Το σαλόνι έχει μεγάλο καναπέ και τηλεόραση.", "translation": "The living room has a big sofa and a TV."},
+                    {"sentence": "Η τραπεζαρία είναι δίπλα στην κουζίνα.", "translation": "The dining room is next to the kitchen."},
+                    {"sentence": "Έχουμε δύο κρεβατοκάμαρες, ένα μπάνιο και μια ξεχωριστή τουαλέτα.", "translation": "We have two bedrooms, a bathroom and a separate toilet."},
+                    {"sentence": "Ο διάδρομος συνδέει όλα τα δωμάτια.", "translation": "The hallway connects all the rooms."},
+                    {"sentence": "Η αποθήκη είναι κάτω από τη σκάλα.", "translation": "The storage room is under the staircase."},
+                    {"sentence": "Το γραφείο μου είναι ήσυχο — τέλειο για εργασία!", "translation": "My home office is quiet — perfect for work!"}
+                ]
+            }
+        },
+        {
+            "items": [
+                {
+                    "id": "v-home-029",
+                    "item": "το κρεβάτι",
+                    "meaning": "bed",
+                    "examples": [
+                        {"example": "Ο ύπνος στο κρεβάτι μου είναι πολύ άνετος.", "translation": "Sleeping in my bed is very comfortable."},
+                        {"example": "Στρώνω το κρεβάτι κάθε πρωί.", "translation": "I make my bed every morning."}
+                    ],
+                    "collocations": [
+                        {"collocation": "στρώνω το κρεβάτι", "translation": "to make the bed"},
+                        {"collocation": "διπλό κρεβάτι", "translation": "double bed"}
+                    ]
+                },
+                {
+                    "id": "v-home-030",
+                    "item": "το γραφείο",
+                    "meaning": "desk",
+                    "examples": [
+                        {"example": "Διαβάζω στο γραφείο μου.", "translation": "I study at my desk."},
+                        {"example": "Το γραφείο είναι δίπλα στο παράθυρο.", "translation": "The desk is next to the window."}
+                    ],
+                    "collocations": [
+                        {"collocation": "καθαρίζω το γραφείο", "translation": "to clean the desk"},
+                        {"collocation": "γραφείο υπολογιστή", "translation": "computer desk"}
+                    ]
+                },
+                {
+                    "id": "v-home-031",
+                    "item": "η καρέκλα",
+                    "meaning": "chair",
+                    "examples": [
+                        {"example": "Κάθομαι στην καρέκλα μπροστά στο γραφείο.", "translation": "I sit in the chair in front of the desk."},
+                        {"example": "Αγοράσαμε καινούργιες καρέκλες για την τραπεζαρία.", "translation": "We bought new chairs for the dining room."}
+                    ],
+                    "collocations": [
+                        {"collocation": "καρέκλα γραφείου", "translation": "office chair"},
+                        {"collocation": "ξύλινη καρέκλα", "translation": "wooden chair"}
+                    ]
+                },
+                {
+                    "id": "v-home-032",
+                    "item": "ο καναπές",
+                    "meaning": "sofa / couch",
+                    "examples": [
+                        {"example": "Κάθομαι στον καναπέ και βλέπω τηλεόραση.", "translation": "I sit on the sofa and watch TV."},
+                        {"example": "Ο καναπές είναι πολύ άνετος.", "translation": "The sofa is very comfortable."}
+                    ],
+                    "collocations": [
+                        {"collocation": "καναπές-κρεβάτι", "translation": "sofa bed"},
+                        {"collocation": "γωνιακός καναπές", "translation": "corner sofa"}
+                    ]
+                },
+                {
+                    "id": "v-home-033",
+                    "item": "η κουρτίνα",
+                    "meaning": "curtain",
+                    "examples": [
+                        {"example": "Οι κουρτίνες είναι λευκές και ελαφριές.", "translation": "The curtains are white and light."},
+                        {"example": "Κλείνω τις κουρτίνες τη νύχτα.", "translation": "I close the curtains at night."}
+                    ],
+                    "collocations": [
+                        {"collocation": "κλείνω τις κουρτίνες", "translation": "to close the curtains"},
+                        {"collocation": "βαριές κουρτίνες", "translation": "heavy curtains"}
+                    ]
+                },
+                {
+                    "id": "v-home-034",
+                    "item": "ο καθρέφτης",
+                    "meaning": "mirror",
+                    "examples": [
+                        {"example": "Κοιτάζομαι στον καθρέφτη κάθε πρωί.", "translation": "I look at myself in the mirror every morning."},
+                        {"example": "Ο καθρέφτης στον τοίχο κάνει το δωμάτιο να φαίνεται μεγαλύτερο.", "translation": "The mirror on the wall makes the room look bigger."}
+                    ],
+                    "collocations": [
+                        {"collocation": "μεγάλος καθρέφτης", "translation": "large mirror"},
+                        {"collocation": "καθρέφτης τοίχου", "translation": "wall mirror"}
+                    ]
+                },
+                {
+                    "id": "v-home-035",
+                    "item": "το τραπέζι",
+                    "meaning": "table",
+                    "examples": [
+                        {"example": "Τρώμε στο τραπέζι της κουζίνας.", "translation": "We eat at the kitchen table."},
+                        {"example": "Βάλε τα βιβλία στο τραπέζι.", "translation": "Put the books on the table."}
+                    ],
+                    "collocations": [
+                        {"collocation": "στρώνω το τραπέζι", "translation": "to set the table"},
+                        {"collocation": "τραπέζι του καφέ", "translation": "coffee table"}
+                    ]
+                },
+                {
+                    "id": "v-home-036",
+                    "item": "η ντουλάπα",
+                    "meaning": "wardrobe / closet",
+                    "examples": [
+                        {"example": "Η ντουλάπα μου είναι γεμάτη ρούχα.", "translation": "My wardrobe is full of clothes."},
+                        {"example": "Βάλε τα παλτά στην ντουλάπα.", "translation": "Put the coats in the wardrobe."}
+                    ],
+                    "collocations": [
+                        {"collocation": "εντοιχισμένη ντουλάπα", "translation": "built-in wardrobe"},
+                        {"collocation": "ντουλάπα δύο φύλλων", "translation": "two-door wardrobe"}
+                    ]
+                },
+                {
+                    "id": "v-home-037",
+                    "item": "το ράφι",
+                    "meaning": "shelf",
+                    "examples": [
+                        {"example": "Τα βιβλία είναι στο ράφι.", "translation": "The books are on the shelf."},
+                        {"example": "Βάλε αυτό στο πάνω ράφι.", "translation": "Put this on the top shelf."}
+                    ],
+                    "collocations": [
+                        {"collocation": "τοποθετώ στο ράφι", "translation": "to place on the shelf"},
+                        {"collocation": "επιτοίχιο ράφι", "translation": "wall-mounted shelf"}
+                    ]
+                },
+                {
+                    "id": "v-home-038",
+                    "item": "η λάμπα",
+                    "meaning": "lamp / light",
+                    "examples": [
+                        {"example": "Άναψε τη λάμπα, δεν βλέπω καλά.", "translation": "Turn on the lamp, I can't see well."},
+                        {"example": "Η λάμπα στο κομοδίνο δίνει μαλακό φως.", "translation": "The lamp on the bedside table gives a soft light."}
+                    ],
+                    "collocations": [
+                        {"collocation": "ανάβω τη λάμπα", "translation": "to turn on the lamp"},
+                        {"collocation": "λάμπα δαπέδου", "translation": "floor lamp"}
+                    ]
+                },
+                {
+                    "id": "v-home-039",
+                    "item": "το χαλί",
+                    "meaning": "carpet / rug",
+                    "examples": [
+                        {"example": "Το χαλί στο σαλόνι είναι μαλακό.", "translation": "The rug in the living room is soft."},
+                        {"example": "Ένα χαλί κάνει το δωμάτιο πιο ζεστό.", "translation": "A rug makes the room warmer."}
+                    ],
+                    "collocations": [
+                        {"collocation": "μάλλινο χαλί", "translation": "woollen carpet"},
+                        {"collocation": "χαλί δωματίου", "translation": "room rug"}
+                    ]
+                },
+                {
+                    "id": "v-home-040",
+                    "item": "η πολυθρόνα",
+                    "meaning": "armchair",
+                    "examples": [
+                        {"example": "Διαβάζω στην πολυθρόνα δίπλα στο παράθυρο.", "translation": "I read in the armchair next to the window."},
+                        {"example": "Η πολυθρόνα είναι η αγαπημένη μου θέση στο σαλόνι.", "translation": "The armchair is my favourite spot in the living room."}
+                    ],
+                    "collocations": [
+                        {"collocation": "άνετη πολυθρόνα", "translation": "comfortable armchair"},
+                        {"collocation": "δερμάτινη πολυθρόνα", "translation": "leather armchair"}
+                    ]
+                },
+                {
+                    "id": "v-home-041",
+                    "item": "το κομοδίνο",
+                    "meaning": "bedside table / nightstand",
+                    "examples": [
+                        {"example": "Βάζω το βιβλίο στο κομοδίνο πριν κοιμηθώ.", "translation": "I put the book on the bedside table before I sleep."},
+                        {"example": "Το ρολόι είναι πάνω στο κομοδίνο.", "translation": "The clock is on the bedside table."}
+                    ],
+                    "collocations": [
+                        {"collocation": "συρτάρι κομοδίνου", "translation": "bedside table drawer"},
+                        {"collocation": "λάμπα κομοδίνου", "translation": "bedside lamp"}
+                    ]
+                },
+                {
+                    "id": "v-home-042",
+                    "item": "η βιβλιοθήκη",
+                    "meaning": "bookcase / bookshelf",
+                    "examples": [
+                        {"example": "Η βιβλιοθήκη μου είναι γεμάτη βιβλία.", "translation": "My bookcase is full of books."},
+                        {"example": "Αγοράσαμε μια νέα βιβλιοθήκη για το γραφείο.", "translation": "We bought a new bookcase for the study."}
+                    ],
+                    "collocations": [
+                        {"collocation": "ξύλινη βιβλιοθήκη", "translation": "wooden bookcase"},
+                        {"collocation": "επιτοίχια βιβλιοθήκη", "translation": "wall bookcase"}
+                    ]
+                },
+                {
+                    "id": "v-home-043",
+                    "item": "ο τοίχος",
+                    "meaning": "wall",
+                    "examples": [
+                        {"example": "Κρεμάσαμε ένα πίνακα στον τοίχο.", "translation": "We hung a painting on the wall."},
+                        {"example": "Ο τοίχος είναι βαμμένος γαλάζιο.", "translation": "The wall is painted light blue."}
+                    ],
+                    "collocations": [
+                        {"collocation": "χρωματίζω τον τοίχο", "translation": "to paint the wall"},
+                        {"collocation": "διακόσμηση τοίχου", "translation": "wall decoration"}
+                    ]
+                }
+            ],
+            "story": {
+                "sentences": [
+                    {"sentence": "Στην κρεβατοκάμαρά μου έχω ένα άνετο κρεβάτι και ένα κομοδίνο.", "translation": "In my bedroom I have a comfortable bed and a bedside table."},
+                    {"sentence": "Το γραφείο μου είναι δίπλα στο παράθυρο.", "translation": "My desk is next to the window."},
+                    {"sentence": "Η ντουλάπα μου είναι γεμάτη ρούχα.", "translation": "My wardrobe is full of clothes."},
+                    {"sentence": "Στο σαλόνι υπάρχει ένας μεγάλος καναπές και μια άνετη πολυθρόνα.", "translation": "In the living room there is a big sofa and a comfortable armchair."},
+                    {"sentence": "Οι κουρτίνες είναι λευκές και φωτίζουν το δωμάτιο.", "translation": "The curtains are white and brighten the room."},
+                    {"sentence": "Ο μεγάλος καθρέφτης στον τοίχο κάνει το δωμάτιο να φαίνεται μεγαλύτερο.", "translation": "The large mirror on the wall makes the room look bigger."},
+                    {"sentence": "Τα βιβλία μου είναι τακτοποιημένα στη βιβλιοθήκη.", "translation": "My books are neatly arranged in the bookcase."},
+                    {"sentence": "Ένα μαλακό χαλί στο πάτωμα κάνει το δωμάτιο πιο ζεστό.", "translation": "A soft rug on the floor makes the room warmer."}
+                ]
+            }
+        }
+    ]
+}

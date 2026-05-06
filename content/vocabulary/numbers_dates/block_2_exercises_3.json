@@ -1,0 +1,17 @@
+{
+    "exercises": [
+        {"id": "e-nd-b2-027", "type": "translate", "header": "On Monday I go to work early.", "answer": "Τη Δευτέρα πηγαίνω στη δουλειά νωρίς."},
+        {"id": "e-nd-b2-028", "type": "translate", "header": "On Tuesday I have Greek class at eight.", "answer": "Την Τρίτη έχω μάθημα ελληνικών στις οχτώ."},
+        {"id": "e-nd-b2-029", "type": "translate", "header": "On Wednesday I exercise at home.", "answer": "Την Τετάρτη γυμνάζομαι στο σπίτι."},
+        {"id": "e-nd-b2-030", "type": "translate", "header": "On Thursday I see my friends at the café.", "answer": "Την Πέμπτη βλέπω τους φίλους μου στο καφενείο."},
+        {"id": "e-nd-b2-031", "type": "translate", "header": "On Friday I go out to eat.", "answer": "Την Παρασκευή βγαίνω για φαγητό."},
+        {"id": "e-nd-b2-032", "type": "translate", "header": "On Saturday I do my shopping for the whole week.", "answer": "Το Σάββατο κάνω τα ψώνια μου για όλη την εβδομάδα."},
+        {"id": "e-nd-b2-033", "type": "translate", "header": "On Sunday I rest and read.", "answer": "Την Κυριακή ξεκουράζομαι και διαβάζω."},
+        {"id": "e-nd-b2-034", "type": "translate", "header": "This building has eleven floors.", "answer": "Αυτό το κτίριο έχει έντεκα ορόφους."},
+        {"id": "e-nd-b2-035", "type": "translate", "header": "Today I celebrate my twelve years in Greece.", "answer": "Σήμερα γιορτάζω τα δώδεκα χρόνια μου στην Ελλάδα."},
+        {"id": "e-nd-b2-036", "type": "translate", "header": "Every Tuesday I go to the doctor.", "answer": "Κάθε Τρίτη πηγαίνω στο γιατρό."},
+        {"id": "e-nd-b2-037", "type": "translate", "header": "I call her every Friday evening.", "answer": "Της τηλεφωνώ κάθε Παρασκευή βράδυ."},
+        {"id": "e-nd-b2-038", "type": "translate", "header": "Saturday night we go dancing.", "answer": "Σάββατο βράδυ πηγαίνουμε για χορό."},
+        {"id": "e-nd-b2-039", "type": "translate", "header": "Every Sunday morning I drink coffee.", "answer": "Κάθε Κυριακή πρωί πίνω καφέ."}
+    ]
+}

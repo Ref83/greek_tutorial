@@ -1,0 +1,17 @@
+{
+    "exercises": [
+        {"id": "e-nd-b3-027", "type": "translate", "header": "January is the first month of the year.", "answer": "Ο Ιανουάριος είναι ο πρώτος μήνας του χρόνου."},
+        {"id": "e-nd-b3-028", "type": "translate", "header": "The first student received a prize.", "answer": "Ο πρώτος μαθητής πήρε βραβείο."},
+        {"id": "e-nd-b3-029", "type": "translate", "header": "This is the first time I visit Greece.", "answer": "Αυτή είναι η πρώτη φορά που επισκέπτομαι την Ελλάδα."},
+        {"id": "e-nd-b3-030", "type": "translate", "header": "Today is Monday.", "answer": "Σήμερα είναι Δευτέρα."},
+        {"id": "e-nd-b3-031", "type": "translate", "header": "Yesterday was Sunday.", "answer": "Χθες ήταν Κυριακή."},
+        {"id": "e-nd-b3-032", "type": "translate", "header": "Tomorrow will be Tuesday.", "answer": "Αύριο θα είναι Τρίτη."},
+        {"id": "e-nd-b3-033", "type": "translate", "header": "Today is January 1st, New Year's Day!", "answer": "Σήμερα είναι η πρώτη Ιανουαρίου, Πρωτοχρονιά!"},
+        {"id": "e-nd-b3-034", "type": "translate", "header": "Yesterday was the last day of December.", "answer": "Χθες ήταν η τελευταία μέρα του Δεκεμβρίου."},
+        {"id": "e-nd-b3-035", "type": "translate", "header": "Tomorrow begins the new year with new goals.", "answer": "Αύριο αρχίζει ο νέος χρόνος με νέους στόχους."},
+        {"id": "e-nd-b3-036", "type": "translate", "header": "In March flowers bloom everywhere.", "answer": "Τον Μάρτιο ανθίζουν τα λουλούδια παντού."},
+        {"id": "e-nd-b3-037", "type": "translate", "header": "In July and August we go on vacation by the sea.", "answer": "Τον Ιούλιο και τον Αύγουστο πηγαίνουμε διακοπές στη θάλασσα."},
+        {"id": "e-nd-b3-038", "type": "translate", "header": "In October and November it rains a lot.", "answer": "Τον Οκτώβριο και τον Νοέμβριο βρέχει πολύ."},
+        {"id": "e-nd-b3-039", "type": "translate", "header": "We celebrate Christmas in December.", "answer": "Τα Χριστούγεννα γιορτάζουμε τον Δεκέμβριο."}
+    ]
+}

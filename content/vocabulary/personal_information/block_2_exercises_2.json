@@ -1,16 +1,94 @@
 {
     "exercises": [
         {
-            "id": "e1a1-024",
+            "id": "e-pi-b2-201",
             "type": "translate",
-            "header": "7 Are you well today?",
-            "answer": "8 Εσύ είσαι καλά σήμερα;"
+            "header": "Do you have a brother?",
+            "answer": "Έχεις αδελφό;"
         },
         {
-            "id": "e1a1-035",
+            "id": "e-pi-b2-202",
             "type": "translate",
-            "header": "5 Are you well today 1?",
-            "answer": "5 Εσύ είσαι καλά σήμερα 1;"
+            "header": "She has an older sister.",
+            "answer": "Έχει μεγάλη αδελφή."
+        },
+        {
+            "id": "e-pi-b2-203",
+            "type": "translate",
+            "header": "My parents are elderly.",
+            "answer": "Οι γονείς μου είναι ηλικιωμένοι."
+        },
+        {
+            "id": "e-pi-b2-204",
+            "type": "translate",
+            "header": "My father works a lot.",
+            "answer": "Ο πατέρας μου δουλεύει πολύ."
+        },
+        {
+            "id": "e-pi-b2-205",
+            "type": "translate",
+            "header": "My mother lives near us.",
+            "answer": "Η μητέρα μου μένει κοντά μας."
+        },
+        {
+            "id": "e-pi-b2-206",
+            "type": "translate",
+            "header": "My husband works as a doctor.",
+            "answer": "Ο σύζυγός μου δουλεύει ως γιατρός."
+        },
+        {
+            "id": "e-pi-b2-207",
+            "type": "translate",
+            "header": "My wife's name is Sofia.",
+            "answer": "Η γυναίκα μου λέγεται Σοφία."
+        },
+        {
+            "id": "e-pi-b2-208",
+            "type": "translate",
+            "header": "Which languages do you speak?",
+            "answer": "Ποιες γλώσσες μιλάς;"
+        },
+        {
+            "id": "e-pi-b2-209",
+            "type": "translate",
+            "header": "I come from Greece.",
+            "answer": "Κατάγομαι από την Ελλάδα."
+        },
+        {
+            "id": "e-pi-b2-210",
+            "type": "translate",
+            "header": "I live alone.",
+            "answer": "Μένω μόνος."
+        },
+        {
+            "id": "e-pi-b2-211",
+            "type": "translate",
+            "header": "We live nearby.",
+            "answer": "Μένουμε κοντά."
+        },
+        {
+            "id": "e-pi-b2-212",
+            "type": "translate",
+            "header": "He has a small family.",
+            "answer": "Έχει μικρή οικογένεια."
+        },
+        {
+            "id": "e-pi-b2-213",
+            "type": "translate",
+            "header": "My ex-husband is from Athens.",
+            "answer": "Ο πρώην σύζυγός μου είναι από την Αθήνα."
+        },
+        {
+            "id": "e-pi-b2-214",
+            "type": "translate",
+            "header": "Greek is my mother tongue.",
+            "answer": "Τα ελληνικά είναι η μητρική μου γλώσσα."
+        },
+        {
+            "id": "e-pi-b2-215",
+            "type": "translate",
+            "header": "I love my family very much.",
+            "answer": "Αγαπώ πολύ την οικογένειά μου."
         }
     ]
 }

@@ -1,0 +1,17 @@
+{
+    "exercises": [
+        {"id": "e-da-b2-027", "type": "translate", "header": "Every Saturday, Eleni cleans the house.", "answer": "Κάθε Σάββατο, η Ελένη καθαρίζει το σπίτι."},
+        {"id": "e-da-b2-028", "type": "translate", "header": "First she vacuums the floor.", "answer": "Πρώτα σκουπίζει το πάτωμα με την ηλεκτρική σκούπα."},
+        {"id": "e-da-b2-029", "type": "translate", "header": "Then she opens the windows to air out the house.", "answer": "Μετά ανοίγει τα παράθυρα για να αερίσει το σπίτι."},
+        {"id": "e-da-b2-030", "type": "translate", "header": "She washes the dishes and tidies up her things.", "answer": "Πλένει τα πιάτα και μαζεύει τα πράγματά της."},
+        {"id": "e-da-b2-031", "type": "translate", "header": "She arranges the books and runs the washing machine.", "answer": "Τακτοποιεί τα βιβλία και βάζει πλυντήριο."},
+        {"id": "e-da-b2-032", "type": "translate", "header": "Then she goes shopping at the supermarket.", "answer": "Μετά ψωνίζει στο σούπερ μάρκετ."},
+        {"id": "e-da-b2-033", "type": "translate", "header": "In the afternoon she gets ready to go out.", "answer": "Το απόγευμα ετοιμάζεται για έξοδο."},
+        {"id": "e-da-b2-034", "type": "translate", "header": "She made an appointment with friends and they are planning to go to the cinema.", "answer": "Έκλεισε ραντεβού με φίλες και σχεδιάζουν να πάνε σινεμά."},
+        {"id": "e-da-b2-035", "type": "translate", "header": "I shop online every week.", "answer": "Ψωνίζω online κάθε εβδομάδα."},
+        {"id": "e-da-b2-036", "type": "translate", "header": "I dry the clothes after washing them.", "answer": "Στεγνώνω τα ρούχα αφού τα πλύνω."},
+        {"id": "e-da-b2-037", "type": "translate", "header": "Open the shutters in the morning for light.", "answer": "Άνοιξε τα παντζούρια το πρωί για φως."},
+        {"id": "e-da-b2-038", "type": "translate", "header": "I tidy up things before guests arrive.", "answer": "Μαζεύω τα πράγματα πριν έρθουν οι καλεσμένοι."},
+        {"id": "e-da-b2-039", "type": "translate", "header": "She is planning a party for Saturday.", "answer": "Σχεδιάζει ένα πάρτι για το Σάββατο."}
+    ]
+}

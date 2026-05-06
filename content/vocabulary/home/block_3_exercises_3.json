@@ -1,0 +1,17 @@
+{
+  "exercises": [
+    {"id": "e-home-b3-027", "type": "translate", "header": "The bookcase is full of interesting books.", "answer": "Η βιβλιοθήκη είναι γεμάτη ενδιαφέροντα βιβλία."},
+    {"id": "e-home-b3-028", "type": "translate", "header": "I bought a new bookcase for my office.", "answer": "Αγόρασα μια καινούργια βιβλιοθήκη για το γραφείο μου."},
+    {"id": "e-home-b3-029", "type": "translate", "header": "The wall of the living room is painted white.", "answer": "Ο τοίχος του σαλονιού είναι βαμμένος λευκός."},
+    {"id": "e-home-b3-030", "type": "translate", "header": "We hung a picture on the wall.", "answer": "Κρεμάσαμε μια εικόνα στον τοίχο."},
+    {"id": "e-home-b3-031", "type": "translate", "header": "The bed needs new sheets.", "answer": "Το κρεβάτι χρειάζεται καινούργια σεντόνια."},
+    {"id": "e-home-b3-032", "type": "translate", "header": "I keep my laptop on the desk.", "answer": "Κρατάω το λάπτοπ μου στο γραφείο."},
+    {"id": "e-home-b3-033", "type": "translate", "header": "There are four chairs around the table.", "answer": "Υπάρχουν τέσσερις καρέκλες γύρω από το τραπέζι."},
+    {"id": "e-home-b3-034", "type": "translate", "header": "The sofa can seat three people.", "answer": "Ο καναπές χωράει τρία άτομα."},
+    {"id": "e-home-b3-035", "type": "translate", "header": "The curtains match the carpet color.", "answer": "Οι κουρτίνες ταιριάζουν με το χρώμα του χαλιού."},
+    {"id": "e-home-b3-036", "type": "translate", "header": "The mirror makes the room look bigger.", "answer": "Ο καθρέφτης κάνει το δωμάτιο να φαίνεται μεγαλύτερο."},
+    {"id": "e-home-b3-037", "type": "translate", "header": "We eat at the table every Sunday.", "answer": "Τρώμε στο τραπέζι κάθε Κυριακή."},
+    {"id": "e-home-b3-038", "type": "translate", "header": "I keep my lamp on all night.", "answer": "Κρατάω τη λάμπα μου αναμμένη όλη τη νύχτα."},
+    {"id": "e-home-b3-039", "type": "translate", "header": "The armchair is next to the bookcase.", "answer": "Η πολυθρόνα είναι δίπλα στη βιβλιοθήκη."}
+  ]
+}

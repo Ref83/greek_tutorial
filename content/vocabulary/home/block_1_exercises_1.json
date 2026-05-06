@@ -1,0 +1,17 @@
+{
+  "exercises": [
+    {"id": "e-home-b1-001", "type": "translate", "header": "I live in a small house.", "answer": "Μένω σε ένα μικρό σπίτι."},
+    {"id": "e-home-b1-002", "type": "translate", "header": "My house is near the sea.", "answer": "Το σπίτι μου είναι κοντά στη θάλασσα."},
+    {"id": "e-home-b1-003", "type": "translate", "header": "I am renting an apartment in the center.", "answer": "Νοικιάζω ένα διαμέρισμα στο κέντρο."},
+    {"id": "e-home-b1-004", "type": "translate", "header": "My apartment is on the second floor.", "answer": "Το διαμέρισμά μου είναι στον δεύτερο όροφο."},
+    {"id": "e-home-b1-005", "type": "translate", "header": "I dream of buying a detached house.", "answer": "Ονειρεύομαι να αγοράσω μια μονοκατοικία."},
+    {"id": "e-home-b1-006", "type": "translate", "header": "The detached house has a large garden.", "answer": "Η μονοκατοικία έχει μεγάλο κήπο."},
+    {"id": "e-home-b1-007", "type": "translate", "header": "They live in a beautiful two-story house.", "answer": "Μένουν σε ένα όμορφο διώροφο."},
+    {"id": "e-home-b1-008", "type": "translate", "header": "The two-story house has a roof terrace.", "answer": "Το διώροφο έχει ταράτσα."},
+    {"id": "e-home-b1-009", "type": "translate", "header": "The building has ten floors.", "answer": "Το κτίριο έχει δέκα ορόφους."},
+    {"id": "e-home-b1-010", "type": "translate", "header": "I live in the building next to the park.", "answer": "Μένω στο κτίριο δίπλα στο πάρκο."},
+    {"id": "e-home-b1-011", "type": "translate", "header": "The entrance of the building is on the left.", "answer": "Η είσοδος του κτιρίου είναι στα αριστερά."},
+    {"id": "e-home-b1-012", "type": "translate", "header": "I am waiting for you at the entrance.", "answer": "Σε περιμένω στην είσοδο."},
+    {"id": "e-home-b1-013", "type": "translate", "header": "The front door is locked.", "answer": "Η εξώπορτα είναι κλειδωμένη."}
+  ]
+}

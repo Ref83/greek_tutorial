@@ -1,0 +1,17 @@
+{
+    "exercises": [
+        {"id": "e-da-b1-014", "type": "translate", "header": "When do you come back from work?", "answer": "Πότε επιστρέφεις από τη δουλειά;"},
+        {"id": "e-da-b1-015", "type": "translate", "header": "I cook every evening for my family.", "answer": "Μαγειρεύω κάθε βράδυ για την οικογένειά μου."},
+        {"id": "e-da-b1-016", "type": "translate", "header": "I like to cook new recipes.", "answer": "Μου αρέσει να μαγειρεύω νέες συνταγές."},
+        {"id": "e-da-b1-017", "type": "translate", "header": "I have dinner with my family every evening.", "answer": "Δειπνώ με την οικογένειά μου κάθε βράδυ."},
+        {"id": "e-da-b1-018", "type": "translate", "header": "What time do you usually have dinner?", "answer": "Τι ώρα δειπνάτε συνήθως;"},
+        {"id": "e-da-b1-019", "type": "translate", "header": "We dine out on Fridays.", "answer": "Δειπνούμε έξω τις Παρασκευές."},
+        {"id": "e-da-b1-020", "type": "translate", "header": "I sleep eight hours every night.", "answer": "Κοιμάμαι οκτώ ώρες κάθε βράδυ."},
+        {"id": "e-da-b1-021", "type": "translate", "header": "When do you usually go to sleep?", "answer": "Πότε κοιμάσαι συνήθως;"},
+        {"id": "e-da-b1-022", "type": "translate", "header": "I relax on the sofa after work.", "answer": "Χαλαρώνω στον καναπέ μετά τη δουλειά."},
+        {"id": "e-da-b1-023", "type": "translate", "header": "I need a bit of relaxation today.", "answer": "Χρειάζομαι λίγη χαλάρωση σήμερα."},
+        {"id": "e-da-b1-024", "type": "translate", "header": "I'm in a hurry today, I don't have time.", "answer": "Βιάζομαι σήμερα, δεν έχω χρόνο."},
+        {"id": "e-da-b1-025", "type": "translate", "header": "Don't be in a hurry, we have time!", "answer": "Μην βιάζεσαι, έχουμε ώρα!"},
+        {"id": "e-da-b1-026", "type": "translate", "header": "I wake up early every morning.", "answer": "Ξυπνώ νωρίς κάθε πρωί."}
+    ]
+}

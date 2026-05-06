@@ -1,0 +1,17 @@
+{
+  "exercises": [
+    {"id": "e-home-b3-014", "type": "translate", "header": "We put the dishes on the table.", "answer": "Βάζουμε τα πιάτα στο τραπέζι."},
+    {"id": "e-home-b3-015", "type": "translate", "header": "My clothes are in the wardrobe.", "answer": "Τα ρούχα μου είναι στην ντουλάπα."},
+    {"id": "e-home-b3-016", "type": "translate", "header": "The wardrobe is full — I need to buy a new one.", "answer": "Η ντουλάπα είναι γεμάτη — χρειάζομαι να αγοράσω μια καινούργια."},
+    {"id": "e-home-b3-017", "type": "translate", "header": "The books are on the shelf.", "answer": "Τα βιβλία είναι στο ράφι."},
+    {"id": "e-home-b3-018", "type": "translate", "header": "I put the plant on the top shelf.", "answer": "Έβαλα το φυτό στο πάνω ράφι."},
+    {"id": "e-home-b3-019", "type": "translate", "header": "The lamp on my desk is broken.", "answer": "Η λάμπα στο γραφείο μου είναι χαλασμένη."},
+    {"id": "e-home-b3-020", "type": "translate", "header": "Turn on the lamp, please — it is dark.", "answer": "Άναψε τη λάμπα, παρακαλώ — είναι σκοτεινά."},
+    {"id": "e-home-b3-021", "type": "translate", "header": "The carpet in the living room is red.", "answer": "Το χαλί στο σαλόνι είναι κόκκινο."},
+    {"id": "e-home-b3-022", "type": "translate", "header": "I vacuumed the carpet this morning.", "answer": "Ηλεκτρική σκούπισα το χαλί σήμερα το πρωί."},
+    {"id": "e-home-b3-023", "type": "translate", "header": "My grandfather reads in his armchair every evening.", "answer": "Ο παππούς μου διαβάζει στην πολυθρόνα του κάθε βράδι."},
+    {"id": "e-home-b3-024", "type": "translate", "header": "This armchair is very old but very comfortable.", "answer": "Αυτή η πολυθρόνα είναι πολύ παλιά αλλά πολύ άνετη."},
+    {"id": "e-home-b3-025", "type": "translate", "header": "My phone is on the bedside table.", "answer": "Το τηλέφωνό μου είναι στο κομοδίνο."},
+    {"id": "e-home-b3-026", "type": "translate", "header": "There is always a glass of water on the bedside table.", "answer": "Υπάρχει πάντα ένα ποτήρι νερό στο κομοδίνο."}
+  ]
+}

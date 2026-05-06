@@ -1,0 +1,76 @@
+{
+    "exercises": [
+        {
+            "id": "e1sh2-001",
+            "type": "translate",
+            "header": "I want toast with butter.",
+            "answer": "Θέλω τοστ με βούτυρο."
+        },
+        {
+            "id": "e1sh2-002",
+            "type": "translate",
+            "header": "Whole grain bread is healthier.",
+            "answer": "Το ψωμί ολικής άλεσης είναι πιο υγιεινό."
+        },
+        {
+            "id": "e1sh2-003",
+            "type": "translate",
+            "header": "I usually buy whole grain bread.",
+            "answer": "Αγοράζω συνήθως ψωμί ολικής άλεσης."
+        },
+        {
+            "id": "e1sh2-004",
+            "type": "translate",
+            "header": "I prefer wheat bread.",
+            "answer": "Προτιμώ το σταρένιο ψωμί."
+        },
+        {
+            "id": "e1sh2-005",
+            "type": "translate",
+            "header": "Wheat bread has a nice taste.",
+            "answer": "Το σταρένιο ψωμί έχει ωραία γεύση."
+        },
+        {
+            "id": "e1sh2-006",
+            "type": "translate",
+            "header": "I cut a slice of bread.",
+            "answer": "Κόβω μια φέτα ψωμί."
+        },
+        {
+            "id": "e1sh2-007",
+            "type": "translate",
+            "header": "I want two slices of bread.",
+            "answer": "Θέλω δύο φέτες ψωμί."
+        },
+        {
+            "id": "e1sh2-008",
+            "type": "translate",
+            "header": "The bread is fresh.",
+            "answer": "Το ψωμί είναι φρέσκο."
+        },
+        {
+            "id": "e1sh2-009",
+            "type": "translate",
+            "header": "I buy fresh bread every day.",
+            "answer": "Αγοράζω φρέσκο ψωμί κάθε μέρα."
+        },
+        {
+            "id": "e1sh2-010",
+            "type": "translate",
+            "header": "I go to the bakery every morning.",
+            "answer": "Πηγαίνω στον φούρνο κάθε πρωί."
+        },
+        {
+            "id": "e1sh2-011",
+            "type": "translate",
+            "header": "The bakery opens at 7.",
+            "answer": "Ο φούρνος ανοίγει στις 7."
+        },
+        {
+            "id": "e1sh2-012",
+            "type": "translate",
+            "header": "I buy a bread roll with butter.",
+            "answer": "Αγοράζω ένα ψωμάκι με βούτυρο."
+        }
+    ]
+}

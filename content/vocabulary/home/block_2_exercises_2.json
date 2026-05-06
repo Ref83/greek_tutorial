@@ -1,0 +1,17 @@
+{
+  "exercises": [
+    {"id": "e-home-b2-014", "type": "translate", "header": "My office is very quiet.", "answer": "Το γραφείο μου είναι πολύ ήσυχο."},
+    {"id": "e-home-b2-015", "type": "translate", "header": "The corridor connects all the rooms.", "answer": "Ο διάδρομος συνδέει όλα τα δωμάτια."},
+    {"id": "e-home-b2-016", "type": "translate", "header": "My shoes are in the corridor.", "answer": "Τα παπούτσια μου είναι στον διάδρομο."},
+    {"id": "e-home-b2-017", "type": "translate", "header": "We keep old things in the storage room.", "answer": "Φυλάμε παλιά πράγματα στην αποθήκη."},
+    {"id": "e-home-b2-018", "type": "translate", "header": "The storage room is in the basement.", "answer": "Η αποθήκη είναι στο υπόγειο."},
+    {"id": "e-home-b2-019", "type": "translate", "header": "This room is very comfortable.", "answer": "Αυτό το δωμάτιο είναι πολύ άνετο."},
+    {"id": "e-home-b2-020", "type": "translate", "header": "Each room has a different color.", "answer": "Κάθε δωμάτιο έχει διαφορετικό χρώμα."},
+    {"id": "e-home-b2-021", "type": "translate", "header": "The children's room is full of toys.", "answer": "Το παιδικό δωμάτιο είναι γεμάτο παιχνίδια."},
+    {"id": "e-home-b2-022", "type": "translate", "header": "My daughter decorated her children's room herself.", "answer": "Η κόρη μου διακόσμησε μόνη της το παιδικό δωμάτιο."},
+    {"id": "e-home-b2-023", "type": "translate", "header": "The guest room is always ready for visitors.", "answer": "Το δωμάτιο φιλοξενίας είναι πάντα έτοιμο για επισκέπτες."},
+    {"id": "e-home-b2-024", "type": "translate", "header": "Our guests sleep in the guest room.", "answer": "Οι φιλοξενούμενοί μας κοιμούνται στο δωμάτιο φιλοξενίας."},
+    {"id": "e-home-b2-025", "type": "translate", "header": "Be careful on the stairs.", "answer": "Πρόσεχε στη σκάλα."},
+    {"id": "e-home-b2-026", "type": "translate", "header": "The stairs lead to the first floor.", "answer": "Η σκάλα οδηγεί στον πρώτο όροφο."}
+  ]
+}

@@ -1,0 +1,17 @@
+{
+    "exercises": [
+        {"id": "e-nd-b2-001", "type": "translate", "header": "On Monday I go to work.", "answer": "Τη Δευτέρα πηγαίνω στη δουλειά."},
+        {"id": "e-nd-b2-002", "type": "translate", "header": "The week starts on Monday.", "answer": "Η εβδομάδα αρχίζει τη Δευτέρα."},
+        {"id": "e-nd-b2-003", "type": "translate", "header": "On Tuesday I have Greek class.", "answer": "Την Τρίτη έχω μάθημα ελληνικών."},
+        {"id": "e-nd-b2-004", "type": "translate", "header": "On Wednesday I exercise.", "answer": "Την Τετάρτη γυμνάζομαι."},
+        {"id": "e-nd-b2-005", "type": "translate", "header": "The middle of the week is Wednesday.", "answer": "Μέση της εβδομάδας είναι η Τετάρτη."},
+        {"id": "e-nd-b2-006", "type": "translate", "header": "On Thursday I see my friends.", "answer": "Την Πέμπτη βλέπω τους φίλους μου."},
+        {"id": "e-nd-b2-007", "type": "translate", "header": "The meeting is on Thursday.", "answer": "Η συνάντηση είναι την Πέμπτη."},
+        {"id": "e-nd-b2-008", "type": "translate", "header": "On Friday we go out for food.", "answer": "Την Παρασκευή βγαίνουμε για φαγητό."},
+        {"id": "e-nd-b2-009", "type": "translate", "header": "On Saturday I do shopping.", "answer": "Το Σάββατο κάνω ψώνια."},
+        {"id": "e-nd-b2-010", "type": "translate", "header": "On Saturday I watch a movie.", "answer": "Το Σάββατο βλέπω ταινία."},
+        {"id": "e-nd-b2-011", "type": "translate", "header": "On Sunday I rest.", "answer": "Την Κυριακή ξεκουράζομαι."},
+        {"id": "e-nd-b2-012", "type": "translate", "header": "On Sunday we eat together as a family.", "answer": "Την Κυριακή τρώμε μαζί σαν οικογένεια."},
+        {"id": "e-nd-b2-013", "type": "translate", "header": "Every Monday I go to the gym.", "answer": "Κάθε Δευτέρα πηγαίνω στο γυμναστήριο."}
+    ]
+}

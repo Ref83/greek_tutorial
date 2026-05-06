@@ -1,0 +1,17 @@
+{
+    "exercises": [
+        {"id": "e-nd-b1-027", "type": "translate", "header": "I count from one to ten.", "answer": "Μετράω από ένα μέχρι δέκα."},
+        {"id": "e-nd-b1-028", "type": "translate", "header": "A friend of mine bought nine apples from the market.", "answer": "Μία φίλη μου αγόρασε εννέα μήλα από την αγορά."},
+        {"id": "e-nd-b1-029", "type": "translate", "header": "My brother has eight cards in his wallet.", "answer": "Ο αδελφός μου έχει οχτώ κάρτες στο πορτοφόλι του."},
+        {"id": "e-nd-b1-030", "type": "translate", "header": "Together we bought seven tickets for the show.", "answer": "Μαζί αγοράσαμε εφτά εισιτήρια για την παράσταση."},
+        {"id": "e-nd-b1-031", "type": "translate", "header": "In the park we saw six dogs running.", "answer": "Στο πάρκο είδαμε έξι σκύλους να τρέχουν."},
+        {"id": "e-nd-b1-032", "type": "translate", "header": "Each dog brought five balls.", "answer": "Κάθε σκύλος έφερε πέντε μπαλάκια."},
+        {"id": "e-nd-b1-033", "type": "translate", "header": "Four new students came to class today.", "answer": "Στην τάξη ήρθαν τέσσερις νέοι μαθητές σήμερα."},
+        {"id": "e-nd-b1-034", "type": "translate", "header": "I watched three movies this week.", "answer": "Είδα τρεις ταινίες αυτή την εβδομάδα."},
+        {"id": "e-nd-b1-035", "type": "translate", "header": "I drank two coffees in the morning.", "answer": "Ήπια δύο καφέδες το πρωί."},
+        {"id": "e-nd-b1-036", "type": "translate", "header": "I found one coin on the floor.", "answer": "Βρήκα ένα νόμισμα στο πάτωμα."},
+        {"id": "e-nd-b1-037", "type": "translate", "header": "Zero mistakes on my test!", "answer": "Μηδέν λάθη στο διαγώνισμά μου!"},
+        {"id": "e-nd-b1-038", "type": "translate", "header": "What is the room number?", "answer": "Ποιος είναι ο αριθμός δωματίου;"},
+        {"id": "e-nd-b1-039", "type": "translate", "header": "I count ten minutes.", "answer": "Μετράω δέκα λεπτά."}
+    ]
+}

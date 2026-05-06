@@ -1,0 +1,88 @@
+{
+    "exercises": [
+        {
+            "id": "e1hb2-001",
+            "type": "translate",
+            "header": "Maria has a fever and she is staying home.",
+            "answer": "Η Μαρία έχει πυρετό και μένει σπίτι."
+        },
+        {
+            "id": "e1hb2-002",
+            "type": "translate",
+            "header": "The cough is getting worse at night.",
+            "answer": "Ο βήχας χειροτερεύει τη νύχτα."
+        },
+        {
+            "id": "e1hb2-003",
+            "type": "translate",
+            "header": "I need to make an appointment with the doctor.",
+            "answer": "Χρειάζομαι να κλείσω ραντεβού με τον γιατρό."
+        },
+        {
+            "id": "e1hb2-004",
+            "type": "translate",
+            "header": "The prescription is on the table.",
+            "answer": "Η συνταγή είναι στο τραπέζι."
+        },
+        {
+            "id": "e1hb2-005",
+            "type": "translate",
+            "header": "You have to take this medicine three times a day.",
+            "answer": "Πρέπει να παίρνεις αυτό το φάρμακο τρεις φορές την ημέρα."
+        },
+        {
+            "id": "e1hb2-006",
+            "type": "translate",
+            "header": "The patient is in a lot of pain.",
+            "answer": "Ο ασθενής πονάει πολύ."
+        },
+        {
+            "id": "e1hb2-007",
+            "type": "translate",
+            "header": "They took him to the hospital by ambulance.",
+            "answer": "Τον πήγαν στο νοσοκομείο με ασθενοφόρο."
+        },
+        {
+            "id": "e1hb2-008",
+            "type": "translate",
+            "header": "'You have a heavy cold,' says the doctor.",
+            "answer": "«Έχεις βαρύ κρυολόγημα», λέει ο γιατρός."
+        },
+        {
+            "id": "e1hb2-009",
+            "type": "translate",
+            "header": "The doctor's office opens at eight in the morning.",
+            "answer": "Το ιατρείο ανοίγει στις οχτώ το πρωί."
+        },
+        {
+            "id": "e1hb2-010",
+            "type": "translate",
+            "header": "My back hurts a lot today.",
+            "answer": "Η πλάτη μου πονάει πολύ σήμερα."
+        },
+        {
+            "id": "e1hb2-011",
+            "type": "translate",
+            "header": "Do you have a fever?",
+            "answer": "Έχεις πυρετό;"
+        },
+        {
+            "id": "e1hb2-012",
+            "type": "translate",
+            "header": "The medicine is in the pharmacy.",
+            "answer": "Το φάρμακο είναι στο φαρμακείο."
+        },
+        {
+            "id": "e1hb2-013",
+            "type": "translate",
+            "header": "I caught a cold last week.",
+            "answer": "Κρυολόγησα την περασμένη εβδομάδα."
+        },
+        {
+            "id": "e1hb2-014",
+            "type": "translate",
+            "header": "The female patient is speaking with the doctor.",
+            "answer": "Η ασθενής μιλάει με τον γιατρό."
+        }
+    ]
+}

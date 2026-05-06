@@ -1,0 +1,94 @@
+{
+    "exercises": [
+        {
+            "id": "e-pi-b1-301",
+            "type": "translate",
+            "header": "My given name is Nikos.",
+            "answer": "Το κύριο όνομά μου είναι Νίκος."
+        },
+        {
+            "id": "e-pi-b1-302",
+            "type": "translate",
+            "header": "What is your maiden name?",
+            "answer": "Ποιο είναι το πατρικό σου επίθετο;"
+        },
+        {
+            "id": "e-pi-b1-303",
+            "type": "translate",
+            "header": "She is in her middle age.",
+            "answer": "Είναι σε μέση ηλικία."
+        },
+        {
+            "id": "e-pi-b1-304",
+            "type": "translate",
+            "header": "They have Greek nationality.",
+            "answer": "Έχουν ελληνική εθνικότητα."
+        },
+        {
+            "id": "e-pi-b1-305",
+            "type": "translate",
+            "header": "He lives in a foreign country.",
+            "answer": "Ζει σε ξένη χώρα."
+        },
+        {
+            "id": "e-pi-b1-306",
+            "type": "translate",
+            "header": "The big city has many people.",
+            "answer": "Η μεγάλη πόλη έχει πολύ κόσμο."
+        },
+        {
+            "id": "e-pi-b1-307",
+            "type": "translate",
+            "header": "Please write your email address here.",
+            "answer": "Παρακαλώ γράψτε την ηλεκτρονική σας διεύθυνση εδώ."
+        },
+        {
+            "id": "e-pi-b1-308",
+            "type": "translate",
+            "header": "I do not have a mobile phone.",
+            "answer": "Δεν έχω κινητό τηλέφωνο."
+        },
+        {
+            "id": "e-pi-b1-309",
+            "type": "translate",
+            "header": "Send me an email!",
+            "answer": "Στείλε μου email!"
+        },
+        {
+            "id": "e-pi-b1-310",
+            "type": "translate",
+            "header": "He has a lot of free time.",
+            "answer": "Έχει πολύ ελεύθερο χρόνο."
+        },
+        {
+            "id": "e-pi-b1-311",
+            "type": "translate",
+            "header": "What is your country of origin?",
+            "answer": "Ποια είναι η χώρα καταγωγής σου;"
+        },
+        {
+            "id": "e-pi-b1-312",
+            "type": "translate",
+            "header": "What is your date of birth?",
+            "answer": "Ποια είναι η χρονολογία γέννησής σου;"
+        },
+        {
+            "id": "e-pi-b1-313",
+            "type": "translate",
+            "header": "What is your phone number?",
+            "answer": "Ποιος είναι ο αριθμός τηλεφώνου σου;"
+        },
+        {
+            "id": "e-pi-b1-314",
+            "type": "translate",
+            "header": "My nationality is not Greek.",
+            "answer": "Η εθνικότητά μου δεν είναι ελληνική."
+        },
+        {
+            "id": "e-pi-b1-315",
+            "type": "translate",
+            "header": "She was born in the same city as me.",
+            "answer": "Γεννήθηκε στην ίδια πόλη με μένα."
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "exercises": [
+        {
+            "id": "e3sh1-001",
+            "type": "translate",
+            "header": "I buy bread and sweets.",
+            "answer": "Αγοράζω ψωμί και γλυκά."
+        },
+        {
+            "id": "e3sh1-002",
+            "type": "translate",
+            "header": "What do you want to buy?",
+            "answer": "Τι θέλεις να αγοράσεις;"
+        },
+        {
+            "id": "e3sh1-003",
+            "type": "translate",
+            "header": "I pay at the cash register.",
+            "answer": "Πληρώνω στο ταμείο."
+        },
+        {
+            "id": "e3sh1-004",
+            "type": "translate",
+            "header": "How much do I pay?",
+            "answer": "Πόσο πληρώνω;"
+        },
+        {
+            "id": "e3sh1-005",
+            "type": "translate",
+            "header": "What is the price?",
+            "answer": "Ποια είναι η τιμή;"
+        },
+        {
+            "id": "e3sh1-006",
+            "type": "translate",
+            "header": "The price is reasonable.",
+            "answer": "Η τιμή είναι λογική."
+        },
+        {
+            "id": "e3sh1-007",
+            "type": "translate",
+            "header": "I take the receipt.",
+            "answer": "Παίρνω την απόδειξη."
+        },
+        {
+            "id": "e3sh1-008",
+            "type": "translate",
+            "header": "I need a receipt.",
+            "answer": "Χρειάζομαι απόδειξη."
+        },
+        {
+            "id": "e3sh1-009",
+            "type": "translate",
+            "header": "I put the bread in the bag.",
+            "answer": "Βάζω το ψωμί στη σακούλα."
+        },
+        {
+            "id": "e3sh1-010",
+            "type": "translate",
+            "header": "I want a paper bag.",
+            "answer": "Θέλω μια χάρτινη σακούλα."
+        },
+        {
+            "id": "e3sh1-011",
+            "type": "translate",
+            "header": "I order a cake for my birthday.",
+            "answer": "Παραγγέλνω τούρτα για τα γενέθλιά μου."
+        },
+        {
+            "id": "e3sh1-012",
+            "type": "translate",
+            "header": "Can I place an order here?",
+            "answer": "Μπορώ να παραγγείλω εδώ;"
+        }
+    ]
+}

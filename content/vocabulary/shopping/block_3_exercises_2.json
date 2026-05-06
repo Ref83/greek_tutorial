@@ -1,0 +1,82 @@
+{
+    "exercises": [
+        {
+            "id": "e3sh2-001",
+            "type": "translate",
+            "header": "How much does this cake cost?",
+            "answer": "Πόσο κάνει αυτή η τούρτα;"
+        },
+        {
+            "id": "e3sh2-002",
+            "type": "translate",
+            "header": "How much does a kilo cost?",
+            "answer": "Πόσο κάνει το κιλό;"
+        },
+        {
+            "id": "e3sh2-003",
+            "type": "translate",
+            "header": "I want a kilogram of biscuits.",
+            "answer": "Θέλω ένα κιλό μπισκότα."
+        },
+        {
+            "id": "e3sh2-004",
+            "type": "translate",
+            "header": "Bread costs two euros per kilo.",
+            "answer": "Το ψωμί κοστίζει δύο ευρώ το κιλό."
+        },
+        {
+            "id": "e3sh2-005",
+            "type": "translate",
+            "header": "I want a large portion.",
+            "answer": "Θέλω μια μεγάλη μερίδα."
+        },
+        {
+            "id": "e3sh2-006",
+            "type": "translate",
+            "header": "The portion is enough.",
+            "answer": "Η μερίδα είναι αρκετή."
+        },
+        {
+            "id": "e3sh2-007",
+            "type": "translate",
+            "header": "I weigh the biscuits.",
+            "answer": "Ζυγίζω τα μπισκότα."
+        },
+        {
+            "id": "e3sh2-008",
+            "type": "translate",
+            "header": "Can you weigh this?",
+            "answer": "Μπορείτε να ζυγίσετε αυτό;"
+        },
+        {
+            "id": "e3sh2-009",
+            "type": "translate",
+            "header": "I don't have change.",
+            "answer": "Δεν έχω ρέστα."
+        },
+        {
+            "id": "e3sh2-010",
+            "type": "translate",
+            "header": "Take your change.",
+            "answer": "Πάρτε τα ρέστα σας."
+        },
+        {
+            "id": "e3sh2-011",
+            "type": "translate",
+            "header": "The baker bakes bread every morning.",
+            "answer": "Ο αρτοποιός ψήνει ψωμί κάθε πρωί."
+        },
+        {
+            "id": "e3sh2-012",
+            "type": "translate",
+            "header": "The baker makes fresh bread.",
+            "answer": "Ο αρτοποιός φτιάχνει φρέσκο ψωμί."
+        },
+        {
+            "id": "e3sh2-013",
+            "type": "translate",
+            "header": "I pay by card.",
+            "answer": "Πληρώνω με κάρτα."
+        }
+    ]
+}

@@ -1,0 +1,1024 @@
+{
+    "blocks": [
+        {
+            "items": [
+                {
+                    "id": "v-da-001",
+                    "item": "ξυπνώ",
+                    "meaning": "to wake up",
+                    "examples": [
+                        {
+                            "example": "Ξυπνώ στις επτά το πρωί.",
+                            "translation": "I wake up at seven in the morning."
+                        },
+                        {
+                            "example": "Τι ώρα ξυπνάς;",
+                            "translation": "What time do you wake up?"
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "ξυπνώ νωρίς",
+                            "translation": "wake up early"
+                        },
+                        {
+                            "collocation": "ξυπνώ αργά",
+                            "translation": "wake up late"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-da-002",
+                    "item": "σηκώνομαι",
+                    "meaning": "to get up",
+                    "examples": [
+                        {
+                            "example": "Σηκώνομαι από το κρεβάτι κάθε πρωί.",
+                            "translation": "I get up from bed every morning."
+                        },
+                        {
+                            "example": "Δεν θέλω να σηκωθώ σήμερα.",
+                            "translation": "I don't want to get up today."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "σηκώνομαι από το κρεβάτι",
+                            "translation": "get up from bed"
+                        },
+                        {
+                            "collocation": "σηκώνομαι γρήγορα",
+                            "translation": "get up quickly"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-da-003",
+                    "item": "πλένομαι",
+                    "meaning": "to wash (oneself)",
+                    "examples": [
+                        {
+                            "example": "Πλένομαι κάθε πρωί με κρύο νερό.",
+                            "translation": "I wash every morning with cold water."
+                        },
+                        {
+                            "example": "Πλύνε τα χέρια σου πριν φας!",
+                            "translation": "Wash your hands before you eat!"
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "πλένω τα χέρια",
+                            "translation": "wash (one's) hands"
+                        },
+                        {
+                            "collocation": "πλένω τα δόντια",
+                            "translation": "brush (one's) teeth"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-da-004",
+                    "item": "ντύνομαι",
+                    "meaning": "to get dressed",
+                    "examples": [
+                        {
+                            "example": "Ντύνομαι γρήγορα και φεύγω.",
+                            "translation": "I get dressed quickly and leave."
+                        },
+                        {
+                            "example": "Τι φοράς σήμερα;",
+                            "translation": "What are you wearing today?"
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "ντύνομαι κομψά",
+                            "translation": "dress elegantly"
+                        },
+                        {
+                            "collocation": "ντύνομαι ζεστά",
+                            "translation": "dress warmly"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-da-005",
+                    "item": "τρώω πρωινό",
+                    "meaning": "to have breakfast",
+                    "examples": [
+                        {
+                            "example": "Τρώω πρωινό κάθε πρωί πριν τη δουλειά.",
+                            "translation": "I have breakfast every morning before work."
+                        },
+                        {
+                            "example": "Ποτέ δεν παραλείπω το πρωινό.",
+                            "translation": "I never skip breakfast."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "παραλείπω το πρωινό",
+                            "translation": "skip breakfast"
+                        },
+                        {
+                            "collocation": "τρώω ελαφρύ πρωινό",
+                            "translation": "have a light breakfast"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-da-006",
+                    "item": "φεύγω για τη δουλειά",
+                    "meaning": "to leave for work",
+                    "examples": [
+                        {
+                            "example": "Φεύγω για τη δουλειά στις οκτώ.",
+                            "translation": "I leave for work at eight."
+                        },
+                        {
+                            "example": "Πότε φεύγεις συνήθως;",
+                            "translation": "When do you usually leave?"
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "φεύγω νωρίς",
+                            "translation": "leave early"
+                        },
+                        {
+                            "collocation": "φεύγω αργά",
+                            "translation": "leave late"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-da-007",
+                    "item": "επιστρέφω σπίτι",
+                    "meaning": "to return home / come back home",
+                    "examples": [
+                        {
+                            "example": "Επιστρέφω σπίτι κάθε βράδυ στις έξι.",
+                            "translation": "I return home every evening at six."
+                        },
+                        {
+                            "example": "Πότε επιστρέφεις από τη δουλειά;",
+                            "translation": "When do you come back from work?"
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "επιστρέφω αργά",
+                            "translation": "come back late"
+                        },
+                        {
+                            "collocation": "επιστρέφω κουρασμένος",
+                            "translation": "come back tired"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-da-008",
+                    "item": "μαγειρεύω",
+                    "meaning": "to cook",
+                    "examples": [
+                        {
+                            "example": "Μαγειρεύω κάθε βράδυ για την οικογένειά μου.",
+                            "translation": "I cook every evening for my family."
+                        },
+                        {
+                            "example": "Μου αρέσει να μαγειρεύω νέες συνταγές.",
+                            "translation": "I like to cook new recipes."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "μαγειρεύω για την οικογένεια",
+                            "translation": "cook for the family"
+                        },
+                        {
+                            "collocation": "μαγειρεύω συνταγή",
+                            "translation": "cook a recipe"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-da-009",
+                    "item": "δειπνώ",
+                    "meaning": "to have dinner / dine",
+                    "examples": [
+                        {
+                            "example": "Δειπνώ με την οικογένειά μου κάθε βράδυ.",
+                            "translation": "I have dinner with my family every evening."
+                        },
+                        {
+                            "example": "Τι ώρα δειπνάτε συνήθως;",
+                            "translation": "What time do you usually have dinner?"
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "δειπνώ έξω",
+                            "translation": "dine out"
+                        },
+                        {
+                            "collocation": "δειπνώ στο σπίτι",
+                            "translation": "dine at home"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-da-010",
+                    "item": "κοιμάμαι",
+                    "meaning": "to sleep / go to sleep",
+                    "examples": [
+                        {
+                            "example": "Κοιμάμαι οκτώ ώρες κάθε βράδυ.",
+                            "translation": "I sleep eight hours every night."
+                        },
+                        {
+                            "example": "Πότε κοιμάσαι συνήθως;",
+                            "translation": "When do you usually go to sleep?"
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "κοιμάμαι καλά",
+                            "translation": "sleep well"
+                        },
+                        {
+                            "collocation": "κοιμάμαι αργά",
+                            "translation": "go to sleep late"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-da-011",
+                    "item": "χαλαρώνω",
+                    "meaning": "to relax",
+                    "examples": [
+                        {
+                            "example": "Χαλαρώνω στον καναπέ μετά τη δουλειά.",
+                            "translation": "I relax on the sofa after work."
+                        },
+                        {
+                            "example": "Χρειάζομαι λίγη χαλάρωση σήμερα.",
+                            "translation": "I need a bit of relaxation today."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "χαλαρώνω μετά τη δουλειά",
+                            "translation": "relax after work"
+                        },
+                        {
+                            "collocation": "χαλαρώνω με μουσική",
+                            "translation": "relax with music"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-da-012",
+                    "item": "βιάζομαι",
+                    "meaning": "to be in a hurry",
+                    "examples": [
+                        {
+                            "example": "Βιάζομαι σήμερα, δεν έχω χρόνο.",
+                            "translation": "I'm in a hurry today, I don't have time."
+                        },
+                        {
+                            "example": "Μην βιάζεσαι, έχουμε ώρα!",
+                            "translation": "Don't be in a hurry, we have time!"
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "βιάζομαι για δουλειά",
+                            "translation": "in a hurry for work"
+                        },
+                        {
+                            "collocation": "δεν βιάζομαι",
+                            "translation": "I'm not in a hurry"
+                        }
+                    ]
+                }
+            ],
+            "story": {
+                "sentences": [
+                    {
+                        "sentence": "Ο Μάρκος ξυπνά κάθε πρωί στις επτά.",
+                        "translation": "Markos wakes up every morning at seven."
+                    },
+                    {
+                        "sentence": "Σηκώνεται από το κρεβάτι και πλένεται γρήγορα.",
+                        "translation": "He gets up from bed and washes quickly."
+                    },
+                    {
+                        "sentence": "Μετά ντύνεται και τρώει πρωινό.",
+                        "translation": "Then he gets dressed and has breakfast."
+                    },
+                    {
+                        "sentence": "Στις οκτώ φεύγει για τη δουλειά.",
+                        "translation": "At eight he leaves for work."
+                    },
+                    {
+                        "sentence": "Βιάζεται γιατί το λεωφορείο φεύγει σύντομα.",
+                        "translation": "He is in a hurry because the bus leaves soon."
+                    },
+                    {
+                        "sentence": "Το βράδυ επιστρέφει σπίτι κουρασμένος.",
+                        "translation": "In the evening he returns home tired."
+                    },
+                    {
+                        "sentence": "Μαγειρεύει μια απλή συνταγή και δειπνά.",
+                        "translation": "He cooks a simple recipe and has dinner."
+                    },
+                    {
+                        "sentence": "Μετά χαλαρώνει στον καναπέ και κοιμάται νωρίς.",
+                        "translation": "Then he relaxes on the sofa and goes to sleep early."
+                    }
+                ]
+            }
+        },
+        {
+            "items": [
+                {
+                    "id": "v-da-013",
+                    "item": "καθαρίζω",
+                    "meaning": "to clean",
+                    "examples": [
+                        {
+                            "example": "Καθαρίζω το σπίτι κάθε Σάββατο.",
+                            "translation": "I clean the house every Saturday."
+                        },
+                        {
+                            "example": "Πρέπει να καθαρίσω το μπάνιο.",
+                            "translation": "I need to clean the bathroom."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "καθαρίζω το σπίτι",
+                            "translation": "clean the house"
+                        },
+                        {
+                            "collocation": "καθαρίζω το δωμάτιο",
+                            "translation": "clean the room"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-da-014",
+                    "item": "σκουπίζω",
+                    "meaning": "to sweep / vacuum",
+                    "examples": [
+                        {
+                            "example": "Σκουπίζω το πάτωμα με τη σκούπα.",
+                            "translation": "I sweep the floor with the broom."
+                        },
+                        {
+                            "example": "Σκουπίζω με την ηλεκτρική σκούπα κάθε εβδομάδα.",
+                            "translation": "I vacuum every week."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "ηλεκτρική σκούπα",
+                            "translation": "vacuum cleaner"
+                        },
+                        {
+                            "collocation": "σκουπίζω το πάτωμα",
+                            "translation": "sweep / vacuum the floor"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-da-015",
+                    "item": "ανοίγω το παράθυρο",
+                    "meaning": "to open the window",
+                    "examples": [
+                        {
+                            "example": "Ανοίγω το παράθυρο για να μπει φρέσκος αέρας.",
+                            "translation": "I open the window to let fresh air in."
+                        },
+                        {
+                            "example": "Άνοιξε το παράθυρο, παρακαλώ, κάνει ζέστη.",
+                            "translation": "Open the window please, it's hot."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "ανοίγω την πόρτα",
+                            "translation": "open the door"
+                        },
+                        {
+                            "collocation": "ανοίγω τα παντζούρια",
+                            "translation": "open the shutters"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-da-016",
+                    "item": "αερίζω",
+                    "meaning": "to air out / ventilate",
+                    "examples": [
+                        {
+                            "example": "Αερίζω το δωμάτιο κάθε πρωί.",
+                            "translation": "I air out the room every morning."
+                        },
+                        {
+                            "example": "Πρέπει να αερίσεις το σπίτι.",
+                            "translation": "You need to ventilate the house."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "αερίζω το δωμάτιο",
+                            "translation": "air out the room"
+                        },
+                        {
+                            "collocation": "αερισμός",
+                            "translation": "ventilation"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-da-017",
+                    "item": "πλένω τα πιάτα",
+                    "meaning": "to wash the dishes",
+                    "examples": [
+                        {
+                            "example": "Πλένω τα πιάτα μετά από κάθε γεύμα.",
+                            "translation": "I wash the dishes after every meal."
+                        },
+                        {
+                            "example": "Ποιος πλένει τα πιάτα σήμερα;",
+                            "translation": "Who is washing the dishes today?"
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "πλυντήριο πιάτων",
+                            "translation": "dishwasher"
+                        },
+                        {
+                            "collocation": "βάζω πιάτα στο πλυντήριο",
+                            "translation": "put dishes in the dishwasher"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-da-018",
+                    "item": "μαζεύω",
+                    "meaning": "to tidy up / pick up",
+                    "examples": [
+                        {
+                            "example": "Μάζεψε τα παιχνίδια σου από το πάτωμα!",
+                            "translation": "Pick up your toys from the floor!"
+                        },
+                        {
+                            "example": "Μαζεύω τα ρούχα μου πριν κοιμηθώ.",
+                            "translation": "I tidy up my clothes before going to sleep."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "μαζεύω τα πράγματα",
+                            "translation": "tidy up things"
+                        },
+                        {
+                            "collocation": "μαζεύω τα ρούχα",
+                            "translation": "gather / tidy up clothes"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-da-019",
+                    "item": "τακτοποιώ",
+                    "meaning": "to arrange / put in order",
+                    "examples": [
+                        {
+                            "example": "Τακτοποιώ τα βιβλία μου στο ράφι.",
+                            "translation": "I arrange my books on the shelf."
+                        },
+                        {
+                            "example": "Πρέπει να τακτοποιήσω το δωμάτιό μου.",
+                            "translation": "I need to put my room in order."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "τακτοποιώ το δωμάτιο",
+                            "translation": "tidy the room"
+                        },
+                        {
+                            "collocation": "τακτοποιώ τα πράγματα",
+                            "translation": "put things in order"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-da-020",
+                    "item": "σχεδιάζω",
+                    "meaning": "to plan",
+                    "examples": [
+                        {
+                            "example": "Σχεδιάζω ένα ταξίδι στην Κρήτη.",
+                            "translation": "I am planning a trip to Crete."
+                        },
+                        {
+                            "example": "Τι σχεδιάζεις για το Σαββατοκύριακο;",
+                            "translation": "What are you planning for the weekend?"
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "σχεδιάζω εκδρομή",
+                            "translation": "plan a trip / outing"
+                        },
+                        {
+                            "collocation": "σχεδιάζω πάρτι",
+                            "translation": "plan a party"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-da-021",
+                    "item": "κλείνω ραντεβού",
+                    "meaning": "to make an appointment / book",
+                    "examples": [
+                        {
+                            "example": "Κλείνω ραντεβού με τον γιατρό για αύριο.",
+                            "translation": "I'm making an appointment with the doctor for tomorrow."
+                        },
+                        {
+                            "example": "Έκλεισα ραντεβού στο κομμωτήριο.",
+                            "translation": "I booked an appointment at the hairdresser."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "ακυρώνω ραντεβού",
+                            "translation": "cancel an appointment"
+                        },
+                        {
+                            "collocation": "αλλάζω ραντεβού",
+                            "translation": "change an appointment"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-da-022",
+                    "item": "ετοιμάζομαι",
+                    "meaning": "to get ready / prepare oneself",
+                    "examples": [
+                        {
+                            "example": "Ετοιμάζομαι για έξοδο.",
+                            "translation": "I'm getting ready to go out."
+                        },
+                        {
+                            "example": "Πόση ώρα χρειάζεσαι να ετοιμαστείς;",
+                            "translation": "How long do you need to get ready?"
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "ετοιμάζομαι γρήγορα",
+                            "translation": "get ready quickly"
+                        },
+                        {
+                            "collocation": "ετοιμάζομαι για δουλειά",
+                            "translation": "get ready for work"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-da-023",
+                    "item": "ψωνίζω",
+                    "meaning": "to shop / go shopping",
+                    "examples": [
+                        {
+                            "example": "Ψωνίζω στο σούπερ μάρκετ κάθε εβδομάδα.",
+                            "translation": "I shop at the supermarket every week."
+                        },
+                        {
+                            "example": "Πάμε να ψωνίσουμε μαζί;",
+                            "translation": "Shall we go shopping together?"
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "ψωνίζω online",
+                            "translation": "shop online"
+                        },
+                        {
+                            "collocation": "κάνω ψώνια",
+                            "translation": "do the shopping"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-da-024",
+                    "item": "πλένω τα ρούχα",
+                    "meaning": "to do the laundry / wash clothes",
+                    "examples": [
+                        {
+                            "example": "Πλένω τα ρούχα κάθε εβδομάδα.",
+                            "translation": "I do the laundry every week."
+                        },
+                        {
+                            "example": "Έβαλα πλυντήριο γιατί δεν έχω καθαρά ρούχα.",
+                            "translation": "I ran the washing machine because I have no clean clothes."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "βάζω πλυντήριο",
+                            "translation": "run the washing machine"
+                        },
+                        {
+                            "collocation": "στεγνώνω τα ρούχα",
+                            "translation": "dry the clothes"
+                        }
+                    ]
+                }
+            ],
+            "story": {
+                "sentences": [
+                    {
+                        "sentence": "Κάθε Σάββατο, η Ελένη καθαρίζει το σπίτι.",
+                        "translation": "Every Saturday, Eleni cleans the house."
+                    },
+                    {
+                        "sentence": "Πρώτα σκουπίζει το πάτωμα με την ηλεκτρική σκούπα.",
+                        "translation": "First she vacuums the floor."
+                    },
+                    {
+                        "sentence": "Μετά ανοίγει τα παράθυρα για να αερίσει το σπίτι.",
+                        "translation": "Then she opens the windows to air out the house."
+                    },
+                    {
+                        "sentence": "Πλένει τα πιάτα και μαζεύει τα πράγματά της.",
+                        "translation": "She washes the dishes and tidies up her things."
+                    },
+                    {
+                        "sentence": "Τακτοποιεί τα βιβλία και βάζει πλυντήριο.",
+                        "translation": "She arranges the books and runs the washing machine."
+                    },
+                    {
+                        "sentence": "Μετά ψωνίζει στο σούπερ μάρκετ.",
+                        "translation": "Then she goes shopping at the supermarket."
+                    },
+                    {
+                        "sentence": "Το απόγευμα ετοιμάζεται για έξοδο.",
+                        "translation": "In the afternoon she gets ready to go out."
+                    },
+                    {
+                        "sentence": "Έκλεισε ραντεβού με φίλες και σχεδιάζουν να πάνε σινεμά.",
+                        "translation": "She made an appointment with friends and they are planning to go to the cinema."
+                    }
+                ]
+            }
+        },
+        {
+            "items": [
+                {
+                    "id": "v-da-025",
+                    "item": "ελεύθερος χρόνος",
+                    "meaning": "free time / leisure time",
+                    "examples": [
+                        {
+                            "example": "Στον ελεύθερο χρόνο μου διαβάζω βιβλία.",
+                            "translation": "In my free time I read books."
+                        },
+                        {
+                            "example": "Έχω λίγο ελεύθερο χρόνο σήμερα.",
+                            "translation": "I have a little free time today."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "περνώ τον ελεύθερο χρόνο μου",
+                            "translation": "spend my free time"
+                        },
+                        {
+                            "collocation": "στον ελεύθερο χρόνο μου",
+                            "translation": "in my free time"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-da-026",
+                    "item": "ασχολούμαι με",
+                    "meaning": "to be into / deal with (a hobby or activity)",
+                    "examples": [
+                        {
+                            "example": "Ασχολούμαι με τη φωτογραφία εδώ και χρόνια.",
+                            "translation": "I have been into photography for years."
+                        },
+                        {
+                            "example": "Με τι ασχολείσαι στον ελεύθερο χρόνο σου;",
+                            "translation": "What do you do in your free time?"
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "ασχολούμαι με τη μουσική",
+                            "translation": "be into music"
+                        },
+                        {
+                            "collocation": "ασχολούμαι με τον αθλητισμό",
+                            "translation": "be into sports"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-da-027",
+                    "item": "διαβάζω (για ευχαρίστηση)",
+                    "meaning": "to read (for pleasure)",
+                    "examples": [
+                        {
+                            "example": "Διαβάζω ένα βιβλίο στον καναπέ κάθε βράδυ.",
+                            "translation": "I read a book on the sofa every evening."
+                        },
+                        {
+                            "example": "Μου αρέσει πολύ να διαβάζω μυθιστορήματα.",
+                            "translation": "I really like reading novels."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "διαβάζω μυθιστόρημα",
+                            "translation": "read a novel"
+                        },
+                        {
+                            "collocation": "διαβάζω εφημερίδα",
+                            "translation": "read a newspaper"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-da-028",
+                    "item": "ακούω μουσική",
+                    "meaning": "to listen to music",
+                    "examples": [
+                        {
+                            "example": "Ακούω μουσική ενώ καθαρίζω το σπίτι.",
+                            "translation": "I listen to music while cleaning the house."
+                        },
+                        {
+                            "example": "Τι μουσική ακούς συνήθως;",
+                            "translation": "What music do you usually listen to?"
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "ακούω ραδιόφωνο",
+                            "translation": "listen to the radio"
+                        },
+                        {
+                            "collocation": "ακούω τραγούδια",
+                            "translation": "listen to songs"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-da-029",
+                    "item": "βλέπω ταινία / σειρά",
+                    "meaning": "to watch a movie / series",
+                    "examples": [
+                        {
+                            "example": "Βλέπω μια ταινία κάθε Παρασκευή βράδυ.",
+                            "translation": "I watch a movie every Friday evening."
+                        },
+                        {
+                            "example": "Θέλεις να δούμε μια σειρά μαζί;",
+                            "translation": "Do you want to watch a series together?"
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "βλέπω τηλεόραση",
+                            "translation": "watch TV"
+                        },
+                        {
+                            "collocation": "βλέπω σειρά",
+                            "translation": "watch a series"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-da-030",
+                    "item": "παίζω",
+                    "meaning": "to play",
+                    "examples": [
+                        {
+                            "example": "Παίζω κιθάρα από μικρός.",
+                            "translation": "I have been playing guitar since I was young."
+                        },
+                        {
+                            "example": "Τα παιδιά παίζουν στο πάρκο.",
+                            "translation": "The children are playing in the park."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "παίζω σπορ",
+                            "translation": "play sports"
+                        },
+                        {
+                            "collocation": "παίζω επιτραπέζιο παιχνίδι",
+                            "translation": "play a board game"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-da-031",
+                    "item": "κάνω βόλτα",
+                    "meaning": "to go for a walk / stroll",
+                    "examples": [
+                        {
+                            "example": "Κάνω βόλτα στο πάρκο κάθε πρωί.",
+                            "translation": "I go for a walk in the park every morning."
+                        },
+                        {
+                            "example": "Πάμε βόλτα στην παραλία;",
+                            "translation": "Shall we go for a stroll at the beach?"
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "κάνω βόλτα με σκύλο",
+                            "translation": "walk the dog"
+                        },
+                        {
+                            "collocation": "κάνω βόλτα στην πόλη",
+                            "translation": "stroll around the city"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-da-032",
+                    "item": "γυμνάζομαι",
+                    "meaning": "to exercise / work out",
+                    "examples": [
+                        {
+                            "example": "Γυμνάζομαι τρεις φορές την εβδομάδα.",
+                            "translation": "I work out three times a week."
+                        },
+                        {
+                            "example": "Πού γυμνάζεσαι; Έχεις γυμναστήριο;",
+                            "translation": "Where do you work out? Do you have a gym?"
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "γυμνάζομαι στο γυμναστήριο",
+                            "translation": "work out at the gym"
+                        },
+                        {
+                            "collocation": "γυμνάζομαι στο σπίτι",
+                            "translation": "work out at home"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-da-033",
+                    "item": "βγαίνω έξω",
+                    "meaning": "to go out",
+                    "examples": [
+                        {
+                            "example": "Βγαίνω έξω με φίλους κάθε Σαββατοκύριακο.",
+                            "translation": "I go out with friends every weekend."
+                        },
+                        {
+                            "example": "Θέλεις να βγούμε έξω απόψε;",
+                            "translation": "Do you want to go out tonight?"
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "βγαίνω για καφέ",
+                            "translation": "go out for coffee"
+                        },
+                        {
+                            "collocation": "βγαίνω για φαγητό",
+                            "translation": "go out to eat"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-da-034",
+                    "item": "περνώ καλά",
+                    "meaning": "to have a good time",
+                    "examples": [
+                        {
+                            "example": "Πέρασα πολύ καλά χθες το βράδυ!",
+                            "translation": "I had a really good time last night!"
+                        },
+                        {
+                            "example": "Περνάμε πάντα καλά μαζί.",
+                            "translation": "We always have a good time together."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "περνώ υπέροχα",
+                            "translation": "have a wonderful time"
+                        },
+                        {
+                            "collocation": "πέρασες καλά;",
+                            "translation": "Did you have a good time?"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-da-035",
+                    "item": "απολαμβάνω",
+                    "meaning": "to enjoy",
+                    "examples": [
+                        {
+                            "example": "Απολαμβάνω τον καφέ μου κάθε πρωί.",
+                            "translation": "I enjoy my coffee every morning."
+                        },
+                        {
+                            "example": "Απολαμβάνω τη ζωή με απλά πράγματα.",
+                            "translation": "I enjoy life with simple things."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "απολαμβάνω τη φύση",
+                            "translation": "enjoy nature"
+                        },
+                        {
+                            "collocation": "απολαμβάνω τη στιγμή",
+                            "translation": "enjoy the moment"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-da-036",
+                    "item": "ξεκουράζομαι",
+                    "meaning": "to rest / take a rest",
+                    "examples": [
+                        {
+                            "example": "Ξεκουράζομαι το απόγευμα μετά το μεσημεριανό.",
+                            "translation": "I rest in the afternoon after lunch."
+                        },
+                        {
+                            "example": "Χρειάζομαι να ξεκουραστώ, είμαι κουρασμένος.",
+                            "translation": "I need to rest, I am tired."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "ξεκουράζομαι στο σπίτι",
+                            "translation": "rest at home"
+                        },
+                        {
+                            "collocation": "ξεκουράζομαι στις διακοπές",
+                            "translation": "rest on holiday"
+                        }
+                    ]
+                }
+            ],
+            "story": {
+                "sentences": [
+                    {
+                        "sentence": "Ο Νίκος έχει πολλά χόμπι και αγαπά τον ελεύθερο χρόνο του.",
+                        "translation": "Nikos has many hobbies and loves his free time."
+                    },
+                    {
+                        "sentence": "Ασχολείται με τη φωτογραφία εδώ και χρόνια.",
+                        "translation": "He has been into photography for years."
+                    },
+                    {
+                        "sentence": "Κάθε πρωί κάνει βόλτα στο πάρκο και γυμνάζεται.",
+                        "translation": "Every morning he goes for a walk in the park and works out."
+                    },
+                    {
+                        "sentence": "Ακούει μουσική ενώ περπατά.",
+                        "translation": "He listens to music while walking."
+                    },
+                    {
+                        "sentence": "Τα βράδια διαβάζει ή βλέπει μια ταινία.",
+                        "translation": "In the evenings he reads or watches a movie."
+                    },
+                    {
+                        "sentence": "Το Σαββατοκύριακο βγαίνει έξω με φίλους.",
+                        "translation": "At the weekend he goes out with friends."
+                    },
+                    {
+                        "sentence": "Περνά πάντα καλά και απολαμβάνει κάθε στιγμή.",
+                        "translation": "He always has a good time and enjoys every moment."
+                    },
+                    {
+                        "sentence": "Το βράδυ ξεκουράζεται και παίζει κιθάρα.",
+                        "translation": "In the evening he rests and plays guitar."
+                    }
+                ]
+            }
+        }
+    ]
+}

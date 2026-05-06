@@ -1,0 +1,82 @@
+{
+    "exercises": [
+        {
+            "id": "e1f2-001",
+            "type": "translate",
+            "header": "I drink a glass of milk every morning.",
+            "answer": "Πίνω ένα ποτήρι γάλα κάθε πρωί."
+        },
+        {
+            "id": "e1f2-002",
+            "type": "translate",
+            "header": "The recipe needs milk and eggs.",
+            "answer": "Η συνταγή χρειάζεται γάλα και αυγά."
+        },
+        {
+            "id": "e1f2-003",
+            "type": "translate",
+            "header": "I beat three eggs for the omelette.",
+            "answer": "Χτυπάω τρία αυγά για την ομελέτα."
+        },
+        {
+            "id": "e1f2-004",
+            "type": "translate",
+            "header": "The recipe needs two eggs.",
+            "answer": "Η συνταγή χρειάζεται δύο αυγά."
+        },
+        {
+            "id": "e1f2-005",
+            "type": "translate",
+            "header": "I add cinnamon to the cake.",
+            "answer": "Προσθέτω κανέλα στο κέικ."
+        },
+        {
+            "id": "e1f2-006",
+            "type": "translate",
+            "header": "Coffee with cinnamon is very aromatic.",
+            "answer": "Ο καφές με κανέλα είναι πολύ αρωματικός."
+        },
+        {
+            "id": "e1f2-007",
+            "type": "translate",
+            "header": "I put butter on my bread.",
+            "answer": "Βάζω βούτυρο στο ψωμί μου."
+        },
+        {
+            "id": "e1f2-008",
+            "type": "translate",
+            "header": "I melt butter on low heat.",
+            "answer": "Λιώνω βούτυρο σε χαμηλή φωτιά."
+        },
+        {
+            "id": "e1f2-009",
+            "type": "translate",
+            "header": "The recipe needs one teaspoon of baking soda.",
+            "answer": "Η συνταγή χρειάζεται μία κουταλιά μαγειρική σόδα."
+        },
+        {
+            "id": "e1f2-010",
+            "type": "translate",
+            "header": "Baking soda makes the cake rise.",
+            "answer": "Η μαγειρική σόδα κάνει το κέικ να φουσκώσει."
+        },
+        {
+            "id": "e1f2-011",
+            "type": "translate",
+            "header": "I also need milk, eggs, and butter.",
+            "answer": "Χρειάζομαι επίσης γάλα, αυγά και βούτυρο."
+        },
+        {
+            "id": "e1f2-012",
+            "type": "translate",
+            "header": "I open the fridge and take out three eggs.",
+            "answer": "Ανοίγω το ψυγείο και βγάζω τρία αυγά."
+        },
+        {
+            "id": "e1f2-013",
+            "type": "translate",
+            "header": "I melt the butter on low heat.",
+            "answer": "Λιώνω το βούτυρο σε χαμηλή φωτιά."
+        }
+    ]
+}

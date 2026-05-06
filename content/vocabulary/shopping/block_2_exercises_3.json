@@ -1,0 +1,82 @@
+{
+    "exercises": [
+        {
+            "id": "e2sh3-001",
+            "type": "translate",
+            "header": "Today I go to the pastry shop.",
+            "answer": "Σήμερα πηγαίνω στο ζαχαροπλαστείο."
+        },
+        {
+            "id": "e2sh3-002",
+            "type": "translate",
+            "header": "I see many sweets in the display case.",
+            "answer": "Βλέπω πολλά γλυκά στη βιτρίνα."
+        },
+        {
+            "id": "e2sh3-003",
+            "type": "translate",
+            "header": "I want a butter croissant.",
+            "answer": "Θέλω ένα κρουασάν βουτύρου."
+        },
+        {
+            "id": "e2sh3-004",
+            "type": "translate",
+            "header": "I also buy a tsoureki.",
+            "answer": "Αγοράζω και ένα τσουρέκι."
+        },
+        {
+            "id": "e2sh3-005",
+            "type": "translate",
+            "header": "The baklava with walnuts looks delicious.",
+            "answer": "Ο μπακλαβάς με καρύδια φαίνεται νόστιμος."
+        },
+        {
+            "id": "e2sh3-006",
+            "type": "translate",
+            "header": "I take two chocolate biscuits.",
+            "answer": "Παίρνω δύο μπισκότα σοκολάτας."
+        },
+        {
+            "id": "e2sh3-007",
+            "type": "translate",
+            "header": "I buy a donut for the children.",
+            "answer": "Αγοράζω ένα ντόνατ για τα παιδιά."
+        },
+        {
+            "id": "e2sh3-008",
+            "type": "translate",
+            "header": "I order a vanilla cake.",
+            "answer": "Παραγγέλνω ένα κέικ βανίλιας."
+        },
+        {
+            "id": "e2sh3-009",
+            "type": "translate",
+            "header": "The chocolate cake is the most expensive.",
+            "answer": "Η τούρτα σοκολάτας είναι η πιο ακριβή."
+        },
+        {
+            "id": "e2sh3-010",
+            "type": "translate",
+            "header": "The apple pie smells like cinnamon.",
+            "answer": "Η μηλόπιτα μυρίζει κανέλα."
+        },
+        {
+            "id": "e2sh3-011",
+            "type": "translate",
+            "header": "I buy a cream roll.",
+            "answer": "Αγοράζω ένα ρολό με κρέμα."
+        },
+        {
+            "id": "e2sh3-012",
+            "type": "translate",
+            "header": "Kataifi is my favorite sweet.",
+            "answer": "Το κανταΐφι είναι το αγαπημένο μου γλυκό."
+        },
+        {
+            "id": "e2sh3-013",
+            "type": "translate",
+            "header": "The birthday cake has cream.",
+            "answer": "Η τούρτα γενεθλίων έχει κρέμα."
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "exercises": [
+        {
+            "id": "e2f3-001",
+            "type": "translate",
+            "header": "I eat yogurt with honey every morning.",
+            "answer": "Τρώω γιαούρτι με μέλι κάθε πρωί."
+        },
+        {
+            "id": "e2f3-002",
+            "type": "translate",
+            "header": "Greek yogurt is very thick.",
+            "answer": "Το ελληνικό γιαούρτι είναι πολύ πηχτό."
+        },
+        {
+            "id": "e2f3-003",
+            "type": "translate",
+            "header": "I put cheese in the omelette.",
+            "answer": "Βάζω τυρί στην ομελέτα."
+        },
+        {
+            "id": "e2f3-004",
+            "type": "translate",
+            "header": "Feta is a Greek cheese.",
+            "answer": "Η φέτα είναι ελληνικό τυρί."
+        },
+        {
+            "id": "e2f3-005",
+            "type": "translate",
+            "header": "I drink orange juice every morning.",
+            "answer": "Πίνω χυμό πορτοκαλιού κάθε πρωί."
+        },
+        {
+            "id": "e2f3-006",
+            "type": "translate",
+            "header": "I make fresh juice at home.",
+            "answer": "Φτιάχνω φρέσκο χυμό στο σπίτι."
+        },
+        {
+            "id": "e2f3-007",
+            "type": "translate",
+            "header": "I drink tea with honey in the evening.",
+            "answer": "Πίνω τσάι με μέλι το βράδυ."
+        },
+        {
+            "id": "e2f3-008",
+            "type": "translate",
+            "header": "Do you want a cup of tea?",
+            "answer": "Θέλεις ένα φλιτζάνι τσάι;"
+        },
+        {
+            "id": "e2f3-009",
+            "type": "translate",
+            "header": "I also eat yogurt with honey for dessert.",
+            "answer": "Τρώω επίσης γιαούρτι με μέλι για επιδόρπιο."
+        },
+        {
+            "id": "e2f3-010",
+            "type": "translate",
+            "header": "Before going to sleep, I drink a cup of tea.",
+            "answer": "Πριν κοιμηθώ, πίνω ένα φλιτζάνι τσάι."
+        },
+        {
+            "id": "e2f3-011",
+            "type": "translate",
+            "header": "It was a delicious day!",
+            "answer": "Ήταν μια νόστιμη μέρα!"
+        },
+        {
+            "id": "e2f3-012",
+            "type": "translate",
+            "header": "I make a Greek salad with olive oil.",
+            "answer": "Φτιάχνω χωριάτικη σαλάτα με ελαιόλαδο."
+        },
+        {
+            "id": "e2f3-013",
+            "type": "translate",
+            "header": "I cook vegetable soup for lunch.",
+            "answer": "Μαγειρεύω σούπα λαχανικών για μεσημέρι."
+        }
+    ]
+}

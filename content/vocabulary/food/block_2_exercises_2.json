@@ -1,0 +1,82 @@
+{
+    "exercises": [
+        {
+            "id": "e2f2-001",
+            "type": "translate",
+            "header": "I make a Greek salad with olive oil.",
+            "answer": "Φτιάχνω χωριάτικη σαλάτα με ελαιόλαδο."
+        },
+        {
+            "id": "e2f2-002",
+            "type": "translate",
+            "header": "I eat salad at every meal.",
+            "answer": "Τρώω σαλάτα σε κάθε γεύμα."
+        },
+        {
+            "id": "e2f2-003",
+            "type": "translate",
+            "header": "I cook vegetable soup for lunch.",
+            "answer": "Μαγειρεύω σούπα λαχανικών για μεσημέρι."
+        },
+        {
+            "id": "e2f2-004",
+            "type": "translate",
+            "header": "The soup is warm and delicious.",
+            "answer": "Η σούπα είναι ζεστή και νόστιμη."
+        },
+        {
+            "id": "e2f2-005",
+            "type": "translate",
+            "header": "I boil pasta for ten minutes.",
+            "answer": "Βράζω μακαρόνια για δέκα λεπτά."
+        },
+        {
+            "id": "e2f2-006",
+            "type": "translate",
+            "header": "Pasta is my favorite food.",
+            "answer": "Τα μακαρόνια είναι το αγαπημένο μου φαγητό."
+        },
+        {
+            "id": "e2f2-007",
+            "type": "translate",
+            "header": "I cook rice with vegetables.",
+            "answer": "Μαγειρεύω ρύζι με λαχανικά."
+        },
+        {
+            "id": "e2f2-008",
+            "type": "translate",
+            "header": "The rice needs twenty minutes to boil.",
+            "answer": "Το ρύζι χρειάζεται είκοσι λεπτά να βράσει."
+        },
+        {
+            "id": "e2f2-009",
+            "type": "translate",
+            "header": "At noon I cook soup and salad.",
+            "answer": "Το μεσημέρι μαγειρεύω σούπα και σαλάτα."
+        },
+        {
+            "id": "e2f2-010",
+            "type": "translate",
+            "header": "For the salad I use a little olive oil.",
+            "answer": "Για σαλάτα χρησιμοποιώ λίγο ελαιόλαδο."
+        },
+        {
+            "id": "e2f2-011",
+            "type": "translate",
+            "header": "In the evening I make pasta with cheese.",
+            "answer": "Το βράδυ φτιάχνω μακαρόνια με τυρί."
+        },
+        {
+            "id": "e2f2-012",
+            "type": "translate",
+            "header": "I beat two eggs with a little salt.",
+            "answer": "Χτυπάω δύο αυγά με λίγο αλάτι."
+        },
+        {
+            "id": "e2f2-013",
+            "type": "translate",
+            "header": "Do you want your coffee with milk?",
+            "answer": "Θέλεις τον καφέ σου με γάλα;"
+        }
+    ]
+}

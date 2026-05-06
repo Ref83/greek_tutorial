@@ -1,0 +1,17 @@
+{
+    "exercises": [
+        {"id": "e-da-b3-014", "type": "translate", "header": "Shall we go for a stroll at the beach?", "answer": "Πάμε βόλτα στην παραλία;"},
+        {"id": "e-da-b3-015", "type": "translate", "header": "I work out three times a week.", "answer": "Γυμνάζομαι τρεις φορές την εβδομάδα."},
+        {"id": "e-da-b3-016", "type": "translate", "header": "Where do you work out? Do you have a gym?", "answer": "Πού γυμνάζεσαι; Έχεις γυμναστήριο;"},
+        {"id": "e-da-b3-017", "type": "translate", "header": "I go out with friends every weekend.", "answer": "Βγαίνω έξω με φίλους κάθε Σαββατοκύριακο."},
+        {"id": "e-da-b3-018", "type": "translate", "header": "Do you want to go out tonight?", "answer": "Θέλεις να βγούμε έξω απόψε;"},
+        {"id": "e-da-b3-019", "type": "translate", "header": "I had a really good time last night!", "answer": "Πέρασα πολύ καλά χθες το βράδυ!"},
+        {"id": "e-da-b3-020", "type": "translate", "header": "We always have a good time together.", "answer": "Περνάμε πάντα καλά μαζί."},
+        {"id": "e-da-b3-021", "type": "translate", "header": "I enjoy my coffee every morning.", "answer": "Απολαμβάνω τον καφέ μου κάθε πρωί."},
+        {"id": "e-da-b3-022", "type": "translate", "header": "I enjoy life with simple things.", "answer": "Απολαμβάνω τη ζωή με απλά πράγματα."},
+        {"id": "e-da-b3-023", "type": "translate", "header": "I rest in the afternoon after lunch.", "answer": "Ξεκουράζομαι το απόγευμα μετά το μεσημεριανό."},
+        {"id": "e-da-b3-024", "type": "translate", "header": "I need to rest, I am tired.", "answer": "Χρειάζομαι να ξεκουραστώ, είμαι κουρασμένος."},
+        {"id": "e-da-b3-025", "type": "translate", "header": "I listen to the radio in the morning.", "answer": "Ακούω ραδιόφωνο το πρωί."},
+        {"id": "e-da-b3-026", "type": "translate", "header": "I spend my free time with my family.", "answer": "Περνώ τον ελεύθερο χρόνο μου με την οικογένειά μου."}
+    ]
+}

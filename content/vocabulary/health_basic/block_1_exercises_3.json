@@ -1,0 +1,82 @@
+{
+    "exercises": [
+        {
+            "id": "e1hb3-001",
+            "type": "translate",
+            "header": "Where is the nearest hospital?",
+            "answer": "Πού είναι το κοντινότερο νοσοκομείο;"
+        },
+        {
+            "id": "e1hb3-002",
+            "type": "translate",
+            "header": "The doctor is very experienced.",
+            "answer": "Ο γιατρός είναι πολύ έμπειρος."
+        },
+        {
+            "id": "e1hb3-003",
+            "type": "translate",
+            "header": "I have a headache and a slight fever.",
+            "answer": "Έχω πονοκέφαλο και λίγο πυρετό."
+        },
+        {
+            "id": "e1hb3-004",
+            "type": "translate",
+            "header": "The cough does not stop.",
+            "answer": "Ο βήχας δεν σταματάει."
+        },
+        {
+            "id": "e1hb3-005",
+            "type": "translate",
+            "header": "I forgot my appointment at the clinic.",
+            "answer": "Ξέχασα το ραντεβού μου στο ιατρείο."
+        },
+        {
+            "id": "e1hb3-006",
+            "type": "translate",
+            "header": "The prescription is only valid for one month.",
+            "answer": "Η συνταγή ισχύει μόνο για έναν μήνα."
+        },
+        {
+            "id": "e1hb3-007",
+            "type": "translate",
+            "header": "This medicine helps with pain.",
+            "answer": "Αυτό το φάρμακο βοηθάει με τον πόνο."
+        },
+        {
+            "id": "e1hb3-008",
+            "type": "translate",
+            "header": "I have been in pain since yesterday.",
+            "answer": "Πονάω από χθες."
+        },
+        {
+            "id": "e1hb3-009",
+            "type": "translate",
+            "header": "Many patients are waiting at the hospital.",
+            "answer": "Πολλοί ασθενείς περιμένουν στο νοσοκομείο."
+        },
+        {
+            "id": "e1hb3-010",
+            "type": "translate",
+            "header": "A cold usually lasts about a week.",
+            "answer": "Το κρυολόγημα συνήθως διαρκεί περίπου μια εβδομάδα."
+        },
+        {
+            "id": "e1hb3-011",
+            "type": "translate",
+            "header": "The doctor gave him a prescription for antibiotics.",
+            "answer": "Ο γιατρός του έδωσε συνταγή για αντιβιοτικά."
+        },
+        {
+            "id": "e1hb3-012",
+            "type": "translate",
+            "header": "His fever went down after he took the medicine.",
+            "answer": "Ο πυρετός του έπεσε αφού πήρε το φάρμακο."
+        },
+        {
+            "id": "e1hb3-013",
+            "type": "translate",
+            "header": "She called the hospital to cancel her appointment.",
+            "answer": "Τηλεφώνησε στο νοσοκομείο για να ακυρώσει το ραντεβού της."
+        }
+    ]
+}

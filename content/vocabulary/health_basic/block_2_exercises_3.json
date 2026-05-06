@@ -1,0 +1,82 @@
+{
+    "exercises": [
+        {
+            "id": "e2hb3-001",
+            "type": "translate",
+            "header": "I feel bad — I think I have the flu.",
+            "answer": "Αισθάνομαι άσχημα — νομίζω ότι έχω γρίπη."
+        },
+        {
+            "id": "e2hb3-002",
+            "type": "translate",
+            "header": "She felt sick and stayed in bed all day.",
+            "answer": "Αισθάνθηκε άρρωστη και έμεινε στο κρεβάτι όλη μέρα."
+        },
+        {
+            "id": "e2hb3-003",
+            "type": "translate",
+            "header": "He is exhausted after the long journey.",
+            "answer": "Είναι κουρασμένος μετά το μακρύ ταξίδι."
+        },
+        {
+            "id": "e2hb3-004",
+            "type": "translate",
+            "header": "My headache gets worse in the evenings.",
+            "answer": "Ο πονοκέφαλός μου χειροτερεύει τα βράδια."
+        },
+        {
+            "id": "e2hb3-005",
+            "type": "translate",
+            "header": "She cannot speak loudly because of her sore throat.",
+            "answer": "Δεν μπορεί να μιλάει δυνατά λόγω του πονόλαιμου."
+        },
+        {
+            "id": "e2hb3-006",
+            "type": "translate",
+            "header": "I feel dizzy when I look at the screen for too long.",
+            "answer": "Ζαλίζομαι όταν κοιτάω την οθόνη για πολλή ώρα."
+        },
+        {
+            "id": "e2hb3-007",
+            "type": "translate",
+            "header": "The nausea passed after she drank some water.",
+            "answer": "Η ναυτία πέρασε αφού ήπιε λίγο νερό."
+        },
+        {
+            "id": "e2hb3-008",
+            "type": "translate",
+            "header": "Half of the class has the flu this week.",
+            "answer": "Τα μισά παιδιά της τάξης έχουν γρίπη αυτή την εβδομάδα."
+        },
+        {
+            "id": "e2hb3-009",
+            "type": "translate",
+            "header": "The doctor takes his temperature and checks his throat.",
+            "answer": "Ο γιατρός μετράει τη θερμοκρασία του και εξετάζει τον λαιμό του."
+        },
+        {
+            "id": "e2hb3-010",
+            "type": "translate",
+            "header": "His temperature has been high since this morning.",
+            "answer": "Η θερμοκρασία του είναι υψηλή από το πρωί."
+        },
+        {
+            "id": "e2hb3-011",
+            "type": "translate",
+            "header": "The results of the examination will be ready tomorrow.",
+            "answer": "Τα αποτελέσματα της εξέτασης θα είναι έτοιμα αύριο."
+        },
+        {
+            "id": "e2hb3-012",
+            "type": "translate",
+            "header": "The nurse gave me an injection in my arm.",
+            "answer": "Η νοσοκόμα μου έκανε μια ένεση στο χέρι."
+        },
+        {
+            "id": "e2hb3-013",
+            "type": "translate",
+            "header": "I feel much better after the injection.",
+            "answer": "Αισθάνομαι πολύ καλύτερα μετά την ένεση."
+        }
+    ]
+}

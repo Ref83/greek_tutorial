@@ -1,16 +1,94 @@
 {
     "exercises": [
         {
-            "id": "e1a1-004",
+            "id": "e-pi-b1-001",
             "type": "translate",
-            "header": "Are you well today?",
-            "answer": "Εσύ είσαι καλά σήμερα;"
+            "header": "My name is Eleni.",
+            "answer": "Με λένε Ελένη."
         },
         {
-            "id": "e1a1-005",
+            "id": "e-pi-b1-002",
             "type": "translate",
-            "header": "Are you well today 1?",
-            "answer": "Εσύ είσαι καλά σήμερα 1;"
+            "header": "What is your name?",
+            "answer": "Πώς σε λένε;"
+        },
+        {
+            "id": "e-pi-b1-003",
+            "type": "translate",
+            "header": "My surname is Papadopoulou.",
+            "answer": "Το επίθετό μου είναι Παπαδοπούλου."
+        },
+        {
+            "id": "e-pi-b1-004",
+            "type": "translate",
+            "header": "I am thirty years old.",
+            "answer": "Είμαι τριάντα χρονών."
+        },
+        {
+            "id": "e-pi-b1-005",
+            "type": "translate",
+            "header": "How old are you?",
+            "answer": "Πόσο χρονών είσαι;"
+        },
+        {
+            "id": "e-pi-b1-006",
+            "type": "translate",
+            "header": "My nationality is Greek.",
+            "answer": "Η εθνικότητά μου είναι ελληνική."
+        },
+        {
+            "id": "e-pi-b1-007",
+            "type": "translate",
+            "header": "From which country are you?",
+            "answer": "Από ποια χώρα είσαι;"
+        },
+        {
+            "id": "e-pi-b1-008",
+            "type": "translate",
+            "header": "I live in a big city.",
+            "answer": "Μένω σε μια μεγάλη πόλη."
+        },
+        {
+            "id": "e-pi-b1-009",
+            "type": "translate",
+            "header": "What is your address?",
+            "answer": "Ποια είναι η διεύθυνσή σου;"
+        },
+        {
+            "id": "e-pi-b1-010",
+            "type": "translate",
+            "header": "Can you give me your phone number?",
+            "answer": "Μπορείς να μου δώσεις το τηλέφωνό σου;"
+        },
+        {
+            "id": "e-pi-b1-011",
+            "type": "translate",
+            "header": "Are you married?",
+            "answer": "Είσαι παντρεμένος;"
+        },
+        {
+            "id": "e-pi-b1-012",
+            "type": "translate",
+            "header": "My brother is single.",
+            "answer": "Ο αδελφός μου είναι ελεύθερος."
+        },
+        {
+            "id": "e-pi-b1-013",
+            "type": "translate",
+            "header": "I was born in Athens.",
+            "answer": "Γεννήθηκα στην Αθήνα."
+        },
+        {
+            "id": "e-pi-b1-014",
+            "type": "translate",
+            "header": "Where were you born?",
+            "answer": "Πού γεννήθηκες;"
+        },
+        {
+            "id": "e-pi-b1-015",
+            "type": "translate",
+            "header": "I send emails at work every day.",
+            "answer": "Στέλνω email στη δουλειά κάθε μέρα."
         }
     ]
 }

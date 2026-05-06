@@ -1,0 +1,94 @@
+{
+    "exercises": [
+        {
+            "id": "e-pi-b3-301",
+            "type": "translate",
+            "header": "It is a technology company.",
+            "answer": "Είναι εταιρεία τεχνολογίας."
+        },
+        {
+            "id": "e-pi-b3-302",
+            "type": "translate",
+            "header": "She is a university student.",
+            "answer": "Είναι φοιτητής πανεπιστημίου."
+        },
+        {
+            "id": "e-pi-b3-303",
+            "type": "translate",
+            "header": "He has a university degree.",
+            "answer": "Έχει πτυχίο πανεπιστημίου."
+        },
+        {
+            "id": "e-pi-b3-304",
+            "type": "translate",
+            "header": "I go to primary school.",
+            "answer": "Πηγαίνω στο δημοτικό σχολείο."
+        },
+        {
+            "id": "e-pi-b3-305",
+            "type": "translate",
+            "header": "I speak fluently.",
+            "answer": "Μιλώ άπταιστα."
+        },
+        {
+            "id": "e-pi-b3-306",
+            "type": "translate",
+            "header": "He speaks very loudly.",
+            "answer": "Μιλάει πολύ δυνατά."
+        },
+        {
+            "id": "e-pi-b3-307",
+            "type": "translate",
+            "header": "I learn by heart.",
+            "answer": "Μαθαίνω απέξω."
+        },
+        {
+            "id": "e-pi-b3-308",
+            "type": "translate",
+            "header": "I want to learn a new language.",
+            "answer": "Θέλω να μαθαίνω μια νέα γλώσσα."
+        },
+        {
+            "id": "e-pi-b3-309",
+            "type": "translate",
+            "header": "My passport needs renewal.",
+            "answer": "Το διαβατήριό μου χρειάζεται ανανέωση."
+        },
+        {
+            "id": "e-pi-b3-310",
+            "type": "translate",
+            "header": "What is your ID number?",
+            "answer": "Ποιος είναι ο αριθμός ταυτότητάς σου;"
+        },
+        {
+            "id": "e-pi-b3-311",
+            "type": "translate",
+            "header": "He works in a freelance profession.",
+            "answer": "Δουλεύει σε ελεύθερο επάγγελμα."
+        },
+        {
+            "id": "e-pi-b3-312",
+            "type": "translate",
+            "header": "The job market is very competitive.",
+            "answer": "Η αγορά εργασίας είναι πολύ ανταγωνιστική."
+        },
+        {
+            "id": "e-pi-b3-313",
+            "type": "translate",
+            "header": "She studied abroad for two years.",
+            "answer": "Σπούδασε στο εξωτερικό για δύο χρόνια."
+        },
+        {
+            "id": "e-pi-b3-314",
+            "type": "translate",
+            "header": "My workplace is in the city center.",
+            "answer": "Ο χώρος εργασίας μου είναι στο κέντρο της πόλης."
+        },
+        {
+            "id": "e-pi-b3-315",
+            "type": "translate",
+            "header": "I practice my profession every day.",
+            "answer": "Ασκώ το επάγγελμά μου κάθε μέρα."
+        }
+    ]
+}

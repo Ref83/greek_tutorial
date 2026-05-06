@@ -1,0 +1,17 @@
+{
+    "exercises": [
+        {"id": "e-da-b2-014", "type": "translate", "header": "I need to put my room in order.", "answer": "Πρέπει να τακτοποιήσω το δωμάτιό μου."},
+        {"id": "e-da-b2-015", "type": "translate", "header": "I am planning a trip to Crete.", "answer": "Σχεδιάζω ένα ταξίδι στην Κρήτη."},
+        {"id": "e-da-b2-016", "type": "translate", "header": "What are you planning for the weekend?", "answer": "Τι σχεδιάζεις για το Σαββατοκύριακο;"},
+        {"id": "e-da-b2-017", "type": "translate", "header": "I'm making an appointment with the doctor for tomorrow.", "answer": "Κλείνω ραντεβού με τον γιατρό για αύριο."},
+        {"id": "e-da-b2-018", "type": "translate", "header": "I booked an appointment at the hairdresser.", "answer": "Έκλεισα ραντεβού στο κομμωτήριο."},
+        {"id": "e-da-b2-019", "type": "translate", "header": "I'm getting ready to go out.", "answer": "Ετοιμάζομαι για έξοδο."},
+        {"id": "e-da-b2-020", "type": "translate", "header": "How long do you need to get ready?", "answer": "Πόση ώρα χρειάζεσαι να ετοιμαστείς;"},
+        {"id": "e-da-b2-021", "type": "translate", "header": "I shop at the supermarket every week.", "answer": "Ψωνίζω στο σούπερ μάρκετ κάθε εβδομάδα."},
+        {"id": "e-da-b2-022", "type": "translate", "header": "Shall we go shopping together?", "answer": "Πάμε να ψωνίσουμε μαζί;"},
+        {"id": "e-da-b2-023", "type": "translate", "header": "I do the laundry every week.", "answer": "Πλένω τα ρούχα κάθε εβδομάδα."},
+        {"id": "e-da-b2-024", "type": "translate", "header": "I ran the washing machine because I have no clean clothes.", "answer": "Έβαλα πλυντήριο γιατί δεν έχω καθαρά ρούχα."},
+        {"id": "e-da-b2-025", "type": "translate", "header": "I cancel an appointment when I can't go.", "answer": "Ακυρώνω ραντεβού όταν δεν μπορώ να πάω."},
+        {"id": "e-da-b2-026", "type": "translate", "header": "I clean the room every day.", "answer": "Καθαρίζω το δωμάτιο κάθε μέρα."}
+    ]
+}

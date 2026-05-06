@@ -1,0 +1,17 @@
+{
+    "exercises": [
+        {"id": "e-da-b2-001", "type": "translate", "header": "I clean the house every Saturday.", "answer": "Καθαρίζω το σπίτι κάθε Σάββατο."},
+        {"id": "e-da-b2-002", "type": "translate", "header": "I need to clean the bathroom.", "answer": "Πρέπει να καθαρίσω το μπάνιο."},
+        {"id": "e-da-b2-003", "type": "translate", "header": "I sweep the floor with the broom.", "answer": "Σκουπίζω το πάτωμα με τη σκούπα."},
+        {"id": "e-da-b2-004", "type": "translate", "header": "I vacuum every week.", "answer": "Σκουπίζω με την ηλεκτρική σκούπα κάθε εβδομάδα."},
+        {"id": "e-da-b2-005", "type": "translate", "header": "I open the window to let fresh air in.", "answer": "Ανοίγω το παράθυρο για να μπει φρέσκος αέρας."},
+        {"id": "e-da-b2-006", "type": "translate", "header": "Open the window please, it's hot.", "answer": "Άνοιξε το παράθυρο, παρακαλώ, κάνει ζέστη."},
+        {"id": "e-da-b2-007", "type": "translate", "header": "I air out the room every morning.", "answer": "Αερίζω το δωμάτιο κάθε πρωί."},
+        {"id": "e-da-b2-008", "type": "translate", "header": "You need to ventilate the house.", "answer": "Πρέπει να αερίσεις το σπίτι."},
+        {"id": "e-da-b2-009", "type": "translate", "header": "I wash the dishes after every meal.", "answer": "Πλένω τα πιάτα μετά από κάθε γεύμα."},
+        {"id": "e-da-b2-010", "type": "translate", "header": "Who is washing the dishes today?", "answer": "Ποιος πλένει τα πιάτα σήμερα;"},
+        {"id": "e-da-b2-011", "type": "translate", "header": "Pick up your toys from the floor!", "answer": "Μάζεψε τα παιχνίδια σου από το πάτωμα!"},
+        {"id": "e-da-b2-012", "type": "translate", "header": "I tidy up my clothes before going to sleep.", "answer": "Μαζεύω τα ρούχα μου πριν κοιμηθώ."},
+        {"id": "e-da-b2-013", "type": "translate", "header": "I arrange my books on the shelf.", "answer": "Τακτοποιώ τα βιβλία μου στο ράφι."}
+    ]
+}

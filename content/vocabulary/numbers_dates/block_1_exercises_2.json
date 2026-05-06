@@ -1,0 +1,17 @@
+{
+    "exercises": [
+        {"id": "e-nd-b1-014", "type": "translate", "header": "The hand has five fingers.", "answer": "Το χέρι έχει πέντε δάχτυλα."},
+        {"id": "e-nd-b1-015", "type": "translate", "header": "At five in the afternoon I finish work.", "answer": "Στις πέντε το απόγευμα τελειώνω τη δουλειά."},
+        {"id": "e-nd-b1-016", "type": "translate", "header": "I wake up at six in the morning.", "answer": "Ξυπνάω στις έξι το πρωί."},
+        {"id": "e-nd-b1-017", "type": "translate", "header": "In the park we saw six dogs.", "answer": "Στο πάρκο είδαμε έξι σκύλους."},
+        {"id": "e-nd-b1-018", "type": "translate", "header": "The week has seven days.", "answer": "Η εβδομάδα έχει εφτά μέρες."},
+        {"id": "e-nd-b1-019", "type": "translate", "header": "I bought seven tickets for the show.", "answer": "Αγόρασα εφτά εισιτήρια για την παράσταση."},
+        {"id": "e-nd-b1-020", "type": "translate", "header": "I have eight cards in my wallet.", "answer": "Έχω οχτώ κάρτες στο πορτοφόλι μου."},
+        {"id": "e-nd-b1-021", "type": "translate", "header": "The show starts at eight.", "answer": "Η παράσταση αρχίζει στις οχτώ."},
+        {"id": "e-nd-b1-022", "type": "translate", "header": "Mom bought nine apples.", "answer": "Η μαμά αγόρασε εννέα μήλα."},
+        {"id": "e-nd-b1-023", "type": "translate", "header": "I have nine books on the shelf.", "answer": "Έχω εννέα βιβλία στο ράφι."},
+        {"id": "e-nd-b1-024", "type": "translate", "header": "I have ten books in my bag.", "answer": "Έχω δέκα βιβλία στο τσαντάκι μου."},
+        {"id": "e-nd-b1-025", "type": "translate", "header": "What is your phone number?", "answer": "Ποιος είναι ο αριθμός τηλεφώνου σου;"},
+        {"id": "e-nd-b1-026", "type": "translate", "header": "My house number is fifteen.", "answer": "Ο αριθμός του σπιτιού μου είναι δεκαπέντε."}
+    ]
+}

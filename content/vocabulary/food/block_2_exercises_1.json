@@ -1,0 +1,82 @@
+{
+    "exercises": [
+        {
+            "id": "e2f1-001",
+            "type": "translate",
+            "header": "I drink a coffee every morning.",
+            "answer": "Πίνω έναν καφέ κάθε πρωί."
+        },
+        {
+            "id": "e2f1-002",
+            "type": "translate",
+            "header": "Do you want your coffee with milk?",
+            "answer": "Θέλεις τον καφέ σου με γάλα;"
+        },
+        {
+            "id": "e2f1-003",
+            "type": "translate",
+            "header": "I make an omelette with cheese for breakfast.",
+            "answer": "Φτιάχνω μια ομελέτα με τυρί για πρωινό."
+        },
+        {
+            "id": "e2f1-004",
+            "type": "translate",
+            "header": "I beat two eggs to make an omelette.",
+            "answer": "Χτυπάω δύο αυγά για να φτιάξω ομελέτα."
+        },
+        {
+            "id": "e2f1-005",
+            "type": "translate",
+            "header": "I bake a chocolate cake for the birthday.",
+            "answer": "Ψήνω ένα κέικ σοκολάτας για τα γενέθλια."
+        },
+        {
+            "id": "e2f1-006",
+            "type": "translate",
+            "header": "The cake is very delicious.",
+            "answer": "Το κέικ είναι πολύ νόστιμο."
+        },
+        {
+            "id": "e2f1-007",
+            "type": "translate",
+            "header": "I buy fresh bread every morning.",
+            "answer": "Αγοράζω φρέσκο ψωμί κάθε πρωί."
+        },
+        {
+            "id": "e2f1-008",
+            "type": "translate",
+            "header": "I eat bread with butter and honey.",
+            "answer": "Τρώω ψωμί με βούτυρο και μέλι."
+        },
+        {
+            "id": "e2f1-009",
+            "type": "translate",
+            "header": "Today I wake up early and go to the kitchen.",
+            "answer": "Σήμερα ξυπνάω νωρίς και πηγαίνω στην κουζίνα."
+        },
+        {
+            "id": "e2f1-010",
+            "type": "translate",
+            "header": "First I make a cup of coffee.",
+            "answer": "Πρώτα φτιάχνω ένα φλιτζάνι καφέ."
+        },
+        {
+            "id": "e2f1-011",
+            "type": "translate",
+            "header": "I put a little sugar in my coffee.",
+            "answer": "Βάζω λίγη ζάχαρη στον καφέ μου."
+        },
+        {
+            "id": "e2f1-012",
+            "type": "translate",
+            "header": "Then I prepare an omelette with cheese for breakfast.",
+            "answer": "Μετά ετοιμάζω ομελέτα με τυρί για πρωινό."
+        },
+        {
+            "id": "e2f1-013",
+            "type": "translate",
+            "header": "I eat the omelette with fresh bread.",
+            "answer": "Τρώω την ομελέτα με φρέσκο ψωμί."
+        }
+    ]
+}

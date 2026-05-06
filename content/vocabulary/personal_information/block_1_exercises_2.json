@@ -1,16 +1,94 @@
 {
     "exercises": [
         {
-            "id": "e1a1-007",
+            "id": "e-pi-b1-201",
             "type": "translate",
-            "header": "Are you well today 3?",
-            "answer": "Εσύ είσαι καλά σήμερα;"
+            "header": "What is your surname?",
+            "answer": "Ποιο είναι το επίθετό σου;"
         },
         {
-            "id": "e1a1-008",
+            "id": "e-pi-b1-202",
             "type": "translate",
-            "header": "Are you well today 4?",
-            "answer": "Εσύ είσαι καλά σήμερα 1;"
+            "header": "My country is Greece.",
+            "answer": "Η χώρα μου είναι η Ελλάδα."
+        },
+        {
+            "id": "e-pi-b1-203",
+            "type": "translate",
+            "header": "In which city do you live?",
+            "answer": "Σε ποια πόλη ζεις;"
+        },
+        {
+            "id": "e-pi-b1-204",
+            "type": "translate",
+            "header": "What is your email?",
+            "answer": "Ποιο είναι το email σου;"
+        },
+        {
+            "id": "e-pi-b1-205",
+            "type": "translate",
+            "header": "Are you single?",
+            "answer": "Είσαι ελεύθερος;"
+        },
+        {
+            "id": "e-pi-b1-206",
+            "type": "translate",
+            "header": "I was born in a small city.",
+            "answer": "Γεννήθηκα σε μια μικρή πόλη."
+        },
+        {
+            "id": "e-pi-b1-207",
+            "type": "translate",
+            "header": "Do you have dual nationality?",
+            "answer": "Έχεις διπλή εθνικότητα;"
+        },
+        {
+            "id": "e-pi-b1-208",
+            "type": "translate",
+            "header": "What is your first name?",
+            "answer": "Ποιο είναι το μικρό σου όνομα;"
+        },
+        {
+            "id": "e-pi-b1-209",
+            "type": "translate",
+            "header": "What is your mobile phone number?",
+            "answer": "Ποιος είναι ο αριθμός του κινητού σου τηλεφώνου;"
+        },
+        {
+            "id": "e-pi-b1-210",
+            "type": "translate",
+            "header": "My postal address is different.",
+            "answer": "Η ταχυδρομική μου διεύθυνση είναι διαφορετική."
+        },
+        {
+            "id": "e-pi-b1-211",
+            "type": "translate",
+            "header": "She was born in a foreign country.",
+            "answer": "Γεννήθηκε σε ξένη χώρα."
+        },
+        {
+            "id": "e-pi-b1-212",
+            "type": "translate",
+            "header": "His hometown is Athens.",
+            "answer": "Η πόλη καταγωγής του είναι η Αθήνα."
+        },
+        {
+            "id": "e-pi-b1-213",
+            "type": "translate",
+            "header": "We live in the same city.",
+            "answer": "Μένουμε στην ίδια πόλη."
+        },
+        {
+            "id": "e-pi-b1-214",
+            "type": "translate",
+            "header": "They are a married couple.",
+            "answer": "Είναι παντρεμένο ζευγάρι."
+        },
+        {
+            "id": "e-pi-b1-215",
+            "type": "translate",
+            "header": "My place of birth is Thessaloniki.",
+            "answer": "Ο τόπος γέννησής μου είναι η Θεσσαλονίκη."
         }
     ]
 }

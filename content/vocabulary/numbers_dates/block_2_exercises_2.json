@@ -1,0 +1,17 @@
+{
+    "exercises": [
+        {"id": "e-nd-b2-014", "type": "translate", "header": "The building has eleven floors.", "answer": "Το κτίριο έχει έντεκα ορόφους."},
+        {"id": "e-nd-b2-015", "type": "translate", "header": "I stay awake until eleven.", "answer": "Μένω ξύπνιος μέχρι τις έντεκα."},
+        {"id": "e-nd-b2-016", "type": "translate", "header": "The day has twelve hours of light.", "answer": "Η μέρα έχει δώδεκα ώρες φως."},
+        {"id": "e-nd-b2-017", "type": "translate", "header": "The year has twelve months.", "answer": "Ο χρόνος έχει δώδεκα μήνες."},
+        {"id": "e-nd-b2-018", "type": "translate", "header": "We eat at twelve o'clock.", "answer": "Τρώμε στις δώδεκα."},
+        {"id": "e-nd-b2-019", "type": "translate", "header": "My class has twenty students.", "answer": "Η τάξη μου έχει είκοσι μαθητές."},
+        {"id": "e-nd-b2-020", "type": "translate", "header": "She is twenty years old.", "answer": "Είναι είκοσι χρονών."},
+        {"id": "e-nd-b2-021", "type": "translate", "header": "Wait twenty minutes.", "answer": "Περίμενε είκοσι λεπτά."},
+        {"id": "e-nd-b2-022", "type": "translate", "header": "My grandmother lived fifty years in this village.", "answer": "Η γιαγιά μου έζησε πενήντα χρόνια σε αυτό το χωριό."},
+        {"id": "e-nd-b2-023", "type": "translate", "header": "This costs fifty euros.", "answer": "Αυτό κοστίζει πενήντα ευρώ."},
+        {"id": "e-nd-b2-024", "type": "translate", "header": "The price was exactly one hundred euros.", "answer": "Η τιμή ήταν ακριβώς εκατό ευρώ."},
+        {"id": "e-nd-b2-025", "type": "translate", "header": "One hundred people came to the concert.", "answer": "Εκατό άνθρωποι ήρθαν στη συναυλία."},
+        {"id": "e-nd-b2-026", "type": "translate", "header": "I am one hundred percent sure.", "answer": "Είμαι εκατό τοις εκατό σίγουρος."}
+    ]
+}

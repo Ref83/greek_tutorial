@@ -1,0 +1,17 @@
+{
+    "exercises": [
+        {"id": "e-da-b3-027", "type": "translate", "header": "Nikos has many hobbies and loves his free time.", "answer": "Ο Νίκος έχει πολλά χόμπι και αγαπά τον ελεύθερο χρόνο του."},
+        {"id": "e-da-b3-028", "type": "translate", "header": "He has been into photography for years.", "answer": "Ασχολείται με τη φωτογραφία εδώ και χρόνια."},
+        {"id": "e-da-b3-029", "type": "translate", "header": "Every morning he goes for a walk in the park and works out.", "answer": "Κάθε πρωί κάνει βόλτα στο πάρκο και γυμνάζεται."},
+        {"id": "e-da-b3-030", "type": "translate", "header": "He listens to music while walking.", "answer": "Ακούει μουσική ενώ περπατά."},
+        {"id": "e-da-b3-031", "type": "translate", "header": "In the evenings he reads or watches a movie.", "answer": "Τα βράδια διαβάζει ή βλέπει μια ταινία."},
+        {"id": "e-da-b3-032", "type": "translate", "header": "At the weekend he goes out with friends.", "answer": "Το Σαββατοκύριακο βγαίνει έξω με φίλους."},
+        {"id": "e-da-b3-033", "type": "translate", "header": "He always has a good time and enjoys every moment.", "answer": "Περνά πάντα καλά και απολαμβάνει κάθε στιγμή."},
+        {"id": "e-da-b3-034", "type": "translate", "header": "In the evening he rests and plays guitar.", "answer": "Το βράδυ ξεκουράζεται και παίζει κιθάρα."},
+        {"id": "e-da-b3-035", "type": "translate", "header": "I am into sports and go to the gym often.", "answer": "Ασχολούμαι με τον αθλητισμό και πηγαίνω συχνά στο γυμναστήριο."},
+        {"id": "e-da-b3-036", "type": "translate", "header": "I walk the dog every morning.", "answer": "Κάνω βόλτα με τον σκύλο μου κάθε πρωί."},
+        {"id": "e-da-b3-037", "type": "translate", "header": "I go out for coffee with my friends.", "answer": "Βγαίνω για καφέ με τους φίλους μου."},
+        {"id": "e-da-b3-038", "type": "translate", "header": "Did you have a good time at the party?", "answer": "Πέρασες καλά στο πάρτι;"},
+        {"id": "e-da-b3-039", "type": "translate", "header": "I enjoy nature and go hiking.", "answer": "Απολαμβάνω τη φύση και κάνω πεζοπορία."}
+    ]
+}

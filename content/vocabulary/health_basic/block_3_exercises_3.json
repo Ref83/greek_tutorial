@@ -1,0 +1,82 @@
+{
+    "exercises": [
+        {
+            "id": "e3hb3-001",
+            "type": "translate",
+            "header": "My fear of hospitals is getting smaller.",
+            "answer": "Ο φόβος μου από τα νοσοκομεία μικραίνει."
+        },
+        {
+            "id": "e3hb3-002",
+            "type": "translate",
+            "header": "He is afraid of taking injections.",
+            "answer": "Φοβάται να κάνει ενέσεις."
+        },
+        {
+            "id": "e3hb3-003",
+            "type": "translate",
+            "header": "I get very anxious before a blood test.",
+            "answer": "Αγχώνομαι πολύ πριν από μια εξέταση αίματος."
+        },
+        {
+            "id": "e3hb3-004",
+            "type": "translate",
+            "header": "Stress can affect your health.",
+            "answer": "Το άγχος μπορεί να επηρεάσει την υγεία σου."
+        },
+        {
+            "id": "e3hb3-005",
+            "type": "translate",
+            "header": "I worry about her every day.",
+            "answer": "Ανησυχώ για αυτήν κάθε μέρα."
+        },
+        {
+            "id": "e3hb3-006",
+            "type": "translate",
+            "header": "Their worry is understandable.",
+            "answer": "Η ανησυχία τους είναι κατανοητή."
+        },
+        {
+            "id": "e3hb3-007",
+            "type": "translate",
+            "header": "Try to stay calm before the appointment.",
+            "answer": "Προσπάθησε να είσαι ήρεμος πριν από το ραντεβού."
+        },
+        {
+            "id": "e3hb3-008",
+            "type": "translate",
+            "header": "The doctor spoke with a calm voice.",
+            "answer": "Ο γιατρός μίλησε με ήρεμη φωνή."
+        },
+        {
+            "id": "e3hb3-009",
+            "type": "translate",
+            "header": "Take a deep breath and relax.",
+            "answer": "Πάρε μια βαθιά αναπνοή και χαλάρωσε."
+        },
+        {
+            "id": "e3hb3-010",
+            "type": "translate",
+            "header": "Breathing exercises help with anxiety.",
+            "answer": "Οι ασκήσεις αναπνοής βοηθούν με το άγχος."
+        },
+        {
+            "id": "e3hb3-011",
+            "type": "translate",
+            "header": "I trust this doctor completely.",
+            "answer": "Εμπιστεύομαι αυτόν τον γιατρό εντελώς."
+        },
+        {
+            "id": "e3hb3-012",
+            "type": "translate",
+            "header": "The nurse relieves my fear with kind words.",
+            "answer": "Η νοσοκόμα ανακουφίζει τον φόβο μου με ευγενικά λόγια."
+        },
+        {
+            "id": "e3hb3-013",
+            "type": "translate",
+            "header": "We can endure difficult moments together.",
+            "answer": "Μπορούμε να αντέξουμε δύσκολες στιγμές μαζί."
+        }
+    ]
+}

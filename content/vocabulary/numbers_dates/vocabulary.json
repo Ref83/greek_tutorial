@@ -1,0 +1,571 @@
+{
+    "blocks": [
+        {
+            "items": [
+                {
+                    "id": "v-nd-001",
+                    "item": "μηδέν",
+                    "meaning": "zero",
+                    "examples": [
+                        {"example": "Η θερμοκρασία είναι μηδέν βαθμούς.", "translation": "The temperature is zero degrees."},
+                        {"example": "Ο βαθμός μου ήταν μηδέν.", "translation": "My grade was zero."}
+                    ],
+                    "collocations": [
+                        {"collocation": "μηδέν βαθμοί", "translation": "zero degrees"},
+                        {"collocation": "από μηδέν", "translation": "from zero / from scratch"}
+                    ]
+                },
+                {
+                    "id": "v-nd-002",
+                    "item": "ένας / μία / ένα",
+                    "meaning": "one (masculine / feminine / neuter)",
+                    "examples": [
+                        {"example": "Έχω ένα αδελφό.", "translation": "I have one brother."},
+                        {"example": "Θέλω μία μπύρα, παρακαλώ.", "translation": "I want one beer, please."}
+                    ],
+                    "collocations": [
+                        {"collocation": "ένας φίλος", "translation": "one (male) friend"},
+                        {"collocation": "μία φίλη", "translation": "one (female) friend"}
+                    ]
+                },
+                {
+                    "id": "v-nd-003",
+                    "item": "δύο",
+                    "meaning": "two",
+                    "examples": [
+                        {"example": "Έχω δύο παιδιά.", "translation": "I have two children."},
+                        {"example": "Δύο καφέδες, παρακαλώ.", "translation": "Two coffees, please."}
+                    ],
+                    "collocations": [
+                        {"collocation": "δύο φορές", "translation": "twice / two times"},
+                        {"collocation": "στις δύο", "translation": "at two o'clock"}
+                    ]
+                },
+                {
+                    "id": "v-nd-004",
+                    "item": "τρεις / τρία",
+                    "meaning": "three (masculine & feminine / neuter)",
+                    "examples": [
+                        {"example": "Έχω τρεις γάτες.", "translation": "I have three cats."},
+                        {"example": "Τρία παιδιά παίζουν στην αυλή.", "translation": "Three children are playing in the yard."}
+                    ],
+                    "collocations": [
+                        {"collocation": "τρεις φορές", "translation": "three times"},
+                        {"collocation": "στις τρεις", "translation": "at three o'clock"}
+                    ]
+                },
+                {
+                    "id": "v-nd-005",
+                    "item": "τέσσερις / τέσσερα",
+                    "meaning": "four (masculine & feminine / neuter)",
+                    "examples": [
+                        {"example": "Ένα τετράγωνο έχει τέσσερις πλευρές.", "translation": "A square has four sides."},
+                        {"example": "Έχουμε τέσσερα δωμάτια στο σπίτι.", "translation": "We have four rooms in the house."}
+                    ],
+                    "collocations": [
+                        {"collocation": "τέσσερις εποχές", "translation": "four seasons"},
+                        {"collocation": "στις τέσσερις", "translation": "at four o'clock"}
+                    ]
+                },
+                {
+                    "id": "v-nd-006",
+                    "item": "πέντε",
+                    "meaning": "five",
+                    "examples": [
+                        {"example": "Το χέρι έχει πέντε δάχτυλα.", "translation": "The hand has five fingers."},
+                        {"example": "Στις πέντε το απόγευμα τελειώνω τη δουλειά.", "translation": "At five in the afternoon I finish work."}
+                    ],
+                    "collocations": [
+                        {"collocation": "πέντε ευρώ", "translation": "five euros"},
+                        {"collocation": "στις πέντε", "translation": "at five o'clock"}
+                    ]
+                },
+                {
+                    "id": "v-nd-007",
+                    "item": "έξι",
+                    "meaning": "six",
+                    "examples": [
+                        {"example": "Ξυπνάω στις έξι το πρωί.", "translation": "I wake up at six in the morning."},
+                        {"example": "Στο πάρκο είδαμε έξι σκύλους.", "translation": "In the park we saw six dogs."}
+                    ],
+                    "collocations": [
+                        {"collocation": "έξι μήνες", "translation": "six months"},
+                        {"collocation": "στις έξι", "translation": "at six o'clock"}
+                    ]
+                },
+                {
+                    "id": "v-nd-008",
+                    "item": "εφτά / επτά",
+                    "meaning": "seven",
+                    "examples": [
+                        {"example": "Η εβδομάδα έχει εφτά μέρες.", "translation": "The week has seven days."},
+                        {"example": "Αγόρασα εφτά εισιτήρια για την παράσταση.", "translation": "I bought seven tickets for the show."}
+                    ],
+                    "collocations": [
+                        {"collocation": "εφτά μέρες", "translation": "seven days"},
+                        {"collocation": "εφτά χρόνια", "translation": "seven years"}
+                    ]
+                },
+                {
+                    "id": "v-nd-009",
+                    "item": "οχτώ / οκτώ",
+                    "meaning": "eight",
+                    "examples": [
+                        {"example": "Έχω οχτώ κάρτες στο πορτοφόλι μου.", "translation": "I have eight cards in my wallet."},
+                        {"example": "Η παράσταση αρχίζει στις οχτώ.", "translation": "The show starts at eight."}
+                    ],
+                    "collocations": [
+                        {"collocation": "στις οχτώ", "translation": "at eight o'clock"},
+                        {"collocation": "οχτώ ώρες", "translation": "eight hours"}
+                    ]
+                },
+                {
+                    "id": "v-nd-010",
+                    "item": "εννέα",
+                    "meaning": "nine",
+                    "examples": [
+                        {"example": "Η μαμά αγόρασε εννέα μήλα.", "translation": "Mom bought nine apples."},
+                        {"example": "Έχω εννέα βιβλία στο ράφι.", "translation": "I have nine books on the shelf."}
+                    ],
+                    "collocations": [
+                        {"collocation": "εννέα χρόνια", "translation": "nine years"},
+                        {"collocation": "στις εννέα", "translation": "at nine o'clock"}
+                    ]
+                },
+                {
+                    "id": "v-nd-011",
+                    "item": "δέκα",
+                    "meaning": "ten",
+                    "examples": [
+                        {"example": "Έχω δέκα βιβλία στο τσαντάκι μου.", "translation": "I have ten books in my bag."},
+                        {"example": "Μετράω από ένα μέχρι δέκα.", "translation": "I count from one to ten."}
+                    ],
+                    "collocations": [
+                        {"collocation": "δέκα λεπτά", "translation": "ten minutes"},
+                        {"collocation": "δέκα ευρώ", "translation": "ten euros"}
+                    ]
+                },
+                {
+                    "id": "v-nd-012",
+                    "item": "ο αριθμός",
+                    "meaning": "number",
+                    "examples": [
+                        {"example": "Ποιος είναι ο αριθμός τηλεφώνου σου;", "translation": "What is your phone number?"},
+                        {"example": "Ο αριθμός του σπιτιού μου είναι δεκαπέντε.", "translation": "My house number is fifteen."}
+                    ],
+                    "collocations": [
+                        {"collocation": "ο αριθμός τηλεφώνου", "translation": "phone number"},
+                        {"collocation": "αριθμός δωματίου", "translation": "room number"}
+                    ]
+                }
+            ],
+            "story": {
+                "sentences": [
+                    {"sentence": "Έχω δέκα βιβλία στο τσαντάκι μου.", "translation": "I have ten books in my bag."},
+                    {"sentence": "Μία φίλη μου αγόρασε εννέα μήλα από την αγορά.", "translation": "A friend of mine bought nine apples from the market."},
+                    {"sentence": "Ο αδελφός μου έχει οχτώ κάρτες στο πορτοφόλι του.", "translation": "My brother has eight cards in his wallet."},
+                    {"sentence": "Μαζί αγοράσαμε εφτά εισιτήρια για την παράσταση.", "translation": "Together we bought seven tickets for the show."},
+                    {"sentence": "Στο πάρκο είδαμε έξι σκύλους να τρέχουν.", "translation": "In the park we saw six dogs running."},
+                    {"sentence": "Κάθε σκύλος έφερε πέντε μπαλάκια.", "translation": "Each dog brought five balls."},
+                    {"sentence": "Στην τάξη ήρθαν τέσσερις νέοι μαθητές σήμερα.", "translation": "Four new students came to class today."},
+                    {"sentence": "Είδα τρεις ταινίες αυτή την εβδομάδα.", "translation": "I watched three movies this week."},
+                    {"sentence": "Ήπια δύο καφέδες το πρωί.", "translation": "I drank two coffees in the morning."},
+                    {"sentence": "Βρήκα ένα νόμισμα στο πάτωμα.", "translation": "I found one coin on the floor."},
+                    {"sentence": "Ο αριθμός του σπιτιού μου είναι δεκαπέντε.", "translation": "My house number is fifteen."},
+                    {"sentence": "Μηδέν λάθη στο διαγώνισμά μου!", "translation": "Zero mistakes on my test!"}
+                ]
+            }
+        },
+        {
+            "items": [
+                {
+                    "id": "v-nd-013",
+                    "item": "η Δευτέρα",
+                    "meaning": "Monday",
+                    "examples": [
+                        {"example": "Τη Δευτέρα πηγαίνω στη δουλειά.", "translation": "On Monday I go to work."},
+                        {"example": "Η εβδομάδα αρχίζει τη Δευτέρα.", "translation": "The week starts on Monday."}
+                    ],
+                    "collocations": [
+                        {"collocation": "κάθε Δευτέρα", "translation": "every Monday"},
+                        {"collocation": "τη Δευτέρα το πρωί", "translation": "Monday morning"}
+                    ]
+                },
+                {
+                    "id": "v-nd-014",
+                    "item": "η Τρίτη",
+                    "meaning": "Tuesday",
+                    "examples": [
+                        {"example": "Την Τρίτη έχω μάθημα ελληνικών.", "translation": "On Tuesday I have Greek class."},
+                        {"example": "Τρίτη και δεκατρία — η ελληνική «κακή» μέρα.", "translation": "Tuesday the 13th — the Greek unlucky day."}
+                    ],
+                    "collocations": [
+                        {"collocation": "κάθε Τρίτη", "translation": "every Tuesday"},
+                        {"collocation": "την Τρίτη το απόγευμα", "translation": "Tuesday afternoon"}
+                    ]
+                },
+                {
+                    "id": "v-nd-015",
+                    "item": "η Τετάρτη",
+                    "meaning": "Wednesday",
+                    "examples": [
+                        {"example": "Την Τετάρτη γυμνάζομαι.", "translation": "On Wednesday I exercise."},
+                        {"example": "Μέση της εβδομάδας είναι η Τετάρτη.", "translation": "The middle of the week is Wednesday."}
+                    ],
+                    "collocations": [
+                        {"collocation": "κάθε Τετάρτη", "translation": "every Wednesday"},
+                        {"collocation": "την Τετάρτη βράδυ", "translation": "Wednesday evening"}
+                    ]
+                },
+                {
+                    "id": "v-nd-016",
+                    "item": "η Πέμπτη",
+                    "meaning": "Thursday",
+                    "examples": [
+                        {"example": "Την Πέμπτη βλέπω τους φίλους μου.", "translation": "On Thursday I see my friends."},
+                        {"example": "Η συνάντηση είναι την Πέμπτη.", "translation": "The meeting is on Thursday."}
+                    ],
+                    "collocations": [
+                        {"collocation": "κάθε Πέμπτη", "translation": "every Thursday"},
+                        {"collocation": "Μεγάλη Πέμπτη", "translation": "Holy Thursday (before Easter)"}
+                    ]
+                },
+                {
+                    "id": "v-nd-017",
+                    "item": "η Παρασκευή",
+                    "meaning": "Friday",
+                    "examples": [
+                        {"example": "Την Παρασκευή βγαίνουμε για φαγητό.", "translation": "On Friday we go out for food."},
+                        {"example": "Χαίρομαι που είναι Παρασκευή!", "translation": "I'm happy it's Friday!"}
+                    ],
+                    "collocations": [
+                        {"collocation": "κάθε Παρασκευή", "translation": "every Friday"},
+                        {"collocation": "Μεγάλη Παρασκευή", "translation": "Good Friday"}
+                    ]
+                },
+                {
+                    "id": "v-nd-018",
+                    "item": "το Σάββατο",
+                    "meaning": "Saturday",
+                    "examples": [
+                        {"example": "Το Σάββατο κάνω ψώνια.", "translation": "On Saturday I do shopping."},
+                        {"example": "Το Σάββατο βλέπω ταινία.", "translation": "On Saturday I watch a movie."}
+                    ],
+                    "collocations": [
+                        {"collocation": "κάθε Σάββατο", "translation": "every Saturday"},
+                        {"collocation": "Σάββατο βράδυ", "translation": "Saturday night"}
+                    ]
+                },
+                {
+                    "id": "v-nd-019",
+                    "item": "η Κυριακή",
+                    "meaning": "Sunday",
+                    "examples": [
+                        {"example": "Την Κυριακή ξεκουράζομαι.", "translation": "On Sunday I rest."},
+                        {"example": "Την Κυριακή τρώμε μαζί σαν οικογένεια.", "translation": "On Sunday we eat together as a family."}
+                    ],
+                    "collocations": [
+                        {"collocation": "κάθε Κυριακή", "translation": "every Sunday"},
+                        {"collocation": "Κυριακή πρωί", "translation": "Sunday morning"}
+                    ]
+                },
+                {
+                    "id": "v-nd-020",
+                    "item": "έντεκα",
+                    "meaning": "eleven",
+                    "examples": [
+                        {"example": "Το κτίριο έχει έντεκα ορόφους.", "translation": "The building has eleven floors."},
+                        {"example": "Μένω ξύπνιος μέχρι τις έντεκα.", "translation": "I stay awake until eleven."}
+                    ],
+                    "collocations": [
+                        {"collocation": "στις έντεκα", "translation": "at eleven o'clock"},
+                        {"collocation": "έντεκα χρόνια", "translation": "eleven years"}
+                    ]
+                },
+                {
+                    "id": "v-nd-021",
+                    "item": "δώδεκα",
+                    "meaning": "twelve",
+                    "examples": [
+                        {"example": "Η μέρα έχει δώδεκα ώρες φως.", "translation": "The day has twelve hours of light."},
+                        {"example": "Ο χρόνος έχει δώδεκα μήνες.", "translation": "The year has twelve months."}
+                    ],
+                    "collocations": [
+                        {"collocation": "δώδεκα μήνες", "translation": "twelve months"},
+                        {"collocation": "στις δώδεκα", "translation": "at twelve o'clock / at noon"}
+                    ]
+                },
+                {
+                    "id": "v-nd-022",
+                    "item": "είκοσι",
+                    "meaning": "twenty",
+                    "examples": [
+                        {"example": "Η τάξη μου έχει είκοσι μαθητές.", "translation": "My class has twenty students."},
+                        {"example": "Είναι είκοσι χρονών.", "translation": "She is twenty years old."}
+                    ],
+                    "collocations": [
+                        {"collocation": "είκοσι λεπτά", "translation": "twenty minutes"},
+                        {"collocation": "είκοσι χρονών", "translation": "twenty years old"}
+                    ]
+                },
+                {
+                    "id": "v-nd-023",
+                    "item": "πενήντα",
+                    "meaning": "fifty",
+                    "examples": [
+                        {"example": "Η γιαγιά μου έζησε πενήντα χρόνια σε αυτό το χωριό.", "translation": "My grandmother lived fifty years in this village."},
+                        {"example": "Αυτό κοστίζει πενήντα ευρώ.", "translation": "This costs fifty euros."}
+                    ],
+                    "collocations": [
+                        {"collocation": "πενήντα ευρώ", "translation": "fifty euros"},
+                        {"collocation": "πενήντα χρόνια", "translation": "fifty years"}
+                    ]
+                },
+                {
+                    "id": "v-nd-024",
+                    "item": "εκατό",
+                    "meaning": "one hundred",
+                    "examples": [
+                        {"example": "Η τιμή ήταν ακριβώς εκατό ευρώ.", "translation": "The price was exactly one hundred euros."},
+                        {"example": "Εκατό άνθρωποι ήρθαν στη συναυλία.", "translation": "One hundred people came to the concert."}
+                    ],
+                    "collocations": [
+                        {"collocation": "εκατό τοις εκατό", "translation": "one hundred percent"},
+                        {"collocation": "εκατό ευρώ", "translation": "one hundred euros"}
+                    ]
+                }
+            ],
+            "story": {
+                "sentences": [
+                    {"sentence": "Τη Δευτέρα πηγαίνω στη δουλειά νωρίς.", "translation": "On Monday I go to work early."},
+                    {"sentence": "Την Τρίτη έχω μάθημα ελληνικών στις οχτώ.", "translation": "On Tuesday I have Greek class at eight."},
+                    {"sentence": "Την Τετάρτη γυμνάζομαι στο σπίτι.", "translation": "On Wednesday I exercise at home."},
+                    {"sentence": "Την Πέμπτη βλέπω τους φίλους μου στο καφενείο.", "translation": "On Thursday I see my friends at the café."},
+                    {"sentence": "Την Παρασκευή βγαίνω για φαγητό.", "translation": "On Friday I go out to eat."},
+                    {"sentence": "Το Σάββατο κάνω τα ψώνια μου για όλη την εβδομάδα.", "translation": "On Saturday I do my shopping for the whole week."},
+                    {"sentence": "Την Κυριακή ξεκουράζομαι και διαβάζω.", "translation": "On Sunday I rest and read."},
+                    {"sentence": "Η τάξη μου έχει είκοσι μαθητές.", "translation": "My class has twenty students."},
+                    {"sentence": "Η γιαγιά μου έζησε πενήντα χρόνια σε αυτό το χωριό.", "translation": "My grandmother lived fifty years in this village."},
+                    {"sentence": "Αυτό το κτίριο έχει έντεκα ορόφους.", "translation": "This building has eleven floors."},
+                    {"sentence": "Σήμερα γιορτάζω τα δώδεκα χρόνια μου στην Ελλάδα.", "translation": "Today I celebrate my twelve years in Greece."},
+                    {"sentence": "Η τιμή ήταν ακριβώς εκατό ευρώ.", "translation": "The price was exactly one hundred euros."}
+                ]
+            }
+        },
+        {
+            "items": [
+                {
+                    "id": "v-nd-025",
+                    "item": "Ιανουάριος",
+                    "meaning": "January",
+                    "examples": [
+                        {"example": "Τον Ιανουάριο κάνει πολύ κρύο.", "translation": "In January it is very cold."},
+                        {"example": "Η Πρωτοχρονιά είναι η πρώτη Ιανουαρίου.", "translation": "New Year's Day is January 1st."}
+                    ],
+                    "collocations": [
+                        {"collocation": "τον Ιανουάριο", "translation": "in January"},
+                        {"collocation": "αρχές Ιανουαρίου", "translation": "beginning of January"}
+                    ]
+                },
+                {
+                    "id": "v-nd-026",
+                    "item": "Φεβρουάριος",
+                    "meaning": "February",
+                    "examples": [
+                        {"example": "Ο Φεβρουάριος έχει είκοσι οχτώ μέρες.", "translation": "February has twenty-eight days."},
+                        {"example": "Τον Φεβρουάριο γιορτάζουμε τον Άγιο Βαλεντίνο.", "translation": "In February we celebrate Valentine's Day."}
+                    ],
+                    "collocations": [
+                        {"collocation": "τον Φεβρουάριο", "translation": "in February"},
+                        {"collocation": "δίσεκτο έτος", "translation": "leap year (29 days in February)"}
+                    ]
+                },
+                {
+                    "id": "v-nd-027",
+                    "item": "Μάρτιος",
+                    "meaning": "March",
+                    "examples": [
+                        {"example": "Τον Μάρτιο ανθίζουν τα λουλούδια.", "translation": "In March flowers bloom."},
+                        {"example": "Η Άνοιξη αρχίζει τον Μάρτιο.", "translation": "Spring begins in March."}
+                    ],
+                    "collocations": [
+                        {"collocation": "τον Μάρτιο", "translation": "in March"},
+                        {"collocation": "25 Μαρτίου", "translation": "March 25th (Greek Independence Day)"}
+                    ]
+                },
+                {
+                    "id": "v-nd-028",
+                    "item": "Απρίλιος",
+                    "meaning": "April",
+                    "examples": [
+                        {"example": "Τον Απρίλιο γιορτάζουμε συχνά το Πάσχα.", "translation": "In April we often celebrate Easter."},
+                        {"example": "Η Πρωταπριλιά είναι την πρώτη Απριλίου.", "translation": "April Fool's Day is on April 1st."}
+                    ],
+                    "collocations": [
+                        {"collocation": "τον Απρίλιο", "translation": "in April"},
+                        {"collocation": "Πρωταπριλιά", "translation": "April Fool's Day"}
+                    ]
+                },
+                {
+                    "id": "v-nd-029",
+                    "item": "Μάιος",
+                    "meaning": "May",
+                    "examples": [
+                        {"example": "Τον Μάιο ο καιρός είναι πολύ ωραίος.", "translation": "In May the weather is very nice."},
+                        {"example": "Η Πρωτομαγιά είναι την πρώτη Μαΐου.", "translation": "May Day is on May 1st."}
+                    ],
+                    "collocations": [
+                        {"collocation": "τον Μάιο", "translation": "in May"},
+                        {"collocation": "Πρωτομαγιά", "translation": "May Day / Labor Day"}
+                    ]
+                },
+                {
+                    "id": "v-nd-030",
+                    "item": "Ιούνιος",
+                    "meaning": "June",
+                    "examples": [
+                        {"example": "Τον Ιούνιο τελειώνει το σχολείο.", "translation": "In June school ends."},
+                        {"example": "Το καλοκαίρι αρχίζει τον Ιούνιο.", "translation": "Summer begins in June."}
+                    ],
+                    "collocations": [
+                        {"collocation": "τον Ιούνιο", "translation": "in June"},
+                        {"collocation": "αρχές Ιουνίου", "translation": "beginning of June"}
+                    ]
+                },
+                {
+                    "id": "v-nd-031",
+                    "item": "Ιούλιος",
+                    "meaning": "July",
+                    "examples": [
+                        {"example": "Τον Ιούλιο πηγαίνουμε διακοπές.", "translation": "In July we go on vacation."},
+                        {"example": "Ο Ιούλιος είναι ο πιο ζεστός μήνας.", "translation": "July is the hottest month."}
+                    ],
+                    "collocations": [
+                        {"collocation": "τον Ιούλιο", "translation": "in July"},
+                        {"collocation": "μέσα Ιουλίου", "translation": "mid-July"}
+                    ]
+                },
+                {
+                    "id": "v-nd-032",
+                    "item": "Αύγουστος",
+                    "meaning": "August",
+                    "examples": [
+                        {"example": "Τον Αύγουστο πηγαίνουμε στη θάλασσα.", "translation": "In August we go to the sea."},
+                        {"example": "Η 15η Αυγούστου είναι μεγάλη γιορτή στην Ελλάδα.", "translation": "August 15th is a big holiday in Greece."}
+                    ],
+                    "collocations": [
+                        {"collocation": "τον Αύγουστο", "translation": "in August"},
+                        {"collocation": "Δεκαπενταύγουστος", "translation": "August 15th (Dormition of the Virgin Mary)"}
+                    ]
+                },
+                {
+                    "id": "v-nd-033",
+                    "item": "Σεπτέμβριος",
+                    "meaning": "September",
+                    "examples": [
+                        {"example": "Τον Σεπτέμβριο αρχίζει πάλι το σχολείο.", "translation": "In September school starts again."},
+                        {"example": "Το φθινόπωρο αρχίζει τον Σεπτέμβριο.", "translation": "Autumn begins in September."}
+                    ],
+                    "collocations": [
+                        {"collocation": "τον Σεπτέμβριο", "translation": "in September"},
+                        {"collocation": "αρχή Σεπτεμβρίου", "translation": "beginning of September"}
+                    ]
+                },
+                {
+                    "id": "v-nd-034",
+                    "item": "Οκτώβριος",
+                    "meaning": "October",
+                    "examples": [
+                        {"example": "Τον Οκτώβριο πέφτουν τα φύλλα.", "translation": "In October leaves fall."},
+                        {"example": "Η 28η Οκτωβρίου είναι εθνική γιορτή.", "translation": "October 28th is a national holiday."}
+                    ],
+                    "collocations": [
+                        {"collocation": "τον Οκτώβριο", "translation": "in October"},
+                        {"collocation": "28η Οκτωβρίου", "translation": "October 28th (Ohi Day)"}
+                    ]
+                },
+                {
+                    "id": "v-nd-035",
+                    "item": "Νοέμβριος",
+                    "meaning": "November",
+                    "examples": [
+                        {"example": "Τον Νοέμβριο βρέχει πολύ.", "translation": "In November it rains a lot."},
+                        {"example": "Ο Νοέμβριος είναι ο πιο συννεφιασμένος μήνας.", "translation": "November is the cloudiest month."}
+                    ],
+                    "collocations": [
+                        {"collocation": "τον Νοέμβριο", "translation": "in November"},
+                        {"collocation": "τέλη Νοεμβρίου", "translation": "end of November"}
+                    ]
+                },
+                {
+                    "id": "v-nd-036",
+                    "item": "Δεκέμβριος",
+                    "meaning": "December",
+                    "examples": [
+                        {"example": "Τα Χριστούγεννα είναι τον Δεκέμβριο.", "translation": "Christmas is in December."},
+                        {"example": "Ο Δεκέμβριος είναι ο τελευταίος μήνας του χρόνου.", "translation": "December is the last month of the year."}
+                    ],
+                    "collocations": [
+                        {"collocation": "τον Δεκέμβριο", "translation": "in December"},
+                        {"collocation": "25 Δεκεμβρίου", "translation": "December 25th (Christmas)"}
+                    ]
+                },
+                {
+                    "id": "v-nd-037",
+                    "item": "η ημερομηνία",
+                    "meaning": "date",
+                    "examples": [
+                        {"example": "Ποια είναι η σημερινή ημερομηνία;", "translation": "What is today's date?"},
+                        {"example": "Η ημερομηνία γέννησής μου είναι η πέμπτη Μαΐου.", "translation": "My date of birth is May 5th."}
+                    ],
+                    "collocations": [
+                        {"collocation": "ημερομηνία γέννησης", "translation": "date of birth"},
+                        {"collocation": "ημερομηνία λήξης", "translation": "expiry date"}
+                    ]
+                },
+                {
+                    "id": "v-nd-038",
+                    "item": "πρώτος / πρώτη / πρώτο",
+                    "meaning": "first (ordinal number)",
+                    "examples": [
+                        {"example": "Ο Ιανουάριος είναι ο πρώτος μήνας του χρόνου.", "translation": "January is the first month of the year."},
+                        {"example": "Ο πρώτος μαθητής πήρε βραβείο.", "translation": "The first student received a prize."}
+                    ],
+                    "collocations": [
+                        {"collocation": "η πρώτη φορά", "translation": "the first time"},
+                        {"collocation": "πρώτη Ιανουαρίου", "translation": "January 1st"}
+                    ]
+                },
+                {
+                    "id": "v-nd-039",
+                    "item": "σήμερα / αύριο / χθες",
+                    "meaning": "today / tomorrow / yesterday",
+                    "examples": [
+                        {"example": "Σήμερα είναι Δευτέρα.", "translation": "Today is Monday."},
+                        {"example": "Χθες ήταν Κυριακή και αύριο θα είναι Τρίτη.", "translation": "Yesterday was Sunday and tomorrow will be Tuesday."}
+                    ],
+                    "collocations": [
+                        {"collocation": "σήμερα το πρωί", "translation": "this morning"},
+                        {"collocation": "αύριο το βράδυ", "translation": "tomorrow evening"}
+                    ]
+                }
+            ],
+            "story": {
+                "sentences": [
+                    {"sentence": "Σήμερα είναι η πρώτη Ιανουαρίου, Πρωτοχρονιά!", "translation": "Today is January 1st, New Year's Day!"},
+                    {"sentence": "Χθες ήταν η τελευταία μέρα του Δεκεμβρίου.", "translation": "Yesterday was the last day of December."},
+                    {"sentence": "Αύριο αρχίζει ο νέος χρόνος με νέους στόχους.", "translation": "Tomorrow begins the new year with new goals."},
+                    {"sentence": "Η ημερομηνία γέννησής μου είναι η πέμπτη Μαΐου.", "translation": "My date of birth is May 5th."},
+                    {"sentence": "Ο Φεβρουάριος έχει είκοσι οχτώ ή είκοσι εννέα μέρες.", "translation": "February has twenty-eight or twenty-nine days."},
+                    {"sentence": "Τον Μάρτιο ανθίζουν τα λουλούδια παντού.", "translation": "In March flowers bloom everywhere."},
+                    {"sentence": "Τον Απρίλιο γιορτάζουμε το Πάσχα.", "translation": "In April we celebrate Easter."},
+                    {"sentence": "Τον Ιούνιο τελειώνει το σχολείο.", "translation": "In June school ends."},
+                    {"sentence": "Τον Ιούλιο και τον Αύγουστο πηγαίνουμε διακοπές στη θάλασσα.", "translation": "In July and August we go on vacation by the sea."},
+                    {"sentence": "Τον Σεπτέμβριο αρχίζει πάλι το σχολείο.", "translation": "In September school starts again."},
+                    {"sentence": "Τον Οκτώβριο και τον Νοέμβριο βρέχει πολύ.", "translation": "In October and November it rains a lot."},
+                    {"sentence": "Τα Χριστούγεννα γιορτάζουμε τον Δεκέμβριο.", "translation": "We celebrate Christmas in December."}
+                ]
+            }
+        }
+    ]
+}

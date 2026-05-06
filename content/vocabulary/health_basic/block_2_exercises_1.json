@@ -1,0 +1,82 @@
+{
+    "exercises": [
+        {
+            "id": "e2hb1-001",
+            "type": "translate",
+            "header": "Maria has been feeling very sick since yesterday.",
+            "answer": "Η Μαρία αισθάνεται πολύ άρρωστη από χθες."
+        },
+        {
+            "id": "e2hb1-002",
+            "type": "translate",
+            "header": "How do you feel today?",
+            "answer": "Πώς αισθάνεσαι σήμερα;"
+        },
+        {
+            "id": "e2hb1-003",
+            "type": "translate",
+            "header": "She is tired and has a strong headache.",
+            "answer": "Είναι κουρασμένη και έχει δυνατό πονοκέφαλο."
+        },
+        {
+            "id": "e2hb1-004",
+            "type": "translate",
+            "header": "I have a terrible headache today.",
+            "answer": "Έχω φοβερό πονοκέφαλο σήμερα."
+        },
+        {
+            "id": "e2hb1-005",
+            "type": "translate",
+            "header": "She also has a sore throat and feels dizzy.",
+            "answer": "Έχει επίσης πονόλαιμο και ζαλίζεται."
+        },
+        {
+            "id": "e2hb1-006",
+            "type": "translate",
+            "header": "I feel dizzy when I stand up quickly.",
+            "answer": "Ζαλίζομαι όταν σηκώνομαι γρήγορα."
+        },
+        {
+            "id": "e2hb1-007",
+            "type": "translate",
+            "header": "She has nausea and cannot eat anything.",
+            "answer": "Έχει ναυτία και δεν μπορεί να φάει τίποτα."
+        },
+        {
+            "id": "e2hb1-008",
+            "type": "translate",
+            "header": "The nausea started yesterday evening.",
+            "answer": "Η ναυτία ξεκίνησε χθες το βράδυ."
+        },
+        {
+            "id": "e2hb1-009",
+            "type": "translate",
+            "header": "The doctor takes her temperature.",
+            "answer": "Ο γιατρός μετράει τη θερμοκρασία της."
+        },
+        {
+            "id": "e2hb1-010",
+            "type": "translate",
+            "header": "You have a high temperature — 38.5 degrees.",
+            "answer": "Έχετε υψηλή θερμοκρασία — 38.5 βαθμοί."
+        },
+        {
+            "id": "e2hb1-011",
+            "type": "translate",
+            "header": "He does a blood test.",
+            "answer": "Κάνει μια εξέταση αίματος."
+        },
+        {
+            "id": "e2hb1-012",
+            "type": "translate",
+            "header": "You have the flu, says the doctor.",
+            "answer": "«Έχετε γρίπη», λέει ο γιατρός."
+        },
+        {
+            "id": "e2hb1-013",
+            "type": "translate",
+            "header": "He gives Maria an injection to relieve her pain.",
+            "answer": "Κάνει στη Μαρία μια ένεση για να της ανακουφίσει τον πόνο."
+        }
+    ]
+}

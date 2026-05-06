@@ -1,0 +1,82 @@
+{
+    "exercises": [
+        {
+            "id": "e3f3-001",
+            "type": "translate",
+            "header": "I preheat the oven to 180 degrees.",
+            "answer": "Ζεσταίνω τον φούρνο στους 180 βαθμούς."
+        },
+        {
+            "id": "e3f3-002",
+            "type": "translate",
+            "header": "I put the cake in the oven.",
+            "answer": "Βάζω το κέικ στον φούρνο."
+        },
+        {
+            "id": "e3f3-003",
+            "type": "translate",
+            "header": "I heat the pan before adding the oil.",
+            "answer": "Ζεσταίνω το τηγάνι πριν βάλω το λάδι."
+        },
+        {
+            "id": "e3f3-004",
+            "type": "translate",
+            "header": "I fry eggs in a non-stick pan.",
+            "answer": "Τηγανίζω αυγά σε αντικολλητικό τηγάνι."
+        },
+        {
+            "id": "e3f3-005",
+            "type": "translate",
+            "header": "I put water in the pot and bring it to boil.",
+            "answer": "Βάζω νερό στην κατσαρόλα και το βάζω να βράσει."
+        },
+        {
+            "id": "e3f3-006",
+            "type": "translate",
+            "header": "I cook the soup in a large pot.",
+            "answer": "Μαγειρεύω τη σούπα σε μεγάλη κατσαρόλα."
+        },
+        {
+            "id": "e3f3-007",
+            "type": "translate",
+            "header": "I knead the dough for ten minutes.",
+            "answer": "Ζυμώνω τη ζύμη για δέκα λεπτά."
+        },
+        {
+            "id": "e3f3-008",
+            "type": "translate",
+            "header": "The dough needs to rest for one hour.",
+            "answer": "Η ζύμη πρέπει να ξεκουραστεί μια ώρα."
+        },
+        {
+            "id": "e3f3-009",
+            "type": "translate",
+            "header": "I prepare the bread dough early.",
+            "answer": "Ετοιμάζω τη ζύμη για το ψωμί από νωρίς."
+        },
+        {
+            "id": "e3f3-010",
+            "type": "translate",
+            "header": "I knead well and let the dough rise.",
+            "answer": "Ζυμώνω καλά και αφήνω τη ζύμη να φουσκώσει."
+        },
+        {
+            "id": "e3f3-011",
+            "type": "translate",
+            "header": "In the end, the food is ready and the kitchen smells wonderful!",
+            "answer": "Στο τέλος, το φαγητό είναι έτοιμο και η κουζίνα μυρίζει υπέροχα!"
+        },
+        {
+            "id": "e3f3-012",
+            "type": "translate",
+            "header": "I preheat the oven to 180 degrees.",
+            "answer": "Ζεσταίνω τον φούρνο στους 180 βαθμούς."
+        },
+        {
+            "id": "e3f3-013",
+            "type": "translate",
+            "header": "I cook the soup in a large pot.",
+            "answer": "Μαγειρεύω τη σούπα σε μεγάλη κατσαρόλα."
+        }
+    ]
+}

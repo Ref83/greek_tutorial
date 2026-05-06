@@ -1,0 +1,82 @@
+{
+    "exercises": [
+        {
+            "id": "e3hb1-001",
+            "type": "translate",
+            "header": "Nikos has a great fear of doctors.",
+            "answer": "Ο Νίκος έχει μεγάλο φόβο από τους γιατρούς."
+        },
+        {
+            "id": "e3hb1-002",
+            "type": "translate",
+            "header": "Fear is a natural feeling.",
+            "answer": "Ο φόβος είναι ένα φυσικό συναίσθημα."
+        },
+        {
+            "id": "e3hb1-003",
+            "type": "translate",
+            "header": "I am afraid of the dark.",
+            "answer": "Φοβάμαι το σκοτάδι."
+        },
+        {
+            "id": "e3hb1-004",
+            "type": "translate",
+            "header": "Are you afraid of the results?",
+            "answer": "Φοβάσαι τα αποτελέσματα;"
+        },
+        {
+            "id": "e3hb1-005",
+            "type": "translate",
+            "header": "Every time he goes to the clinic, he gets very anxious.",
+            "answer": "Κάθε φορά που πηγαίνει στο ιατρείο, αγχώνεται πολύ."
+        },
+        {
+            "id": "e3hb1-006",
+            "type": "translate",
+            "header": "She gets stressed before every examination.",
+            "answer": "Αγχώνεται πριν από κάθε εξέταση."
+        },
+        {
+            "id": "e3hb1-007",
+            "type": "translate",
+            "header": "Anxiety is not good for your health.",
+            "answer": "Το άγχος δεν είναι καλό για την υγεία σου."
+        },
+        {
+            "id": "e3hb1-008",
+            "type": "translate",
+            "header": "He worries about the examination and the results.",
+            "answer": "Ανησυχεί για την εξέταση και τα αποτελέσματα."
+        },
+        {
+            "id": "e3hb1-009",
+            "type": "translate",
+            "header": "I worry about my father's health.",
+            "answer": "Ανησυχώ για την υγεία του πατέρα μου."
+        },
+        {
+            "id": "e3hb1-010",
+            "type": "translate",
+            "header": "His concern is great.",
+            "answer": "Η ανησυχία του είναι μεγάλη."
+        },
+        {
+            "id": "e3hb1-011",
+            "type": "translate",
+            "header": "The doctor understands her worry.",
+            "answer": "Ο γιατρός καταλαβαίνει την ανησυχία της."
+        },
+        {
+            "id": "e3hb1-012",
+            "type": "translate",
+            "header": "'Try to stay calm,' says the doctor with a calm voice.",
+            "answer": "«Προσπαθήστε να είστε ήρεμος», λέει ο γιατρός με ήρεμη φωνή."
+        },
+        {
+            "id": "e3hb1-013",
+            "type": "translate",
+            "header": "She has a calm personality.",
+            "answer": "Έχει ήρεμη προσωπικότητα."
+        }
+    ]
+}

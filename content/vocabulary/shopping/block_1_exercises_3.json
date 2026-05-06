@@ -1,0 +1,76 @@
+{
+    "exercises": [
+        {
+            "id": "e1sh3-001",
+            "type": "translate",
+            "header": "Every morning I go to the bakery.",
+            "answer": "Κάθε πρωί πηγαίνω στον φούρνο."
+        },
+        {
+            "id": "e1sh3-002",
+            "type": "translate",
+            "header": "I buy a fresh loaf of bread.",
+            "answer": "Αγοράζω μια φρέσκια φραντζόλα."
+        },
+        {
+            "id": "e1sh3-003",
+            "type": "translate",
+            "header": "I also take two bread rolls for the children.",
+            "answer": "Παίρνω και δύο ψωμάκια για τα παιδιά."
+        },
+        {
+            "id": "e1sh3-004",
+            "type": "translate",
+            "header": "Today there are fresh sesame rings.",
+            "answer": "Σήμερα υπάρχουν φρέσκα κουλούρια."
+        },
+        {
+            "id": "e1sh3-005",
+            "type": "translate",
+            "header": "I buy a sesame ring for my coffee.",
+            "answer": "Αγοράζω ένα κουλούρι για τον καφέ μου."
+        },
+        {
+            "id": "e1sh3-006",
+            "type": "translate",
+            "header": "The bakery also has baguettes.",
+            "answer": "Ο φούρνος έχει και μπαγκέτ."
+        },
+        {
+            "id": "e1sh3-007",
+            "type": "translate",
+            "header": "I take a crispy baguette.",
+            "answer": "Παίρνω ένα τραγανό μπαγκέτ."
+        },
+        {
+            "id": "e1sh3-008",
+            "type": "translate",
+            "header": "I eat a pita with cheese.",
+            "answer": "Τρώω μια πίτα με τυρί."
+        },
+        {
+            "id": "e1sh3-009",
+            "type": "translate",
+            "header": "I cut the bread into slices.",
+            "answer": "Κόβω το ψωμί σε φέτες."
+        },
+        {
+            "id": "e1sh3-010",
+            "type": "translate",
+            "header": "I prefer whole grain bread because it is healthy.",
+            "answer": "Προτιμώ το ψωμί ολικής άλεσης γιατί είναι υγιεινό."
+        },
+        {
+            "id": "e1sh3-011",
+            "type": "translate",
+            "header": "I also buy wheat bread.",
+            "answer": "Αγοράζω επίσης σταρένιο ψωμί."
+        },
+        {
+            "id": "e1sh3-012",
+            "type": "translate",
+            "header": "I make toast for breakfast.",
+            "answer": "Κάνω τοστ για πρωινό."
+        }
+    ]
+}

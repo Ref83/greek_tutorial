@@ -1,0 +1,17 @@
+{
+  "exercises": [
+    {"id": "e-home-b2-001", "type": "translate", "header": "The kitchen is small but functional.", "answer": "Η κουζίνα είναι μικρή αλλά λειτουργική."},
+    {"id": "e-home-b2-002", "type": "translate", "header": "I cook lunch in the kitchen every day.", "answer": "Μαγειρεύω μεσημεριανό στην κουζίνα κάθε μέρα."},
+    {"id": "e-home-b2-003", "type": "translate", "header": "The living room is large and bright.", "answer": "Το σαλόνι είναι μεγάλο και φωτεινό."},
+    {"id": "e-home-b2-004", "type": "translate", "header": "We watch television in the living room.", "answer": "Βλέπουμε τηλεόραση στο σαλόνι."},
+    {"id": "e-home-b2-005", "type": "translate", "header": "The dining room has a big table.", "answer": "Η τραπεζαρία έχει ένα μεγάλο τραπέζι."},
+    {"id": "e-home-b2-006", "type": "translate", "header": "We have dinner together in the dining room.", "answer": "Τρώμε βραδινό μαζί στην τραπεζαρία."},
+    {"id": "e-home-b2-007", "type": "translate", "header": "My bedroom is on the second floor.", "answer": "Η κρεβατοκάμαρά μου είναι στον δεύτερο όροφο."},
+    {"id": "e-home-b2-008", "type": "translate", "header": "I sleep eight hours in my bedroom.", "answer": "Κοιμάμαι οκτώ ώρες στην κρεβατοκάμαρά μου."},
+    {"id": "e-home-b2-009", "type": "translate", "header": "The bathroom has a bathtub and a shower.", "answer": "Το μπάνιο έχει μπανιέρα και ντους."},
+    {"id": "e-home-b2-010", "type": "translate", "header": "I take a shower every morning in the bathroom.", "answer": "Κάνω ντους κάθε πρωί στο μπάνιο."},
+    {"id": "e-home-b2-011", "type": "translate", "header": "The toilet is next to the bathroom.", "answer": "Η τουαλέτα είναι δίπλα στο μπάνιο."},
+    {"id": "e-home-b2-012", "type": "translate", "header": "Where is the toilet, please?", "answer": "Πού είναι η τουαλέτα, παρακαλώ;"},
+    {"id": "e-home-b2-013", "type": "translate", "header": "I work from home in my office.", "answer": "Εργάζομαι από το σπίτι στο γραφείο μου."}
+  ]
+}

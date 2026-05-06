@@ -1,0 +1,82 @@
+{
+    "exercises": [
+        {
+            "id": "e1sh1-001",
+            "type": "translate",
+            "header": "I buy bread from the bakery.",
+            "answer": "Αγοράζω ψωμί από τον φούρνο."
+        },
+        {
+            "id": "e1sh1-002",
+            "type": "translate",
+            "header": "I want fresh bread.",
+            "answer": "Θέλω φρέσκο ψωμί."
+        },
+        {
+            "id": "e1sh1-003",
+            "type": "translate",
+            "header": "I buy a loaf of bread.",
+            "answer": "Αγοράζω μια φραντζόλα ψωμί."
+        },
+        {
+            "id": "e1sh1-004",
+            "type": "translate",
+            "header": "I cut the loaf into slices.",
+            "answer": "Κόβω τη φραντζόλα σε φέτες."
+        },
+        {
+            "id": "e1sh1-005",
+            "type": "translate",
+            "header": "I take two bread rolls for lunch.",
+            "answer": "Παίρνω δύο ψωμάκια για το γεύμα."
+        },
+        {
+            "id": "e1sh1-006",
+            "type": "translate",
+            "header": "The bread rolls are warm.",
+            "answer": "Τα ψωμάκια είναι ζεστά."
+        },
+        {
+            "id": "e1sh1-007",
+            "type": "translate",
+            "header": "I eat a sesame ring with coffee.",
+            "answer": "Τρώω ένα κουλούρι με καφέ."
+        },
+        {
+            "id": "e1sh1-008",
+            "type": "translate",
+            "header": "Sesame rings are a typical Greek breakfast.",
+            "answer": "Τα κουλούρια είναι τυπικό ελληνικό πρωινό."
+        },
+        {
+            "id": "e1sh1-009",
+            "type": "translate",
+            "header": "I want a pita with gyro.",
+            "answer": "Θέλω μια πίτα με γύρο."
+        },
+        {
+            "id": "e1sh1-010",
+            "type": "translate",
+            "header": "The pita is warm.",
+            "answer": "Η πίτα είναι ζεστή."
+        },
+        {
+            "id": "e1sh1-011",
+            "type": "translate",
+            "header": "I buy a fresh baguette.",
+            "answer": "Αγοράζω ένα φρέσκο μπαγκέτ."
+        },
+        {
+            "id": "e1sh1-012",
+            "type": "translate",
+            "header": "The baguette is crispy.",
+            "answer": "Το μπαγκέτ είναι τραγανό."
+        },
+        {
+            "id": "e1sh1-013",
+            "type": "translate",
+            "header": "I make toast for breakfast.",
+            "answer": "Κάνω τοστ για πρωινό."
+        }
+    ]
+}

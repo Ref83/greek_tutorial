@@ -1,0 +1,17 @@
+{
+    "exercises": [
+        {"id": "e-nd-b3-014", "type": "translate", "header": "In July we go on vacation.", "answer": "Τον Ιούλιο πηγαίνουμε διακοπές."},
+        {"id": "e-nd-b3-015", "type": "translate", "header": "July is the hottest month.", "answer": "Ο Ιούλιος είναι ο πιο ζεστός μήνας."},
+        {"id": "e-nd-b3-016", "type": "translate", "header": "In August we go to the sea.", "answer": "Τον Αύγουστο πηγαίνουμε στη θάλασσα."},
+        {"id": "e-nd-b3-017", "type": "translate", "header": "August 15th is a big holiday in Greece.", "answer": "Η 15η Αυγούστου είναι μεγάλη γιορτή στην Ελλάδα."},
+        {"id": "e-nd-b3-018", "type": "translate", "header": "In September school starts again.", "answer": "Τον Σεπτέμβριο αρχίζει πάλι το σχολείο."},
+        {"id": "e-nd-b3-019", "type": "translate", "header": "Autumn begins in September.", "answer": "Το φθινόπωρο αρχίζει τον Σεπτέμβριο."},
+        {"id": "e-nd-b3-020", "type": "translate", "header": "In October leaves fall.", "answer": "Τον Οκτώβριο πέφτουν τα φύλλα."},
+        {"id": "e-nd-b3-021", "type": "translate", "header": "October 28th is a national holiday.", "answer": "Η 28η Οκτωβρίου είναι εθνική γιορτή."},
+        {"id": "e-nd-b3-022", "type": "translate", "header": "In November it rains a lot.", "answer": "Τον Νοέμβριο βρέχει πολύ."},
+        {"id": "e-nd-b3-023", "type": "translate", "header": "Christmas is in December.", "answer": "Τα Χριστούγεννα είναι τον Δεκέμβριο."},
+        {"id": "e-nd-b3-024", "type": "translate", "header": "December is the last month of the year.", "answer": "Ο Δεκέμβριος είναι ο τελευταίος μήνας του χρόνου."},
+        {"id": "e-nd-b3-025", "type": "translate", "header": "What is today's date?", "answer": "Ποια είναι η σημερινή ημερομηνία;"},
+        {"id": "e-nd-b3-026", "type": "translate", "header": "My date of birth is May 5th.", "answer": "Η ημερομηνία γέννησής μου είναι η πέμπτη Μαΐου."}
+    ]
+}

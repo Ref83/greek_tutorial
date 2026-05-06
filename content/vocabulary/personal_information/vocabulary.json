@@ -3,48 +3,302 @@
         {
             "items": [
                 {
-                    "id": "v-pi-001",
+                    "id": "v1-pi-001",
                     "item": "το όνομα",
                     "meaning": "name",
                     "examples": [
                         {
-                            "example": "Με λένε Νίκο.",
-                            "translation": "My name is Nikos."
+                            "example": "Με λένε Ελένη.",
+                            "translation": "My name is Eleni."
                         },
                         {
-                            "example": "Το όνομά μου είναι Μαρία.",
-                            "translation": "My name is Maria."
+                            "example": "Πώς σε λένε;",
+                            "translation": "What is your name?"
                         }
                     ],
                     "collocations": [
                         {
-                            "collocation": "επίθετο",
-                            "translation": "surname"
-                        },
-                        {
                             "collocation": "μικρό όνομα",
                             "translation": "first name"
+                        },
+                        {
+                            "collocation": "κύριο όνομα",
+                            "translation": "given name"
                         }
                     ]
                 },
                 {
-                    "id": "v-pi-002",
-                    "item": "κατάγομαι",
-                    "meaning": "to come from / to originate from",
+                    "id": "v1-pi-002",
+                    "item": "το επίθετο",
+                    "meaning": "surname / last name",
                     "examples": [
                         {
-                            "example": "Κατάγομαι από την Ελλάδα.",
-                            "translation": "I come from Greece."
+                            "example": "Το επίθετό μου είναι Παπαδοπούλου.",
+                            "translation": "My surname is Papadopoulou."
                         },
                         {
-                            "example": "Από πού κατάγεσαι;",
-                            "translation": "Where do you come from?"
+                            "example": "Ποιο είναι το επίθετό σου;",
+                            "translation": "What is your surname?"
                         }
                     ],
                     "collocations": [
                         {
-                            "collocation": "τόπος καταγωγής",
-                            "translation": "place of origin"
+                            "collocation": "μικρό και επίθετο",
+                            "translation": "first name and surname"
+                        },
+                        {
+                            "collocation": "πατρικό επίθετο",
+                            "translation": "maiden name"
+                        }
+                    ]
+                },
+                {
+                    "id": "v1-pi-003",
+                    "item": "η ηλικία",
+                    "meaning": "age",
+                    "examples": [
+                        {
+                            "example": "Είμαι τριάντα χρονών.",
+                            "translation": "I am thirty years old."
+                        },
+                        {
+                            "example": "Πόσο χρονών είσαι;",
+                            "translation": "How old are you?"
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "μέση ηλικία",
+                            "translation": "middle age"
+                        },
+                        {
+                            "collocation": "μεγάλη ηλικία",
+                            "translation": "old age"
+                        }
+                    ]
+                },
+                {
+                    "id": "v1-pi-004",
+                    "item": "η εθνικότητα",
+                    "meaning": "nationality",
+                    "examples": [
+                        {
+                            "example": "Η εθνικότητά μου είναι ελληνική.",
+                            "translation": "My nationality is Greek."
+                        },
+                        {
+                            "example": "Ποια είναι η εθνικότητά σου;",
+                            "translation": "What is your nationality?"
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "διπλή εθνικότητα",
+                            "translation": "dual nationality"
+                        },
+                        {
+                            "collocation": "ελληνική εθνικότητα",
+                            "translation": "Greek nationality"
+                        }
+                    ]
+                },
+                {
+                    "id": "v1-pi-005",
+                    "item": "η χώρα",
+                    "meaning": "country",
+                    "examples": [
+                        {
+                            "example": "Η χώρα μου είναι η Ελλάδα.",
+                            "translation": "My country is Greece."
+                        },
+                        {
+                            "example": "Από ποια χώρα είσαι;",
+                            "translation": "From which country are you?"
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "χώρα καταγωγής",
+                            "translation": "country of origin"
+                        },
+                        {
+                            "collocation": "ξένη χώρα",
+                            "translation": "foreign country"
+                        }
+                    ]
+                },
+                {
+                    "id": "v1-pi-006",
+                    "item": "η πόλη",
+                    "meaning": "city",
+                    "examples": [
+                        {
+                            "example": "Μένω σε μια μεγάλη πόλη.",
+                            "translation": "I live in a big city."
+                        },
+                        {
+                            "example": "Σε ποια πόλη ζεις;",
+                            "translation": "In which city do you live?"
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "μεγάλη πόλη",
+                            "translation": "big city"
+                        },
+                        {
+                            "collocation": "πόλη καταγωγής",
+                            "translation": "hometown"
+                        }
+                    ]
+                },
+                {
+                    "id": "v1-pi-007",
+                    "item": "η διεύθυνση",
+                    "meaning": "address",
+                    "examples": [
+                        {
+                            "example": "Η διεύθυνσή μου είναι Οδός Αθηνάς πέντε.",
+                            "translation": "My address is 5 Athenas Street."
+                        },
+                        {
+                            "example": "Ποια είναι η διεύθυνσή σου;",
+                            "translation": "What is your address?"
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "ηλεκτρονική διεύθυνση",
+                            "translation": "email address"
+                        },
+                        {
+                            "collocation": "ταχυδρομική διεύθυνση",
+                            "translation": "postal address"
+                        }
+                    ]
+                },
+                {
+                    "id": "v1-pi-008",
+                    "item": "το τηλέφωνο",
+                    "meaning": "telephone / phone",
+                    "examples": [
+                        {
+                            "example": "Το τηλέφωνό μου είναι εννέα εννέα ένα δύο τρία.",
+                            "translation": "My phone number is 99123."
+                        },
+                        {
+                            "example": "Μπορείς να μου δώσεις το τηλέφωνό σου;",
+                            "translation": "Can you give me your phone number?"
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "αριθμός τηλεφώνου",
+                            "translation": "phone number"
+                        },
+                        {
+                            "collocation": "κινητό τηλέφωνο",
+                            "translation": "mobile phone"
+                        }
+                    ]
+                },
+                {
+                    "id": "v1-pi-009",
+                    "item": "το email",
+                    "meaning": "email",
+                    "examples": [
+                        {
+                            "example": "Στέλνω email στη δουλειά κάθε μέρα.",
+                            "translation": "I send emails at work every day."
+                        },
+                        {
+                            "example": "Ποιο είναι το email σου;",
+                            "translation": "What is your email?"
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "διεύθυνση email",
+                            "translation": "email address"
+                        },
+                        {
+                            "collocation": "στέλνω email",
+                            "translation": "to send an email"
+                        }
+                    ]
+                },
+                {
+                    "id": "v1-pi-010",
+                    "item": "παντρεμένος / παντρεμένη",
+                    "meaning": "married",
+                    "examples": [
+                        {
+                            "example": "Είμαι παντρεμένη με έναν υπέροχο άνδρα.",
+                            "translation": "I am married to a wonderful man."
+                        },
+                        {
+                            "example": "Είσαι παντρεμένος;",
+                            "translation": "Are you married?"
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "παντρεμένο ζευγάρι",
+                            "translation": "married couple"
+                        },
+                        {
+                            "collocation": "είμαι παντρεμένος",
+                            "translation": "I am married"
+                        }
+                    ]
+                },
+                {
+                    "id": "v1-pi-011",
+                    "item": "ελεύθερος / ελεύθερη",
+                    "meaning": "single / free",
+                    "examples": [
+                        {
+                            "example": "Ο αδελφός μου είναι ελεύθερος.",
+                            "translation": "My brother is single."
+                        },
+                        {
+                            "example": "Είσαι ελεύθερη;",
+                            "translation": "Are you single?"
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "είμαι ελεύθερος",
+                            "translation": "I am single"
+                        },
+                        {
+                            "collocation": "ελεύθερος χρόνος",
+                            "translation": "free time"
+                        }
+                    ]
+                },
+                {
+                    "id": "v1-pi-012",
+                    "item": "γεννιέμαι",
+                    "meaning": "to be born",
+                    "examples": [
+                        {
+                            "example": "Γεννήθηκα στην Αθήνα.",
+                            "translation": "I was born in Athens."
+                        },
+                        {
+                            "example": "Πού γεννήθηκες;",
+                            "translation": "Where were you born?"
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "τόπος γέννησης",
+                            "translation": "place of birth"
+                        },
+                        {
+                            "collocation": "χρονολογία γέννησης",
+                            "translation": "date of birth"
                         }
                     ]
                 }
@@ -52,12 +306,52 @@
             "story": {
                 "sentences": [
                     {
-                        "sentence": "Με λένε Νίκο.",
-                        "translation": "My name is Nikos."
+                        "sentence": "Με λένε Ελένη.",
+                        "translation": "My name is Eleni."
                     },
                     {
-                        "sentence": "Το όνομά μου είναι Μαρία.",
-                        "translation": "My name is Maria."
+                        "sentence": "Το επίθετό μου είναι Παπαδοπούλου.",
+                        "translation": "My surname is Papadopoulou."
+                    },
+                    {
+                        "sentence": "Είμαι τριάντα χρονών.",
+                        "translation": "I am thirty years old."
+                    },
+                    {
+                        "sentence": "Η εθνικότητά μου είναι ελληνική.",
+                        "translation": "My nationality is Greek."
+                    },
+                    {
+                        "sentence": "Η χώρα μου είναι η Ελλάδα.",
+                        "translation": "My country is Greece."
+                    },
+                    {
+                        "sentence": "Μένω σε μια μεγάλη πόλη.",
+                        "translation": "I live in a big city."
+                    },
+                    {
+                        "sentence": "Η διεύθυνσή μου είναι Οδός Αθηνάς πέντε.",
+                        "translation": "My address is 5 Athenas Street."
+                    },
+                    {
+                        "sentence": "Το τηλέφωνό μου είναι εννέα εννέα ένα δύο τρία.",
+                        "translation": "My phone number is 99123."
+                    },
+                    {
+                        "sentence": "Στέλνω email στη δουλειά κάθε μέρα.",
+                        "translation": "I send emails at work every day."
+                    },
+                    {
+                        "sentence": "Είμαι παντρεμένη με έναν υπέροχο άνδρα.",
+                        "translation": "I am married to a wonderful man."
+                    },
+                    {
+                        "sentence": "Ο αδελφός μου είναι ελεύθερος.",
+                        "translation": "My brother is single."
+                    },
+                    {
+                        "sentence": "Γεννήθηκα στην Αθήνα.",
+                        "translation": "I was born in Athens."
                     }
                 ]
             }
@@ -65,38 +359,238 @@
         {
             "items": [
                 {
-                    "id": "v1-pi-001",
-                    "item": "το όνομα1",
-                    "meaning": "name1",
+                    "id": "v2-pi-001",
+                    "item": "η οικογένεια",
+                    "meaning": "family",
                     "examples": [
                         {
-                            "example": "Με λένε Νίκο.",
-                            "translation": "My name is Nikos."
+                            "example": "Η οικογένειά μου είναι πολυπληθής.",
+                            "translation": "My family is large."
                         },
                         {
-                            "example": "Το όνομά μου είναι Μαρία.",
-                            "translation": "My name is Maria."
+                            "example": "Αγαπώ πολύ την οικογένειά μου.",
+                            "translation": "I love my family very much."
                         }
                     ],
                     "collocations": [
                         {
-                            "collocation": "επίθετο",
-                            "translation": "surname"
+                            "collocation": "μικρή οικογένεια",
+                            "translation": "small family"
                         },
                         {
-                            "collocation": "μικρό όνομα",
-                            "translation": "first name"
+                            "collocation": "μέλος της οικογένειας",
+                            "translation": "family member"
                         }
                     ]
                 },
                 {
-                    "id": "v1-pi-002",
-                    "item": "κατάγομαι1",
-                    "meaning": "to come from / to originate from1",
+                    "id": "v2-pi-002",
+                    "item": "ο σύζυγος",
+                    "meaning": "husband",
                     "examples": [
                         {
-                            "example": "Κατάγομαι από την Ελλάδα.",
-                            "translation": "I come from Greece."
+                            "example": "Ο σύζυγός μου λέγεται Γιώργης.",
+                            "translation": "My husband's name is Giorgis."
+                        },
+                        {
+                            "example": "Ο σύζυγός μου δουλεύει ως γιατρός.",
+                            "translation": "My husband works as a doctor."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "πρώην σύζυγος",
+                            "translation": "ex-husband"
+                        },
+                        {
+                            "collocation": "ο σύζυγός μου",
+                            "translation": "my husband"
+                        }
+                    ]
+                },
+                {
+                    "id": "v2-pi-003",
+                    "item": "η γυναίκα",
+                    "meaning": "wife / woman",
+                    "examples": [
+                        {
+                            "example": "Η γυναίκα του φίλου μου είναι δασκάλα.",
+                            "translation": "My friend's wife is a teacher."
+                        },
+                        {
+                            "example": "Η γυναίκα μου λέγεται Σοφία.",
+                            "translation": "My wife's name is Sofia."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "η γυναίκα μου",
+                            "translation": "my wife"
+                        },
+                        {
+                            "collocation": "νέα γυναίκα",
+                            "translation": "young woman"
+                        }
+                    ]
+                },
+                {
+                    "id": "v2-pi-004",
+                    "item": "το παιδί / τα παιδιά",
+                    "meaning": "child / children",
+                    "examples": [
+                        {
+                            "example": "Έχουμε τρία παιδιά.",
+                            "translation": "We have three children."
+                        },
+                        {
+                            "example": "Το παιδί μου πηγαίνει στο σχολείο.",
+                            "translation": "My child goes to school."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "μικρό παιδί",
+                            "translation": "small child"
+                        },
+                        {
+                            "collocation": "παιδιά της σχολής",
+                            "translation": "schoolchildren"
+                        }
+                    ]
+                },
+                {
+                    "id": "v2-pi-005",
+                    "item": "ο αδελφός",
+                    "meaning": "brother",
+                    "examples": [
+                        {
+                            "example": "Ο αδελφός μου ζει στην Αθήνα.",
+                            "translation": "My brother lives in Athens."
+                        },
+                        {
+                            "example": "Έχεις αδελφό;",
+                            "translation": "Do you have a brother?"
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "μεγάλος αδελφός",
+                            "translation": "older brother"
+                        },
+                        {
+                            "collocation": "μικρός αδελφός",
+                            "translation": "younger brother"
+                        }
+                    ]
+                },
+                {
+                    "id": "v2-pi-006",
+                    "item": "η αδελφή",
+                    "meaning": "sister",
+                    "examples": [
+                        {
+                            "example": "Η αδελφή μου είναι γιατρός.",
+                            "translation": "My sister is a doctor."
+                        },
+                        {
+                            "example": "Η αδελφή μου μένει στη Θεσσαλονίκη.",
+                            "translation": "My sister lives in Thessaloniki."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "μεγάλη αδελφή",
+                            "translation": "older sister"
+                        },
+                        {
+                            "collocation": "μικρή αδελφή",
+                            "translation": "younger sister"
+                        }
+                    ]
+                },
+                {
+                    "id": "v2-pi-007",
+                    "item": "οι γονείς",
+                    "meaning": "parents",
+                    "examples": [
+                        {
+                            "example": "Οι γονείς μου μένουν στην Κρήτη.",
+                            "translation": "My parents live in Crete."
+                        },
+                        {
+                            "example": "Οι γονείς μου είναι ηλικιωμένοι.",
+                            "translation": "My parents are elderly."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "οι γονείς μου",
+                            "translation": "my parents"
+                        },
+                        {
+                            "collocation": "καλοί γονείς",
+                            "translation": "good parents"
+                        }
+                    ]
+                },
+                {
+                    "id": "v2-pi-008",
+                    "item": "ο πατέρας",
+                    "meaning": "father",
+                    "examples": [
+                        {
+                            "example": "Ο πατέρας μου λέγεται Μιχάλης.",
+                            "translation": "My father's name is Michalis."
+                        },
+                        {
+                            "example": "Ο πατέρας μου δουλεύει πολύ.",
+                            "translation": "My father works a lot."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "ο πατέρας μου",
+                            "translation": "my father"
+                        },
+                        {
+                            "collocation": "καλός πατέρας",
+                            "translation": "good father"
+                        }
+                    ]
+                },
+                {
+                    "id": "v2-pi-009",
+                    "item": "η μητέρα",
+                    "meaning": "mother",
+                    "examples": [
+                        {
+                            "example": "Η μητέρα μου είναι πολύ καλή μαγείρισσα.",
+                            "translation": "My mother is a very good cook."
+                        },
+                        {
+                            "example": "Η μητέρα μου μένει κοντά μας.",
+                            "translation": "My mother lives near us."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "η μητέρα μου",
+                            "translation": "my mother"
+                        },
+                        {
+                            "collocation": "νέα μητέρα",
+                            "translation": "new mother"
+                        }
+                    ]
+                },
+                {
+                    "id": "v2-pi-010",
+                    "item": "κατάγομαι",
+                    "meaning": "to come from / to originate from",
+                    "examples": [
+                        {
+                            "example": "Κατάγομαι από τη Θεσσαλονίκη.",
+                            "translation": "I come from Thessaloniki."
                         },
                         {
                             "example": "Από πού κατάγεσαι;",
@@ -107,6 +601,60 @@
                         {
                             "collocation": "τόπος καταγωγής",
                             "translation": "place of origin"
+                        },
+                        {
+                            "collocation": "ελληνική καταγωγή",
+                            "translation": "Greek origin"
+                        }
+                    ]
+                },
+                {
+                    "id": "v2-pi-011",
+                    "item": "μένω",
+                    "meaning": "to live / to stay",
+                    "examples": [
+                        {
+                            "example": "Τώρα μένω στη Λεμεσό.",
+                            "translation": "Now I live in Limassol."
+                        },
+                        {
+                            "example": "Πού μένεις;",
+                            "translation": "Where do you live?"
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "μένω μόνος",
+                            "translation": "to live alone"
+                        },
+                        {
+                            "collocation": "μένω κοντά",
+                            "translation": "to live nearby"
+                        }
+                    ]
+                },
+                {
+                    "id": "v2-pi-012",
+                    "item": "η γλώσσα",
+                    "meaning": "language",
+                    "examples": [
+                        {
+                            "example": "Μιλώ δύο γλώσσες, ελληνικά και αγγλικά.",
+                            "translation": "I speak two languages, Greek and English."
+                        },
+                        {
+                            "example": "Ποιες γλώσσες μιλάς;",
+                            "translation": "Which languages do you speak?"
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "ξένη γλώσσα",
+                            "translation": "foreign language"
+                        },
+                        {
+                            "collocation": "μητρική γλώσσα",
+                            "translation": "mother tongue"
                         }
                     ]
                 }
@@ -114,12 +662,408 @@
             "story": {
                 "sentences": [
                     {
-                        "sentence": "1Με λένε Νίκο.",
-                        "translation": "1My name is Nikos."
+                        "sentence": "Η οικογένειά μου είναι πολυπληθής.",
+                        "translation": "My family is large."
                     },
                     {
-                        "sentence": "2Το όνομά μου είναι Μαρία.",
-                        "translation": "2My name is Maria."
+                        "sentence": "Ο σύζυγός μου λέγεται Γιώργης.",
+                        "translation": "My husband's name is Giorgis."
+                    },
+                    {
+                        "sentence": "Η γυναίκα του φίλου μου είναι δασκάλα.",
+                        "translation": "My friend's wife is a teacher."
+                    },
+                    {
+                        "sentence": "Έχουμε τρία παιδιά.",
+                        "translation": "We have three children."
+                    },
+                    {
+                        "sentence": "Ο αδελφός μου ζει στην Αθήνα.",
+                        "translation": "My brother lives in Athens."
+                    },
+                    {
+                        "sentence": "Η αδελφή μου είναι γιατρός.",
+                        "translation": "My sister is a doctor."
+                    },
+                    {
+                        "sentence": "Οι γονείς μου μένουν στην Κρήτη.",
+                        "translation": "My parents live in Crete."
+                    },
+                    {
+                        "sentence": "Ο πατέρας μου λέγεται Μιχάλης.",
+                        "translation": "My father's name is Michalis."
+                    },
+                    {
+                        "sentence": "Η μητέρα μου είναι πολύ καλή μαγείρισσα.",
+                        "translation": "My mother is a very good cook."
+                    },
+                    {
+                        "sentence": "Κατάγομαι από τη Θεσσαλονίκη.",
+                        "translation": "I come from Thessaloniki."
+                    },
+                    {
+                        "sentence": "Τώρα μένω στη Λεμεσό.",
+                        "translation": "Now I live in Limassol."
+                    },
+                    {
+                        "sentence": "Μιλώ δύο γλώσσες, ελληνικά και αγγλικά.",
+                        "translation": "I speak two languages, Greek and English."
+                    }
+                ]
+            }
+        },
+        {
+            "items": [
+                {
+                    "id": "v3-pi-001",
+                    "item": "το επάγγελμα",
+                    "meaning": "profession / occupation",
+                    "examples": [
+                        {
+                            "example": "Το επάγγελμά μου είναι μηχανικός.",
+                            "translation": "My profession is engineer."
+                        },
+                        {
+                            "example": "Ποιο είναι το επάγγελμά σου;",
+                            "translation": "What is your profession?"
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "ελεύθερο επάγγελμα",
+                            "translation": "freelance profession"
+                        },
+                        {
+                            "collocation": "άσκηση επαγγέλματος",
+                            "translation": "practice of a profession"
+                        }
+                    ]
+                },
+                {
+                    "id": "v3-pi-002",
+                    "item": "η εργασία",
+                    "meaning": "work / job",
+                    "examples": [
+                        {
+                            "example": "Η εργασία μου είναι πολύ ενδιαφέρουσα.",
+                            "translation": "My work is very interesting."
+                        },
+                        {
+                            "example": "Βρήκα καλή εργασία στην πόλη.",
+                            "translation": "I found a good job in the city."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "χώρος εργασίας",
+                            "translation": "workplace"
+                        },
+                        {
+                            "collocation": "αγορά εργασίας",
+                            "translation": "job market"
+                        }
+                    ]
+                },
+                {
+                    "id": "v3-pi-003",
+                    "item": "δουλεύω",
+                    "meaning": "to work",
+                    "examples": [
+                        {
+                            "example": "Δουλεύω κάθε μέρα από τις εννέα το πρωί.",
+                            "translation": "I work every day from nine in the morning."
+                        },
+                        {
+                            "example": "Πού δουλεύεις;",
+                            "translation": "Where do you work?"
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "δουλεύω σκληρά",
+                            "translation": "to work hard"
+                        },
+                        {
+                            "collocation": "δουλεύω μερική απασχόληση",
+                            "translation": "to work part-time"
+                        }
+                    ]
+                },
+                {
+                    "id": "v3-pi-004",
+                    "item": "η εταιρεία",
+                    "meaning": "company",
+                    "examples": [
+                        {
+                            "example": "Η εταιρεία μου έχει πολλούς υπαλλήλους.",
+                            "translation": "My company has many employees."
+                        },
+                        {
+                            "example": "Δουλεύω σε μια μεγάλη εταιρεία.",
+                            "translation": "I work at a large company."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "μεγάλη εταιρεία",
+                            "translation": "large company"
+                        },
+                        {
+                            "collocation": "εταιρεία τεχνολογίας",
+                            "translation": "technology company"
+                        }
+                    ]
+                },
+                {
+                    "id": "v3-pi-005",
+                    "item": "το σχολείο",
+                    "meaning": "school",
+                    "examples": [
+                        {
+                            "example": "Πήγα σε ένα καλό σχολείο στην Αθήνα.",
+                            "translation": "I went to a good school in Athens."
+                        },
+                        {
+                            "example": "Τα παιδιά πηγαίνουν στο σχολείο κάθε μέρα.",
+                            "translation": "The children go to school every day."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "δημοτικό σχολείο",
+                            "translation": "primary school"
+                        },
+                        {
+                            "collocation": "πηγαίνω στο σχολείο",
+                            "translation": "to go to school"
+                        }
+                    ]
+                },
+                {
+                    "id": "v3-pi-006",
+                    "item": "το πανεπιστήμιο",
+                    "meaning": "university",
+                    "examples": [
+                        {
+                            "example": "Σπούδασα στο πανεπιστήμιο στην Αθήνα.",
+                            "translation": "I studied at the university in Athens."
+                        },
+                        {
+                            "example": "Το πανεπιστήμιο είναι κοντά στο σπίτι μου.",
+                            "translation": "The university is near my house."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "φοιτητής πανεπιστημίου",
+                            "translation": "university student"
+                        },
+                        {
+                            "collocation": "πτυχίο πανεπιστημίου",
+                            "translation": "university degree"
+                        }
+                    ]
+                },
+                {
+                    "id": "v3-pi-007",
+                    "item": "σπουδάζω",
+                    "meaning": "to study",
+                    "examples": [
+                        {
+                            "example": "Σπουδάζω τώρα ελληνική γλώσσα.",
+                            "translation": "I am studying the Greek language now."
+                        },
+                        {
+                            "example": "Τι σπουδάζεις;",
+                            "translation": "What are you studying?"
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "σπουδάζω ιατρική",
+                            "translation": "to study medicine"
+                        },
+                        {
+                            "collocation": "σπουδάζω στο εξωτερικό",
+                            "translation": "to study abroad"
+                        }
+                    ]
+                },
+                {
+                    "id": "v3-pi-008",
+                    "item": "το χόμπι",
+                    "meaning": "hobby",
+                    "examples": [
+                        {
+                            "example": "Τα χόμπι μου είναι η φωτογραφία και η μουσική.",
+                            "translation": "My hobbies are photography and music."
+                        },
+                        {
+                            "example": "Ποιο είναι το αγαπημένο σου χόμπι;",
+                            "translation": "What is your favourite hobby?"
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "αγαπημένο χόμπι",
+                            "translation": "favourite hobby"
+                        },
+                        {
+                            "collocation": "χόμπι και δραστηριότητες",
+                            "translation": "hobbies and activities"
+                        }
+                    ]
+                },
+                {
+                    "id": "v3-pi-009",
+                    "item": "μιλώ",
+                    "meaning": "to speak",
+                    "examples": [
+                        {
+                            "example": "Μιλώ ελληνικά, αγγλικά και λίγο γαλλικά.",
+                            "translation": "I speak Greek, English, and a little French."
+                        },
+                        {
+                            "example": "Μιλάς ελληνικά;",
+                            "translation": "Do you speak Greek?"
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "μιλώ άπταιστα",
+                            "translation": "to speak fluently"
+                        },
+                        {
+                            "collocation": "μιλώ δυνατά",
+                            "translation": "to speak loudly"
+                        }
+                    ]
+                },
+                {
+                    "id": "v3-pi-010",
+                    "item": "μαθαίνω",
+                    "meaning": "to learn",
+                    "examples": [
+                        {
+                            "example": "Μαθαίνω νέες λέξεις κάθε μέρα.",
+                            "translation": "I learn new words every day."
+                        },
+                        {
+                            "example": "Μαθαίνω ελληνικά εδώ και έναν χρόνο.",
+                            "translation": "I have been learning Greek for a year."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "μαθαίνω γλώσσα",
+                            "translation": "to learn a language"
+                        },
+                        {
+                            "collocation": "μαθαίνω απέξω",
+                            "translation": "to learn by heart"
+                        }
+                    ]
+                },
+                {
+                    "id": "v3-pi-011",
+                    "item": "το διαβατήριο",
+                    "meaning": "passport",
+                    "examples": [
+                        {
+                            "example": "Το διαβατήριό μου είναι ελληνικό.",
+                            "translation": "My passport is Greek."
+                        },
+                        {
+                            "example": "Χρειάζομαι το διαβατήριό μου για να ταξιδέψω.",
+                            "translation": "I need my passport to travel."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "αριθμός διαβατηρίου",
+                            "translation": "passport number"
+                        },
+                        {
+                            "collocation": "ανανέωση διαβατηρίου",
+                            "translation": "passport renewal"
+                        }
+                    ]
+                },
+                {
+                    "id": "v3-pi-012",
+                    "item": "η ταυτότητα",
+                    "meaning": "ID card / identity card",
+                    "examples": [
+                        {
+                            "example": "Η ταυτότητά μου έχει όλες τις πληροφορίες μου.",
+                            "translation": "My ID card has all my information."
+                        },
+                        {
+                            "example": "Μπορώ να δω την ταυτότητά σου;",
+                            "translation": "Can I see your ID card?"
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "αριθμός ταυτότητας",
+                            "translation": "ID number"
+                        },
+                        {
+                            "collocation": "αστυνομική ταυτότητα",
+                            "translation": "police identity card"
+                        }
+                    ]
+                }
+            ],
+            "story": {
+                "sentences": [
+                    {
+                        "sentence": "Το επάγγελμά μου είναι μηχανικός.",
+                        "translation": "My profession is engineer."
+                    },
+                    {
+                        "sentence": "Η εργασία μου είναι πολύ ενδιαφέρουσα.",
+                        "translation": "My work is very interesting."
+                    },
+                    {
+                        "sentence": "Δουλεύω κάθε μέρα από τις εννέα το πρωί.",
+                        "translation": "I work every day from nine in the morning."
+                    },
+                    {
+                        "sentence": "Η εταιρεία μου έχει πολλούς υπαλλήλους.",
+                        "translation": "My company has many employees."
+                    },
+                    {
+                        "sentence": "Πήγα σε ένα καλό σχολείο στην Αθήνα.",
+                        "translation": "I went to a good school in Athens."
+                    },
+                    {
+                        "sentence": "Μετά σπούδασα στο πανεπιστήμιο.",
+                        "translation": "Then I studied at the university."
+                    },
+                    {
+                        "sentence": "Σπουδάζω τώρα ελληνική γλώσσα.",
+                        "translation": "I am studying the Greek language now."
+                    },
+                    {
+                        "sentence": "Τα χόμπι μου είναι η φωτογραφία και η μουσική.",
+                        "translation": "My hobbies are photography and music."
+                    },
+                    {
+                        "sentence": "Μιλώ ελληνικά, αγγλικά και λίγο γαλλικά.",
+                        "translation": "I speak Greek, English, and a little French."
+                    },
+                    {
+                        "sentence": "Μαθαίνω νέες λέξεις κάθε μέρα.",
+                        "translation": "I learn new words every day."
+                    },
+                    {
+                        "sentence": "Το διαβατήριό μου είναι ελληνικό.",
+                        "translation": "My passport is Greek."
+                    },
+                    {
+                        "sentence": "Η ταυτότητά μου έχει όλες τις πληροφορίες μου.",
+                        "translation": "My ID card has all my information."
                     }
                 ]
             }

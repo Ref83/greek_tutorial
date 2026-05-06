@@ -1,0 +1,82 @@
+{
+    "exercises": [
+        {
+            "id": "e3f1-001",
+            "type": "translate",
+            "header": "I cook every evening at home.",
+            "answer": "Μαγειρεύω κάθε βράδυ στο σπίτι."
+        },
+        {
+            "id": "e3f1-002",
+            "type": "translate",
+            "header": "Mom cooks very well.",
+            "answer": "Η μαμά μαγειρεύει πολύ καλά."
+        },
+        {
+            "id": "e3f1-003",
+            "type": "translate",
+            "header": "I bake the bread in the oven.",
+            "answer": "Ψήνω το ψωμί στον φούρνο."
+        },
+        {
+            "id": "e3f1-004",
+            "type": "translate",
+            "header": "I grill chicken on the grill.",
+            "answer": "Ψήνω κοτόπουλο στη σχάρα."
+        },
+        {
+            "id": "e3f1-005",
+            "type": "translate",
+            "header": "I boil water for the coffee.",
+            "answer": "Βράζω νερό για τον καφέ."
+        },
+        {
+            "id": "e3f1-006",
+            "type": "translate",
+            "header": "I boil the eggs for ten minutes.",
+            "answer": "Βράζω τα αυγά για δέκα λεπτά."
+        },
+        {
+            "id": "e3f1-007",
+            "type": "translate",
+            "header": "I fry eggs in olive oil.",
+            "answer": "Τηγανίζω αυγά σε ελαιόλαδο."
+        },
+        {
+            "id": "e3f1-008",
+            "type": "translate",
+            "header": "I fry the vegetables in hot oil.",
+            "answer": "Τηγανίζω τα λαχανικά σε ζεστό λάδι."
+        },
+        {
+            "id": "e3f1-009",
+            "type": "translate",
+            "header": "Today I want to cook a traditional Greek recipe.",
+            "answer": "Σήμερα θέλω να μαγειρέψω μια παραδοσιακή ελληνική συνταγή."
+        },
+        {
+            "id": "e3f1-010",
+            "type": "translate",
+            "header": "I heat the pan and add a little olive oil.",
+            "answer": "Ζεσταίνω το τηγάνι και προσθέτω λίγο ελαιόλαδο."
+        },
+        {
+            "id": "e3f1-011",
+            "type": "translate",
+            "header": "I fry the vegetables for five minutes.",
+            "answer": "Τηγανίζω τα λαχανικά για πέντε λεπτά."
+        },
+        {
+            "id": "e3f1-012",
+            "type": "translate",
+            "header": "I put water in the pot and boil it.",
+            "answer": "Βάζω νερό στην κατσαρόλα και το βράζω."
+        },
+        {
+            "id": "e3f1-013",
+            "type": "translate",
+            "header": "I boil the pasta according to the recipe.",
+            "answer": "Βράζω τα μακαρόνια σύμφωνα με τη συνταγή."
+        }
+    ]
+}

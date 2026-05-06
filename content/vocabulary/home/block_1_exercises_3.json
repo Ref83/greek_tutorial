@@ -1,0 +1,17 @@
+{
+  "exercises": [
+    {"id": "e-home-b1-027", "type": "translate", "header": "We have a barbecue on the roof terrace.", "answer": "Κάνουμε μπάρμπεκιου στην ταράτσα."},
+    {"id": "e-home-b1-028", "type": "translate", "header": "The roof terrace has a beautiful view.", "answer": "Η ταράτσα έχει όμορφη θέα."},
+    {"id": "e-home-b1-029", "type": "translate", "header": "The garage is next to the house.", "answer": "Το γκαράζ είναι δίπλα στο σπίτι."},
+    {"id": "e-home-b1-030", "type": "translate", "header": "We park the car in the garage.", "answer": "Παρκάρουμε το αυτοκίνητο στο γκαράζ."},
+    {"id": "e-home-b1-031", "type": "translate", "header": "My parents' house has a big garden.", "answer": "Το σπίτι των γονιών μου έχει μεγάλο κήπο."},
+    {"id": "e-home-b1-032", "type": "translate", "header": "I want to live in a house near the sea.", "answer": "Θέλω να μένω σε ένα σπίτι κοντά στη θάλασσα."},
+    {"id": "e-home-b1-033", "type": "translate", "header": "The building was built in 1990.", "answer": "Το κτίριο χτίστηκε το 1990."},
+    {"id": "e-home-b1-034", "type": "translate", "header": "The apartment is on the fifth floor.", "answer": "Το διαμέρισμα είναι στον πέμπτο όροφο."},
+    {"id": "e-home-b1-035", "type": "translate", "header": "I open the window every morning.", "answer": "Ανοίγω το παράθυρο κάθε πρωί."},
+    {"id": "e-home-b1-036", "type": "translate", "header": "The door of the basement is always closed.", "answer": "Η πόρτα του υπογείου είναι πάντα κλειστή."},
+    {"id": "e-home-b1-037", "type": "translate", "header": "We eat breakfast on the balcony.", "answer": "Τρώμε πρωινό στο μπαλκόνι."},
+    {"id": "e-home-b1-038", "type": "translate", "header": "The two-story house has four bedrooms.", "answer": "Το διώροφο έχει τέσσερις κρεβατοκάμαρες."},
+    {"id": "e-home-b1-039", "type": "translate", "header": "I rang the front door bell.", "answer": "Χτύπησα το κουδούνι της εξώπορτας."}
+  ]
+}

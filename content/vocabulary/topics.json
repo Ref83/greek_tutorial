@@ -4,6 +4,36 @@
             "id": "personal_information",
             "level": "A1",
             "name": "Personal Information."
+        },
+        {
+            "id": "home",
+            "level": "A1",
+            "name": "The Home and Room Interior."
+        },
+        {
+            "id": "food",
+            "level": "A1",
+            "name": "Food and Cooking."
+        },
+        {
+            "id": "numbers_dates",
+            "level": "A1",
+            "name": "Numbers and Dates."
+        },
+        {
+            "id": "daily_activities",
+            "level": "A1",
+            "name": "Daily Activities."
+        },
+        {
+            "id": "health_basic",
+            "level": "A1",
+            "name": "Health (Basic)."
+        },
+        {
+            "id": "shopping",
+            "level": "A1",
+            "name": "Shopping."
         }
     ]
 }

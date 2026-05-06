@@ -1,0 +1,17 @@
+{
+    "exercises": [
+        {"id": "e-da-b3-001", "type": "translate", "header": "In my free time I read books.", "answer": "Στον ελεύθερο χρόνο μου διαβάζω βιβλία."},
+        {"id": "e-da-b3-002", "type": "translate", "header": "I have a little free time today.", "answer": "Έχω λίγο ελεύθερο χρόνο σήμερα."},
+        {"id": "e-da-b3-003", "type": "translate", "header": "I have been into photography for years.", "answer": "Ασχολούμαι με τη φωτογραφία εδώ και χρόνια."},
+        {"id": "e-da-b3-004", "type": "translate", "header": "What do you do in your free time?", "answer": "Με τι ασχολείσαι στον ελεύθερο χρόνο σου;"},
+        {"id": "e-da-b3-005", "type": "translate", "header": "I read a book on the sofa every evening.", "answer": "Διαβάζω ένα βιβλίο στον καναπέ κάθε βράδυ."},
+        {"id": "e-da-b3-006", "type": "translate", "header": "I really like reading novels.", "answer": "Μου αρέσει πολύ να διαβάζω μυθιστορήματα."},
+        {"id": "e-da-b3-007", "type": "translate", "header": "I listen to music while cleaning the house.", "answer": "Ακούω μουσική ενώ καθαρίζω το σπίτι."},
+        {"id": "e-da-b3-008", "type": "translate", "header": "What music do you usually listen to?", "answer": "Τι μουσική ακούς συνήθως;"},
+        {"id": "e-da-b3-009", "type": "translate", "header": "I watch a movie every Friday evening.", "answer": "Βλέπω μια ταινία κάθε Παρασκευή βράδυ."},
+        {"id": "e-da-b3-010", "type": "translate", "header": "Do you want to watch a series together?", "answer": "Θέλεις να δούμε μια σειρά μαζί;"},
+        {"id": "e-da-b3-011", "type": "translate", "header": "I have been playing guitar since I was young.", "answer": "Παίζω κιθάρα από μικρός."},
+        {"id": "e-da-b3-012", "type": "translate", "header": "The children are playing in the park.", "answer": "Τα παιδιά παίζουν στο πάρκο."},
+        {"id": "e-da-b3-013", "type": "translate", "header": "I go for a walk in the park every morning.", "answer": "Κάνω βόλτα στο πάρκο κάθε πρωί."}
+    ]
+}

@@ -1,0 +1,17 @@
+{
+  "exercises": [
+    {"id": "e-home-b2-027", "type": "translate", "header": "I drink my coffee in the kitchen every morning.", "answer": "Πίνω τον καφέ μου στην κουζίνα κάθε πρωί."},
+    {"id": "e-home-b2-028", "type": "translate", "header": "The living room sofa is very comfortable.", "answer": "Ο καναπές του σαλονιού είναι πολύ άνετος."},
+    {"id": "e-home-b2-029", "type": "translate", "header": "We set the table in the dining room.", "answer": "Στρώνουμε το τραπέζι στην τραπεζαρία."},
+    {"id": "e-home-b2-030", "type": "translate", "header": "I read books in my bedroom before sleeping.", "answer": "Διαβάζω βιβλία στην κρεβατοκάμαρά μου πριν κοιμηθώ."},
+    {"id": "e-home-b2-031", "type": "translate", "header": "The bathroom mirror is broken.", "answer": "Ο καθρέφτης του μπάνιου είναι σπασμένος."},
+    {"id": "e-home-b2-032", "type": "translate", "header": "The toilet paper is in the toilet.", "answer": "Το χαρτί τουαλέτας είναι στην τουαλέτα."},
+    {"id": "e-home-b2-033", "type": "translate", "header": "I have a computer in my home office.", "answer": "Έχω υπολογιστή στο γραφείο στο σπίτι."},
+    {"id": "e-home-b2-034", "type": "translate", "header": "The corridor is narrow but long.", "answer": "Ο διάδρομος είναι στενός αλλά μακρύς."},
+    {"id": "e-home-b2-035", "type": "translate", "header": "We need more space in the storage room.", "answer": "Χρειαζόμαστε περισσότερο χώρο στην αποθήκη."},
+    {"id": "e-home-b2-036", "type": "translate", "header": "This room gets a lot of sunlight.", "answer": "Αυτό το δωμάτιο έχει πολύ φως."},
+    {"id": "e-home-b2-037", "type": "translate", "header": "My son loves his children's room.", "answer": "Ο γιος μου αγαπάει το παιδικό δωμάτιό του."},
+    {"id": "e-home-b2-038", "type": "translate", "header": "Our friends stayed in the guest room last weekend.", "answer": "Οι φίλοι μας έμειναν στο δωμάτιο φιλοξενίας το περασμένο Σαββατοκύριακο."},
+    {"id": "e-home-b2-039", "type": "translate", "header": "I fell on the stairs yesterday.", "answer": "Έπεσα στη σκάλα χθες."}
+  ]
+}

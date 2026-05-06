@@ -1,0 +1,82 @@
+{
+    "exercises": [
+        {
+            "id": "e3f2-001",
+            "type": "translate",
+            "header": "I cut the vegetables into small pieces.",
+            "answer": "Κόβω τα λαχανικά σε μικρά κομμάτια."
+        },
+        {
+            "id": "e3f2-002",
+            "type": "translate",
+            "header": "I cut the bread with a knife.",
+            "answer": "Κόβω το ψωμί με μαχαίρι."
+        },
+        {
+            "id": "e3f2-003",
+            "type": "translate",
+            "header": "I stir the ingredients with a spoon.",
+            "answer": "Ανακατεύω τα υλικά με κουτάλα."
+        },
+        {
+            "id": "e3f2-004",
+            "type": "translate",
+            "header": "I stir the soup so it doesn't stick.",
+            "answer": "Ανακατεύω τη σούπα να μην κολλήσει."
+        },
+        {
+            "id": "e3f2-005",
+            "type": "translate",
+            "header": "I add salt and pepper.",
+            "answer": "Προσθέτω αλάτι και πιπέρι."
+        },
+        {
+            "id": "e3f2-006",
+            "type": "translate",
+            "header": "I add a little water to the dough.",
+            "answer": "Προσθέτω λίγο νερό στη ζύμη."
+        },
+        {
+            "id": "e3f2-007",
+            "type": "translate",
+            "header": "I follow my mom's recipe.",
+            "answer": "Ακολουθώ τη συνταγή της μαμάς."
+        },
+        {
+            "id": "e3f2-008",
+            "type": "translate",
+            "header": "This recipe is very easy.",
+            "answer": "Αυτή η συνταγή είναι πολύ εύκολη."
+        },
+        {
+            "id": "e3f2-009",
+            "type": "translate",
+            "header": "First I cut the vegetables into small pieces.",
+            "answer": "Πρώτα κόβω τα λαχανικά σε μικρά κομμάτια."
+        },
+        {
+            "id": "e3f2-010",
+            "type": "translate",
+            "header": "I stir often so they don't stick.",
+            "answer": "Ανακατεύω συχνά για να μην κολλήσουν."
+        },
+        {
+            "id": "e3f2-011",
+            "type": "translate",
+            "header": "I add salt and the spices.",
+            "answer": "Προσθέτω αλάτι και τα μπαχαρικά."
+        },
+        {
+            "id": "e3f2-012",
+            "type": "translate",
+            "header": "I boil the pasta according to the recipe.",
+            "answer": "Βράζω τα μακαρόνια σύμφωνα με τη συνταγή."
+        },
+        {
+            "id": "e3f2-013",
+            "type": "translate",
+            "header": "At the same time, I bake bread in the oven.",
+            "answer": "Παράλληλα, ψήνω ψωμί στον φούρνο."
+        }
+    ]
+}

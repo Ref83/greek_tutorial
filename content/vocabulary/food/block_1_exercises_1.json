@@ -1,0 +1,82 @@
+{
+    "exercises": [
+        {
+            "id": "e1f1-001",
+            "type": "translate",
+            "header": "We need two cups of flour for the cake.",
+            "answer": "Χρειαζόμαστε δύο φλιτζάνια αλεύρι για το κέικ."
+        },
+        {
+            "id": "e1f1-002",
+            "type": "translate",
+            "header": "I mix the flour with the sugar.",
+            "answer": "Ανακατεύω το αλεύρι με τη ζάχαρη."
+        },
+        {
+            "id": "e1f1-003",
+            "type": "translate",
+            "header": "Do you want sugar in your coffee?",
+            "answer": "Θέλεις ζάχαρη στον καφέ σου;"
+        },
+        {
+            "id": "e1f1-004",
+            "type": "translate",
+            "header": "The recipe needs half a cup of sugar.",
+            "answer": "Η συνταγή χρειάζεται μισό φλιτζάνι ζάχαρη."
+        },
+        {
+            "id": "e1f1-005",
+            "type": "translate",
+            "header": "Add a little salt to the soup.",
+            "answer": "Πρόσθεσε λίγο αλάτι στη σούπα."
+        },
+        {
+            "id": "e1f1-006",
+            "type": "translate",
+            "header": "The food doesn't have enough salt.",
+            "answer": "Το φαγητό δεν έχει αρκετό αλάτι."
+        },
+        {
+            "id": "e1f1-007",
+            "type": "translate",
+            "header": "I heat a little oil in the pan.",
+            "answer": "Ζεσταίνω λίγο λάδι στο τηγάνι."
+        },
+        {
+            "id": "e1f1-008",
+            "type": "translate",
+            "header": "We use olive oil in the salad.",
+            "answer": "Χρησιμοποιούμε ελαιόλαδο στη σαλάτα."
+        },
+        {
+            "id": "e1f1-009",
+            "type": "translate",
+            "header": "Today I want to make a cake.",
+            "answer": "Σήμερα θέλω να φτιάξω ένα κέικ."
+        },
+        {
+            "id": "e1f1-010",
+            "type": "translate",
+            "header": "I take out the flour, sugar, and salt from the cupboard.",
+            "answer": "Βγάζω το αλεύρι, τη ζάχαρη και το αλάτι από το ντουλάπι."
+        },
+        {
+            "id": "e1f1-011",
+            "type": "translate",
+            "header": "I mix the flour with the sugar and baking soda.",
+            "answer": "Ανακατεύω το αλεύρι με τη ζάχαρη και τη μαγειρική σόδα."
+        },
+        {
+            "id": "e1f1-012",
+            "type": "translate",
+            "header": "I add vanilla and a little cinnamon for aroma.",
+            "answer": "Προσθέτω βανίλια και λίγη κανέλα για άρωμα."
+        },
+        {
+            "id": "e1f1-013",
+            "type": "translate",
+            "header": "I sprinkle it with powdered sugar and a little cinnamon.",
+            "answer": "Το πασπαλίζω με ζάχαρη άχνη και λίγη κανέλα."
+        }
+    ]
+}

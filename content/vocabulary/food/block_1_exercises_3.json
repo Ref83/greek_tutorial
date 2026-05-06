@@ -1,0 +1,82 @@
+{
+    "exercises": [
+        {
+            "id": "e1f3-001",
+            "type": "translate",
+            "header": "I put honey in my yogurt.",
+            "answer": "Βάζω μέλι στο γιαούρτι μου."
+        },
+        {
+            "id": "e1f3-002",
+            "type": "translate",
+            "header": "Greek honey is very sweet.",
+            "answer": "Το ελληνικό μέλι είναι πολύ γλυκό."
+        },
+        {
+            "id": "e1f3-003",
+            "type": "translate",
+            "header": "I add a packet of vanilla to the dough.",
+            "answer": "Προσθέτω ένα φακελάκι βανίλια στη ζύμη."
+        },
+        {
+            "id": "e1f3-004",
+            "type": "translate",
+            "header": "The cake has a vanilla flavor.",
+            "answer": "Το κέικ έχει γεύση βανίλιας."
+        },
+        {
+            "id": "e1f3-005",
+            "type": "translate",
+            "header": "I whip the heavy cream until it becomes stiff.",
+            "answer": "Χτυπάω την κρέμα γάλακτος μέχρι να γίνει σφιχτή."
+        },
+        {
+            "id": "e1f3-006",
+            "type": "translate",
+            "header": "I add heavy cream to the soup.",
+            "answer": "Προσθέτω κρέμα γάλακτος στη σούπα."
+        },
+        {
+            "id": "e1f3-007",
+            "type": "translate",
+            "header": "I beat the eggs with the milk and the melted butter.",
+            "answer": "Χτυπάω τα αυγά με το γάλα και το λιωμένο βούτυρο."
+        },
+        {
+            "id": "e1f3-008",
+            "type": "translate",
+            "header": "I combine the wet with the dry ingredients and mix well.",
+            "answer": "Ενώνω τα υγρά με τα στερεά υλικά και ανακατεύω καλά."
+        },
+        {
+            "id": "e1f3-009",
+            "type": "translate",
+            "header": "I put the batter in the pan and put it in the oven.",
+            "answer": "Βάζω τη ζύμη στο ταψί και τη βάζω στον φούρνο."
+        },
+        {
+            "id": "e1f3-010",
+            "type": "translate",
+            "header": "After half an hour, the cake is ready!",
+            "answer": "Μετά από μισή ώρα, το κέικ είναι έτοιμο!"
+        },
+        {
+            "id": "e1f3-011",
+            "type": "translate",
+            "header": "I also need milk, eggs, and butter.",
+            "answer": "Χρειάζομαι επίσης γάλα, αυγά και βούτυρο."
+        },
+        {
+            "id": "e1f3-012",
+            "type": "translate",
+            "header": "I heat a little oil in the pan.",
+            "answer": "Ζεσταίνω λίγο λάδι στο τηγάνι."
+        },
+        {
+            "id": "e1f3-013",
+            "type": "translate",
+            "header": "I add cinnamon to the cake.",
+            "answer": "Προσθέτω κανέλα στο κέικ."
+        }
+    ]
+}

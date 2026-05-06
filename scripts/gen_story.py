@@ -19,7 +19,7 @@ STORY = [
 
 GREEK_VOICE = "el-GR-AthinaNeural"
 ENGLISH_VOICE = "en-US-JennyNeural"
-RATE = "-30%"
+RATE = "-25%"
 TEMP_DIR = "/tmp/greek_story"
 OUTPUT = "content/story_developer.mp3"
 
@@ -35,7 +35,7 @@ async def main():
     silence = f"{TEMP_DIR}/silence.mp3"
     subprocess.run(
         ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono",
-         "-t", "5", "-acodec", "libmp3lame", "-q:a", "9", silence],
+         "-t", "3", "-acodec", "libmp3lame", "-q:a", "9", silence],
         check=True, capture_output=True,
     )
 

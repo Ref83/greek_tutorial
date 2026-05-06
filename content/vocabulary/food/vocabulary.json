@@ -1,0 +1,1072 @@
+{
+    "blocks": [
+        {
+            "items": [
+                {
+                    "id": "v-f-001",
+                    "item": "το αλεύρι",
+                    "meaning": "flour",
+                    "examples": [
+                        {
+                            "example": "Χρειαζόμαστε δύο φλιτζάνια αλεύρι για το κέικ.",
+                            "translation": "We need two cups of flour for the cake."
+                        },
+                        {
+                            "example": "Ανακατεύω το αλεύρι με τη ζάχαρη.",
+                            "translation": "I mix the flour with the sugar."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "αλεύρι για όλες τις χρήσεις",
+                            "translation": "all-purpose flour"
+                        },
+                        {
+                            "collocation": "κοσκινίζω το αλεύρι",
+                            "translation": "to sift the flour"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-f-002",
+                    "item": "η ζάχαρη",
+                    "meaning": "sugar",
+                    "examples": [
+                        {
+                            "example": "Θέλεις ζάχαρη στον καφέ σου;",
+                            "translation": "Do you want sugar in your coffee?"
+                        },
+                        {
+                            "example": "Η συνταγή χρειάζεται μισό φλιτζάνι ζάχαρη.",
+                            "translation": "The recipe needs half a cup of sugar."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "ζάχαρη άχνη",
+                            "translation": "powdered sugar / icing sugar"
+                        },
+                        {
+                            "collocation": "καστανή ζάχαρη",
+                            "translation": "brown sugar"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-f-003",
+                    "item": "το αλάτι",
+                    "meaning": "salt",
+                    "examples": [
+                        {
+                            "example": "Πρόσθεσε λίγο αλάτι στη σούπα.",
+                            "translation": "Add a little salt to the soup."
+                        },
+                        {
+                            "example": "Το φαγητό δεν έχει αρκετό αλάτι.",
+                            "translation": "The food doesn't have enough salt."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "θαλασσινό αλάτι",
+                            "translation": "sea salt"
+                        },
+                        {
+                            "collocation": "αλατίζω το φαγητό",
+                            "translation": "to salt the food"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-f-004",
+                    "item": "το λάδι",
+                    "meaning": "oil",
+                    "examples": [
+                        {
+                            "example": "Ζεσταίνω λίγο λάδι στο τηγάνι.",
+                            "translation": "I heat a little oil in the pan."
+                        },
+                        {
+                            "example": "Χρησιμοποιούμε ελαιόλαδο στη σαλάτα.",
+                            "translation": "We use olive oil in the salad."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "ελαιόλαδο",
+                            "translation": "olive oil"
+                        },
+                        {
+                            "collocation": "φυτικό λάδι",
+                            "translation": "vegetable oil"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-f-005",
+                    "item": "το γάλα",
+                    "meaning": "milk",
+                    "examples": [
+                        {
+                            "example": "Πίνω ένα ποτήρι γάλα κάθε πρωί.",
+                            "translation": "I drink a glass of milk every morning."
+                        },
+                        {
+                            "example": "Η συνταγή χρειάζεται γάλα και αυγά.",
+                            "translation": "The recipe needs milk and eggs."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "φρέσκο γάλα",
+                            "translation": "fresh milk"
+                        },
+                        {
+                            "collocation": "αποβουτυρωμένο γάλα",
+                            "translation": "skimmed milk"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-f-006",
+                    "item": "το αυγό",
+                    "meaning": "egg",
+                    "examples": [
+                        {
+                            "example": "Χτυπάω τρία αυγά για την ομελέτα.",
+                            "translation": "I beat three eggs for the omelette."
+                        },
+                        {
+                            "example": "Η συνταγή χρειάζεται δύο αυγά.",
+                            "translation": "The recipe needs two eggs."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "τηγανητό αυγό",
+                            "translation": "fried egg"
+                        },
+                        {
+                            "collocation": "βραστό αυγό",
+                            "translation": "boiled egg"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-f-007",
+                    "item": "η κανέλα",
+                    "meaning": "cinnamon",
+                    "examples": [
+                        {
+                            "example": "Προσθέτω κανέλα στο κέικ.",
+                            "translation": "I add cinnamon to the cake."
+                        },
+                        {
+                            "example": "Ο καφές με κανέλα είναι πολύ αρωματικός.",
+                            "translation": "Coffee with cinnamon is very aromatic."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "ξυλάκι κανέλας",
+                            "translation": "cinnamon stick"
+                        },
+                        {
+                            "collocation": "σκόνη κανέλας",
+                            "translation": "ground cinnamon / cinnamon powder"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-f-008",
+                    "item": "το βούτυρο",
+                    "meaning": "butter",
+                    "examples": [
+                        {
+                            "example": "Βάζω βούτυρο στο ψωμί μου.",
+                            "translation": "I put butter on my bread."
+                        },
+                        {
+                            "example": "Λιώνω βούτυρο σε χαμηλή φωτιά.",
+                            "translation": "I melt butter on low heat."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "φρέσκο βούτυρο",
+                            "translation": "fresh butter"
+                        },
+                        {
+                            "collocation": "ανάλατο βούτυρο",
+                            "translation": "unsalted butter"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-f-009",
+                    "item": "η μαγειρική σόδα",
+                    "meaning": "baking soda",
+                    "examples": [
+                        {
+                            "example": "Η συνταγή χρειάζεται μία κουταλιά μαγειρική σόδα.",
+                            "translation": "The recipe needs one teaspoon of baking soda."
+                        },
+                        {
+                            "example": "Η μαγειρική σόδα κάνει το κέικ να φουσκώσει.",
+                            "translation": "Baking soda makes the cake rise."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "μπέικιν πάουντερ",
+                            "translation": "baking powder"
+                        },
+                        {
+                            "collocation": "κουταλάκι μαγειρικής σόδας",
+                            "translation": "teaspoon of baking soda"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-f-010",
+                    "item": "το μέλι",
+                    "meaning": "honey",
+                    "examples": [
+                        {
+                            "example": "Βάζω μέλι στο γιαούρτι μου.",
+                            "translation": "I put honey in my yogurt."
+                        },
+                        {
+                            "example": "Το ελληνικό μέλι είναι πολύ γλυκό.",
+                            "translation": "Greek honey is very sweet."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "θυμαρίσιο μέλι",
+                            "translation": "thyme honey"
+                        },
+                        {
+                            "collocation": "κουταλιά μέλι",
+                            "translation": "spoonful of honey"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-f-011",
+                    "item": "η βανίλια",
+                    "meaning": "vanilla",
+                    "examples": [
+                        {
+                            "example": "Προσθέτω ένα φακελάκι βανίλια στη ζύμη.",
+                            "translation": "I add a packet of vanilla to the dough."
+                        },
+                        {
+                            "example": "Το κέικ έχει γεύση βανίλιας.",
+                            "translation": "The cake has a vanilla flavor."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "εκχύλισμα βανίλιας",
+                            "translation": "vanilla extract"
+                        },
+                        {
+                            "collocation": "γεύση βανίλιας",
+                            "translation": "vanilla flavor"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-f-012",
+                    "item": "η κρέμα γάλακτος",
+                    "meaning": "heavy cream / whipping cream",
+                    "examples": [
+                        {
+                            "example": "Χτυπάω την κρέμα γάλακτος μέχρι να γίνει σφιχτή.",
+                            "translation": "I whip the heavy cream until it becomes stiff."
+                        },
+                        {
+                            "example": "Προσθέτω κρέμα γάλακτος στη σούπα.",
+                            "translation": "I add heavy cream to the soup."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "σαντιγί",
+                            "translation": "whipped cream"
+                        },
+                        {
+                            "collocation": "κρέμα γάλακτος για μαγείρεμα",
+                            "translation": "cooking cream"
+                        }
+                    ]
+                }
+            ],
+            "story": {
+                "sentences": [
+                    {
+                        "sentence": "Σήμερα θέλω να φτιάξω ένα κέικ.",
+                        "translation": "Today I want to make a cake."
+                    },
+                    {
+                        "sentence": "Βγάζω το αλεύρι, τη ζάχαρη και το αλάτι από το ντουλάπι.",
+                        "translation": "I take out the flour, sugar, and salt from the cupboard."
+                    },
+                    {
+                        "sentence": "Χρειάζομαι επίσης γάλα, αυγά και βούτυρο.",
+                        "translation": "I also need milk, eggs, and butter."
+                    },
+                    {
+                        "sentence": "Ανοίγω το ψυγείο και βγάζω τρία αυγά.",
+                        "translation": "I open the fridge and take out three eggs."
+                    },
+                    {
+                        "sentence": "Λιώνω το βούτυρο σε χαμηλή φωτιά.",
+                        "translation": "I melt the butter on low heat."
+                    },
+                    {
+                        "sentence": "Ανακατεύω το αλεύρι με τη ζάχαρη και τη μαγειρική σόδα.",
+                        "translation": "I mix the flour with the sugar and baking soda."
+                    },
+                    {
+                        "sentence": "Προσθέτω βανίλια και λίγη κανέλα για άρωμα.",
+                        "translation": "I add vanilla and a little cinnamon for aroma."
+                    },
+                    {
+                        "sentence": "Χτυπάω τα αυγά με το γάλα και το λιωμένο βούτυρο.",
+                        "translation": "I beat the eggs with the milk and the melted butter."
+                    },
+                    {
+                        "sentence": "Ενώνω τα υγρά με τα στερεά υλικά και ανακατεύω καλά.",
+                        "translation": "I combine the wet with the dry ingredients and mix well."
+                    },
+                    {
+                        "sentence": "Βάζω τη ζύμη στο ταψί και τη βάζω στον φούρνο.",
+                        "translation": "I put the batter in the pan and put it in the oven."
+                    },
+                    {
+                        "sentence": "Μετά από μισή ώρα, το κέικ είναι έτοιμο!",
+                        "translation": "After half an hour, the cake is ready!"
+                    },
+                    {
+                        "sentence": "Το πασπαλίζω με ζάχαρη άχνη και λίγη κανέλα.",
+                        "translation": "I sprinkle it with powdered sugar and a little cinnamon."
+                    }
+                ]
+            }
+        },
+        {
+            "items": [
+                {
+                    "id": "v-f-013",
+                    "item": "ο καφές",
+                    "meaning": "coffee",
+                    "examples": [
+                        {
+                            "example": "Πίνω έναν καφέ κάθε πρωί.",
+                            "translation": "I drink a coffee every morning."
+                        },
+                        {
+                            "example": "Θέλεις τον καφέ σου με γάλα;",
+                            "translation": "Do you want your coffee with milk?"
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "ελληνικός καφές",
+                            "translation": "Greek coffee"
+                        },
+                        {
+                            "collocation": "καφές φίλτρου",
+                            "translation": "filter coffee"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-f-014",
+                    "item": "η ομελέτα",
+                    "meaning": "omelette",
+                    "examples": [
+                        {
+                            "example": "Φτιάχνω μια ομελέτα με τυρί για πρωινό.",
+                            "translation": "I make an omelette with cheese for breakfast."
+                        },
+                        {
+                            "example": "Χτυπάω δύο αυγά για να φτιάξω ομελέτα.",
+                            "translation": "I beat two eggs to make an omelette."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "ομελέτα με λαχανικά",
+                            "translation": "vegetable omelette"
+                        },
+                        {
+                            "collocation": "ομελέτα με τυρί",
+                            "translation": "cheese omelette"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-f-015",
+                    "item": "το κέικ",
+                    "meaning": "cake",
+                    "examples": [
+                        {
+                            "example": "Ψήνω ένα κέικ σοκολάτας για τα γενέθλια.",
+                            "translation": "I bake a chocolate cake for the birthday."
+                        },
+                        {
+                            "example": "Το κέικ είναι πολύ νόστιμο.",
+                            "translation": "The cake is very delicious."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "κέικ σοκολάτας",
+                            "translation": "chocolate cake"
+                        },
+                        {
+                            "collocation": "κέικ βανίλιας",
+                            "translation": "vanilla cake"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-f-016",
+                    "item": "το ψωμί",
+                    "meaning": "bread",
+                    "examples": [
+                        {
+                            "example": "Αγοράζω φρέσκο ψωμί κάθε πρωί.",
+                            "translation": "I buy fresh bread every morning."
+                        },
+                        {
+                            "example": "Τρώω ψωμί με βούτυρο και μέλι.",
+                            "translation": "I eat bread with butter and honey."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "φρέσκο ψωμί",
+                            "translation": "fresh bread"
+                        },
+                        {
+                            "collocation": "ψωμί ολικής",
+                            "translation": "whole wheat bread"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-f-017",
+                    "item": "η σαλάτα",
+                    "meaning": "salad",
+                    "examples": [
+                        {
+                            "example": "Φτιάχνω χωριάτικη σαλάτα με ελαιόλαδο.",
+                            "translation": "I make a Greek salad with olive oil."
+                        },
+                        {
+                            "example": "Τρώω σαλάτα σε κάθε γεύμα.",
+                            "translation": "I eat salad at every meal."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "χωριάτικη σαλάτα",
+                            "translation": "Greek salad / village salad"
+                        },
+                        {
+                            "collocation": "σαλάτα εποχής",
+                            "translation": "seasonal salad"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-f-018",
+                    "item": "η σούπα",
+                    "meaning": "soup",
+                    "examples": [
+                        {
+                            "example": "Μαγειρεύω σούπα λαχανικών για μεσημέρι.",
+                            "translation": "I cook vegetable soup for lunch."
+                        },
+                        {
+                            "example": "Η σούπα είναι ζεστή και νόστιμη.",
+                            "translation": "The soup is warm and delicious."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "σούπα λαχανικών",
+                            "translation": "vegetable soup"
+                        },
+                        {
+                            "collocation": "κοτόσουπα",
+                            "translation": "chicken soup"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-f-019",
+                    "item": "τα μακαρόνια",
+                    "meaning": "pasta / spaghetti",
+                    "examples": [
+                        {
+                            "example": "Βράζω μακαρόνια για δέκα λεπτά.",
+                            "translation": "I boil pasta for ten minutes."
+                        },
+                        {
+                            "example": "Τα μακαρόνια είναι το αγαπημένο μου φαγητό.",
+                            "translation": "Pasta is my favorite food."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "μακαρόνια με κιμά",
+                            "translation": "pasta with minced meat / bolognese"
+                        },
+                        {
+                            "collocation": "al dente μακαρόνια",
+                            "translation": "al dente pasta"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-f-020",
+                    "item": "το ρύζι",
+                    "meaning": "rice",
+                    "examples": [
+                        {
+                            "example": "Μαγειρεύω ρύζι με λαχανικά.",
+                            "translation": "I cook rice with vegetables."
+                        },
+                        {
+                            "example": "Το ρύζι χρειάζεται είκοσι λεπτά να βράσει.",
+                            "translation": "The rice needs twenty minutes to boil."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "ρύζι με λαχανικά",
+                            "translation": "rice with vegetables"
+                        },
+                        {
+                            "collocation": "καστανό ρύζι",
+                            "translation": "brown rice"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-f-021",
+                    "item": "το γιαούρτι",
+                    "meaning": "yogurt",
+                    "examples": [
+                        {
+                            "example": "Τρώω γιαούρτι με μέλι κάθε πρωί.",
+                            "translation": "I eat yogurt with honey every morning."
+                        },
+                        {
+                            "example": "Το ελληνικό γιαούρτι είναι πολύ πηχτό.",
+                            "translation": "Greek yogurt is very thick."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "ελληνικό γιαούρτι",
+                            "translation": "Greek yogurt"
+                        },
+                        {
+                            "collocation": "γιαούρτι με φρούτα",
+                            "translation": "yogurt with fruit"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-f-022",
+                    "item": "το τυρί",
+                    "meaning": "cheese",
+                    "examples": [
+                        {
+                            "example": "Βάζω τυρί στην ομελέτα.",
+                            "translation": "I put cheese in the omelette."
+                        },
+                        {
+                            "example": "Η φέτα είναι ελληνικό τυρί.",
+                            "translation": "Feta is a Greek cheese."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "φέτα",
+                            "translation": "feta cheese"
+                        },
+                        {
+                            "collocation": "τριμμένο τυρί",
+                            "translation": "grated cheese"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-f-023",
+                    "item": "ο χυμός",
+                    "meaning": "juice",
+                    "examples": [
+                        {
+                            "example": "Πίνω χυμό πορτοκαλιού κάθε πρωί.",
+                            "translation": "I drink orange juice every morning."
+                        },
+                        {
+                            "example": "Φτιάχνω φρέσκο χυμό στο σπίτι.",
+                            "translation": "I make fresh juice at home."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "χυμός πορτοκαλιού",
+                            "translation": "orange juice"
+                        },
+                        {
+                            "collocation": "φρέσκος χυμός",
+                            "translation": "fresh juice"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-f-024",
+                    "item": "το τσάι",
+                    "meaning": "tea",
+                    "examples": [
+                        {
+                            "example": "Πίνω τσάι με μέλι το βράδυ.",
+                            "translation": "I drink tea with honey in the evening."
+                        },
+                        {
+                            "example": "Θέλεις ένα φλιτζάνι τσάι;",
+                            "translation": "Do you want a cup of tea?"
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "τσάι του βουνού",
+                            "translation": "mountain tea / Greek herbal tea"
+                        },
+                        {
+                            "collocation": "τσάι με λεμόνι",
+                            "translation": "tea with lemon"
+                        }
+                    ]
+                }
+            ],
+            "story": {
+                "sentences": [
+                    {
+                        "sentence": "Σήμερα ξυπνάω νωρίς και πηγαίνω στην κουζίνα.",
+                        "translation": "Today I wake up early and go to the kitchen."
+                    },
+                    {
+                        "sentence": "Πρώτα φτιάχνω ένα φλιτζάνι καφέ.",
+                        "translation": "First I make a cup of coffee."
+                    },
+                    {
+                        "sentence": "Βάζω λίγη ζάχαρη στον καφέ μου.",
+                        "translation": "I put a little sugar in my coffee."
+                    },
+                    {
+                        "sentence": "Μετά ετοιμάζω ομελέτα με τυρί για πρωινό.",
+                        "translation": "Then I prepare an omelette with cheese for breakfast."
+                    },
+                    {
+                        "sentence": "Χτυπάω δύο αυγά με λίγο αλάτι.",
+                        "translation": "I beat two eggs with a little salt."
+                    },
+                    {
+                        "sentence": "Τρώω την ομελέτα με φρέσκο ψωμί.",
+                        "translation": "I eat the omelette with fresh bread."
+                    },
+                    {
+                        "sentence": "Το μεσημέρι μαγειρεύω σούπα και σαλάτα.",
+                        "translation": "At noon I cook soup and salad."
+                    },
+                    {
+                        "sentence": "Για σαλάτα χρησιμοποιώ λίγο ελαιόλαδο.",
+                        "translation": "For the salad I use a little olive oil."
+                    },
+                    {
+                        "sentence": "Το βράδυ φτιάχνω μακαρόνια με τυρί.",
+                        "translation": "In the evening I make pasta with cheese."
+                    },
+                    {
+                        "sentence": "Τρώω επίσης γιαούρτι με μέλι για επιδόρπιο.",
+                        "translation": "I also eat yogurt with honey for dessert."
+                    },
+                    {
+                        "sentence": "Πριν κοιμηθώ, πίνω ένα φλιτζάνι τσάι.",
+                        "translation": "Before going to sleep, I drink a cup of tea."
+                    },
+                    {
+                        "sentence": "Ήταν μια νόστιμη μέρα!",
+                        "translation": "It was a delicious day!"
+                    }
+                ]
+            }
+        },
+        {
+            "items": [
+                {
+                    "id": "v-f-025",
+                    "item": "μαγειρεύω",
+                    "meaning": "to cook",
+                    "examples": [
+                        {
+                            "example": "Μαγειρεύω κάθε βράδυ στο σπίτι.",
+                            "translation": "I cook every evening at home."
+                        },
+                        {
+                            "example": "Η μαμά μαγειρεύει πολύ καλά.",
+                            "translation": "Mom cooks very well."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "μαγειρεύω για την οικογένεια",
+                            "translation": "to cook for the family"
+                        },
+                        {
+                            "collocation": "μαγειρεύω από τη συνταγή",
+                            "translation": "to cook from the recipe"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-f-026",
+                    "item": "ψήνω",
+                    "meaning": "to bake / to grill / to roast",
+                    "examples": [
+                        {
+                            "example": "Ψήνω το ψωμί στον φούρνο.",
+                            "translation": "I bake the bread in the oven."
+                        },
+                        {
+                            "example": "Ψήνω κοτόπουλο στη σχάρα.",
+                            "translation": "I grill chicken on the grill."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "ψήνω στον φούρνο",
+                            "translation": "to bake in the oven"
+                        },
+                        {
+                            "collocation": "ψήνω στη σχάρα",
+                            "translation": "to grill on the grill"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-f-027",
+                    "item": "βράζω",
+                    "meaning": "to boil",
+                    "examples": [
+                        {
+                            "example": "Βράζω νερό για τον καφέ.",
+                            "translation": "I boil water for the coffee."
+                        },
+                        {
+                            "example": "Βράζω τα αυγά για δέκα λεπτά.",
+                            "translation": "I boil the eggs for ten minutes."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "βράζω νερό",
+                            "translation": "to boil water"
+                        },
+                        {
+                            "collocation": "βράζω τα μακαρόνια",
+                            "translation": "to boil the pasta"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-f-028",
+                    "item": "τηγανίζω",
+                    "meaning": "to fry",
+                    "examples": [
+                        {
+                            "example": "Τηγανίζω αυγά σε ελαιόλαδο.",
+                            "translation": "I fry eggs in olive oil."
+                        },
+                        {
+                            "example": "Τηγανίζω τα λαχανικά σε ζεστό λάδι.",
+                            "translation": "I fry the vegetables in hot oil."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "τηγανίζω σε βαθύ λάδι",
+                            "translation": "to deep fry"
+                        },
+                        {
+                            "collocation": "ελαφρά τηγανισμένο",
+                            "translation": "lightly fried / sautéed"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-f-029",
+                    "item": "κόβω",
+                    "meaning": "to cut / to chop",
+                    "examples": [
+                        {
+                            "example": "Κόβω τα λαχανικά σε μικρά κομμάτια.",
+                            "translation": "I cut the vegetables into small pieces."
+                        },
+                        {
+                            "example": "Κόβω το ψωμί με μαχαίρι.",
+                            "translation": "I cut the bread with a knife."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "κόβω σε φέτες",
+                            "translation": "to slice"
+                        },
+                        {
+                            "collocation": "κόβω σε κύβους",
+                            "translation": "to dice"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-f-030",
+                    "item": "ανακατεύω",
+                    "meaning": "to mix / to stir",
+                    "examples": [
+                        {
+                            "example": "Ανακατεύω τα υλικά με κουτάλα.",
+                            "translation": "I stir the ingredients with a spoon."
+                        },
+                        {
+                            "example": "Ανακατεύω τη σούπα να μην κολλήσει.",
+                            "translation": "I stir the soup so it doesn't stick."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "ανακατεύω καλά",
+                            "translation": "to mix well"
+                        },
+                        {
+                            "collocation": "ανακατεύω με σύρμα",
+                            "translation": "to whisk"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-f-031",
+                    "item": "προσθέτω",
+                    "meaning": "to add",
+                    "examples": [
+                        {
+                            "example": "Προσθέτω αλάτι και πιπέρι.",
+                            "translation": "I add salt and pepper."
+                        },
+                        {
+                            "example": "Προσθέτω λίγο νερό στη ζύμη.",
+                            "translation": "I add a little water to the dough."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "προσθέτω σταδιακά",
+                            "translation": "to add gradually"
+                        },
+                        {
+                            "collocation": "προσθέτω για γεύση",
+                            "translation": "to add for taste"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-f-032",
+                    "item": "η συνταγή",
+                    "meaning": "recipe",
+                    "examples": [
+                        {
+                            "example": "Ακολουθώ τη συνταγή της μαμάς.",
+                            "translation": "I follow my mom's recipe."
+                        },
+                        {
+                            "example": "Αυτή η συνταγή είναι πολύ εύκολη.",
+                            "translation": "This recipe is very easy."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "ακολουθώ τη συνταγή",
+                            "translation": "to follow the recipe"
+                        },
+                        {
+                            "collocation": "παραδοσιακή συνταγή",
+                            "translation": "traditional recipe"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-f-033",
+                    "item": "ο φούρνος",
+                    "meaning": "oven",
+                    "examples": [
+                        {
+                            "example": "Ζεσταίνω τον φούρνο στους 180 βαθμούς.",
+                            "translation": "I preheat the oven to 180 degrees."
+                        },
+                        {
+                            "example": "Βάζω το κέικ στον φούρνο.",
+                            "translation": "I put the cake in the oven."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "προθερμαίνω τον φούρνο",
+                            "translation": "to preheat the oven"
+                        },
+                        {
+                            "collocation": "θερμοκρασία φούρνου",
+                            "translation": "oven temperature"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-f-034",
+                    "item": "το τηγάνι",
+                    "meaning": "frying pan",
+                    "examples": [
+                        {
+                            "example": "Ζεσταίνω το τηγάνι πριν βάλω το λάδι.",
+                            "translation": "I heat the pan before adding the oil."
+                        },
+                        {
+                            "example": "Τηγανίζω αυγά σε αντικολλητικό τηγάνι.",
+                            "translation": "I fry eggs in a non-stick pan."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "αντικολλητικό τηγάνι",
+                            "translation": "non-stick pan"
+                        },
+                        {
+                            "collocation": "σε μέτρια φωτιά",
+                            "translation": "on medium heat"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-f-035",
+                    "item": "η κατσαρόλα",
+                    "meaning": "pot / saucepan",
+                    "examples": [
+                        {
+                            "example": "Βάζω νερό στην κατσαρόλα και το βάζω να βράσει.",
+                            "translation": "I put water in the pot and bring it to boil."
+                        },
+                        {
+                            "example": "Μαγειρεύω τη σούπα σε μεγάλη κατσαρόλα.",
+                            "translation": "I cook the soup in a large pot."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "βάζω σε κατσαρόλα",
+                            "translation": "to put in a pot"
+                        },
+                        {
+                            "collocation": "μεγάλη κατσαρόλα",
+                            "translation": "large pot"
+                        }
+                    ]
+                },
+                {
+                    "id": "v-f-036",
+                    "item": "η ζύμη",
+                    "meaning": "dough / batter",
+                    "examples": [
+                        {
+                            "example": "Ζυμώνω τη ζύμη για δέκα λεπτά.",
+                            "translation": "I knead the dough for ten minutes."
+                        },
+                        {
+                            "example": "Η ζύμη πρέπει να ξεκουραστεί μια ώρα.",
+                            "translation": "The dough needs to rest for one hour."
+                        }
+                    ],
+                    "collocations": [
+                        {
+                            "collocation": "ζυμώνω τη ζύμη",
+                            "translation": "to knead the dough"
+                        },
+                        {
+                            "collocation": "ζύμη για ψωμί",
+                            "translation": "bread dough"
+                        }
+                    ]
+                }
+            ],
+            "story": {
+                "sentences": [
+                    {
+                        "sentence": "Σήμερα θέλω να μαγειρέψω μια παραδοσιακή ελληνική συνταγή.",
+                        "translation": "Today I want to cook a traditional Greek recipe."
+                    },
+                    {
+                        "sentence": "Πρώτα κόβω τα λαχανικά σε μικρά κομμάτια.",
+                        "translation": "First I cut the vegetables into small pieces."
+                    },
+                    {
+                        "sentence": "Ζεσταίνω το τηγάνι και προσθέτω λίγο ελαιόλαδο.",
+                        "translation": "I heat the pan and add a little olive oil."
+                    },
+                    {
+                        "sentence": "Τηγανίζω τα λαχανικά για πέντε λεπτά.",
+                        "translation": "I fry the vegetables for five minutes."
+                    },
+                    {
+                        "sentence": "Ανακατεύω συχνά για να μην κολλήσουν.",
+                        "translation": "I stir often so they don't stick."
+                    },
+                    {
+                        "sentence": "Προσθέτω αλάτι και τα μπαχαρικά.",
+                        "translation": "I add salt and the spices."
+                    },
+                    {
+                        "sentence": "Βάζω νερό στην κατσαρόλα και το βράζω.",
+                        "translation": "I put water in the pot and boil it."
+                    },
+                    {
+                        "sentence": "Βράζω τα μακαρόνια σύμφωνα με τη συνταγή.",
+                        "translation": "I boil the pasta according to the recipe."
+                    },
+                    {
+                        "sentence": "Παράλληλα, ψήνω ψωμί στον φούρνο.",
+                        "translation": "At the same time, I bake bread in the oven."
+                    },
+                    {
+                        "sentence": "Ετοιμάζω τη ζύμη για το ψωμί από νωρίς.",
+                        "translation": "I prepare the bread dough early."
+                    },
+                    {
+                        "sentence": "Ζυμώνω καλά και αφήνω τη ζύμη να φουσκώσει.",
+                        "translation": "I knead well and let the dough rise."
+                    },
+                    {
+                        "sentence": "Στο τέλος, το φαγητό είναι έτοιμο και η κουζίνα μυρίζει υπέροχα!",
+                        "translation": "In the end, the food is ready and the kitchen smells wonderful!"
+                    }
+                ]
+            }
+        }
+    ]
+}

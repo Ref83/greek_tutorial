@@ -1,0 +1,82 @@
+{
+    "exercises": [
+        {
+            "id": "e2sh1-001",
+            "type": "translate",
+            "header": "I love sweets.",
+            "answer": "Αγαπώ τα γλυκά."
+        },
+        {
+            "id": "e2sh1-002",
+            "type": "translate",
+            "header": "I want a sweet with my coffee.",
+            "answer": "Θέλω ένα γλυκό με τον καφέ μου."
+        },
+        {
+            "id": "e2sh1-003",
+            "type": "translate",
+            "header": "I make a chocolate cake.",
+            "answer": "Φτιάχνω ένα κέικ σοκολάτας."
+        },
+        {
+            "id": "e2sh1-004",
+            "type": "translate",
+            "header": "I buy cake from the bakery.",
+            "answer": "Αγοράζω κέικ από τον φούρνο."
+        },
+        {
+            "id": "e2sh1-005",
+            "type": "translate",
+            "header": "I order a cake for my birthday.",
+            "answer": "Παραγγέλνω τούρτα για τα γενέθλιά μου."
+        },
+        {
+            "id": "e2sh1-006",
+            "type": "translate",
+            "header": "The cake has cream.",
+            "answer": "Η τούρτα έχει κρέμα."
+        },
+        {
+            "id": "e2sh1-007",
+            "type": "translate",
+            "header": "I eat biscuits with my coffee.",
+            "answer": "Τρώω μπισκότα με τον καφέ μου."
+        },
+        {
+            "id": "e2sh1-008",
+            "type": "translate",
+            "header": "I buy half a kilo of biscuits.",
+            "answer": "Αγοράζω μισό κιλό μπισκότα."
+        },
+        {
+            "id": "e2sh1-009",
+            "type": "translate",
+            "header": "I eat a croissant for breakfast.",
+            "answer": "Τρώω ένα κρουασάν για πρωινό."
+        },
+        {
+            "id": "e2sh1-010",
+            "type": "translate",
+            "header": "I want a croissant with butter.",
+            "answer": "Θέλω κρουασάν με βούτυρο."
+        },
+        {
+            "id": "e2sh1-011",
+            "type": "translate",
+            "header": "Tsoureki is a traditional Greek sweet bread.",
+            "answer": "Το τσουρέκι είναι παραδοσιακό ελληνικό γλυκό."
+        },
+        {
+            "id": "e2sh1-012",
+            "type": "translate",
+            "header": "We eat tsoureki at Easter.",
+            "answer": "Τρώμε τσουρέκι το Πάσχα."
+        },
+        {
+            "id": "e2sh1-013",
+            "type": "translate",
+            "header": "Baklava is very sweet.",
+            "answer": "Ο μπακλαβάς είναι πολύ γλυκός."
+        }
+    ]
+}

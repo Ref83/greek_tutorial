@@ -1,0 +1,17 @@
+{
+    "exercises": [
+        {"id": "e-nd-b3-001", "type": "translate", "header": "In January it is very cold.", "answer": "Τον Ιανουάριο κάνει πολύ κρύο."},
+        {"id": "e-nd-b3-002", "type": "translate", "header": "New Year's Day is January 1st.", "answer": "Η Πρωτοχρονιά είναι η πρώτη Ιανουαρίου."},
+        {"id": "e-nd-b3-003", "type": "translate", "header": "February has twenty-eight days.", "answer": "Ο Φεβρουάριος έχει είκοσι οχτώ μέρες."},
+        {"id": "e-nd-b3-004", "type": "translate", "header": "In February we celebrate Valentine's Day.", "answer": "Τον Φεβρουάριο γιορτάζουμε τον Άγιο Βαλεντίνο."},
+        {"id": "e-nd-b3-005", "type": "translate", "header": "In March flowers bloom.", "answer": "Τον Μάρτιο ανθίζουν τα λουλούδια."},
+        {"id": "e-nd-b3-006", "type": "translate", "header": "Spring begins in March.", "answer": "Η Άνοιξη αρχίζει τον Μάρτιο."},
+        {"id": "e-nd-b3-007", "type": "translate", "header": "In April we often celebrate Easter.", "answer": "Τον Απρίλιο γιορτάζουμε συχνά το Πάσχα."},
+        {"id": "e-nd-b3-008", "type": "translate", "header": "April Fool's Day is on April 1st.", "answer": "Η Πρωταπριλιά είναι την πρώτη Απριλίου."},
+        {"id": "e-nd-b3-009", "type": "translate", "header": "In May the weather is very nice.", "answer": "Τον Μάιο ο καιρός είναι πολύ ωραίος."},
+        {"id": "e-nd-b3-010", "type": "translate", "header": "May Day is on May 1st.", "answer": "Η Πρωτομαγιά είναι την πρώτη Μαΐου."},
+        {"id": "e-nd-b3-011", "type": "translate", "header": "In June school ends.", "answer": "Τον Ιούνιο τελειώνει το σχολείο."},
+        {"id": "e-nd-b3-012", "type": "translate", "header": "Summer begins in June.", "answer": "Το καλοκαίρι αρχίζει τον Ιούνιο."},
+        {"id": "e-nd-b3-013", "type": "translate", "header": "In January and February it is cold.", "answer": "Τον Ιανουάριο και τον Φεβρουάριο κάνει κρύο."}
+    ]
+}

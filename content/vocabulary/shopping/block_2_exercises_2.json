@@ -1,0 +1,76 @@
+{
+    "exercises": [
+        {
+            "id": "e2sh2-001",
+            "type": "translate",
+            "header": "I buy baklava from the pastry shop.",
+            "answer": "Αγοράζω μπακλαβά από το ζαχαροπλαστείο."
+        },
+        {
+            "id": "e2sh2-002",
+            "type": "translate",
+            "header": "Children love donuts.",
+            "answer": "Τα παιδιά αγαπούν τα ντόνατ."
+        },
+        {
+            "id": "e2sh2-003",
+            "type": "translate",
+            "header": "I get a chocolate donut.",
+            "answer": "Παίρνω ένα ντόνατ με σοκολάτα."
+        },
+        {
+            "id": "e2sh2-004",
+            "type": "translate",
+            "header": "I make blueberry muffins.",
+            "answer": "Φτιάχνω μάφιν με μύρτιλα."
+        },
+        {
+            "id": "e2sh2-005",
+            "type": "translate",
+            "header": "I buy a muffin for breakfast.",
+            "answer": "Αγοράζω ένα μάφιν για πρωινό."
+        },
+        {
+            "id": "e2sh2-006",
+            "type": "translate",
+            "header": "The apple pie smells like cinnamon.",
+            "answer": "Η μηλόπιτα μυρίζει κανέλα."
+        },
+        {
+            "id": "e2sh2-007",
+            "type": "translate",
+            "header": "I eat apple pie with ice cream.",
+            "answer": "Τρώω μηλόπιτα με παγωτό."
+        },
+        {
+            "id": "e2sh2-008",
+            "type": "translate",
+            "header": "Kataifi is a traditional Greek sweet.",
+            "answer": "Το κανταΐφι είναι ένα παραδοσιακό ελληνικό γλυκό."
+        },
+        {
+            "id": "e2sh2-009",
+            "type": "translate",
+            "header": "I buy kataifi from the pastry shop.",
+            "answer": "Αγοράζω κανταΐφι από το ζαχαροπλαστείο."
+        },
+        {
+            "id": "e2sh2-010",
+            "type": "translate",
+            "header": "I buy a cream roll.",
+            "answer": "Αγοράζω ένα ρολό με κρέμα."
+        },
+        {
+            "id": "e2sh2-011",
+            "type": "translate",
+            "header": "The chocolate roll is delicious.",
+            "answer": "Το ρολό σοκολάτας είναι νόστιμο."
+        },
+        {
+            "id": "e2sh2-012",
+            "type": "translate",
+            "header": "I buy homemade biscuits.",
+            "answer": "Αγοράζω σπιτικά μπισκότα."
+        }
+    ]
+}

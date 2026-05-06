@@ -1,0 +1,17 @@
+{
+    "exercises": [
+        {"id": "e-nd-b1-001", "type": "translate", "header": "The temperature is zero degrees.", "answer": "Η θερμοκρασία είναι μηδέν βαθμούς."},
+        {"id": "e-nd-b1-002", "type": "translate", "header": "My grade was zero.", "answer": "Ο βαθμός μου ήταν μηδέν."},
+        {"id": "e-nd-b1-003", "type": "translate", "header": "I start from zero.", "answer": "Αρχίζω από μηδέν."},
+        {"id": "e-nd-b1-004", "type": "translate", "header": "I have one brother.", "answer": "Έχω ένα αδελφό."},
+        {"id": "e-nd-b1-005", "type": "translate", "header": "I want one beer, please.", "answer": "Θέλω μία μπύρα, παρακαλώ."},
+        {"id": "e-nd-b1-006", "type": "translate", "header": "One friend is waiting for me.", "answer": "Ένας φίλος με περιμένει."},
+        {"id": "e-nd-b1-007", "type": "translate", "header": "I have two children.", "answer": "Έχω δύο παιδιά."},
+        {"id": "e-nd-b1-008", "type": "translate", "header": "Two coffees, please.", "answer": "Δύο καφέδες, παρακαλώ."},
+        {"id": "e-nd-b1-009", "type": "translate", "header": "I call him twice a day.", "answer": "Τον τηλεφωνώ δύο φορές τη μέρα."},
+        {"id": "e-nd-b1-010", "type": "translate", "header": "I have three cats.", "answer": "Έχω τρεις γάτες."},
+        {"id": "e-nd-b1-011", "type": "translate", "header": "Three children are playing in the yard.", "answer": "Τρία παιδιά παίζουν στην αυλή."},
+        {"id": "e-nd-b1-012", "type": "translate", "header": "A square has four sides.", "answer": "Ένα τετράγωνο έχει τέσσερις πλευρές."},
+        {"id": "e-nd-b1-013", "type": "translate", "header": "We have four rooms in the house.", "answer": "Έχουμε τέσσερα δωμάτια στο σπίτι."}
+    ]
+}

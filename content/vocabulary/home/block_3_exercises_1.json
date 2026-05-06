@@ -1,0 +1,17 @@
+{
+  "exercises": [
+    {"id": "e-home-b3-001", "type": "translate", "header": "The bed is very comfortable.", "answer": "Το κρεβάτι είναι πολύ άνετο."},
+    {"id": "e-home-b3-002", "type": "translate", "header": "I make my bed every morning.", "answer": "Στρώνω το κρεβάτι μου κάθε πρωί."},
+    {"id": "e-home-b3-003", "type": "translate", "header": "My desk is next to the window.", "answer": "Το γραφείο μου είναι δίπλα στο παράθυρο."},
+    {"id": "e-home-b3-004", "type": "translate", "header": "I study at my desk every evening.", "answer": "Μελετάω στο γραφείο μου κάθε βράδι."},
+    {"id": "e-home-b3-005", "type": "translate", "header": "The chair in the kitchen is broken.", "answer": "Η καρέκλα στην κουζίνα είναι σπασμένη."},
+    {"id": "e-home-b3-006", "type": "translate", "header": "Please sit on this chair.", "answer": "Παρακαλώ κάτσε σε αυτή την καρέκλα."},
+    {"id": "e-home-b3-007", "type": "translate", "header": "The sofa in the living room is new.", "answer": "Ο καναπές στο σαλόνι είναι καινούργιος."},
+    {"id": "e-home-b3-008", "type": "translate", "header": "The whole family sits on the sofa to watch TV.", "answer": "Όλη η οικογένεια κάθεται στον καναπέ να δει τηλεόραση."},
+    {"id": "e-home-b3-009", "type": "translate", "header": "The curtains are too long.", "answer": "Οι κουρτίνες είναι πολύ μακριές."},
+    {"id": "e-home-b3-010", "type": "translate", "header": "I closed the curtains because the sun was strong.", "answer": "Έκλεισα τις κουρτίνες γιατί ο ήλιος ήταν δυνατός."},
+    {"id": "e-home-b3-011", "type": "translate", "header": "There is a large mirror in the bathroom.", "answer": "Υπάρχει ένας μεγάλος καθρέφτης στο μπάνιο."},
+    {"id": "e-home-b3-012", "type": "translate", "header": "I look at myself in the mirror every morning.", "answer": "Κοιτάζομαι στον καθρέφτη κάθε πρωί."},
+    {"id": "e-home-b3-013", "type": "translate", "header": "The table in the dining room is round.", "answer": "Το τραπέζι στην τραπεζαρία είναι στρογγυλό."}
+  ]
+}
