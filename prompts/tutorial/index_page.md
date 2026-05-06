@@ -4,6 +4,7 @@ The main page of the tutorial should have a caption "Greek tutorial".
 As well as sections: 
 - Grammar
 - Vocabulary
+- Roadmap
 - Reading
 - Writing
 
