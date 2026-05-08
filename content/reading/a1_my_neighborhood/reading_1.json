@@ -1,0 +1,90 @@
+{
+  "text": {
+    "greek": "Η γειτονιά μου\n\nΜένω στο Κολωνάκι, μια ωραία γειτονιά στην Αθήνα. Το Κολωνάκι είναι κοντά στο κέντρο και είναι πολύ εύκολο να πάω παντού με τα πόδια ή με το μετρό.\n\nΣτη γειτονιά μου υπάρχουν πολλά καφέ, εστιατόρια και μαγαζιά. Πηγαίνω σχεδόν κάθε πρωί σε ένα μικρό καφέ που λέγεται «Ο Πλάτανος». Πίνω τον καφέ μου και διαβάζω εφημερίδα.\n\nΚοντά στο σπίτι μου υπάρχει ένα πάρκο με πολλά δέντρα. Τα απογεύματα πηγαίνω εκεί για περίπατο. Πολλές οικογένειες με παιδιά πηγαίνουν επίσης στο πάρκο.\n\nΣτο δρόμο μου ζουν πολύ καλοί άνθρωποι. Ο κύριος Δημήτρης, που μένει στο διπλανό κτίριο, είναι πάντα φιλικός. Η κυρία Ελένη από το ισόγειο φτιάχνει ωραία γλυκά και μας τα δίνει συχνά.\n\nΜου αρέσει πολύ η γειτονιά μου γιατί είναι ήρεμη και όμορφη.",
+    "english": "My neighborhood\n\nI live in Kolonaki, a lovely neighborhood in Athens. Kolonaki is close to the center and it is very easy to go everywhere on foot or by metro.\n\nIn my neighborhood there are many cafés, restaurants, and shops. I go almost every morning to a small café called \"The Plane Tree\". I drink my coffee and read a newspaper.\n\nNear my house there is a park with many trees. In the afternoons I go there for a walk. Many families with children also go to the park.\n\nOn my street live very good people. Mr. Dimitris, who lives in the neighboring building, is always friendly. Mrs. Eleni from the ground floor makes lovely sweets and often gives them to us.\n\nI like my neighborhood very much because it is peaceful and beautiful."
+  },
+  "questions": [
+    {
+      "type": "true_false",
+      "is_example": true,
+      "statement": "Το Κολωνάκι βρίσκεται στην Αθήνα.",
+      "answer": "true"
+    },
+    {
+      "type": "true_false",
+      "statement": "Το Κολωνάκι είναι μακριά από το κέντρο.",
+      "answer": "false"
+    },
+    {
+      "type": "true_false",
+      "statement": "Το καφέ στη γειτονιά λέγεται «Ο Πλάτανος».",
+      "answer": "true"
+    },
+    {
+      "type": "true_false",
+      "statement": "Κοντά στο σπίτι υπάρχει μια λίμνη.",
+      "answer": "false"
+    },
+    {
+      "type": "true_false",
+      "statement": "Ο κύριος Δημήτρης είναι πάντα φιλικός.",
+      "answer": "true"
+    },
+    {
+      "type": "true_false",
+      "statement": "Η κυρία Ελένη μένει στον 3ο όροφο.",
+      "answer": "false"
+    },
+    {
+      "type": "true_false",
+      "statement": "Ο συγγραφέας πηγαίνει για περίπατο στο πάρκο.",
+      "answer": "true"
+    },
+    {
+      "type": "matching",
+      "beginnings": [
+        { "text": "Η γειτονιά λέγεται..." },
+        { "text": "Κάθε πρωί ο συγγραφέας πηγαίνει..." },
+        { "text": "Κοντά στο σπίτι υπάρχει..." },
+        { "text": "Ο κύριος Δημήτρης μένει..." },
+        { "text": "Η κυρία Ελένη φτιάχνει..." },
+        { "text": "Ο συγγραφέας αγαπά τη γειτονιά γιατί..." }
+      ],
+      "endings": [
+        { "text": "...σε ένα μικρό καφέ." },
+        { "text": "...Κολωνάκι." },
+        { "text": "...ωραία γλυκά." },
+        { "text": "...ένα πάρκο με δέντρα." },
+        { "text": "...είναι ήρεμη και όμορφη." },
+        { "text": "...στο διπλανό κτίριο." },
+        { "text": "...στη Θεσσαλονίκη." },
+        { "text": "...μακριά από το κέντρο." }
+      ],
+      "answers": { "0": 1, "1": 0, "2": 3, "3": 5, "4": 2, "5": 4 }
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Πού βρίσκεται το Κολωνάκι;",
+      "options": { "a": "Θεσσαλονίκη", "b": "Αθήνα", "c": "Πειραιάς" },
+      "answer": "b"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Πώς λέγεται το καφέ;",
+      "options": { "a": "Ο Κέδρος", "b": "Ο Πλάτανος", "c": "Ο Φοίνικας" },
+      "answer": "b"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Πού πηγαίνει ο συγγραφέας τα απογεύματα;",
+      "options": { "a": "στο καφέ", "b": "στο μετρό", "c": "στο πάρκο" },
+      "answer": "c"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Τι κάνει η κυρία Ελένη;",
+      "options": { "a": "Φτιάχνει γλυκά.", "b": "Πουλάει καφέ.", "c": "Δουλεύει στο πάρκο." },
+      "answer": "a"
+    }
+  ]
+}

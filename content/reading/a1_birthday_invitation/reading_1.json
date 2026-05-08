@@ -1,0 +1,90 @@
+{
+  "text": {
+    "greek": "Αγαπητέ Γιώργη,\n\nΣε καλώ στα γενέθλιά μου!\n\nΠάρτι Γενεθλίων\nΗμερομηνία: Σάββατο, 15 Μαΐου\nΏρα: 6 το απόγευμα\nΤόπος: Οδός Αθήνας 12, Θεσσαλονίκη\n\nΘα έχουμε τούρτα, μουσική και πολλή διασκέδαση! Θα χαρώ πολύ να σε δω.\n\nΦιλάκια,\nΜαρία",
+    "english": "Dear Giorgis,\n\nI invite you to my birthday!\n\nBirthday Party\nDate: Saturday, May 15th\nTime: 6 in the evening\nPlace: Athens Street 12, Thessaloniki\n\nWe will have cake, music, and lots of fun! I will be very happy to see you.\n\nWith love,\nMaria"
+  },
+  "questions": [
+    {
+      "type": "true_false",
+      "is_example": true,
+      "statement": "Η Μαρία γράφει ένα γράμμα.",
+      "answer": "true"
+    },
+    {
+      "type": "true_false",
+      "statement": "Το πάρτι είναι την Κυριακή.",
+      "answer": "false"
+    },
+    {
+      "type": "true_false",
+      "statement": "Το πάρτι ξεκινά στις 6 το απόγευμα.",
+      "answer": "true"
+    },
+    {
+      "type": "true_false",
+      "statement": "Η διεύθυνση είναι στην Αθήνα.",
+      "answer": "false"
+    },
+    {
+      "type": "true_false",
+      "statement": "Θα υπάρχει μουσική στο πάρτι.",
+      "answer": "true"
+    },
+    {
+      "type": "true_false",
+      "statement": "Ο Γιώργης κλείνει τα γενέθλιά του.",
+      "answer": "false"
+    },
+    {
+      "type": "true_false",
+      "statement": "Η Μαρία θέλει να δει τον Γιώργη.",
+      "answer": "true"
+    },
+    {
+      "type": "matching",
+      "beginnings": [
+        { "text": "Η Μαρία καλεί τον Γιώργη..." },
+        { "text": "Το πάρτι είναι..." },
+        { "text": "Η ώρα του πάρτι είναι..." },
+        { "text": "Η διεύθυνση είναι..." },
+        { "text": "Στο πάρτι θα υπάρχει..." },
+        { "text": "Η Μαρία θέλει..." }
+      ],
+      "endings": [
+        { "text": "...στις 6 το απόγευμα." },
+        { "text": "...τούρτα και μουσική." },
+        { "text": "...στα γενέθλιά της." },
+        { "text": "...να δει τον Γιώργη." },
+        { "text": "...Οδός Αθήνας 12, Θεσσαλονίκη." },
+        { "text": "...την Κυριακή το βράδυ." },
+        { "text": "...το Σάββατο, 15 Μαΐου." },
+        { "text": "...μόνο φίλους της σχολής." }
+      ],
+      "answers": { "0": 2, "1": 6, "2": 0, "3": 4, "4": 1, "5": 3 }
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Πού είναι το πάρτι;",
+      "options": { "a": "Αθήνα", "b": "Θεσσαλονίκη", "c": "Λάρισα" },
+      "answer": "b"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Τι ημέρα είναι το πάρτι;",
+      "options": { "a": "Παρασκευή", "b": "Κυριακή", "c": "Σάββατο" },
+      "answer": "c"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Τι θα υπάρχει στο πάρτι;",
+      "options": { "a": "τούρτα και μουσική", "b": "μόνο μουσική", "c": "φαγητό και ταινία" },
+      "answer": "a"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Ποιος κλείνει τα γενέθλια;",
+      "options": { "a": "ο Γιώργης", "b": "η Μαρία", "c": "η φίλη τους" },
+      "answer": "b"
+    }
+  ]
+}

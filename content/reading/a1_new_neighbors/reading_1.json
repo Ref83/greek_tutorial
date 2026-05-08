@@ -1,0 +1,90 @@
+{
+  "text": {
+    "greek": "Αγαπητοί γείτονες,\n\nΛεγόμαστε Γιώργος και Αλεξάνδρα Σταματίου και μόλις μετακομίσαμε στο διαμέρισμα 4Β, στον 2ο όροφο. Θέλουμε να σας γνωρίσουμε και να γίνουμε καλοί γείτονες.\n\nΟ Γιώργος είναι 42 χρονών και δουλεύει ως μηχανικός. Εγώ, η Αλεξάνδρα, είμαι 38 χρονών και είμαι νοσοκόμα στο νοσοκομείο «Ευαγγελισμός». Έχουμε δύο σκύλους που λέγονται Ρέα και Άρης. Είναι πολύ φιλικοί!\n\nΑγαπάμε τη μουσική αλλά δεν κάνουμε θόρυβο τα βράδια. Σεβόμαστε τους γείτονές μας. Αν έχετε κάποιο πρόβλημα, μπορείτε να χτυπήσετε την πόρτα μας.\n\nΤο σαββατοκύριακο θέλουμε να οργανώσουμε μια μικρή γνωριμία με καφέ και γλυκά στο διαμέρισμά μας. Θα χαρούμε πολύ αν έρθετε!\n\nΜε εκτίμηση,\nΓιώργος και Αλεξάνδρα",
+    "english": "Dear neighbors,\n\nOur names are Giorgos and Alexandra Stamatiou and we have just moved into apartment 4B, on the 2nd floor. We want to get to know you and become good neighbors.\n\nGiorgos is 42 years old and works as an engineer. I, Alexandra, am 38 years old and I am a nurse at the \"Evangelismos\" hospital. We have two dogs named Rea and Aris. They are very friendly!\n\nWe love music but we do not make noise in the evenings. We respect our neighbors. If you have any problem, you can knock on our door.\n\nThis weekend we want to organize a small gathering with coffee and sweets in our apartment. We would be very happy if you came!\n\nWith regards,\nGiorgos and Alexandra"
+  },
+  "questions": [
+    {
+      "type": "true_false",
+      "is_example": true,
+      "statement": "Ο Γιώργος και η Αλεξάνδρα είναι νέοι γείτονες.",
+      "answer": "true"
+    },
+    {
+      "type": "true_false",
+      "statement": "Ο Γιώργος είναι γιατρός.",
+      "answer": "false"
+    },
+    {
+      "type": "true_false",
+      "statement": "Η Αλεξάνδρα είναι 38 χρονών.",
+      "answer": "true"
+    },
+    {
+      "type": "true_false",
+      "statement": "Οι Σταματίου έχουν μια γάτα.",
+      "answer": "false"
+    },
+    {
+      "type": "true_false",
+      "statement": "Ο Γιώργος και η Αλεξάνδρα κάνουν θόρυβο τα βράδια.",
+      "answer": "false"
+    },
+    {
+      "type": "true_false",
+      "statement": "Θέλουν να οργανώσουν μια γνωριμία το σαββατοκύριακο.",
+      "answer": "true"
+    },
+    {
+      "type": "true_false",
+      "statement": "Το διαμέρισμά τους είναι στον 2ο όροφο.",
+      "answer": "true"
+    },
+    {
+      "type": "matching",
+      "beginnings": [
+        { "text": "Ο Γιώργος δουλεύει..." },
+        { "text": "Η Αλεξάνδρα εργάζεται..." },
+        { "text": "Οι Σταματίου μένουν στο..." },
+        { "text": "Τα σκυλιά τους λέγονται..." },
+        { "text": "Αν έχετε πρόβλημα..." },
+        { "text": "Το σαββατοκύριακο..." }
+      ],
+      "endings": [
+        { "text": "...Ρέα και Άρης." },
+        { "text": "...θέλουν να οργανώσουν μια γνωριμία." },
+        { "text": "...ως μηχανικός." },
+        { "text": "...μπορείτε να χτυπήσετε την πόρτα τους." },
+        { "text": "...στο νοσοκομείο «Ευαγγελισμός»." },
+        { "text": "...διαμέρισμα 4Β." },
+        { "text": "...ως δάσκαλος." },
+        { "text": "...σε ένα σχολείο." }
+      ],
+      "answers": { "0": 2, "1": 4, "2": 5, "3": 0, "4": 3, "5": 1 }
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Σε ποιον όροφο μένουν οι Σταματίου;",
+      "options": { "a": "1ο", "b": "2ο", "c": "3ο" },
+      "answer": "b"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Τι δουλειά κάνει η Αλεξάνδρα;",
+      "options": { "a": "δασκάλα", "b": "γιατρός", "c": "νοσοκόμα" },
+      "answer": "c"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Πόσα σκυλιά έχουν;",
+      "options": { "a": "ένα", "b": "δύο", "c": "τρία" },
+      "answer": "b"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Τι θέλουν να κάνουν το σαββατοκύριακο;",
+      "options": { "a": "να πάνε διακοπές", "b": "να οργανώσουν μια γνωριμία", "c": "να αγοράσουν έπιπλα" },
+      "answer": "b"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "text": {
+    "greek": "Η καφετέρια «Ο Παρνασσός» βρίσκεται στην καρδιά της Αθήνας, κοντά στην Ακρόπολη. Είναι μια παλιά και ωραία καφετέρια. Ο ιδιοκτήτης λέγεται Κώστας Μαυρίδης και είναι 55 χρονών. Ο Κώστας δουλεύει στην καφετέρια κάθε μέρα.\n\nΗ καφετέρια είναι ανοιχτά από τις 7 το πρωί μέχρι τις 11 το βράδυ. Μπορείτε να πιείτε ελληνικό καφέ, φραπέ ή τσάι. Επίσης, σερβίρουν γλυκά, σάντουιτς και σαλάτες. Ο ελληνικός καφές κοστίζει 2 ευρώ και ο φραπέ κοστίζει 2,50 ευρώ.\n\nΗ καφετέρια έχει πολλές καρέκλες και τραπέζια. Τα Σαββατοκύριακα, πολλοί άνθρωποι πηγαίνουν εκεί με τους φίλους τους. Υπάρχει και μουσική. Οι πελάτες αγαπούν τον Παρνασσό γιατί είναι ζεστό και φιλικό μέρος.\n\nΗ διεύθυνση είναι Οδός Απόλλωνος 14. Το τηλέφωνο είναι 210-456-7890. Κάθε Πέμπτη υπάρχει ζωντανή μουσική από τις 8 το βράδυ.",
+    "english": "The café \"Parnassos\" is located in the heart of Athens, near the Acropolis. It is an old and beautiful café. The owner's name is Kostas Mavridis and he is 55 years old. Kostas works at the café every day.\n\nThe café is open from 7 in the morning until 11 at night. You can drink Greek coffee, frappé, or tea. They also serve sweets, sandwiches, and salads. Greek coffee costs 2 euros and frappé costs 2.50 euros.\n\nThe café has many chairs and tables. On weekends, many people go there with their friends. There is also music. The customers love Parnassos because it is a warm and friendly place.\n\nThe address is 14 Apollonos Street. The phone number is 210-456-7890. Every Thursday there is live music from 8 in the evening."
+  },
+  "questions": [
+    {
+      "type": "true_false",
+      "is_example": true,
+      "statement": "Η καφετέρια βρίσκεται στην Αθήνα.",
+      "answer": "true"
+    },
+    {
+      "type": "true_false",
+      "statement": "Η καφετέρια ανοίγει στις 8 το πρωί.",
+      "answer": "false"
+    },
+    {
+      "type": "true_false",
+      "statement": "Ο Κώστας είναι ο ιδιοκτήτης της καφετέριας.",
+      "answer": "true"
+    },
+    {
+      "type": "true_false",
+      "statement": "Μπορείτε να φάτε σαλάτα στην καφετέρια.",
+      "answer": "true"
+    },
+    {
+      "type": "true_false",
+      "statement": "Ο φραπέ κοστίζει 2 ευρώ.",
+      "answer": "false"
+    },
+    {
+      "type": "true_false",
+      "statement": "Τα Σαββατοκύριακα η καφετέρια είναι κλειστή.",
+      "answer": "false"
+    },
+    {
+      "type": "true_false",
+      "statement": "Κάθε Πέμπτη υπάρχει ζωντανή μουσική.",
+      "answer": "true"
+    },
+    {
+      "type": "matching",
+      "beginnings": [
+        { "text": "Η καφετέρια «Ο Παρνασσός» βρίσκεται..." },
+        { "text": "Ο ιδιοκτήτης της καφετέριας λέγεται..." },
+        { "text": "Η καφετέρια είναι ανοιχτά..." },
+        { "text": "Ο ελληνικός καφές κοστίζει..." },
+        { "text": "Κάθε Πέμπτη..." },
+        { "text": "Οι πελάτες αγαπούν τον Παρνασσό γιατί..." }
+      ],
+      "endings": [
+        { "text": "...είναι ζεστό και φιλικό μέρος." },
+        { "text": "...Κώστας Μαυρίδης." },
+        { "text": "...υπάρχει ζωντανή μουσική." },
+        { "text": "...από τις 7 το πρωί μέχρι τις 11 το βράδυ." },
+        { "text": "...στην καρδιά της Αθήνας." },
+        { "text": "...2 ευρώ." },
+        { "text": "...στη Θεσσαλονίκη." },
+        { "text": "...κάθε Σάββατο." }
+      ],
+      "answers": { "0": 4, "1": 1, "2": 3, "3": 5, "4": 2, "5": 0 }
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Πού βρίσκεται η καφετέρια «Ο Παρνασσός»;",
+      "options": { "a": "Θεσσαλονίκη", "b": "Αθήνα", "c": "Πάτρα" },
+      "answer": "b"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Πόσο χρονών είναι ο Κώστας;",
+      "options": { "a": "45", "b": "55", "c": "65" },
+      "answer": "b"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Τι ώρα ανοίγει η καφετέρια;",
+      "options": { "a": "7 το πρωί", "b": "8 το πρωί", "c": "9 το πρωί" },
+      "answer": "a"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Πότε υπάρχει ζωντανή μουσική;",
+      "options": { "a": "Τετάρτη", "b": "Πέμπτη", "c": "Παρασκευή" },
+      "answer": "b"
+    }
+  ]
+}

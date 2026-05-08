@@ -1,0 +1,90 @@
+{
+  "text": {
+    "greek": "Οικογενειακό Δέντρο\n\nΌνομα: Νίκος Παπαδόπουλος\nΗλικία: 35 χρονών\nΣύζυγος: Ελένη, 33 χρονών\nΠαιδιά: Δύο — ο Πέτρος (8 χρονών) και η Σοφία (5 χρονών)\nΚατοικώ: Αθήνα, Οδός Πατησίων 25\nΔουλειά: Δάσκαλος σε σχολείο\nΧόμπι: Διαβάζω βιβλία και παίζω ποδόσφαιρο",
+    "english": "Family Tree\n\nName: Nikos Papadopoulos\nAge: 35 years old\nWife: Eleni, 33 years old\nChildren: Two — Petros (8 years old) and Sofia (5 years old)\nI live in: Athens, Patision Street 25\nWork: Teacher at a school\nHobbies: I read books and play football"
+  },
+  "questions": [
+    {
+      "type": "true_false",
+      "is_example": true,
+      "statement": "Ο Νίκος έχει οικογένεια.",
+      "answer": "true"
+    },
+    {
+      "type": "true_false",
+      "statement": "Ο Νίκος είναι 33 χρονών.",
+      "answer": "false"
+    },
+    {
+      "type": "true_false",
+      "statement": "Η σύζυγός του λέγεται Ελένη.",
+      "answer": "true"
+    },
+    {
+      "type": "true_false",
+      "statement": "Ο Νίκος έχει τρία παιδιά.",
+      "answer": "false"
+    },
+    {
+      "type": "true_false",
+      "statement": "Ο Πέτρος είναι 8 χρονών.",
+      "answer": "true"
+    },
+    {
+      "type": "true_false",
+      "statement": "Ο Νίκος μένει στη Θεσσαλονίκη.",
+      "answer": "false"
+    },
+    {
+      "type": "true_false",
+      "statement": "Ο Νίκος παίζει ποδόσφαιρο.",
+      "answer": "true"
+    },
+    {
+      "type": "matching",
+      "beginnings": [
+        { "text": "Ο Νίκος είναι..." },
+        { "text": "Η Ελένη είναι..." },
+        { "text": "Ο Πέτρος είναι..." },
+        { "text": "Η Σοφία είναι..." },
+        { "text": "Ο Νίκος δουλεύει..." },
+        { "text": "Ο Νίκος μένει..." }
+      ],
+      "endings": [
+        { "text": "...η κόρη του Νίκου." },
+        { "text": "...στην Αθήνα." },
+        { "text": "...35 χρονών." },
+        { "text": "...σε ένα σχολείο." },
+        { "text": "...η σύζυγος του Νίκου." },
+        { "text": "...ο γιος του Νίκου." },
+        { "text": "...40 χρονών." },
+        { "text": "...στη Θεσσαλονίκη." }
+      ],
+      "answers": { "0": 2, "1": 4, "2": 5, "3": 0, "4": 3, "5": 1 }
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Πόσα χρόνια έχει ο Νίκος;",
+      "options": { "a": "33", "b": "35", "c": "30" },
+      "answer": "b"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Τι δουλειά κάνει ο Νίκος;",
+      "options": { "a": "γιατρός", "b": "δάσκαλος", "c": "μηχανικός" },
+      "answer": "b"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Πόσα παιδιά έχει ο Νίκος;",
+      "options": { "a": "ένα", "b": "τρία", "c": "δύο" },
+      "answer": "c"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Πού μένει ο Νίκος;",
+      "options": { "a": "Θεσσαλονίκη", "b": "Αθήνα", "c": "Λάρισα" },
+      "answer": "b"
+    }
+  ]
+}

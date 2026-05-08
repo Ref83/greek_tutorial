@@ -12,6 +12,10 @@
                     "type": "vocabulary",
                     "topic": "personal_information",
                     "block": 0
+                },
+                {
+                    "type": "reading",
+                    "topic": "a1_personal_information"
                 }
             ]
         },
@@ -27,6 +31,10 @@
                     "type": "vocabulary",
                     "topic": "personal_information",
                     "block": 1
+                },
+                {
+                    "type": "reading",
+                    "topic": "a1_my_family"
                 }
             ]
         },
@@ -42,6 +50,10 @@
                     "type": "vocabulary",
                     "topic": "personal_information",
                     "block": 0
+                },
+                {
+                    "type": "reading",
+                    "topic": "a1_birthday_invitation"
                 }
             ]
         },
@@ -57,6 +69,10 @@
                     "type": "vocabulary",
                     "topic": "personal_information",
                     "block": 2
+                },
+                {
+                    "type": "reading",
+                    "topic": "a1_new_neighbors"
                 }
             ]
         },
@@ -72,6 +88,10 @@
                     "type": "vocabulary",
                     "topic": "home",
                     "block": 0
+                },
+                {
+                    "type": "reading",
+                    "topic": "a1_finding_an_apartment"
                 }
             ]
         },
@@ -92,6 +112,10 @@
                     "type": "vocabulary",
                     "topic": "personal_information",
                     "block": 2
+                },
+                {
+                    "type": "reading",
+                    "topic": "a1_my_neighborhood"
                 }
             ]
         },
@@ -107,6 +131,10 @@
                     "type": "vocabulary",
                     "topic": "personal_information",
                     "block": 1
+                },
+                {
+                    "type": "reading",
+                    "topic": "a1_at_school"
                 }
             ]
         },
@@ -127,6 +155,10 @@
                     "type": "vocabulary",
                     "topic": "food",
                     "block": 0
+                },
+                {
+                    "type": "reading",
+                    "topic": "a1_at_the_cafe"
                 }
             ]
         },
@@ -141,6 +173,10 @@
                 {
                     "type": "grammar",
                     "topic": "nouns_accusative"
+                },
+                {
+                    "type": "reading",
+                    "topic": "a1_sports_club"
                 }
             ]
         },
@@ -161,6 +197,10 @@
                     "type": "vocabulary",
                     "topic": "personal_information",
                     "block": 0
+                },
+                {
+                    "type": "reading",
+                    "topic": "a1_weekend_plans"
                 }
             ]
         }

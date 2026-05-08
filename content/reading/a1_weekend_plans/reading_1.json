@@ -1,0 +1,90 @@
+{
+  "text": {
+    "greek": "Αγαπητή Σοφία,\n\nΠώς είσαι; Σε γράφω γιατί θέλω να σου μιλήσω για τα σχέδιά μου για το σαββατοκύριακο.\n\nΤο Σάββατο πρωί θα πάω στην αγορά με τη μαμά μου. Θέλουμε να αγοράσουμε φρούτα, λαχανικά και ψάρι για το μεσημεριανό. Στη συνέχεια, το απόγευμα, θα πάω γυμναστήριο με τη φίλη μου την Έλενα. Αγαπώ το γυμναστήριο γιατί με κάνει να αισθάνομαι καλά!\n\nΤο Σάββατο βράδυ θέλουμε να δούμε μια ταινία στο σπίτι. Ο αδερφός μου προτείνει μια ελληνική κωμωδία. Νομίζω ότι θα είναι πολύ διασκεδαστικό!\n\nΤην Κυριακή το πρωί θα πάμε εκκλησία με τους γονείς μου. Μετά θα φάμε όλοι μαζί στο σπίτι της γιαγιάς μου. Η γιαγιά μαγειρεύει πολύ νόστιμα! Το απόγευμα θα ξεκουραστώ γιατί τη Δευτέρα έχω δουλειά.\n\nΕσύ τι θα κάνεις;\nΜε αγάπη,\nΜαρίνα",
+    "english": "Dear Sofia,\n\nHow are you? I am writing to you because I want to tell you about my plans for the weekend.\n\nOn Saturday morning I will go to the market with my mum. We want to buy fruits, vegetables, and fish for lunch. Then, in the afternoon, I will go to the gym with my friend Elena. I love the gym because it makes me feel good!\n\nOn Saturday evening we want to watch a film at home. My brother suggests a Greek comedy. I think it will be very entertaining!\n\nOn Sunday morning we will go to church with my parents. Then we will all eat together at my grandmother's house. My grandmother cooks very deliciously! In the afternoon I will rest because on Monday I have work.\n\nWhat will you do?\nWith love,\nMarina"
+  },
+  "questions": [
+    {
+      "type": "true_false",
+      "is_example": true,
+      "statement": "Η Μαρίνα γράφει στη Σοφία.",
+      "answer": "true"
+    },
+    {
+      "type": "true_false",
+      "statement": "Το Σάββατο πρωί η Μαρίνα θα πάει γυμναστήριο.",
+      "answer": "false"
+    },
+    {
+      "type": "true_false",
+      "statement": "Η Μαρίνα θα πάει γυμναστήριο με την Έλενα.",
+      "answer": "true"
+    },
+    {
+      "type": "true_false",
+      "statement": "Το Σάββατο βράδυ θα πάνε σε κινηματογράφο.",
+      "answer": "false"
+    },
+    {
+      "type": "true_false",
+      "statement": "Ο αδερφός της προτείνει μια ελληνική κωμωδία.",
+      "answer": "true"
+    },
+    {
+      "type": "true_false",
+      "statement": "Την Κυριακή θα φάνε στο εστιατόριο.",
+      "answer": "false"
+    },
+    {
+      "type": "true_false",
+      "statement": "Η Μαρίνα ξεκουράζεται το Κυριακή απόγευμα.",
+      "answer": "true"
+    },
+    {
+      "type": "matching",
+      "beginnings": [
+        { "text": "Το Σάββατο πρωί η Μαρίνα θα πάει..." },
+        { "text": "Το Σάββατο απόγευμα θα πάει..." },
+        { "text": "Το Σάββατο βράδυ θέλουν να δουν..." },
+        { "text": "Ο αδερφός της προτείνει..." },
+        { "text": "Την Κυριακή θα φάνε..." },
+        { "text": "Η Μαρίνα ξεκουράζεται γιατί..." }
+      ],
+      "endings": [
+        { "text": "...στο γυμναστήριο με την Έλενα." },
+        { "text": "...μια ελληνική κωμωδία." },
+        { "text": "...στη γιαγιά." },
+        { "text": "...μια ταινία στο σπίτι." },
+        { "text": "...στην αγορά με τη μαμά της." },
+        { "text": "...τη Δευτέρα έχει δουλειά." },
+        { "text": "...στο εστιατόριο με φίλους." },
+        { "text": "...μια ξένη ταινία." }
+      ],
+      "answers": { "0": 4, "1": 0, "2": 3, "3": 1, "4": 2, "5": 5 }
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Με ποιον πηγαίνει η Μαρίνα στην αγορά;",
+      "options": { "a": "με τη φίλη της", "b": "με τη μαμά της", "c": "με τον αδερφό της" },
+      "answer": "b"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Τι θα κάνουν το Σάββατο βράδυ;",
+      "options": { "a": "θα πάνε εστιατόριο", "b": "θα πάνε κινηματογράφο", "c": "θα δουν ταινία στο σπίτι" },
+      "answer": "c"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Πού θα φάνε την Κυριακή;",
+      "options": { "a": "εστιατόριο", "b": "σπίτι της Μαρίνας", "c": "σπίτι της γιαγιάς" },
+      "answer": "c"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Γιατί η Μαρίνα ξεκουράζεται το Κυριακή απόγευμα;",
+      "options": { "a": "γιατί είναι άρρωστη", "b": "γιατί τη Δευτέρα έχει δουλειά", "c": "γιατί δεν της αρέσει να βγαίνει" },
+      "answer": "b"
+    }
+  ]
+}

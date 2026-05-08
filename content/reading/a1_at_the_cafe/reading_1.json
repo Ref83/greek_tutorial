@@ -1,0 +1,90 @@
+{
+  "text": {
+    "greek": "Καφετέρια «Ελληνική Γωνιά»\n\nΚαλημέρα σε όλους!\n\nΕίμαστε ανοιχτά κάθε μέρα από τις 8 το πρωί μέχρι τις 10 το βράδυ.\n\nΤι σερβίρουμε:\nΚαφές ελληνικός — 2 ευρώ\nΧυμός πορτοκάλι — 2,50 ευρώ\nΚρουασάν — 1,50 ευρώ\nΚέικ σοκολάτας — 3 ευρώ\nΣαλάτα — 4 ευρώ\n\nΣας περιμένουμε!\nΟδός Μοναστηρίου 7, Αθήνα",
+    "english": "Café «Greek Corner»\n\nGood morning to everyone!\n\nWe are open every day from 8 in the morning until 10 at night.\n\nWhat we serve:\nGreek coffee — 2 euros\nOrange juice — 2.50 euros\nCroissant — 1.50 euros\nChocolate cake — 3 euros\nSalad — 4 euros\n\nWe are waiting for you!\n7 Monastiriou Street, Athens"
+  },
+  "questions": [
+    {
+      "type": "true_false",
+      "is_example": true,
+      "statement": "Η καφετέρια λέγεται «Ελληνική Γωνιά».",
+      "answer": "true"
+    },
+    {
+      "type": "true_false",
+      "statement": "Η καφετέρια ανοίγει στις 9 το πρωί.",
+      "answer": "false"
+    },
+    {
+      "type": "true_false",
+      "statement": "Η καφετέρια είναι ανοιχτά κάθε μέρα.",
+      "answer": "true"
+    },
+    {
+      "type": "true_false",
+      "statement": "Ο ελληνικός καφές κοστίζει 3 ευρώ.",
+      "answer": "false"
+    },
+    {
+      "type": "true_false",
+      "statement": "Μπορείτε να φάτε σαλάτα στην καφετέρια.",
+      "answer": "true"
+    },
+    {
+      "type": "true_false",
+      "statement": "Η καφετέρια κλείνει στις 8 το βράδυ.",
+      "answer": "false"
+    },
+    {
+      "type": "true_false",
+      "statement": "Η καφετέρια βρίσκεται στην Αθήνα.",
+      "answer": "true"
+    },
+    {
+      "type": "matching",
+      "beginnings": [
+        { "text": "Η καφετέρια ανοίγει..." },
+        { "text": "Η καφετέρια κλείνει..." },
+        { "text": "Ο ελληνικός καφές κοστίζει..." },
+        { "text": "Το κρουασάν κοστίζει..." },
+        { "text": "Η καφετέρια βρίσκεται στην..." },
+        { "text": "Η καφετέρια είναι ανοιχτά..." }
+      ],
+      "endings": [
+        { "text": "...κάθε μέρα." },
+        { "text": "...στις 10 το βράδυ." },
+        { "text": "...1,50 ευρώ." },
+        { "text": "...οδό Μοναστηρίου." },
+        { "text": "...2 ευρώ." },
+        { "text": "...στις 8 το πρωί." },
+        { "text": "...μόνο τα Σαββατοκύριακα." },
+        { "text": "...στις 11 το βράδυ." }
+      ],
+      "answers": { "0": 5, "1": 1, "2": 4, "3": 2, "4": 3, "5": 0 }
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Πόσο κοστίζει ο χυμός πορτοκάλι;",
+      "options": { "a": "2 ευρώ", "b": "3 ευρώ", "c": "2,50 ευρώ" },
+      "answer": "c"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Τι ώρα ανοίγει η καφετέρια;",
+      "options": { "a": "7 το πρωί", "b": "8 το πρωί", "c": "9 το πρωί" },
+      "answer": "b"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Τι ώρα κλείνει η καφετέρια;",
+      "options": { "a": "9 το βράδυ", "b": "10 το βράδυ", "c": "11 το βράδυ" },
+      "answer": "b"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Πόσο κοστίζει το κέικ σοκολάτας;",
+      "options": { "a": "2,50 ευρώ", "b": "4 ευρώ", "c": "3 ευρώ" },
+      "answer": "c"
+    }
+  ]
+}

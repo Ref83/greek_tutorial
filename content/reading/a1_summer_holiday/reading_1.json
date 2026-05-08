@@ -1,0 +1,90 @@
+{
+  "text": {
+    "greek": "Γεια σου Ανδρέα!\n\nΣου γράφω από την Κρήτη! Είμαι εδώ με την οικογένειά μου — τον άντρα μου Σπύρο και τα δύο μας παιδιά, τον Αλέξη (10 χρονών) και την Κατερίνα (7 χρονών). Φτάσαμε χθες και μείνουμε σε ένα ωραίο ξενοδοχείο κοντά στη θάλασσα.\n\nΟ καιρός εδώ είναι υπέροχος! Ο ήλιος λάμπει κάθε μέρα και η θάλασσα είναι μπλε και καθαρή. Τα παιδιά κολυμπούν από το πρωί μέχρι το απόγευμα. Εγώ διαβάζω βιβλία και πίνω ελληνικό καφέ στην παραλία.\n\nΧθες το βράδυ πήγαμε σε ένα εστιατόριο και φάγαμε φρέσκο ψάρι. Ήταν πολύ νόστιμο! Σήμερα θέλουμε να επισκεφτούμε ένα παλιό μουσείο.\n\nΓυρίζουμε στην Αθήνα την Κυριακή, 10 Αυγούστου.\n\nΣε φιλώ πολύ,\nΔήμητρα",
+    "english": "Hello Andreas!\n\nI am writing to you from Crete! I am here with my family — my husband Spyros and our two children, Alexis (10 years old) and Katerina (7 years old). We arrived yesterday and we are staying in a nice hotel near the sea.\n\nThe weather here is wonderful! The sun shines every day and the sea is blue and clean. The children swim from morning until the afternoon. I read books and drink Greek coffee on the beach.\n\nYesterday evening we went to a restaurant and ate fresh fish. It was very delicious! Today we want to visit an old museum.\n\nWe are returning to Athens on Sunday, August 10th.\n\nMany kisses,\nDimitra"
+  },
+  "questions": [
+    {
+      "type": "true_false",
+      "is_example": true,
+      "statement": "Η Δήμητρα γράφει από την Κρήτη.",
+      "answer": "true"
+    },
+    {
+      "type": "true_false",
+      "statement": "Η Δήμητρα είναι μόνη στις διακοπές.",
+      "answer": "false"
+    },
+    {
+      "type": "true_false",
+      "statement": "Ο Αλέξης είναι 10 χρονών.",
+      "answer": "true"
+    },
+    {
+      "type": "true_false",
+      "statement": "Μένουν σε ένα σπίτι μακριά από τη θάλασσα.",
+      "answer": "false"
+    },
+    {
+      "type": "true_false",
+      "statement": "Ο καιρός στην Κρήτη είναι άσχημος.",
+      "answer": "false"
+    },
+    {
+      "type": "true_false",
+      "statement": "Χθες το βράδυ έφαγαν σε εστιατόριο.",
+      "answer": "true"
+    },
+    {
+      "type": "true_false",
+      "statement": "Γυρίζουν στην Αθήνα την Κυριακή.",
+      "answer": "true"
+    },
+    {
+      "type": "matching",
+      "beginnings": [
+        { "text": "Η Δήμητρα γράφει..." },
+        { "text": "Η οικογένεια μένει..." },
+        { "text": "Η θάλασσα είναι..." },
+        { "text": "Τα παιδιά..." },
+        { "text": "Χθες το βράδυ..." },
+        { "text": "Η οικογένεια γυρίζει..." }
+      ],
+      "endings": [
+        { "text": "...μπλε και καθαρή." },
+        { "text": "...από την Κρήτη." },
+        { "text": "...κολυμπούν από το πρωί μέχρι το απόγευμα." },
+        { "text": "...σε ένα ξενοδοχείο κοντά στη θάλασσα." },
+        { "text": "...στην Αθήνα την Κυριακή." },
+        { "text": "...έφαγαν φρέσκο ψάρι σε εστιατόριο." },
+        { "text": "...από τη Θεσσαλονίκη." },
+        { "text": "...σε σπίτι μακριά από τη θάλασσα." }
+      ],
+      "answers": { "0": 1, "1": 3, "2": 0, "3": 2, "4": 5, "5": 4 }
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Πού είναι η Δήμητρα;",
+      "options": { "a": "Ρόδος", "b": "Κρήτη", "c": "Μύκονος" },
+      "answer": "b"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Πόσα χρόνια έχει η Κατερίνα;",
+      "options": { "a": "7", "b": "8", "c": "10" },
+      "answer": "a"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Τι έφαγαν χθες το βράδυ;",
+      "options": { "a": "κρέας", "b": "πίτσα", "c": "φρέσκο ψάρι" },
+      "answer": "c"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Πότε γυρίζουν στην Αθήνα;",
+      "options": { "a": "Σάββατο, 10 Αυγούστου", "b": "Κυριακή, 10 Αυγούστου", "c": "Δευτέρα, 10 Αυγούστου" },
+      "answer": "b"
+    }
+  ]
+}

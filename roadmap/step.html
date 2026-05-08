@@ -149,12 +149,16 @@
             if (block.type === 'vocabulary') {
                 return `../vocabulary/block.html?id=${encodeURIComponent(block.topic)}&block=${block.block}`;
             }
+            if (block.type === 'reading') {
+                return `../reading/item.html?id=${encodeURIComponent(block.topic)}`;
+            }
             return '#';
         }
 
         function blockLabel(block) {
             if (block.type === 'grammar') return block.topic.replace(/_/g, ' ');
             if (block.type === 'vocabulary') return `${block.topic.replace(/_/g, ' ')} · Block ${block.block + 1}`;
+            if (block.type === 'reading') return block.topic.replace(/^a\d+_/, '').replace(/_/g, ' ');
             return block.topic || '';
         }
 

@@ -12,6 +12,10 @@
                     "type": "vocabulary",
                     "topic": "personal_information",
                     "block": 0
+                },
+                {
+                    "type": "reading",
+                    "item": "a1_birthday_invitation"
                 }
             ]
         },

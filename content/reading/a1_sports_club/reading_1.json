@@ -1,0 +1,90 @@
+{
+  "text": {
+    "greek": "ΑΘΛΗΤΙΚΟΣ ΣΥΛΛΟΓΟΣ «ΟΛΥΜΠΙΑΚΗ ΦΛΟΓΑ»\n\nΑγαπάτε τον αθλητισμό; Ελάτε να γίνετε μέλη του αθλητικού μας συλλόγου!\n\nΟ σύλλογός μας βρίσκεται στην οδό Κολοκοτρώνη 33, στο κέντρο της Αθήνας. Είμαστε ανοιχτά κάθε μέρα από τις 7 το πρωί μέχρι τις 10 το βράδυ.\n\nΤα αθλήματα που προσφέρουμε:\n— Κολύμβηση (πισίνα 25 μέτρων)\n— Ποδόσφαιρο (γήπεδο με χόρτο)\n— Βόλεϊ\n— Γυμναστήριο με μηχανήματα\n— Yoga και pilates (Δευτέρα, Τετάρτη, Παρασκευή)\n\nΤιμές συνδρομής:\nΜηνιαία: 40 ευρώ\nΤριμηνιαία: 100 ευρώ\nΕτήσια: 350 ευρώ\n\nΠροσφέρουμε επίσης ειδική τιμή για παιδιά κάτω των 14 χρονών: 25 ευρώ το μήνα.\n\nΓια εγγραφή, επισκεφτείτε μας ή τηλεφωνήστε στο 210-789-1234.\n\nΣας περιμένουμε!",
+    "english": "SPORTS CLUB \"OLYMPIC FLAME\"\n\nDo you love sports? Come and become members of our sports club!\n\nOur club is located at 33 Kolokotroni Street, in the centre of Athens. We are open every day from 7 in the morning until 10 at night.\n\nSports we offer:\n— Swimming (25-metre pool)\n— Football (grass pitch)\n— Volleyball\n— Gym with equipment\n— Yoga and pilates (Monday, Wednesday, Friday)\n\nSubscription prices:\nMonthly: 40 euros\nQuarterly: 100 euros\nAnnual: 350 euros\n\nWe also offer a special price for children under 14 years: 25 euros per month.\n\nFor registration, visit us or call 210-789-1234.\n\nWe are waiting for you!"
+  },
+  "questions": [
+    {
+      "type": "true_false",
+      "is_example": true,
+      "statement": "Ο σύλλογος βρίσκεται στην Αθήνα.",
+      "answer": "true"
+    },
+    {
+      "type": "true_false",
+      "statement": "Ο σύλλογος ανοίγει στις 8 το πρωί.",
+      "answer": "false"
+    },
+    {
+      "type": "true_false",
+      "statement": "Υπάρχει πισίνα στον σύλλογο.",
+      "answer": "true"
+    },
+    {
+      "type": "true_false",
+      "statement": "Η μηνιαία συνδρομή κοστίζει 50 ευρώ.",
+      "answer": "false"
+    },
+    {
+      "type": "true_false",
+      "statement": "Το yoga γίνεται κάθε μέρα.",
+      "answer": "false"
+    },
+    {
+      "type": "true_false",
+      "statement": "Τα παιδιά κάτω των 14 χρονών πληρώνουν λιγότερα.",
+      "answer": "true"
+    },
+    {
+      "type": "true_false",
+      "statement": "Στον σύλλογο παίζουν βόλεϊ.",
+      "answer": "true"
+    },
+    {
+      "type": "matching",
+      "beginnings": [
+        { "text": "Ο αθλητικός σύλλογος βρίσκεται..." },
+        { "text": "Ο σύλλογος είναι ανοιχτά..." },
+        { "text": "Η μηνιαία συνδρομή κοστίζει..." },
+        { "text": "Τα παιδιά κάτω των 14 χρονών πληρώνουν..." },
+        { "text": "Το yoga γίνεται..." },
+        { "text": "Για εγγραφή μπορείτε..." }
+      ],
+      "endings": [
+        { "text": "...40 ευρώ." },
+        { "text": "...να τηλεφωνήσετε στο 210-789-1234." },
+        { "text": "...Δευτέρα, Τετάρτη και Παρασκευή." },
+        { "text": "...από τις 7 το πρωί μέχρι τις 10 το βράδυ." },
+        { "text": "...στην οδό Κολοκοτρώνη 33." },
+        { "text": "...25 ευρώ το μήνα." },
+        { "text": "...στη Θεσσαλονίκη." },
+        { "text": "...κάθε μέρα." }
+      ],
+      "answers": { "0": 4, "1": 3, "2": 0, "3": 5, "4": 2, "5": 1 }
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Πόσο κοστίζει η μηνιαία συνδρομή;",
+      "options": { "a": "30 ευρώ", "b": "40 ευρώ", "c": "50 ευρώ" },
+      "answer": "b"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Τι ώρα ανοίγει ο σύλλογος;",
+      "options": { "a": "6 το πρωί", "b": "7 το πρωί", "c": "8 το πρωί" },
+      "answer": "b"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Πότε γίνεται το yoga;",
+      "options": { "a": "Τρίτη, Πέμπτη, Σάββατο", "b": "Δευτέρα, Τετάρτη, Παρασκευή", "c": "κάθε μέρα" },
+      "answer": "b"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Πόσο πληρώνουν τα παιδιά κάτω των 14 χρονών;",
+      "options": { "a": "30 ευρώ", "b": "35 ευρώ", "c": "25 ευρώ" },
+      "answer": "c"
+    }
+  ]
+}

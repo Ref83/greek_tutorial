@@ -1,0 +1,642 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tests – Greek Tutorial</title>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #f5f5f0;
+            color: #1a1a1a;
+            min-height: 100vh;
+            padding: 40px 20px;
+        }
+
+        .top-panel {
+            max-width: 680px;
+            margin: 0 auto 20px;
+            background: #fff;
+            border-radius: 12px;
+            padding: 16px 28px;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 16px;
+        }
+
+        .stats {
+            display: flex;
+            gap: 20px;
+            font-size: 0.9rem;
+            color: #6b7280;
+        }
+
+        .stat-item strong { color: #1a1a1a; }
+        .stat-errors strong { color: #dc2626; }
+
+        .complete-btn {
+            padding: 8px 18px;
+            border: none;
+            border-radius: 8px;
+            background: #eef2ff;
+            color: #4f46e5;
+            font-size: 0.9rem;
+            font-weight: 600;
+            font-family: inherit;
+            cursor: pointer;
+            transition: background 0.15s;
+            white-space: nowrap;
+        }
+        .complete-btn:hover { background: #e0e7ff; }
+
+        .text-btn {
+            padding: 8px 18px;
+            border: none;
+            border-radius: 8px;
+            background: #f3f4f6;
+            color: #374151;
+            font-size: 0.9rem;
+            font-weight: 600;
+            font-family: inherit;
+            cursor: pointer;
+            transition: background 0.15s;
+            white-space: nowrap;
+        }
+        .text-btn:hover { background: #e5e7eb; }
+
+        .text-modal {
+            display: none;
+            position: fixed;
+            inset: 0;
+            background: rgba(0,0,0,0.4);
+            z-index: 100;
+            align-items: flex-start;
+            justify-content: center;
+            padding: 60px 20px 20px;
+            overflow-y: auto;
+        }
+        .text-modal.open { display: flex; }
+
+        .text-modal-box {
+            background: #fff;
+            border-radius: 16px;
+            padding: 28px;
+            max-width: 640px;
+            width: 100%;
+            box-shadow: 0 8px 40px rgba(0,0,0,0.18);
+            position: relative;
+        }
+
+        .text-modal-close {
+            position: absolute;
+            top: 14px;
+            right: 14px;
+            width: 30px;
+            height: 30px;
+            border: none;
+            border-radius: 50%;
+            background: #f3f4f6;
+            color: #6b7280;
+            font-size: 1.1rem;
+            line-height: 1;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .text-modal-close:hover { background: #e5e7eb; }
+
+        .text-modal-content {
+            font-size: 1rem;
+            line-height: 1.8;
+            color: #1a1a1a;
+            padding-right: 24px;
+        }
+
+        .main-panel {
+            max-width: 680px;
+            margin: 0 auto;
+            background: #fff;
+            border-radius: 12px;
+            padding: 28px;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+        }
+
+        .exercise-type {
+            font-size: 0.75rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.06em;
+            color: #4f46e5;
+            background: #eef2ff;
+            display: inline-block;
+            padding: 3px 10px;
+            border-radius: 6px;
+            margin-bottom: 20px;
+        }
+
+        .exercise-body { margin-bottom: 24px; }
+
+        /* True/False */
+        .tf-statement {
+            font-size: 1rem;
+            line-height: 1.6;
+            margin-bottom: 20px;
+        }
+
+        .tf-buttons {
+            display: flex;
+            gap: 12px;
+        }
+
+        .tf-btn {
+            flex: 1;
+            padding: 12px;
+            border: 2px solid #e5e7eb;
+            border-radius: 10px;
+            background: #fff;
+            font-size: 0.95rem;
+            font-weight: 600;
+            font-family: inherit;
+            cursor: pointer;
+            transition: border-color 0.15s, background 0.15s, color 0.15s;
+        }
+        .tf-btn:hover:not(:disabled) { border-color: #4f46e5; background: #eef2ff; color: #4f46e5; }
+        .tf-btn.correct { border-color: #16a34a; background: #dcfce7; color: #16a34a; }
+        .tf-btn.wrong { border-color: #dc2626; background: #fee2e2; color: #dc2626; }
+        .tf-btn:disabled { cursor: default; }
+
+        /* Multiple Choice */
+        .mc-question {
+            font-size: 1rem;
+            line-height: 1.6;
+            margin-bottom: 16px;
+        }
+
+        .mc-options {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .mc-option {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            padding: 12px 16px;
+            border: 2px solid #e5e7eb;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: border-color 0.15s, background 0.15s;
+        }
+        .mc-option:hover:not(.disabled) { border-color: #4f46e5; background: #eef2ff; }
+        .mc-option.correct { border-color: #16a34a; background: #dcfce7; }
+        .mc-option.wrong { border-color: #dc2626; background: #fee2e2; }
+        .mc-option.disabled { cursor: default; }
+
+        .mc-key {
+            font-size: 0.85rem;
+            font-weight: 700;
+            color: #4f46e5;
+            min-width: 20px;
+            text-transform: uppercase;
+        }
+        .mc-option.correct .mc-key { color: #16a34a; }
+        .mc-option.wrong .mc-key { color: #dc2626; }
+
+        /* Matching */
+        .matching-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 8px 16px;
+        }
+
+        .match-col-label {
+            font-size: 0.75rem;
+            font-weight: 600;
+            color: #9ca3af;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            margin-bottom: 4px;
+        }
+
+        .match-col { display: flex; flex-direction: column; gap: 6px; }
+
+        .match-item {
+            padding: 10px 12px;
+            border: 2px solid #e5e7eb;
+            border-radius: 8px;
+            font-size: 0.88rem;
+            line-height: 1.4;
+            cursor: pointer;
+            transition: border-color 0.15s, background 0.15s;
+            position: relative;
+        }
+        .match-item:hover:not(.matched):not(.disabled) { border-color: #4f46e5; background: #eef2ff; }
+        .match-item.selected { border-color: #4f46e5; background: #eef2ff; }
+        .match-item.matched { cursor: pointer; opacity: 0.75; }
+        .match-item.correct { border-color: #16a34a; background: #dcfce7; opacity: 1; }
+        .match-item.wrong { border-color: #dc2626; background: #fee2e2; opacity: 1; }
+        .match-item.disabled { cursor: default; }
+
+        .match-badge {
+            display: inline-block;
+            min-width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            background: #4f46e5;
+            color: #fff;
+            font-size: 0.7rem;
+            font-weight: 700;
+            text-align: center;
+            line-height: 20px;
+            margin-right: 6px;
+            flex-shrink: 0;
+        }
+
+        /* Check button */
+        .check-btn {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #4f46e5;
+            border-radius: 10px;
+            background: #fff;
+            color: #4f46e5;
+            font-size: 1rem;
+            font-weight: 600;
+            font-family: inherit;
+            cursor: pointer;
+            transition: background 0.15s, color 0.15s;
+            margin-top: 4px;
+            margin-bottom: 8px;
+        }
+        .check-btn:hover:not(:disabled) { background: #eef2ff; }
+        .check-btn:disabled { opacity: 0.4; cursor: default; }
+
+        /* Next button */
+        .next-btn {
+            display: none;
+            width: 100%;
+            padding: 12px;
+            border: none;
+            border-radius: 10px;
+            background: #4f46e5;
+            color: #fff;
+            font-size: 1rem;
+            font-weight: 600;
+            font-family: inherit;
+            cursor: pointer;
+            transition: background 0.15s;
+            margin-top: 4px;
+        }
+        .next-btn:hover { background: #4338ca; }
+        .next-btn.visible { display: block; }
+
+        .done-message {
+            text-align: center;
+            padding: 20px 0 4px;
+            color: #6b7280;
+            font-size: 0.95rem;
+        }
+
+        @media (max-width: 480px) {
+            .top-panel { padding: 14px 20px; }
+            .main-panel { padding: 20px; }
+            .matching-grid { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+    <div class="top-panel">
+        <div class="stats">
+            <span class="stat-item">Done: <strong id="statDone">0</strong></span>
+            <span class="stat-item stat-errors">Errors: <strong id="statErrors">0</strong></span>
+        </div>
+        <div style="display:flex;gap:8px">
+            <button class="text-btn" id="textBtn">Text</button>
+            <button class="complete-btn" id="completeBtn">Complete</button>
+        </div>
+    </div>
+
+    <div class="text-modal" id="textModal">
+        <div class="text-modal-box">
+            <button class="text-modal-close" id="textModalClose">✕</button>
+            <div class="text-modal-content" id="textModalContent"></div>
+        </div>
+    </div>
+
+    <div class="main-panel" id="mainPanel">
+        <div style="color:#9ca3af">Loading…</div>
+    </div>
+
+    <script>
+        const params = new URLSearchParams(window.location.search);
+        const id = params.get('id');
+
+        const mainPanel = document.getElementById('mainPanel');
+        const statDone = document.getElementById('statDone');
+        const statErrors = document.getElementById('statErrors');
+        const completeBtn = document.getElementById('completeBtn');
+        const textBtn = document.getElementById('textBtn');
+        const textModal = document.getElementById('textModal');
+        const textModalClose = document.getElementById('textModalClose');
+        const textModalContent = document.getElementById('textModalContent');
+
+        completeBtn.addEventListener('click', () => { history.back(); });
+
+        textBtn.addEventListener('click', () => { textModal.classList.add('open'); });
+        textModalClose.addEventListener('click', () => { textModal.classList.remove('open'); });
+        textModal.addEventListener('click', (e) => { if (e.target === textModal) textModal.classList.remove('open'); });
+
+        let questions = [];
+        let currentIndex = 0;
+        let done = 0;
+        let errors = 0;
+
+        if (!id) {
+            mainPanel.textContent = 'Invalid reading item.';
+        } else {
+            fetch(`../content/reading/${encodeURIComponent(id)}/reading_1.json`)
+                .then(r => { if (!r.ok) throw new Error(); return r.json(); })
+                .then(data => {
+                    textModalContent.textContent = (data.text && data.text.greek) || '';
+                    questions = (data.questions || []).filter(q => !q.is_example);
+                    if (!questions.length) {
+                        mainPanel.innerHTML = '<div class="done-message">No exercises available.</div>';
+                        return;
+                    }
+                    showQuestion(0);
+                })
+                .catch(() => {
+                    mainPanel.innerHTML = '<div style="color:#dc2626">Unable to load exercises.</div>';
+                });
+        }
+
+        function updateStats() {
+            statDone.textContent = done;
+            statErrors.textContent = errors;
+        }
+
+        function showQuestion(index) {
+            if (index >= questions.length) {
+                mainPanel.innerHTML = `<div class="done-message">All exercises completed! 🎉</div>`;
+                return;
+            }
+            const q = questions[index];
+            mainPanel.innerHTML = '';
+
+            const typeLabel = document.createElement('div');
+            typeLabel.className = 'exercise-type';
+            typeLabel.textContent = formatType(q.type);
+            mainPanel.appendChild(typeLabel);
+
+            const body = document.createElement('div');
+            body.className = 'exercise-body';
+            mainPanel.appendChild(body);
+
+            const nextBtn = document.createElement('button');
+            nextBtn.className = 'next-btn';
+            nextBtn.textContent = index + 1 < questions.length ? 'Next' : 'Finish';
+            nextBtn.addEventListener('click', () => {
+                currentIndex++;
+                showQuestion(currentIndex);
+            });
+            mainPanel.appendChild(nextBtn);
+
+            const onAnswered = (hadError) => {
+                done++;
+                if (hadError) errors++;
+                updateStats();
+                nextBtn.classList.add('visible');
+            };
+
+            if (q.type === 'true_false') renderTrueFalse(body, q, onAnswered);
+            else if (q.type === 'multiple_choice') renderMultipleChoice(body, q, onAnswered);
+            else if (q.type === 'matching') renderMatching(body, q, onAnswered);
+        }
+
+        function formatType(type) {
+            const map = { true_false: 'True / False', multiple_choice: 'Multiple Choice', matching: 'Matching' };
+            return map[type] || type;
+        }
+
+        function renderTrueFalse(container, q, onAnswered) {
+            const stmt = document.createElement('div');
+            stmt.className = 'tf-statement';
+            stmt.textContent = q.statement;
+            container.appendChild(stmt);
+
+            const btns = document.createElement('div');
+            btns.className = 'tf-buttons';
+
+            ['true', 'false'].forEach(val => {
+                const btn = document.createElement('button');
+                btn.className = 'tf-btn';
+                btn.textContent = val === 'true' ? 'True' : 'False';
+                btn.addEventListener('click', () => {
+                    const correct = val === q.answer;
+                    btn.classList.add(correct ? 'correct' : 'wrong');
+                    if (!correct) {
+                        btns.querySelectorAll('.tf-btn').forEach(b => {
+                            if (b.dataset.val === q.answer) b.classList.add('correct');
+                        });
+                    }
+                    btns.querySelectorAll('.tf-btn').forEach(b => b.disabled = true);
+                    onAnswered(!correct);
+                }, { once: true });
+                btn.dataset.val = val;
+                btns.appendChild(btn);
+            });
+
+            container.appendChild(btns);
+        }
+
+        function renderMultipleChoice(container, q, onAnswered) {
+            const question = document.createElement('div');
+            question.className = 'mc-question';
+            question.textContent = q.question;
+            container.appendChild(question);
+
+            const optionsDiv = document.createElement('div');
+            optionsDiv.className = 'mc-options';
+
+            Object.entries(q.options).forEach(([key, text]) => {
+                const opt = document.createElement('div');
+                opt.className = 'mc-option';
+                opt.innerHTML = `<span class="mc-key">${key}</span><span>${text}</span>`;
+                opt.addEventListener('click', () => {
+                    const correct = key === q.answer;
+                    opt.classList.add(correct ? 'correct' : 'wrong');
+                    optionsDiv.querySelectorAll('.mc-option').forEach(o => {
+                        o.classList.add('disabled');
+                        if (o.dataset.key === q.answer) o.classList.add('correct');
+                    });
+                    onAnswered(!correct);
+                }, { once: true });
+                opt.dataset.key = key;
+                optionsDiv.appendChild(opt);
+            });
+
+            container.appendChild(optionsDiv);
+        }
+
+        function renderMatching(container, q, onAnswered) {
+            const beginnings = q.beginnings || [];
+            const endings = q.endings || [];
+            const correctAnswers = q.answers || {};
+
+            const userMatches = {};    // bi → ei
+            const reverseMatches = {}; // ei → bi
+            let selectedBeginning = null;
+            let answered = false;
+            const colors = ['#4f46e5','#0891b2','#7c3aed','#b45309','#15803d','#be185d'];
+
+            const grid = document.createElement('div');
+            grid.className = 'matching-grid';
+
+            const leftHeader = document.createElement('div');
+            leftHeader.className = 'match-col-label';
+            leftHeader.textContent = 'Beginning';
+
+            const rightHeader = document.createElement('div');
+            rightHeader.className = 'match-col-label';
+            rightHeader.textContent = 'Ending';
+
+            grid.appendChild(leftHeader);
+            grid.appendChild(rightHeader);
+
+            const leftCol = document.createElement('div');
+            leftCol.className = 'match-col';
+            const rightCol = document.createElement('div');
+            rightCol.className = 'match-col';
+
+            const beginningEls = [];
+            const endingEls = [];
+
+            beginnings.forEach((b, bi) => {
+                const el = document.createElement('div');
+                el.className = 'match-item';
+                el.textContent = b.text;
+                el.addEventListener('click', () => onBeginningClick(bi));
+                beginningEls.push(el);
+                leftCol.appendChild(el);
+            });
+
+            endings.forEach((e, ei) => {
+                const el = document.createElement('div');
+                el.className = 'match-item';
+                el.textContent = e.text;
+                el.addEventListener('click', () => onEndingClick(ei));
+                endingEls.push(el);
+                rightCol.appendChild(el);
+            });
+
+            grid.appendChild(leftCol);
+            grid.appendChild(rightCol);
+            container.appendChild(grid);
+
+            const checkBtn = document.createElement('button');
+            checkBtn.className = 'check-btn';
+            checkBtn.textContent = 'Check';
+            checkBtn.addEventListener('click', checkMatching);
+            container.appendChild(checkBtn);
+
+            function removeBadge(el) {
+                const b = el.querySelector('.match-badge');
+                if (b) b.remove();
+            }
+
+            function unpair(bi) {
+                const ei = userMatches[bi];
+                delete userMatches[bi];
+                delete reverseMatches[ei];
+                beginningEls[bi].classList.remove('matched', 'selected');
+                removeBadge(beginningEls[bi]);
+                endingEls[ei].classList.remove('matched');
+                removeBadge(endingEls[ei]);
+            }
+
+            function pair(bi, ei) {
+                userMatches[bi] = ei;
+                reverseMatches[ei] = bi;
+                const color = colors[bi % colors.length];
+                [beginningEls[bi], endingEls[ei]].forEach(el => {
+                    el.classList.add('matched');
+                    el.classList.remove('selected');
+                    const badge = document.createElement('span');
+                    badge.className = 'match-badge';
+                    badge.style.background = color;
+                    badge.textContent = bi + 1;
+                    el.prepend(badge);
+                });
+            }
+
+            function onBeginningClick(bi) {
+                if (answered) return;
+                const el = beginningEls[bi];
+
+                if (el.classList.contains('matched')) {
+                    unpair(bi);
+                    return;
+                }
+
+                if (selectedBeginning === bi) {
+                    el.classList.remove('selected');
+                    selectedBeginning = null;
+                    return;
+                }
+
+                beginningEls.forEach(e => e.classList.remove('selected'));
+                el.classList.add('selected');
+                selectedBeginning = bi;
+            }
+
+            function onEndingClick(ei) {
+                if (answered) return;
+                const el = endingEls[ei];
+
+                if (el.classList.contains('matched')) {
+                    unpair(reverseMatches[ei]);
+                    return;
+                }
+
+                if (selectedBeginning === null) return;
+
+                const bi = selectedBeginning;
+                selectedBeginning = null;
+                pair(bi, ei);
+            }
+
+            function checkMatching() {
+                if (answered) return;
+                answered = true;
+                let hadError = false;
+
+                beginningEls.forEach(e => e.classList.add('disabled'));
+                endingEls.forEach(e => e.classList.add('disabled'));
+                checkBtn.disabled = true;
+
+                beginnings.forEach((_, bi) => {
+                    const userEnding = userMatches[bi];
+                    const correctEnding = correctAnswers[String(bi)];
+                    const correct = userEnding !== undefined && userEnding === correctEnding;
+                    if (!correct) hadError = true;
+                    beginningEls[bi].classList.add(correct ? 'correct' : 'wrong');
+                    if (userEnding !== undefined) {
+                        endingEls[userEnding].classList.add(correct ? 'correct' : 'wrong');
+                    }
+                    if (!correct) {
+                        endingEls[correctEnding].classList.add('correct');
+                    }
+                });
+
+                onAnswered(hadError);
+            }
+        }
+    </script>
+</body>
+</html>

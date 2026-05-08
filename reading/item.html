@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reading – Greek Tutorial</title>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #f5f5f0;
+            color: #1a1a1a;
+            min-height: 100vh;
+            padding: 40px 20px;
+        }
+
+        .top-panel {
+            max-width: 680px;
+            margin: 0 auto 20px;
+            background: #fff;
+            border-radius: 12px;
+            padding: 16px 28px;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+            display: flex;
+            align-items: center;
+        }
+
+        .tests-btn {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            padding: 8px 18px;
+            border: none;
+            border-radius: 8px;
+            background: #eef2ff;
+            color: #4f46e5;
+            font-size: 0.9rem;
+            font-weight: 600;
+            font-family: inherit;
+            cursor: pointer;
+            transition: background 0.15s;
+            text-decoration: none;
+        }
+
+        .tests-btn:hover { background: #e0e7ff; }
+
+        .tests-btn svg {
+            width: 18px;
+            height: 18px;
+            flex-shrink: 0;
+        }
+
+        .main-panel {
+            max-width: 680px;
+            margin: 0 auto;
+            background: #fff;
+            border-radius: 12px;
+            padding: 28px;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+            position: relative;
+        }
+
+        .translate-btn {
+            position: absolute;
+            top: 16px;
+            right: 16px;
+            width: 32px;
+            height: 32px;
+            border: none;
+            border-radius: 50%;
+            background: #eef2ff;
+            color: #4f46e5;
+            font-size: 1rem;
+            font-weight: 700;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: background 0.15s;
+            flex-shrink: 0;
+        }
+
+        .translate-btn:hover { background: #e0e7ff; }
+        .translate-btn.active { background: #4f46e5; color: #fff; }
+
+        .greek-text {
+            font-size: 1.05rem;
+            line-height: 1.8;
+            color: #1a1a1a;
+            padding-right: 40px;
+        }
+
+        .english-text {
+            display: none;
+            margin-top: 24px;
+            padding-top: 20px;
+            border-top: 1px solid #e5e7eb;
+            font-size: 0.95rem;
+            line-height: 1.8;
+            color: #6b7280;
+        }
+
+        .english-text.visible { display: block; }
+
+        @media (max-width: 480px) {
+            .top-panel { padding: 14px 20px; }
+            .main-panel { padding: 20px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="top-panel">
+        <a class="tests-btn" id="testsBtn" href="#">
+            <svg viewBox="0 0 20 20" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                <path d="M9 2a1 1 0 000 2h2a1 1 0 100-2H9z"/>
+                <path fill-rule="evenodd" d="M4 5a2 2 0 012-2 3 3 0 003 3h2a3 3 0 003-3 2 2 0 012 2v11a2 2 0 01-2 2H6a2 2 0 01-2-2V5zm3 4a1 1 0 000 2h.01a1 1 0 100-2H7zm3 0a1 1 0 000 2h3a1 1 0 100-2h-3zm-3 4a1 1 0 100 2h.01a1 1 0 100-2H7zm3 0a1 1 0 100 2h3a1 1 0 100-2h-3z" clip-rule="evenodd"/>
+            </svg>
+            Tests
+        </a>
+    </div>
+
+    <div class="main-panel" id="mainPanel">
+        <button class="translate-btn" id="translateBtn" title="Show translation">?</button>
+        <div class="greek-text" id="greekText">Loading…</div>
+        <div class="english-text" id="englishText"></div>
+    </div>
+
+    <script>
+        const params = new URLSearchParams(window.location.search);
+        const id = params.get('id');
+
+        const testsBtn = document.getElementById('testsBtn');
+        const greekText = document.getElementById('greekText');
+        const englishText = document.getElementById('englishText');
+        const translateBtn = document.getElementById('translateBtn');
+
+        if (!id) {
+            greekText.textContent = 'Invalid reading item.';
+        } else {
+            testsBtn.href = `tests.html?id=${encodeURIComponent(id)}`;
+
+            fetch(`../content/reading/${encodeURIComponent(id)}/reading_1.json`)
+                .then(r => { if (!r.ok) throw new Error(); return r.json(); })
+                .then(data => {
+                    const text = data.text || {};
+                    greekText.textContent = text.greek || '';
+                    englishText.textContent = text.english || '';
+                    document.title = `Reading – Greek Tutorial`;
+                })
+                .catch(() => {
+                    greekText.textContent = 'Unable to load reading content.';
+                });
+        }
+
+        translateBtn.addEventListener('click', () => {
+            const visible = englishText.classList.toggle('visible');
+            translateBtn.classList.toggle('active', visible);
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,90 @@
+{
+  "text": {
+    "greek": "Αγαπητή Χριστίνα,\n\nΠώς είσαι; Εγώ είμαι πολύ καλά! Σου γράφω από τη Σαντορίνη, ένα πανέμορφο νησί. Ήρθα εδώ με τον φίλο μου τον Παναγιώτη για πέντε ημέρες.\n\nΗ Σαντορίνη είναι μαγική! Τα σπίτια είναι άσπρα με μπλε πόρτες και παράθυρα. Η θέα από το χωριό Οία είναι εκπληκτική — βλέπεις όλη τη θάλασσα! Χθες είδαμε το ηλιοβασίλεμα εκεί και ήταν υπέροχο.\n\nΜείνουμε σε ένα μικρό ξενοδοχείο που λέγεται «Ήλιος». Το δωμάτιό μας έχει θέα στη θάλασσα. Κάθε πρωί τρώμε στην ταράτσα με καφέ και φρούτα.\n\nΧθες πήγαμε σε ένα εστιατόριο δίπλα στη θάλασσα και φάγαμε χταπόδι και τηγανητά καλαμαράκια. Αύριο θέλουμε να επισκεφτούμε ένα ηφαίστειο με βάρκα.\n\nΦεύγουμε Σάββατο.\nΣε φιλώ,\nΒασίλης",
+    "english": "Dear Christina,\n\nHow are you? I am very well! I am writing to you from Santorini, a beautiful island. I came here with my friend Panagiotis for five days.\n\nSantorini is magical! The houses are white with blue doors and windows. The view from the village of Oia is breathtaking — you can see the whole sea! Yesterday we saw the sunset there and it was wonderful.\n\nWe are staying in a small hotel called \"Helios\". Our room has a sea view. Every morning we eat on the terrace with coffee and fruits.\n\nYesterday we went to a restaurant next to the sea and ate octopus and fried calamari. Tomorrow we want to visit a volcano by boat.\n\nWe leave on Saturday.\nWith kisses,\nVasilis"
+  },
+  "questions": [
+    {
+      "type": "true_false",
+      "is_example": true,
+      "statement": "Ο Βασίλης είναι στη Σαντορίνη.",
+      "answer": "true"
+    },
+    {
+      "type": "true_false",
+      "statement": "Ο Βασίλης ταξίδεψε μόνος του.",
+      "answer": "false"
+    },
+    {
+      "type": "true_false",
+      "statement": "Τα σπίτια στη Σαντορίνη είναι κόκκινα.",
+      "answer": "false"
+    },
+    {
+      "type": "true_false",
+      "statement": "Χθες είδαν το ηλιοβασίλεμα στην Οία.",
+      "answer": "true"
+    },
+    {
+      "type": "true_false",
+      "statement": "Το ξενοδοχείο λέγεται «Θάλασσα».",
+      "answer": "false"
+    },
+    {
+      "type": "true_false",
+      "statement": "Το δωμάτιο έχει θέα στη θάλασσα.",
+      "answer": "true"
+    },
+    {
+      "type": "true_false",
+      "statement": "Αύριο θέλουν να επισκεφτούν ένα ηφαίστειο.",
+      "answer": "true"
+    },
+    {
+      "type": "matching",
+      "beginnings": [
+        { "text": "Ο Βασίλης ταξιδεύει..." },
+        { "text": "Τα σπίτια στη Σαντορίνη είναι..." },
+        { "text": "Το ξενοδοχείο λέγεται..." },
+        { "text": "Κάθε πρωί τρώνε..." },
+        { "text": "Χθες έφαγαν..." },
+        { "text": "Αύριο θέλουν να επισκεφτούν..." }
+      ],
+      "endings": [
+        { "text": "...ένα ηφαίστειο με βάρκα." },
+        { "text": "...στην ταράτσα με καφέ και φρούτα." },
+        { "text": "...χταπόδι και καλαμαράκια." },
+        { "text": "...«Ήλιος»." },
+        { "text": "...με τον φίλο του τον Παναγιώτη." },
+        { "text": "...άσπρα με μπλε πόρτες." },
+        { "text": "...με αεροπλάνο μόνος." },
+        { "text": "...στο εστιατόριο κάθε πρωί." }
+      ],
+      "answers": { "0": 4, "1": 5, "2": 3, "3": 1, "4": 2, "5": 0 }
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Πόσες ημέρες μένει ο Βασίλης στη Σαντορίνη;",
+      "options": { "a": "3", "b": "4", "c": "5" },
+      "answer": "c"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Πώς λέγεται το ξενοδοχείο;",
+      "options": { "a": "Θάλασσα", "b": "Ήλιος", "c": "Οία" },
+      "answer": "b"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Τι έφαγαν χθες;",
+      "options": { "a": "ψάρι και σαλάτα", "b": "χταπόδι και καλαμαράκια", "c": "κρέας και πατάτες" },
+      "answer": "b"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Τι θέλουν να κάνουν αύριο;",
+      "options": { "a": "να πάνε στην παραλία", "b": "να επισκεφτούν ένα μουσείο", "c": "να επισκεφτούν ένα ηφαίστειο" },
+      "answer": "c"
+    }
+  ]
+}

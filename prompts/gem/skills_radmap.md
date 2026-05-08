@@ -16,12 +16,13 @@ This skill defines the structured process for generate roadmap steps.
 * The step should consist of blocks that could be `grammar` or `vocabulary` type
 * The `grammar` type represent one of the grammar topic
 * The `vocabulary` type represent one of the vocabulary block.
+* The `reading` type represent one of the reading block.
 * The list of grammar topics placed in `content\grammar\topics.json` file 
 * The list of vocabulary topics the blocks placed in `content\vocabulary\topics.json` file and the block for topics placed in `content\vocabulary\{topic}\vocabulary.json` files 
 
 ### 3. Space repetition principle
 * Each grammar topic as well as vocabulary block should be represented in roadmap steps many times according space repetition principles with intervals 1, 2, 5, 10, 20 steps.
-* Each step should consist of 2 or 3 blocks
+* Each step should consist of 2 or 4 blocks
 ---
 
 ## Prompt Examples

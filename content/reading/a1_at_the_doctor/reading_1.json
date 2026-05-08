@@ -1,0 +1,90 @@
+{
+  "text": {
+    "greek": "ΙΑΤΡΙΚΟ ΚΕΝΤΡΟ «ΥΓΕΙΑ»\n\nΑγαπητοί ασθενείς,\n\nΤο Ιατρικό Κέντρο «Υγεία» βρίσκεται στην οδό Βασιλίσσης Σοφίας 50, στην Αθήνα. Είμαστε ανοιχτά Δευτέρα έως Παρασκευή, από τις 9 το πρωί μέχρι τις 7 το απόγευμα.\n\nΟι γιατροί μας:\n— Δρ. Αντωνίου — Παθολόγος\n— Δρ. Σταματίου — Παιδίατρος\n— Δρ. Κώτσιου — Καρδιολόγος\n— Δρ. Μπαλτά — Δερματολόγος\n\nΓια να κλείσετε ραντεβού, τηλεφωνήστε στο 210-222-3344 ή στείλτε email στο info@iateio-ygeia.gr. Μπορείτε επίσης να έρθετε απευθείας στο ιατρείο.\n\nΟι ακτινογραφίες και οι αιματολογικές εξετάσεις γίνονται κάθε μέρα από τις 8 έως τις 12 το μεσημέρι.\n\nΑποδεχόμαστε όλα τα ασφαλιστικά ταμεία.\n\nΗ υγεία σας είναι η προτεραιότητά μας!",
+    "english": "MEDICAL CENTRE «YGEIA» (HEALTH)\n\nDear patients,\n\nThe Medical Centre «Ygeia» is located at 50 Vasilissis Sofias Street, in Athens. We are open Monday to Friday, from 9 in the morning until 7 in the afternoon.\n\nOur doctors:\n— Dr. Antoniou — General Practitioner\n— Dr. Stamatiou — Pediatrician\n— Dr. Kotsiou — Cardiologist\n— Dr. Balta — Dermatologist\n\nTo book an appointment, call 210-222-3344 or send an email to info@iateio-ygeia.gr. You can also come directly to the clinic.\n\nX-rays and blood tests are done every day from 8 until 12 noon.\n\nWe accept all insurance funds.\n\nYour health is our priority!"
+  },
+  "questions": [
+    {
+      "type": "true_false",
+      "is_example": true,
+      "statement": "Το ιατρείο βρίσκεται στην Αθήνα.",
+      "answer": "true"
+    },
+    {
+      "type": "true_false",
+      "statement": "Το ιατρείο είναι ανοιχτά τα Σαββατοκύριακα.",
+      "answer": "false"
+    },
+    {
+      "type": "true_false",
+      "statement": "Υπάρχει παιδίατρος στο ιατρείο.",
+      "answer": "true"
+    },
+    {
+      "type": "true_false",
+      "statement": "Το ιατρείο ανοίγει στις 10 το πρωί.",
+      "answer": "false"
+    },
+    {
+      "type": "true_false",
+      "statement": "Οι αιματολογικές εξετάσεις γίνονται το απόγευμα.",
+      "answer": "false"
+    },
+    {
+      "type": "true_false",
+      "statement": "Μπορείτε να στείλετε email για ραντεβού.",
+      "answer": "true"
+    },
+    {
+      "type": "true_false",
+      "statement": "Το ιατρείο έχει καρδιολόγο.",
+      "answer": "true"
+    },
+    {
+      "type": "matching",
+      "beginnings": [
+        { "text": "Το ιατρικό κέντρο βρίσκεται..." },
+        { "text": "Το ιατρείο είναι ανοιχτά..." },
+        { "text": "Ο Δρ. Σταματίου είναι..." },
+        { "text": "Για ραντεβού μπορείτε να..." },
+        { "text": "Οι αιματολογικές εξετάσεις γίνονται..." },
+        { "text": "Το ιατρείο δέχεται..." }
+      ],
+      "endings": [
+        { "text": "...παιδίατρος." },
+        { "text": "...κάθε μέρα από τις 8 έως τις 12." },
+        { "text": "...τηλεφωνήσετε στο 210-222-3344." },
+        { "text": "...στην οδό Βασιλίσσης Σοφίας 50." },
+        { "text": "...όλα τα ασφαλιστικά ταμεία." },
+        { "text": "...Δευτέρα έως Παρασκευή." },
+        { "text": "...μόνο μετρητά." },
+        { "text": "...ασθενείς μόνο με ραντεβού." }
+      ],
+      "answers": { "0": 3, "1": 5, "2": 0, "3": 2, "4": 1, "5": 4 }
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Πότε είναι ανοιχτό το ιατρείο;",
+      "options": { "a": "Δευτέρα έως Σάββατο", "b": "Δευτέρα έως Παρασκευή", "c": "καθημερινά" },
+      "answer": "b"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Ποιος είναι ο Δρ. Αντωνίου;",
+      "options": { "a": "Παιδίατρος", "b": "Καρδιολόγος", "c": "Παθολόγος" },
+      "answer": "c"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Τι ώρα ανοίγει το ιατρείο;",
+      "options": { "a": "8 το πρωί", "b": "9 το πρωί", "c": "10 το πρωί" },
+      "answer": "b"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Πότε γίνονται οι αιματολογικές εξετάσεις;",
+      "options": { "a": "από 8 έως 12 το μεσημέρι", "b": "από 9 έως 1 το μεσημέρι", "c": "από 10 έως 2 το μεσημέρι" },
+      "answer": "a"
+    }
+  ]
+}

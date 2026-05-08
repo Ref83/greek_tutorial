@@ -24,9 +24,8 @@ This skill defines the structured process for generating reading comprehension e
 * **Translation:** Provide a full English translation of the generated text immediately after the Greek original.
 
 ### 2. Question Generation
-Generate **4 question sets** per text (matching the structure of the reference exams). For each question set:
+Generate **3 question sets** per text (matching the structure of the reference exams). For each question set:
 * Provide a context-setting instruction in Greek (as in the exam format).
-* Include one solved example item (ΠΑΡΑΔΕΙΓΜΑ / item 0) with the answer already given.
 * State clearly how many answers are required (excluding the example).
 
 Use the **Question Types** below, mixing at least 3 different types per exam:
@@ -39,104 +38,67 @@ Use the **Question Types** below, mixing at least 3 different types per exam:
 * Format: numbered table with ΣΩΣΤΟ | ΛΑΘΟΣ columns.
 
 **Type 2 — Sentence Completion Matching (two-column)**
-* Table A: 6 sentence beginnings derived from the text (plus 1 example).
+* Table A: 6 sentence beginnings derived from the text.
 * Table B: 8–9 sentence endings (6 correct + 2–3 distractors that don't match any beginning).
 * Student matches each beginning to the correct ending by number.
 * Format: two side-by-side numbered lists.
 
-**Type 3 — Multiple Choice (α / β / γ)**
-* Generate 4 questions (plus 1 example), each with 3 options.
+**Type 3 — Multiple Choice (a / b / c)**
+* Generate 4 questions, each with 3 options.
 * Only one option is correct; distractors must be plausible (slightly wrong quantity, similar but different adjective, opposite direction, etc.).
-* Format: numbered blocks, each with α / β / γ options and a checkbox column.
-
-**Type 4 — Visual / Blank Matching**
-* Provide a short text with 4 blanks (plus 1 example blank already filled).
-* Provide 6 numbered image descriptions or short phrases; 4 match the blanks, 2 are distractors.
-* Format: text with underlined blanks and a numbered image/phrase list beside it.
-
-### 3. Answer Key
-* After all question sets, output a complete answer key section (ΛΥΣΕΙΣ) with every correct answer indicated, reproducing the question tables with answers filled in.
 
 ### 4. JSON Output
-* Save the full exercise as a JSON file at `content/reading/<topic>/<level>_reading_<N>.json`, where N is the exercise number.
+* Save the caption and level in `content/reading/items.json`
+* Save the full exercise as a JSON file at `content/reading/{id}/reading_<N>.json`, where N is the exercise number, and id is id of item in `content/reading/items.json`   
 * JSON format: follow the structure below.
 
+Example of `content/reading/items.json`
 ```json
 {
-  "level": "A1",
-  "topic": "Christening invitation",
+  "items": [
+    {
+      "id": "a1_about_myself",
+      "level": "a1",
+      "cation": "About myself"
+    },
+    {
+      "id": "a1_in_the_shop",
+      "level": "a1",
+      "cation": "In the shop"
+    }
+  ]  
+}
+```
+
+Example of `content/reading/{id}/reading_<N>.json` 
+```json
+{
   "text": {
     "greek": "...",
     "english": "..."
   },
   "questions": [
     {
-      "id": 1,
       "type": "true_false",
-      "instruction": "Διαβάστε το κείμενο και σημειώστε ΣΩΣΤΟ ή ΛΑΘΟΣ.",
-      "points": 7,
-      "example": {
-        "id": 0,
-        "statement": "...",
-        "answer": "ΣΩΣΤΟ"
-      },
-      "items": [
-        { "id": 1, "statement": "...", "answer": "ΣΩΣΤΟ" },
-        { "id": 2, "statement": "...", "answer": "ΛΑΘΟΣ" }
-      ]
+      "statement": "...", 
+      "answer": "true"
     },
     {
-      "id": 2,
       "type": "matching",
-      "instruction": "Βρείτε τη σωστή συνέχεια των φράσεων.",
-      "points": 6,
-      "example": { "id": 0, "beginning": "...", "ending_id": 5, "ending": "..." },
       "beginnings": [
-        { "id": 1, "text": "..." }
+        { "text": "..." }
       ],
       "endings": [
-        { "id": 1, "text": "..." },
-        { "id": 2, "text": "..." }
+        { "text": "..." },
+        { "text": "..." }
       ],
-      "answers": { "1": 3, "2": 7 }
+      "answers": { "0": 3, "1": 7 }
     },
     {
-      "id": 3,
       "type": "multiple_choice",
-      "instruction": "Διαβάστε και σημειώστε τη σωστή απάντηση.",
-      "points": 6,
-      "example": {
-        "id": 0,
-        "question": "...",
-        "options": { "α": "...", "β": "...", "γ": "..." },
-        "answer": "γ"
-      },
-      "items": [
-        {
-          "id": 1,
-          "question": "...",
-          "options": { "α": "...", "β": "...", "γ": "..." },
-          "answer": "β"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "type": "visual_matching",
-      "instruction": "Σημειώστε στα κενά τον αριθμό της σωστής εικόνας.",
-      "points": 6,
-      "text_with_blanks": "... [0_EXAMPLE] ... [1] ... [2] ... [3] ... [4] ...",
-      "example_answer": 0,
-      "options": [
-        { "id": 0, "description": "highway / open road" },
-        { "id": 1, "description": "left-turn sign" },
-        { "id": 2, "description": "right-turn sign" },
-        { "id": 3, "description": "STOP sign" },
-        { "id": 4, "description": "house / building" },
-        { "id": 5, "description": "traffic light (red)" },
-        { "id": 6, "description": "railway tracks" }
-      ],
-      "answers": { "1": 5, "2": 2, "3": 1, "4": 4 }
+      "question": "...",
+      "options": { "a": "...", "b": "...", "c": "..." },
+      "answer": "b"
     }
   ]
 }
@@ -145,12 +107,4 @@ Use the **Question Types** below, mixing at least 3 different types per exam:
 ---
 
 ## Prompt Examples
-
-**For reading text + exercises:**
-- "Using the reading skill from the knowledge base, generate a reading exercise for level **A1** on the topic **personal introduction**. Include all 4 question types and the answer key."
-
-**For a specific question type only:**
-- "Using the reading skill from the knowledge base, generate a **True/False** question set for level **A2** based on the following text: [paste text]."
-
-**For JSON file generation:**
-- "Using the reading skill from the knowledge base, generate the JSON file for reading exercise **1** for level **A1**, topic **house description**."
+- "Using the reading skill from the knowledge base, generate a reading exercise for level **A1** on the topic **personal introduction**."

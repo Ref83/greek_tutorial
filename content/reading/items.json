@@ -4,6 +4,81 @@
       "id": "a1_personal_information",
       "level": "a1",
       "caption": "Personal information"
+    },
+    {
+      "id": "a1_birthday_invitation",
+      "level": "a1",
+      "caption": "Birthday invitation"
+    },
+    {
+      "id": "a1_my_family",
+      "level": "a1",
+      "caption": "My family"
+    },
+    {
+      "id": "a1_at_the_cafe",
+      "level": "a1",
+      "caption": "At the café"
+    },
+    {
+      "id": "a1_finding_an_apartment",
+      "level": "a1",
+      "caption": "Finding an apartment"
+    },
+    {
+      "id": "a1_at_school",
+      "level": "a1",
+      "caption": "At school"
+    },
+    {
+      "id": "a1_greek_coffee_shop",
+      "level": "a1",
+      "caption": "Greek coffee shop"
+    },
+    {
+      "id": "a1_summer_holiday",
+      "level": "a1",
+      "caption": "Summer holiday"
+    },
+    {
+      "id": "a1_new_neighbors",
+      "level": "a1",
+      "caption": "New neighbors"
+    },
+    {
+      "id": "a1_weekend_plans",
+      "level": "a1",
+      "caption": "Weekend plans"
+    },
+    {
+      "id": "a1_local_market",
+      "level": "a1",
+      "caption": "Local market"
+    },
+    {
+      "id": "a1_sports_club",
+      "level": "a1",
+      "caption": "Sports club"
+    },
+    {
+      "id": "a1_my_neighborhood",
+      "level": "a1",
+      "caption": "My neighborhood"
+    },
+    {
+      "id": "a1_trip_to_the_island",
+      "level": "a1",
+      "caption": "Trip to the island"
+    },
+    {
+      "id": "a1_at_the_doctor",
+      "level": "a1",
+      "caption": "At the doctor"
+    },
+    {
+      "id": "a1_cooking_class",
+      "level": "a1",
+      "caption": "Cooking class"
     }
   ]
 }

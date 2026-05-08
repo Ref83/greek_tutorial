@@ -1,0 +1,90 @@
+{
+  "text": {
+    "greek": "Σχολείο «Αριστοτέλης»\nΑνακοίνωση\n\nΑγαπητοί γονείς,\n\nΣας ενημερώνουμε ότι την Παρασκευή, 20 Μαΐου, δεν θα γίνουν μαθήματα. Εκείνη την ημέρα, οι μαθητές θα πάνε σε εκδρομή στο Μουσείο Ακρόπολης.\n\nΗ εκδρομή ξεκινά στις 9 το πρωί και τελειώνει στις 2 το μεσημέρι. Το κόστος είναι 5 ευρώ ανά παιδί.\n\nΠαρακαλώ υπογράψτε το έντυπο.\n\nΜε εκτίμηση,\nΟ Διευθυντής",
+    "english": "School «Aristotle»\nAnnouncement\n\nDear parents,\n\nWe inform you that on Friday, May 20th, there will be no lessons. On that day, the students will go on a trip to the Acropolis Museum.\n\nThe trip starts at 9 in the morning and ends at 2 in the afternoon. The cost is 5 euros per child.\n\nPlease sign the form.\n\nWith regards,\nThe Principal"
+  },
+  "questions": [
+    {
+      "type": "true_false",
+      "is_example": true,
+      "statement": "Η ανακοίνωση είναι για γονείς.",
+      "answer": "true"
+    },
+    {
+      "type": "true_false",
+      "statement": "Την Παρασκευή θα γίνουν κανονικά μαθήματα.",
+      "answer": "false"
+    },
+    {
+      "type": "true_false",
+      "statement": "Οι μαθητές θα πάνε σε μουσείο.",
+      "answer": "true"
+    },
+    {
+      "type": "true_false",
+      "statement": "Η εκδρομή ξεκινά στις 8 το πρωί.",
+      "answer": "false"
+    },
+    {
+      "type": "true_false",
+      "statement": "Η εκδρομή τελειώνει στις 2 το μεσημέρι.",
+      "answer": "true"
+    },
+    {
+      "type": "true_false",
+      "statement": "Η εκδρομή κοστίζει 10 ευρώ.",
+      "answer": "false"
+    },
+    {
+      "type": "true_false",
+      "statement": "Οι γονείς πρέπει να υπογράψουν ένα έντυπο.",
+      "answer": "true"
+    },
+    {
+      "type": "matching",
+      "beginnings": [
+        { "text": "Την Παρασκευή δεν θα γίνουν..." },
+        { "text": "Οι μαθητές θα πάνε..." },
+        { "text": "Η εκδρομή ξεκινά..." },
+        { "text": "Η εκδρομή τελειώνει..." },
+        { "text": "Το κόστος είναι..." },
+        { "text": "Οι γονείς πρέπει να..." }
+      ],
+      "endings": [
+        { "text": "...στο Μουσείο Ακρόπολης." },
+        { "text": "...5 ευρώ ανά παιδί." },
+        { "text": "...υπογράψουν ένα έντυπο." },
+        { "text": "...στις 9 το πρωί." },
+        { "text": "...μαθήματα." },
+        { "text": "...στις 2 το μεσημέρι." },
+        { "text": "...στο Εθνικό Μουσείο." },
+        { "text": "...10 ευρώ ανά παιδί." }
+      ],
+      "answers": { "0": 4, "1": 0, "2": 3, "3": 5, "4": 1, "5": 2 }
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Πότε είναι η εκδρομή;",
+      "options": { "a": "Πέμπτη, 20 Μαΐου", "b": "Παρασκευή, 20 Μαΐου", "c": "Σάββατο, 20 Μαΐου" },
+      "answer": "b"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Πού θα πάνε οι μαθητές;",
+      "options": { "a": "Μουσείο Ακρόπολης", "b": "Εθνικό Μουσείο", "c": "Μουσείο Αθηνών" },
+      "answer": "a"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Πόσο κοστίζει η εκδρομή ανά παιδί;",
+      "options": { "a": "3 ευρώ", "b": "5 ευρώ", "c": "10 ευρώ" },
+      "answer": "b"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Τι ώρα ξεκινά η εκδρομή;",
+      "options": { "a": "8 το πρωί", "b": "9 το πρωί", "c": "10 το πρωί" },
+      "answer": "b"
+    }
+  ]
+}

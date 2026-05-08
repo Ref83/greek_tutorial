@@ -1,0 +1,90 @@
+{
+  "text": {
+    "greek": "ΕΝΟΙΚΙΑΖΕΤΑΙ ΔΙΑΜΕΡΙΣΜΑ\n\nΤοποθεσία: Κέντρο Αθήνας, Οδός Σόλωνος 44\nΔωμάτια: 2 υπνοδωμάτια, 1 σαλόνι, 1 κουζίνα\nΌροφος: 3ος\nΤετραγωνικά μέτρα: 65 τ.μ.\nΕνοίκιο: 600 ευρώ το μήνα\nΕπιπλωμένο: Ναι\nΚατάσταση: Άριστη\n\nΓια πληροφορίες, τηλεφωνήστε στο: 210-345-6789",
+    "english": "APARTMENT FOR RENT\n\nLocation: Central Athens, 44 Solonos Street\nRooms: 2 bedrooms, 1 living room, 1 kitchen\nFloor: 3rd\nSquare meters: 65 sq.m.\nRent: 600 euros per month\nFurnished: Yes\nCondition: Excellent\n\nFor information, call: 210-345-6789"
+  },
+  "questions": [
+    {
+      "type": "true_false",
+      "is_example": true,
+      "statement": "Το διαμέρισμα ενοικιάζεται.",
+      "answer": "true"
+    },
+    {
+      "type": "true_false",
+      "statement": "Το διαμέρισμα έχει 3 υπνοδωμάτια.",
+      "answer": "false"
+    },
+    {
+      "type": "true_false",
+      "statement": "Το διαμέρισμα είναι στο κέντρο της Αθήνας.",
+      "answer": "true"
+    },
+    {
+      "type": "true_false",
+      "statement": "Το ενοίκιο είναι 500 ευρώ το μήνα.",
+      "answer": "false"
+    },
+    {
+      "type": "true_false",
+      "statement": "Το διαμέρισμα είναι επιπλωμένο.",
+      "answer": "true"
+    },
+    {
+      "type": "true_false",
+      "statement": "Το διαμέρισμα είναι στον 2ο όροφο.",
+      "answer": "false"
+    },
+    {
+      "type": "true_false",
+      "statement": "Μπορείτε να τηλεφωνήσετε για πληροφορίες.",
+      "answer": "true"
+    },
+    {
+      "type": "matching",
+      "beginnings": [
+        { "text": "Το διαμέρισμα βρίσκεται..." },
+        { "text": "Το διαμέρισμα έχει..." },
+        { "text": "Ο όροφος είναι..." },
+        { "text": "Το ενοίκιο είναι..." },
+        { "text": "Το διαμέρισμα είναι..." },
+        { "text": "Για πληροφορίες πρέπει..." }
+      ],
+      "endings": [
+        { "text": "...να τηλεφωνήσετε." },
+        { "text": "...επιπλωμένο." },
+        { "text": "...στον 3ο όροφο." },
+        { "text": "...600 ευρώ το μήνα." },
+        { "text": "...2 υπνοδωμάτια." },
+        { "text": "...στο κέντρο της Αθήνας." },
+        { "text": "...σε κακή κατάσταση." },
+        { "text": "...χωρίς έπιπλα." }
+      ],
+      "answers": { "0": 5, "1": 4, "2": 2, "3": 3, "4": 1, "5": 0 }
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Πόσα υπνοδωμάτια έχει το διαμέρισμα;",
+      "options": { "a": "1", "b": "2", "c": "3" },
+      "answer": "b"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Πόσο κοστίζει το ενοίκιο;",
+      "options": { "a": "500 ευρώ", "b": "700 ευρώ", "c": "600 ευρώ" },
+      "answer": "c"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Σε ποιον όροφο είναι το διαμέρισμα;",
+      "options": { "a": "2ο", "b": "3ο", "c": "4ο" },
+      "answer": "b"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Πόσα τετραγωνικά μέτρα έχει το διαμέρισμα;",
+      "options": { "a": "55 τ.μ.", "b": "65 τ.μ.", "c": "75 τ.μ." },
+      "answer": "b"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "text": {
+    "greek": "ΛΑΪΚΗ ΑΓΟΡΑ ΠΛΑΤΕΙΑΣ ΕΞΑΡΧΕΙΩΝ\n\nΑγαπητοί κάτοικοι,\n\nΚάθε Σάββατο, από τις 8 το πρωί μέχρι τις 2 το μεσημέρι, γίνεται η λαϊκή αγορά στην Πλατεία Εξαρχείων. Έρθετε να αγοράσετε φρέσκα προϊόντα!\n\nΤι θα βρείτε:\n— Φρούτα και λαχανικά: μήλα, πορτοκάλια, ντομάτες, αγγούρια\n— Γαλακτοκομικά: τυρί, γιαούρτι, αυγά\n— Ψάρια και θαλασσινά: φρέσκα από τη θάλασσα κάθε εβδομάδα\n— Λάδι και μέλι: ελληνικά προϊόντα ποιότητας\n— Αρτοποιήματα: ψωμί, κουλούρια, τυρόπιτες\n\nΟι τιμές είναι πολύ καλές! Ένα κιλό ντομάτες κοστίζει 1,50 ευρώ. Το φρέσκο τυρί κοστίζει 5 ευρώ το κιλό.\n\nΓια πληροφορίες επικοινωνήστε με τον Δήμο Αθηναίων στο τηλέφωνο 210-111-2233.\n\nΣας περιμένουμε κάθε Σάββατο!",
+    "english": "FARMERS' MARKET AT EXARHEIA SQUARE\n\nDear residents,\n\nEvery Saturday, from 8 in the morning until 2 in the afternoon, there is a farmers' market at Exarheia Square. Come and buy fresh products!\n\nWhat you will find:\n— Fruits and vegetables: apples, oranges, tomatoes, cucumbers\n— Dairy products: cheese, yogurt, eggs\n— Fish and seafood: fresh from the sea every week\n— Oil and honey: quality Greek products\n— Bakery items: bread, koulouria, cheese pies\n\nThe prices are very good! One kilo of tomatoes costs 1.50 euros. Fresh cheese costs 5 euros per kilo.\n\nFor information, contact the Municipality of Athens at phone number 210-111-2233.\n\nWe are waiting for you every Saturday!"
+  },
+  "questions": [
+    {
+      "type": "true_false",
+      "is_example": true,
+      "statement": "Η λαϊκή αγορά γίνεται κάθε Σάββατο.",
+      "answer": "true"
+    },
+    {
+      "type": "true_false",
+      "statement": "Η αγορά ξεκινά στις 9 το πρωί.",
+      "answer": "false"
+    },
+    {
+      "type": "true_false",
+      "statement": "Μπορείτε να αγοράσετε φρέσκο ψάρι στην αγορά.",
+      "answer": "true"
+    },
+    {
+      "type": "true_false",
+      "statement": "Ένα κιλό ντομάτες κοστίζει 2 ευρώ.",
+      "answer": "false"
+    },
+    {
+      "type": "true_false",
+      "statement": "Η αγορά τελειώνει στις 2 το μεσημέρι.",
+      "answer": "true"
+    },
+    {
+      "type": "true_false",
+      "statement": "Στην αγορά πουλάνε επίσης μέλι.",
+      "answer": "true"
+    },
+    {
+      "type": "true_false",
+      "statement": "Η αγορά γίνεται κάθε Κυριακή.",
+      "answer": "false"
+    },
+    {
+      "type": "matching",
+      "beginnings": [
+        { "text": "Η λαϊκή αγορά γίνεται..." },
+        { "text": "Η αγορά τελειώνει..." },
+        { "text": "Ένα κιλό ντομάτες κοστίζει..." },
+        { "text": "Το φρέσκο τυρί κοστίζει..." },
+        { "text": "Για πληροφορίες μπορείτε..." },
+        { "text": "Στην αγορά μπορείτε να βρείτε..." }
+      ],
+      "endings": [
+        { "text": "...1,50 ευρώ." },
+        { "text": "...να τηλεφωνήσετε στο 210-111-2233." },
+        { "text": "...στις 2 το μεσημέρι." },
+        { "text": "...στην Πλατεία Εξαρχείων." },
+        { "text": "...φρούτα, λαχανικά και ψάρια." },
+        { "text": "...5 ευρώ το κιλό." },
+        { "text": "...κάθε Τετάρτη." },
+        { "text": "...3 ευρώ το κιλό." }
+      ],
+      "answers": { "0": 3, "1": 2, "2": 0, "3": 5, "4": 1, "5": 4 }
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Τι ώρα ξεκινά η αγορά;",
+      "options": { "a": "7 το πρωί", "b": "8 το πρωί", "c": "9 το πρωί" },
+      "answer": "b"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Πόσο κοστίζει ένα κιλό ντομάτες;",
+      "options": { "a": "1 ευρώ", "b": "1,50 ευρώ", "c": "2 ευρώ" },
+      "answer": "b"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Πότε γίνεται η αγορά;",
+      "options": { "a": "Παρασκευή", "b": "Κυριακή", "c": "Σάββατο" },
+      "answer": "c"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Πού γίνεται η αγορά;",
+      "options": { "a": "Πλατεία Εξαρχείων", "b": "Πλατεία Συντάγματος", "c": "Πλατεία Αριστοτέλους" },
+      "answer": "a"
+    }
+  ]
+}
