@@ -1,0 +1,64 @@
+{
+    "steps": [
+        {
+            "id": "fba74bcd-2319-4577-8a03-57e9ff1f881e",
+            "title": "Step 1: Grammar `To be` and vocabulary `Personal information. Block 1`",
+            "blocks": [
+                {
+                    "type": "grammar",
+                    "topic": "to_be"
+                },
+                {
+                    "type": "vocabulary",
+                    "topic": "personal_information",
+                    "block": 0
+                }
+            ]
+        },
+        {
+            "id": "64959454-6b38-4d27-b779-8c5812c642ef",
+            "title": "Step 2: Repeat Grammar `To be` and vocabulary `Personal information. Block 2`",
+            "blocks": [
+                {
+                    "type": "grammar",
+                    "topic": "to_be"
+                },
+                {
+                    "type": "vocabulary",
+                    "topic": "personal_information",
+                    "block": 1
+                }
+            ]
+        },
+        {
+            "id": "7b85466a-3272-434d-b74d-c10420fe5405",
+            "title": "Step 3: somethis",
+            "blocks": [
+                {
+                    "type": "grammar",
+                    "topic": "to_be"
+                },
+                {
+                    "type": "vocabulary",
+                    "topic": "personal_information",
+                    "block": 1
+                }
+            ]
+        },
+        {
+            "id": "5e06e457-7d68-41fe-aefa-a9d45731e9a9",
+            "title": "Step 4: Grammar for asasd",
+            "blocks": [
+                {
+                    "type": "grammar",
+                    "topic": "to_be"
+                },
+                {
+                    "type": "vocabulary",
+                    "topic": "personal_information",
+                    "block": 3
+                }
+            ]
+        }
+    ]
+}

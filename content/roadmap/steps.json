@@ -1,8 +1,8 @@
 {
     "steps": [
         {
-            "id": "step1",
-            "title": "Step 1: Grammar `To be` and vocabulary `Personal information. Block 1`",
+            "id": "a1b2c3d4-0001-4e5f-8a9b-c0d1e2f30001",
+            "title": "Step 1: Grammar 'To Be' and Vocabulary 'Personal Information. Block 1'",
             "blocks": [
                 {
                     "type": "grammar",
@@ -16,8 +16,8 @@
             ]
         },
         {
-            "id": "step2",
-            "title": "Step 2: Repeat Grammar `To be` and vocabulary `Personal information. Block 2`",
+            "id": "a1b2c3d4-0002-4e5f-8a9b-c0d1e2f30002",
+            "title": "Step 2: Repeat Grammar 'To Be' and Vocabulary 'Personal Information. Block 2'",
             "blocks": [
                 {
                     "type": "grammar",
@@ -31,12 +31,77 @@
             ]
         },
         {
-            "id": "step3",
-            "title": "Step 3: somethis",
+            "id": "a1b2c3d4-0003-4e5f-8a9b-c0d1e2f30003",
+            "title": "Step 3: Grammar 'Nouns and Articles' and Vocabulary 'Personal Information. Block 1' (repeat)",
+            "blocks": [
+                {
+                    "type": "grammar",
+                    "topic": "nouns_and_articles"
+                },
+                {
+                    "type": "vocabulary",
+                    "topic": "personal_information",
+                    "block": 0
+                }
+            ]
+        },
+        {
+            "id": "a1b2c3d4-0004-4e5f-8a9b-c0d1e2f30004",
+            "title": "Step 4: Repeat Grammar 'To Be' and Vocabulary 'Personal Information. Block 3'",
             "blocks": [
                 {
                     "type": "grammar",
                     "topic": "to_be"
+                },
+                {
+                    "type": "vocabulary",
+                    "topic": "personal_information",
+                    "block": 2
+                }
+            ]
+        },
+        {
+            "id": "a1b2c3d4-0005-4e5f-8a9b-c0d1e2f30005",
+            "title": "Step 5: Repeat Grammar 'Nouns and Articles' and Vocabulary 'The Home. Block 1'",
+            "blocks": [
+                {
+                    "type": "grammar",
+                    "topic": "nouns_and_articles"
+                },
+                {
+                    "type": "vocabulary",
+                    "topic": "home",
+                    "block": 0
+                }
+            ]
+        },
+        {
+            "id": "a1b2c3d4-0006-4e5f-8a9b-c0d1e2f30006",
+            "title": "Step 6: Repeat Grammar 'Nouns and Articles', Vocabulary 'The Home. Block 1' and 'Personal Information. Block 3'",
+            "blocks": [
+                {
+                    "type": "grammar",
+                    "topic": "nouns_and_articles"
+                },
+                {
+                    "type": "vocabulary",
+                    "topic": "home",
+                    "block": 0
+                },
+                {
+                    "type": "vocabulary",
+                    "topic": "personal_information",
+                    "block": 2
+                }
+            ]
+        },
+        {
+            "id": "a1b2c3d4-0007-4e5f-8a9b-c0d1e2f30007",
+            "title": "Step 7: Grammar 'Nouns Accusative Case' and Vocabulary 'Personal Information. Block 2' (repeat)",
+            "blocks": [
+                {
+                    "type": "grammar",
+                    "topic": "nouns_accusative"
                 },
                 {
                     "type": "vocabulary",
@@ -46,17 +111,56 @@
             ]
         },
         {
-            "id": "step4",
-            "title": "Step 4: Grammar for asasd",
+            "id": "a1b2c3d4-0008-4e5f-8a9b-c0d1e2f30008",
+            "title": "Step 8: Repeat Grammar 'Nouns and Articles', Vocabulary 'The Home. Block 1' and 'Food and Cooking. Block 1'",
+            "blocks": [
+                {
+                    "type": "grammar",
+                    "topic": "nouns_and_articles"
+                },
+                {
+                    "type": "vocabulary",
+                    "topic": "home",
+                    "block": 0
+                },
+                {
+                    "type": "vocabulary",
+                    "topic": "food",
+                    "block": 0
+                }
+            ]
+        },
+        {
+            "id": "a1b2c3d4-0009-4e5f-8a9b-c0d1e2f30009",
+            "title": "Step 9: Repeat Grammar 'To Be' and 'Nouns Accusative Case'",
             "blocks": [
                 {
                     "type": "grammar",
                     "topic": "to_be"
                 },
                 {
+                    "type": "grammar",
+                    "topic": "nouns_accusative"
+                }
+            ]
+        },
+        {
+            "id": "a1b2c3d4-0010-4e5f-8a9b-c0d1e2f30010",
+            "title": "Step 10: Grammar 'Present Tense Group A Verbs', Vocabulary 'The Home. Block 2' and 'Personal Information. Block 1' (repeat)",
+            "blocks": [
+                {
+                    "type": "grammar",
+                    "topic": "present_goup_a"
+                },
+                {
+                    "type": "vocabulary",
+                    "topic": "home",
+                    "block": 1
+                },
+                {
                     "type": "vocabulary",
                     "topic": "personal_information",
-                    "block": 3
+                    "block": 0
                 }
             ]
         }
