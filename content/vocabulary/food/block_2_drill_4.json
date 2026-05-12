@@ -1,0 +1,160 @@
+{
+  "exercises": [
+    {
+      "id": "e-f-b2-073",
+      "type": "select",
+      "header": "τα μακαρόνια",
+      "options": {"a": "rice", "b": "soup", "c": "pasta / spaghetti", "d": "cheese"},
+      "answer": "c"
+    },
+    {
+      "id": "e-f-b2-074",
+      "type": "select",
+      "header": "το ρύζι",
+      "options": {"a": "bread", "b": "rice", "c": "pasta", "d": "omelette"},
+      "answer": "b"
+    },
+    {
+      "id": "e-f-b2-075",
+      "type": "blocks",
+      "header": "pasta / spaghetti",
+      "answer": "μακαρόνια",
+      "blocks": ["κ", "ν", "α", "ρ", "ι", "ό", "α", "μ", "α"]
+    },
+    {
+      "id": "e-f-b2-076",
+      "type": "select",
+      "header": "το γιαούρτι",
+      "options": {"a": "yogurt", "b": "cheese", "c": "juice", "d": "coffee"},
+      "answer": "a"
+    },
+    {
+      "id": "e-f-b2-077",
+      "type": "blocks",
+      "header": "rice",
+      "answer": "ρύζι",
+      "blocks": ["ι", "ύ", "ζ", "ρ"]
+    },
+    {
+      "id": "e-f-b2-078",
+      "type": "writing",
+      "header": "pasta / spaghetti",
+      "answer": "μακαρόνια"
+    },
+    {
+      "id": "e-f-b2-079",
+      "type": "blocks",
+      "header": "yogurt",
+      "answer": "γιαούρτι",
+      "blocks": ["ο", "τ", "ύ", "γ", "α", "ι", "ρ", "ι"]
+    },
+    {
+      "id": "e-f-b2-080",
+      "type": "writing",
+      "header": "rice",
+      "answer": "ρύζι"
+    },
+    {
+      "id": "e-f-b2-081",
+      "type": "gap",
+      "header": "Τα ___ είναι το αγαπημένο μου φαγητό.",
+      "answer": "μακαρόνια"
+    },
+    {
+      "id": "e-f-b2-082",
+      "type": "writing",
+      "header": "yogurt",
+      "answer": "γιαούρτι"
+    },
+    {
+      "id": "e-f-b2-083",
+      "type": "gap",
+      "header": "Το ___ χρειάζεται είκοσι λεπτά να βράσει.",
+      "answer": "ρύζι"
+    },
+    {
+      "id": "e-f-b2-084",
+      "type": "gap",
+      "header": "Το ελληνικό ___ είναι πολύ πηχτό.",
+      "answer": "γιαούρτι"
+    },
+    {
+      "id": "e-f-b2-085",
+      "type": "select",
+      "header": "το τυρί",
+      "options": {"a": "salad", "b": "tea", "c": "bread", "d": "cheese"},
+      "answer": "d"
+    },
+    {
+      "id": "e-f-b2-086",
+      "type": "select",
+      "header": "ο χυμός",
+      "options": {"a": "yogurt", "b": "juice", "c": "pasta", "d": "rice"},
+      "answer": "b"
+    },
+    {
+      "id": "e-f-b2-087",
+      "type": "blocks",
+      "header": "cheese",
+      "answer": "τυρί",
+      "blocks": ["ί", "υ", "ρ", "τ"]
+    },
+    {
+      "id": "e-f-b2-088",
+      "type": "select",
+      "header": "το τσάι",
+      "options": {"a": "coffee", "b": "omelette", "c": "tea", "d": "soup"},
+      "answer": "c"
+    },
+    {
+      "id": "e-f-b2-089",
+      "type": "blocks",
+      "header": "juice",
+      "answer": "χυμός",
+      "blocks": ["ό", "υ", "ς", "μ", "χ"]
+    },
+    {
+      "id": "e-f-b2-090",
+      "type": "writing",
+      "header": "cheese",
+      "answer": "τυρί"
+    },
+    {
+      "id": "e-f-b2-091",
+      "type": "blocks",
+      "header": "tea",
+      "answer": "τσάι",
+      "blocks": ["ι", "τ", "ά", "σ"]
+    },
+    {
+      "id": "e-f-b2-092",
+      "type": "writing",
+      "header": "juice",
+      "answer": "χυμός"
+    },
+    {
+      "id": "e-f-b2-093",
+      "type": "gap",
+      "header": "Η φέτα είναι ελληνικό ___.",
+      "answer": "τυρί"
+    },
+    {
+      "id": "e-f-b2-094",
+      "type": "writing",
+      "header": "tea",
+      "answer": "τσάι"
+    },
+    {
+      "id": "e-f-b2-095",
+      "type": "gap",
+      "header": "Φτιάχνω φρέσκο ___ στο σπίτι.",
+      "answer": "χυμό"
+    },
+    {
+      "id": "e-f-b2-096",
+      "type": "gap",
+      "header": "Θέλεις ένα φλιτζάνι ___;",
+      "answer": "τσάι"
+    }
+  ]
+}

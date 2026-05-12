@@ -1,0 +1,128 @@
+{
+  "exercises": [
+    {
+      "id": "e-home-b2-073",
+      "type": "select",
+      "header": "η αποθήκη",
+      "options": {"a": "hallway", "b": "stairs", "c": "guest room", "d": "storage room / storeroom"},
+      "answer": "d"
+    },
+    {
+      "id": "e-home-b2-074",
+      "type": "select",
+      "header": "η σκάλα",
+      "options": {"a": "storage room", "b": "stairs / staircase", "c": "hallway", "d": "children's room"},
+      "answer": "b"
+    },
+    {
+      "id": "e-home-b2-075",
+      "type": "blocks",
+      "header": "storage room / storeroom",
+      "answer": "αποθήκη",
+      "blocks": ["ή", "ο", "θ", "α", "η", "π", "κ"]
+    },
+    {
+      "id": "e-home-b2-076",
+      "type": "gap",
+      "header": "Το ___ έχει μεγάλο παράθυρο.",
+      "answer": "γραφείο"
+    },
+    {
+      "id": "e-home-b2-077",
+      "type": "blocks",
+      "header": "hallway / corridor",
+      "answer": "διάδρομος",
+      "blocks": ["σ", "ρ", "δ", "ο", "μ", "ά", "ι", "ο", "δ"]
+    },
+    {
+      "id": "e-home-b2-078",
+      "type": "writing",
+      "header": "toilet / WC",
+      "answer": "τουαλέτα"
+    },
+    {
+      "id": "e-home-b2-079",
+      "type": "gap",
+      "header": "Η σκάλα είναι ___.",
+      "answer": "ξύλινη"
+    },
+    {
+      "id": "e-home-b2-080",
+      "type": "blocks",
+      "header": "children's room / kids' room",
+      "answer": "παιδικό",
+      "blocks": ["κ", "α", "ι", "δ", "ό", "π", "ι"]
+    },
+    {
+      "id": "e-home-b2-081",
+      "type": "select",
+      "header": "το δωμάτιο",
+      "options": {"a": "bathroom", "b": "kitchen", "c": "room", "d": "study"},
+      "answer": "c"
+    },
+    {
+      "id": "e-home-b2-082",
+      "type": "writing",
+      "header": "storage room / storeroom",
+      "answer": "αποθήκη"
+    },
+    {
+      "id": "e-home-b2-083",
+      "type": "gap",
+      "header": "Υπάρχει ξεχωριστή ___ για τους επισκέπτες.",
+      "answer": "τουαλέτα"
+    },
+    {
+      "id": "e-home-b2-084",
+      "type": "blocks",
+      "header": "room",
+      "answer": "δωμάτιο",
+      "blocks": ["ά", "μ", "τ", "ω", "δ", "ι", "ο"]
+    },
+    {
+      "id": "e-home-b2-085",
+      "type": "select",
+      "header": "το δωμάτιο φιλοξενίας",
+      "options": {"a": "children's room", "b": "storage room", "c": "dining room", "d": "guest room"},
+      "answer": "d"
+    },
+    {
+      "id": "e-home-b2-086",
+      "type": "writing",
+      "header": "room",
+      "answer": "δωμάτιο"
+    },
+    {
+      "id": "e-home-b2-087",
+      "type": "gap",
+      "header": "Ετοιμάσαμε το ___ για τους επισκέπτες.",
+      "answer": "δωμάτιο φιλοξενίας"
+    },
+    {
+      "id": "e-home-b2-088",
+      "type": "blocks",
+      "header": "guest room",
+      "answer": "φιλοξενίας",
+      "blocks": ["ξ", "λ", "α", "ί", "ι", "ο", "ν", "σ", "φ", "ε"]
+    },
+    {
+      "id": "e-home-b2-089",
+      "type": "writing",
+      "header": "guest room",
+      "answer": "δωμάτιο φιλοξενίας"
+    },
+    {
+      "id": "e-home-b2-090",
+      "type": "select",
+      "header": "η τουαλέτα",
+      "options": {"a": "bedroom", "b": "bathroom", "c": "toilet / WC", "d": "kitchen"},
+      "answer": "c"
+    },
+    {
+      "id": "e-home-b2-091",
+      "type": "gap",
+      "header": "Το ___ μου είναι πολύ ζεστό το καλοκαίρι.",
+      "answer": "δωμάτιο"
+    }
+  ]
+}

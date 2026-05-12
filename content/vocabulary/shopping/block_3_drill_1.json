@@ -1,0 +1,163 @@
+{
+  "exercises": [
+    {
+      "id": "e-sh-b3-001",
+      "type": "select",
+      "header": "αγοράζω",
+      "options": {"a": "to pay", "b": "to order", "c": "to buy", "d": "to weigh"},
+      "answer": "c"
+    },
+    {
+      "id": "e-sh-b3-002",
+      "type": "select",
+      "header": "πληρώνω",
+      "options": {"a": "to buy", "b": "to pay", "c": "to weigh", "d": "receipt"},
+      "answer": "b"
+    },
+    {
+      "id": "e-sh-b3-003",
+      "type": "blocks",
+      "header": "to buy",
+      "answer": "αγοράζω",
+      "blocks": ["ά", "ζ", "γ", "α", "ο", "ω", "ρ"]
+    },
+    {
+      "id": "e-sh-b3-004",
+      "type": "select",
+      "header": "η τιμή",
+      "options": {"a": "bag", "b": "receipt", "c": "portion", "d": "price"},
+      "answer": "d"
+    },
+    {
+      "id": "e-sh-b3-005",
+      "type": "blocks",
+      "header": "to pay",
+      "answer": "πληρώνω",
+      "blocks": ["ρ", "π", "ν", "λ", "ώ", "η", "ο"]
+    },
+    {
+      "id": "e-sh-b3-006",
+      "type": "writing",
+      "header": "to buy",
+      "answer": "αγοράζω"
+    },
+    {
+      "id": "e-sh-b3-007",
+      "type": "select",
+      "header": "η απόδειξη",
+      "options": {"a": "price", "b": "change (money)", "c": "receipt", "d": "kilogram"},
+      "answer": "c"
+    },
+    {
+      "id": "e-sh-b3-008",
+      "type": "blocks",
+      "header": "price",
+      "answer": "τιμή",
+      "blocks": ["μ", "τ", "ή", "ι"]
+    },
+    {
+      "id": "e-sh-b3-009",
+      "type": "writing",
+      "header": "to pay",
+      "answer": "πληρώνω"
+    },
+    {
+      "id": "e-sh-b3-010",
+      "type": "gap",
+      "header": "Αγοράζω ψωμί και ___.",
+      "answer": "γλυκά"
+    },
+    {
+      "id": "e-sh-b3-011",
+      "type": "select",
+      "header": "η σακούλα",
+      "options": {"a": "receipt", "b": "portion", "c": "kilogram", "d": "bag"},
+      "answer": "d"
+    },
+    {
+      "id": "e-sh-b3-012",
+      "type": "blocks",
+      "header": "receipt",
+      "answer": "απόδειξη",
+      "blocks": ["ξ", "ε", "ό", "η", "δ", "α", "ι", "π"]
+    },
+    {
+      "id": "e-sh-b3-013",
+      "type": "writing",
+      "header": "price",
+      "answer": "τιμή"
+    },
+    {
+      "id": "e-sh-b3-014",
+      "type": "gap",
+      "header": "Πληρώνω στο ___.",
+      "answer": "ταμείο"
+    },
+    {
+      "id": "e-sh-b3-015",
+      "type": "select",
+      "header": "παραγγέλνω",
+      "options": {"a": "to weigh", "b": "to order", "c": "to buy", "d": "baker"},
+      "answer": "b"
+    },
+    {
+      "id": "e-sh-b3-016",
+      "type": "blocks",
+      "header": "bag",
+      "answer": "σακούλα",
+      "blocks": ["λ", "κ", "σ", "ύ", "α", "ο", "α"]
+    },
+    {
+      "id": "e-sh-b3-017",
+      "type": "writing",
+      "header": "receipt",
+      "answer": "απόδειξη"
+    },
+    {
+      "id": "e-sh-b3-018",
+      "type": "gap",
+      "header": "Ποια είναι η ___;",
+      "answer": "τιμή"
+    },
+    {
+      "id": "e-sh-b3-019",
+      "type": "select",
+      "header": "πόσο κάνει;",
+      "options": {"a": "to weigh", "b": "change (money)", "c": "how much does it cost?", "d": "portion"},
+      "answer": "c"
+    },
+    {
+      "id": "e-sh-b3-020",
+      "type": "blocks",
+      "header": "to order",
+      "answer": "παραγγέλνω",
+      "blocks": ["ν", "γ", "ω", "έ", "λ", "α", "ρ", "π", "α"]
+    },
+    {
+      "id": "e-sh-b3-021",
+      "type": "writing",
+      "header": "bag",
+      "answer": "σακούλα"
+    },
+    {
+      "id": "e-sh-b3-022",
+      "type": "gap",
+      "header": "Παίρνω την ___.",
+      "answer": "απόδειξη"
+    },
+    {
+      "id": "e-sh-b3-023",
+      "type": "select",
+      "header": "το κιλό",
+      "options": {"a": "portion", "b": "change (money)", "c": "price", "d": "kilogram"},
+      "answer": "d"
+    },
+    {
+      "id": "e-sh-b3-024",
+      "type": "blocks",
+      "header": "how much does it cost?",
+      "answer": "κάνει",
+      "blocks": ["ε", "ν", "ά", "κ", "ι"]
+    }
+  ]
+}

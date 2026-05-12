@@ -1,0 +1,160 @@
+{
+  "exercises": [
+    {
+      "id": "e-nd-b2-073",
+      "type": "select",
+      "header": "η Κυριακή",
+      "options": {"a": "Monday", "b": "Sunday", "c": "Thursday", "d": "Saturday"},
+      "answer": "b"
+    },
+    {
+      "id": "e-nd-b2-074",
+      "type": "select",
+      "header": "έντεκα",
+      "options": {"a": "one hundred", "b": "twelve", "c": "eleven", "d": "twenty"},
+      "answer": "c"
+    },
+    {
+      "id": "e-nd-b2-075",
+      "type": "blocks",
+      "header": "Sunday",
+      "answer": "Κυριακή",
+      "blocks": ["ι", "Κ", "ή", "ρ", "α", "κ", "υ"]
+    },
+    {
+      "id": "e-nd-b2-076",
+      "type": "select",
+      "header": "δώδεκα",
+      "options": {"a": "fifty", "b": "twelve", "c": "twenty", "d": "eleven"},
+      "answer": "b"
+    },
+    {
+      "id": "e-nd-b2-077",
+      "type": "blocks",
+      "header": "eleven",
+      "answer": "έντεκα",
+      "blocks": ["τ", "α", "έ", "κ", "ε", "ν"]
+    },
+    {
+      "id": "e-nd-b2-078",
+      "type": "writing",
+      "header": "Sunday",
+      "answer": "Κυριακή"
+    },
+    {
+      "id": "e-nd-b2-079",
+      "type": "blocks",
+      "header": "twelve",
+      "answer": "δώδεκα",
+      "blocks": ["κ", "δ", "α", "ώ", "ε", "δ"]
+    },
+    {
+      "id": "e-nd-b2-080",
+      "type": "writing",
+      "header": "eleven",
+      "answer": "έντεκα"
+    },
+    {
+      "id": "e-nd-b2-081",
+      "type": "gap",
+      "header": "Την ___ τρώμε μαζί σαν οικογένεια.",
+      "answer": "Κυριακή"
+    },
+    {
+      "id": "e-nd-b2-082",
+      "type": "writing",
+      "header": "twelve",
+      "answer": "δώδεκα"
+    },
+    {
+      "id": "e-nd-b2-083",
+      "type": "gap",
+      "header": "Το κτίριο έχει ___ ορόφους.",
+      "answer": "έντεκα"
+    },
+    {
+      "id": "e-nd-b2-084",
+      "type": "gap",
+      "header": "Η μέρα έχει ___ ώρες φως.",
+      "answer": "δώδεκα"
+    },
+    {
+      "id": "e-nd-b2-085",
+      "type": "select",
+      "header": "είκοσι",
+      "options": {"a": "eleven", "b": "one hundred", "c": "twenty", "d": "fifty"},
+      "answer": "c"
+    },
+    {
+      "id": "e-nd-b2-086",
+      "type": "select",
+      "header": "πενήντα",
+      "options": {"a": "twenty", "b": "fifty", "c": "twelve", "d": "Sunday"},
+      "answer": "b"
+    },
+    {
+      "id": "e-nd-b2-087",
+      "type": "blocks",
+      "header": "twenty",
+      "answer": "είκοσι",
+      "blocks": ["ο", "ί", "κ", "ι", "ε", "σ"]
+    },
+    {
+      "id": "e-nd-b2-088",
+      "type": "select",
+      "header": "εκατό",
+      "options": {"a": "fifty", "b": "twelve", "c": "Sunday", "d": "one hundred"},
+      "answer": "d"
+    },
+    {
+      "id": "e-nd-b2-089",
+      "type": "blocks",
+      "header": "fifty",
+      "answer": "πενήντα",
+      "blocks": ["τ", "ή", "α", "ε", "ν", "π", "ν"]
+    },
+    {
+      "id": "e-nd-b2-090",
+      "type": "writing",
+      "header": "twenty",
+      "answer": "είκοσι"
+    },
+    {
+      "id": "e-nd-b2-091",
+      "type": "blocks",
+      "header": "one hundred",
+      "answer": "εκατό",
+      "blocks": ["ό", "κ", "ε", "τ", "α"]
+    },
+    {
+      "id": "e-nd-b2-092",
+      "type": "writing",
+      "header": "fifty",
+      "answer": "πενήντα"
+    },
+    {
+      "id": "e-nd-b2-093",
+      "type": "gap",
+      "header": "Είναι ___ χρονών.",
+      "answer": "είκοσι"
+    },
+    {
+      "id": "e-nd-b2-094",
+      "type": "writing",
+      "header": "one hundred",
+      "answer": "εκατό"
+    },
+    {
+      "id": "e-nd-b2-095",
+      "type": "gap",
+      "header": "Η γιαγιά μου έζησε ___ χρόνια σε αυτό το χωριό.",
+      "answer": "πενήντα"
+    },
+    {
+      "id": "e-nd-b2-096",
+      "type": "gap",
+      "header": "___ άνθρωποι ήρθαν στη συναυλία.",
+      "answer": "Εκατό"
+    }
+  ]
+}

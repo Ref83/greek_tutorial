@@ -1,0 +1,163 @@
+{
+  "exercises": [
+    {
+      "id": "e-pi-b2-001",
+      "type": "select",
+      "header": "η οικογένεια",
+      "options": {"a": "husband", "b": "family", "c": "language", "d": "parents"},
+      "answer": "b"
+    },
+    {
+      "id": "e-pi-b2-002",
+      "type": "select",
+      "header": "ο σύζυγος",
+      "options": {"a": "father", "b": "brother", "c": "husband", "d": "language"},
+      "answer": "c"
+    },
+    {
+      "id": "e-pi-b2-003",
+      "type": "blocks",
+      "header": "family",
+      "answer": "οικογένεια",
+      "blocks": ["γ", "κ", "ο", "ι", "έ", "ο", "ν", "ε", "α", "ι"]
+    },
+    {
+      "id": "e-pi-b2-004",
+      "type": "select",
+      "header": "η γυναίκα",
+      "options": {"a": "sister", "b": "mother", "c": "wife", "d": "child"},
+      "answer": "c"
+    },
+    {
+      "id": "e-pi-b2-005",
+      "type": "blocks",
+      "header": "husband",
+      "answer": "σύζυγος",
+      "blocks": ["ζ", "σ", "υ", "γ", "ύ", "ο", "ς"]
+    },
+    {
+      "id": "e-pi-b2-006",
+      "type": "writing",
+      "header": "family",
+      "answer": "οικογένεια"
+    },
+    {
+      "id": "e-pi-b2-007",
+      "type": "select",
+      "header": "το παιδί",
+      "options": {"a": "sister", "b": "child", "c": "mother", "d": "language"},
+      "answer": "b"
+    },
+    {
+      "id": "e-pi-b2-008",
+      "type": "blocks",
+      "header": "wife",
+      "answer": "γυναίκα",
+      "blocks": ["α", "γ", "ί", "κ", "ν", "υ", "α"]
+    },
+    {
+      "id": "e-pi-b2-009",
+      "type": "writing",
+      "header": "husband",
+      "answer": "σύζυγος"
+    },
+    {
+      "id": "e-pi-b2-010",
+      "type": "select",
+      "header": "ο αδελφός",
+      "options": {"a": "child", "b": "brother", "c": "parents", "d": "wife"},
+      "answer": "b"
+    },
+    {
+      "id": "e-pi-b2-011",
+      "type": "blocks",
+      "header": "child",
+      "answer": "παιδί",
+      "blocks": ["ί", "π", "δ", "ι", "α"]
+    },
+    {
+      "id": "e-pi-b2-012",
+      "type": "writing",
+      "header": "wife",
+      "answer": "γυναίκα"
+    },
+    {
+      "id": "e-pi-b2-013",
+      "type": "gap",
+      "header": "Η ___ μου είναι πολυπληθής.",
+      "answer": "οικογένειά"
+    },
+    {
+      "id": "e-pi-b2-014",
+      "type": "select",
+      "header": "η αδελφή",
+      "options": {"a": "wife", "b": "family", "c": "sister", "d": "mother"},
+      "answer": "c"
+    },
+    {
+      "id": "e-pi-b2-015",
+      "type": "blocks",
+      "header": "brother",
+      "answer": "αδελφός",
+      "blocks": ["δ", "α", "λ", "ε", "ό", "φ", "ς"]
+    },
+    {
+      "id": "e-pi-b2-016",
+      "type": "writing",
+      "header": "child",
+      "answer": "παιδί"
+    },
+    {
+      "id": "e-pi-b2-017",
+      "type": "gap",
+      "header": "Ο ___ μου λέγεται Γιώργης.",
+      "answer": "σύζυγός"
+    },
+    {
+      "id": "e-pi-b2-018",
+      "type": "select",
+      "header": "οι γονείς",
+      "options": {"a": "parents", "b": "brother", "c": "language", "d": "sister"},
+      "answer": "a"
+    },
+    {
+      "id": "e-pi-b2-019",
+      "type": "blocks",
+      "header": "sister",
+      "answer": "αδελφή",
+      "blocks": ["λ", "α", "η", "δ", "φ", "ε"]
+    },
+    {
+      "id": "e-pi-b2-020",
+      "type": "writing",
+      "header": "brother",
+      "answer": "αδελφός"
+    },
+    {
+      "id": "e-pi-b2-021",
+      "type": "gap",
+      "header": "Η ___ του φίλου μου είναι δασκάλα.",
+      "answer": "γυναίκα"
+    },
+    {
+      "id": "e-pi-b2-022",
+      "type": "select",
+      "header": "ο πατέρας",
+      "options": {"a": "parents", "b": "father", "c": "child", "d": "husband"},
+      "answer": "b"
+    },
+    {
+      "id": "e-pi-b2-023",
+      "type": "blocks",
+      "header": "parents",
+      "answer": "γονείς",
+      "blocks": ["ν", "γ", "ε", "ί", "ο", "ς"]
+    },
+    {
+      "id": "e-pi-b2-024",
+      "type": "writing",
+      "header": "sister",
+      "answer": "αδελφή"
+    }
+  ]
+}

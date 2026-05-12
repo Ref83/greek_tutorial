@@ -1,0 +1,160 @@
+{
+  "exercises": [
+    {
+      "id": "e-pi-b3-049",
+      "type": "gap",
+      "header": "___ νέες λέξεις κάθε μέρα.",
+      "answer": "Μαθαίνω"
+    },
+    {
+      "id": "e-pi-b3-050",
+      "type": "select",
+      "header": "δουλεύω",
+      "options": {"a": "to learn", "b": "to speak", "c": "to work", "d": "to study"},
+      "answer": "c"
+    },
+    {
+      "id": "e-pi-b3-051",
+      "type": "blocks",
+      "header": "work",
+      "answer": "εργασία",
+      "blocks": ["γ", "ρ", "ε", "σ", "α", "ί", "α"]
+    },
+    {
+      "id": "e-pi-b3-052",
+      "type": "writing",
+      "header": "profession",
+      "answer": "επάγγελμα"
+    },
+    {
+      "id": "e-pi-b3-053",
+      "type": "gap",
+      "header": "Το ___ μου είναι ελληνικό.",
+      "answer": "διαβατήριό"
+    },
+    {
+      "id": "e-pi-b3-054",
+      "type": "select",
+      "header": "η εταιρεία",
+      "options": {"a": "school", "b": "hobby", "c": "ID card", "d": "company"},
+      "answer": "d"
+    },
+    {
+      "id": "e-pi-b3-055",
+      "type": "blocks",
+      "header": "to work",
+      "answer": "δουλεύω",
+      "blocks": ["ύ", "ε", "δ", "ω", "ο", "λ", "υ"]
+    },
+    {
+      "id": "e-pi-b3-056",
+      "type": "writing",
+      "header": "work",
+      "answer": "εργασία"
+    },
+    {
+      "id": "e-pi-b3-057",
+      "type": "gap",
+      "header": "Η ___ μου έχει πολλούς υπαλλήλους.",
+      "answer": "εταιρεία"
+    },
+    {
+      "id": "e-pi-b3-058",
+      "type": "select",
+      "header": "το σχολείο",
+      "options": {"a": "passport", "b": "school", "c": "profession", "d": "university"},
+      "answer": "b"
+    },
+    {
+      "id": "e-pi-b3-059",
+      "type": "blocks",
+      "header": "company",
+      "answer": "εταιρεία",
+      "blocks": ["ρ", "τ", "α", "ε", "ε", "ί", "α", "ι"]
+    },
+    {
+      "id": "e-pi-b3-060",
+      "type": "writing",
+      "header": "to work",
+      "answer": "δουλεύω"
+    },
+    {
+      "id": "e-pi-b3-061",
+      "type": "gap",
+      "header": "Ποιο είναι το ___ σου;",
+      "answer": "επάγγελμά"
+    },
+    {
+      "id": "e-pi-b3-062",
+      "type": "select",
+      "header": "το πανεπιστήμιο",
+      "options": {"a": "ID card", "b": "company", "c": "university", "d": "hobby"},
+      "answer": "c"
+    },
+    {
+      "id": "e-pi-b3-063",
+      "type": "blocks",
+      "header": "school",
+      "answer": "σχολείο",
+      "blocks": ["ε", "σ", "ο", "χ", "ί", "ο", "λ"]
+    },
+    {
+      "id": "e-pi-b3-064",
+      "type": "writing",
+      "header": "company",
+      "answer": "εταιρεία"
+    },
+    {
+      "id": "e-pi-b3-065",
+      "type": "gap",
+      "header": "Βρήκα καλή ___ στην πόλη.",
+      "answer": "εργασία"
+    },
+    {
+      "id": "e-pi-b3-066",
+      "type": "select",
+      "header": "σπουδάζω",
+      "options": {"a": "to work", "b": "to study", "c": "to learn", "d": "to speak"},
+      "answer": "b"
+    },
+    {
+      "id": "e-pi-b3-067",
+      "type": "blocks",
+      "header": "university",
+      "answer": "πανεπιστήμιο",
+      "blocks": ["σ", "τ", "π", "α", "ν", "ε", "η", "ι", "μ", "ι", "ό"]
+    },
+    {
+      "id": "e-pi-b3-068",
+      "type": "writing",
+      "header": "school",
+      "answer": "σχολείο"
+    },
+    {
+      "id": "e-pi-b3-069",
+      "type": "gap",
+      "header": "Τα παιδιά πηγαίνουν στο ___ κάθε μέρα.",
+      "answer": "σχολείο"
+    },
+    {
+      "id": "e-pi-b3-070",
+      "type": "select",
+      "header": "μιλώ",
+      "options": {"a": "to study", "b": "to work", "c": "to speak", "d": "to learn"},
+      "answer": "c"
+    },
+    {
+      "id": "e-pi-b3-071",
+      "type": "blocks",
+      "header": "to study",
+      "answer": "σπουδάζω",
+      "blocks": ["ω", "υ", "σ", "ά", "ζ", "ο", "π", "δ"]
+    },
+    {
+      "id": "e-pi-b3-072",
+      "type": "writing",
+      "header": "university",
+      "answer": "πανεπιστήμιο"
+    }
+  ]
+}

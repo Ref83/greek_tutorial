@@ -1,0 +1,199 @@
+{
+  "exercises": [
+    {
+      "id": "e-nd-b3-031",
+      "type": "select",
+      "header": "Οκτώβριος",
+      "options": {"a": "November", "b": "September", "c": "October", "d": "December"},
+      "answer": "c"
+    },
+    {
+      "id": "e-nd-b3-032",
+      "type": "select",
+      "header": "Νοέμβριος",
+      "options": {"a": "October", "b": "December", "c": "September", "d": "November"},
+      "answer": "d"
+    },
+    {
+      "id": "e-nd-b3-033",
+      "type": "blocks",
+      "header": "September",
+      "answer": "Σεπτέμβριος",
+      "blocks": ["β", "Σ", "ι", "τ", "ρ", "ε", "ο", "μ", "π", "σ"]
+    },
+    {
+      "id": "e-nd-b3-034",
+      "type": "select",
+      "header": "Δεκέμβριος",
+      "options": {"a": "January", "b": "November", "c": "December", "d": "October"},
+      "answer": "c"
+    },
+    {
+      "id": "e-nd-b3-035",
+      "type": "blocks",
+      "header": "October",
+      "answer": "Οκτώβριος",
+      "blocks": ["ρ", "Ο", "τ", "ι", "ώ", "β", "ο", "κ", "σ"]
+    },
+    {
+      "id": "e-nd-b3-036",
+      "type": "writing",
+      "header": "September",
+      "answer": "Σεπτέμβριος"
+    },
+    {
+      "id": "e-nd-b3-037",
+      "type": "blocks",
+      "header": "November",
+      "answer": "Νοέμβριος",
+      "blocks": ["β", "Ν", "ι", "έ", "ρ", "ο", "μ", "ο", "σ"]
+    },
+    {
+      "id": "e-nd-b3-038",
+      "type": "writing",
+      "header": "October",
+      "answer": "Οκτώβριος"
+    },
+    {
+      "id": "e-nd-b3-039",
+      "type": "gap",
+      "header": "Τον ___ αρχίζει πάλι το σχολείο.",
+      "answer": "Σεπτέμβριο"
+    },
+    {
+      "id": "e-nd-b3-040",
+      "type": "writing",
+      "header": "November",
+      "answer": "Νοέμβριος"
+    },
+    {
+      "id": "e-nd-b3-041",
+      "type": "gap",
+      "header": "Τον ___ πέφτουν τα φύλλα.",
+      "answer": "Οκτώβριο"
+    },
+    {
+      "id": "e-nd-b3-042",
+      "type": "gap",
+      "header": "Τον ___ βρέχει πολύ.",
+      "answer": "Νοέμβριο"
+    },
+    {
+      "id": "e-nd-b3-043",
+      "type": "select",
+      "header": "η ημερομηνία",
+      "options": {"a": "first", "b": "today", "c": "December", "d": "date"},
+      "answer": "d"
+    },
+    {
+      "id": "e-nd-b3-044",
+      "type": "select",
+      "header": "πρώτος / πρώτη / πρώτο",
+      "options": {"a": "date", "b": "first", "c": "today", "d": "December"},
+      "answer": "b"
+    },
+    {
+      "id": "e-nd-b3-045",
+      "type": "blocks",
+      "header": "December",
+      "answer": "Δεκέμβριος",
+      "blocks": ["μ", "Δ", "ι", "έ", "β", "κ", "ρ", "ο", "σ"]
+    },
+    {
+      "id": "e-nd-b3-046",
+      "type": "select",
+      "header": "today",
+      "options": {"a": "date", "b": "first", "c": "today", "d": "November"},
+      "answer": "c"
+    },
+    {
+      "id": "e-nd-b3-047",
+      "type": "blocks",
+      "header": "date",
+      "answer": "ημερομηνία",
+      "blocks": ["η", "μ", "ο", "ρ", "η", "ε", "ν", "ί", "α"]
+    },
+    {
+      "id": "e-nd-b3-048",
+      "type": "writing",
+      "header": "December",
+      "answer": "Δεκέμβριος"
+    },
+    {
+      "id": "e-nd-b3-049",
+      "type": "blocks",
+      "header": "first",
+      "answer": "πρώτος",
+      "blocks": ["τ", "π", "ς", "ρ", "ώ", "ο"]
+    },
+    {
+      "id": "e-nd-b3-050",
+      "type": "writing",
+      "header": "date",
+      "answer": "ημερομηνία"
+    },
+    {
+      "id": "e-nd-b3-051",
+      "type": "gap",
+      "header": "Τα Χριστούγεννα είναι τον ___.",
+      "answer": "Δεκέμβριο"
+    },
+    {
+      "id": "e-nd-b3-052",
+      "type": "writing",
+      "header": "first",
+      "answer": "πρώτος"
+    },
+    {
+      "id": "e-nd-b3-053",
+      "type": "gap",
+      "header": "Ποια είναι η σημερινή ___;",
+      "answer": "ημερομηνία"
+    },
+    {
+      "id": "e-nd-b3-054",
+      "type": "gap",
+      "header": "Ο Ιανουάριος είναι ο ___ μήνας του χρόνου.",
+      "answer": "πρώτος"
+    },
+    {
+      "id": "e-nd-b3-055",
+      "type": "select",
+      "header": "Ιανουάριος",
+      "options": {"a": "March", "b": "date", "c": "January", "d": "November"},
+      "answer": "c"
+    },
+    {
+      "id": "e-nd-b3-056",
+      "type": "select",
+      "header": "Φεβρουάριος",
+      "options": {"a": "December", "b": "first", "c": "March", "d": "February"},
+      "answer": "d"
+    },
+    {
+      "id": "e-nd-b3-057",
+      "type": "blocks",
+      "header": "today",
+      "answer": "σήμερα",
+      "blocks": ["μ", "σ", "α", "ρ", "η", "ε"]
+    },
+    {
+      "id": "e-nd-b3-058",
+      "type": "writing",
+      "header": "today",
+      "answer": "σήμερα"
+    },
+    {
+      "id": "e-nd-b3-059",
+      "type": "gap",
+      "header": "___ είναι Δευτέρα.",
+      "answer": "Σήμερα"
+    },
+    {
+      "id": "e-nd-b3-060",
+      "type": "gap",
+      "header": "Χθες ήταν Κυριακή και ___ θα είναι Τρίτη.",
+      "answer": "αύριο"
+    }
+  ]
+}

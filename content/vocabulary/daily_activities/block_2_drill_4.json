@@ -1,0 +1,160 @@
+{
+  "exercises": [
+    {
+      "id": "e-da-b2-073",
+      "type": "gap",
+      "header": "Μαζεύω τα ρούχα μου πριν κοιμηθώ.",
+      "answer": "Μαζεύω"
+    },
+    {
+      "id": "e-da-b2-074",
+      "type": "select",
+      "header": "κλείνω ραντεβού",
+      "options": {"a": "to clean", "b": "to shop", "c": "to make an appointment", "d": "to sweep"},
+      "answer": "c"
+    },
+    {
+      "id": "e-da-b2-075",
+      "type": "blocks",
+      "header": "to plan",
+      "answer": "σχεδιάζω",
+      "blocks": ["χ", "σ", "ζ", "ε", "ω", "ά", "δ", "ι"]
+    },
+    {
+      "id": "e-da-b2-076",
+      "type": "writing",
+      "header": "to arrange / put in order",
+      "answer": "τακτοποιώ"
+    },
+    {
+      "id": "e-da-b2-077",
+      "type": "gap",
+      "header": "Τι σχεδιάζεις για το Σαββατοκύριακο;",
+      "answer": "σχεδιάζεις"
+    },
+    {
+      "id": "e-da-b2-078",
+      "type": "select",
+      "header": "ετοιμάζομαι",
+      "options": {"a": "to tidy up", "b": "to arrange", "c": "to plan", "d": "to get ready / prepare oneself"},
+      "answer": "d"
+    },
+    {
+      "id": "e-da-b2-079",
+      "type": "blocks",
+      "header": "to make an appointment",
+      "answer": "κλείνω",
+      "blocks": ["ί", "κ", "ω", "ε", "ν", "λ"]
+    },
+    {
+      "id": "e-da-b2-080",
+      "type": "writing",
+      "header": "to plan",
+      "answer": "σχεδιάζω"
+    },
+    {
+      "id": "e-da-b2-081",
+      "type": "gap",
+      "header": "Έκλεισα ραντεβού στο κομμωτήριο.",
+      "answer": "Έκλεισα"
+    },
+    {
+      "id": "e-da-b2-082",
+      "type": "select",
+      "header": "ψωνίζω",
+      "options": {"a": "to get ready", "b": "to sweep", "c": "to shop / go shopping", "d": "to clean"},
+      "answer": "c"
+    },
+    {
+      "id": "e-da-b2-083",
+      "type": "blocks",
+      "header": "to get ready / prepare oneself",
+      "answer": "ετοιμάζομαι",
+      "blocks": ["μ", "τ", "α", "ε", "ζ", "ο", "ά", "ι", "μ"]
+    },
+    {
+      "id": "e-da-b2-084",
+      "type": "writing",
+      "header": "to make an appointment",
+      "answer": "κλείνω ραντεβού"
+    },
+    {
+      "id": "e-da-b2-085",
+      "type": "gap",
+      "header": "Πόση ώρα χρειάζεσαι να ετοιμαστείς;",
+      "answer": "ετοιμαστείς"
+    },
+    {
+      "id": "e-da-b2-086",
+      "type": "select",
+      "header": "πλένω τα ρούχα",
+      "options": {"a": "to air out", "b": "to do the laundry / wash clothes", "c": "to tidy up", "d": "to arrange"},
+      "answer": "b"
+    },
+    {
+      "id": "e-da-b2-087",
+      "type": "blocks",
+      "header": "to shop / go shopping",
+      "answer": "ψωνίζω",
+      "blocks": ["ζ", "ψ", "ν", "ω", "ί", "ω"]
+    },
+    {
+      "id": "e-da-b2-088",
+      "type": "writing",
+      "header": "to get ready / prepare oneself",
+      "answer": "ετοιμάζομαι"
+    },
+    {
+      "id": "e-da-b2-089",
+      "type": "gap",
+      "header": "Πάμε να ψωνίσουμε μαζί;",
+      "answer": "ψωνίσουμε"
+    },
+    {
+      "id": "e-da-b2-090",
+      "type": "select",
+      "header": "καθαρίζω",
+      "options": {"a": "to sweep", "b": "to air out", "c": "to clean", "d": "to wash the dishes"},
+      "answer": "c"
+    },
+    {
+      "id": "e-da-b2-091",
+      "type": "blocks",
+      "header": "to do the laundry / wash clothes",
+      "answer": "πλένω",
+      "blocks": ["ν", "λ", "ε", "ω", "π"]
+    },
+    {
+      "id": "e-da-b2-092",
+      "type": "writing",
+      "header": "to shop / go shopping",
+      "answer": "ψωνίζω"
+    },
+    {
+      "id": "e-da-b2-093",
+      "type": "gap",
+      "header": "___ τα ρούχα κάθε εβδομάδα.",
+      "answer": "Πλένω"
+    },
+    {
+      "id": "e-da-b2-094",
+      "type": "select",
+      "header": "σκουπίζω",
+      "options": {"a": "to plan", "b": "to get ready", "c": "to sweep / vacuum", "d": "to tidy up"},
+      "answer": "c"
+    },
+    {
+      "id": "e-da-b2-095",
+      "type": "blocks",
+      "header": "to clean",
+      "answer": "καθαρίζω",
+      "blocks": ["α", "θ", "κ", "ρ", "ζ", "α", "ω", "ί"]
+    },
+    {
+      "id": "e-da-b2-096",
+      "type": "writing",
+      "header": "to do the laundry / wash clothes",
+      "answer": "πλένω τα ρούχα"
+    }
+  ]
+}

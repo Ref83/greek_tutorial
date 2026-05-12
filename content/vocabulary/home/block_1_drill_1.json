@@ -1,0 +1,169 @@
+{
+  "exercises": [
+    {
+      "id": "e-home-b1-001",
+      "type": "select",
+      "header": "το σπίτι",
+      "options": {"a": "apartment / flat", "b": "building", "c": "house / home", "d": "garden"},
+      "answer": "c"
+    },
+    {
+      "id": "e-home-b1-002",
+      "type": "select",
+      "header": "το διαμέρισμα",
+      "options": {"a": "apartment / flat", "b": "front door", "c": "floor / storey", "d": "detached house"},
+      "answer": "a"
+    },
+    {
+      "id": "e-home-b1-003",
+      "type": "blocks",
+      "header": "house / home",
+      "answer": "σπίτι",
+      "blocks": ["ί", "π", "σ", "ι", "τ"]
+    },
+    {
+      "id": "e-home-b1-004",
+      "type": "select",
+      "header": "η μονοκατοικία",
+      "options": {"a": "balcony", "b": "two-story house", "c": "building", "d": "detached house / single-family house"},
+      "answer": "d"
+    },
+    {
+      "id": "e-home-b1-005",
+      "type": "blocks",
+      "header": "apartment / flat",
+      "answer": "διαμέρισμα",
+      "blocks": ["α", "ι", "δ", "μ", "ρ", "ε", "σ", "μ", "α"]
+    },
+    {
+      "id": "e-home-b1-006",
+      "type": "select",
+      "header": "το διώροφο",
+      "options": {"a": "garage", "b": "two-story house", "c": "basement", "d": "entrance"},
+      "answer": "b"
+    },
+    {
+      "id": "e-home-b1-007",
+      "type": "writing",
+      "header": "house / home",
+      "answer": "σπίτι"
+    },
+    {
+      "id": "e-home-b1-008",
+      "type": "blocks",
+      "header": "detached house / single-family house",
+      "answer": "μονοκατοικία",
+      "blocks": ["κ", "ο", "μ", "α", "ν", "ο", "ι", "ί", "κ", "α"]
+    },
+    {
+      "id": "e-home-b1-009",
+      "type": "select",
+      "header": "το κτίριο",
+      "options": {"a": "window", "b": "door", "c": "garden", "d": "building"},
+      "answer": "d"
+    },
+    {
+      "id": "e-home-b1-010",
+      "type": "writing",
+      "header": "apartment / flat",
+      "answer": "διαμέρισμα"
+    },
+    {
+      "id": "e-home-b1-011",
+      "type": "blocks",
+      "header": "two-story house",
+      "answer": "διώροφο",
+      "blocks": ["ο", "ώ", "δ", "φ", "ο", "ι", "ρ"]
+    },
+    {
+      "id": "e-home-b1-012",
+      "type": "select",
+      "header": "η είσοδος",
+      "options": {"a": "roof terrace", "b": "entrance / entry", "c": "staircase", "d": "floor / storey"},
+      "answer": "b"
+    },
+    {
+      "id": "e-home-b1-013",
+      "type": "gap",
+      "header": "Μένω σε ένα μικρό ___.",
+      "answer": "σπίτι"
+    },
+    {
+      "id": "e-home-b1-014",
+      "type": "writing",
+      "header": "detached house / single-family house",
+      "answer": "μονοκατοικία"
+    },
+    {
+      "id": "e-home-b1-015",
+      "type": "blocks",
+      "header": "building",
+      "answer": "κτίριο",
+      "blocks": ["ο", "κ", "ί", "ι", "τ", "ρ"]
+    },
+    {
+      "id": "e-home-b1-016",
+      "type": "gap",
+      "header": "Νοικιάζω ένα ___ στο κέντρο.",
+      "answer": "διαμέρισμα"
+    },
+    {
+      "id": "e-home-b1-017",
+      "type": "writing",
+      "header": "two-story house",
+      "answer": "διώροφο"
+    },
+    {
+      "id": "e-home-b1-018",
+      "type": "select",
+      "header": "η εξώπορτα",
+      "options": {"a": "front door", "b": "entrance / entry", "c": "balcony", "d": "window"},
+      "answer": "a"
+    },
+    {
+      "id": "e-home-b1-019",
+      "type": "gap",
+      "header": "Ονειρεύομαι να αγοράσω μια ___.",
+      "answer": "μονοκατοικία"
+    },
+    {
+      "id": "e-home-b1-020",
+      "type": "blocks",
+      "header": "entrance / entry",
+      "answer": "είσοδος",
+      "blocks": ["ο", "ε", "ί", "δ", "σ", "ο", "σ"]
+    },
+    {
+      "id": "e-home-b1-021",
+      "type": "select",
+      "header": "ο όροφος",
+      "options": {"a": "garage", "b": "basement", "c": "floor / storey", "d": "roof terrace"},
+      "answer": "c"
+    },
+    {
+      "id": "e-home-b1-022",
+      "type": "writing",
+      "header": "building",
+      "answer": "κτίριο"
+    },
+    {
+      "id": "e-home-b1-023",
+      "type": "gap",
+      "header": "Μένουν σε ένα όμορφο ___.",
+      "answer": "διώροφο"
+    },
+    {
+      "id": "e-home-b1-024",
+      "type": "blocks",
+      "header": "front door",
+      "answer": "εξώπορτα",
+      "blocks": ["τ", "ε", "ώ", "ο", "ξ", "α", "π", "ρ"]
+    },
+    {
+      "id": "e-home-b1-025",
+      "type": "gap",
+      "header": "Το ___ έχει δέκα ορόφους.",
+      "answer": "κτίριο"
+    }
+  ]
+}

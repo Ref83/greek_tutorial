@@ -1,0 +1,160 @@
+{
+  "exercises": [
+    {
+      "id": "e-f-b1-025",
+      "type": "select",
+      "header": "η κανέλα",
+      "options": {"a": "butter", "b": "vanilla", "c": "honey", "d": "cinnamon"},
+      "answer": "d"
+    },
+    {
+      "id": "e-f-b1-026",
+      "type": "select",
+      "header": "το βούτυρο",
+      "options": {"a": "butter", "b": "oil", "c": "flour", "d": "egg"},
+      "answer": "a"
+    },
+    {
+      "id": "e-f-b1-027",
+      "type": "blocks",
+      "header": "cinnamon",
+      "answer": "κανέλα",
+      "blocks": ["ε", "κ", "α", "λ", "ά", "ν"]
+    },
+    {
+      "id": "e-f-b1-028",
+      "type": "select",
+      "header": "η μαγειρική σόδα",
+      "options": {"a": "honey", "b": "baking soda", "c": "vanilla", "d": "butter"},
+      "answer": "b"
+    },
+    {
+      "id": "e-f-b1-029",
+      "type": "blocks",
+      "header": "butter",
+      "answer": "βούτυρο",
+      "blocks": ["τ", "β", "ο", "ύ", "υ", "ρ"]
+    },
+    {
+      "id": "e-f-b1-030",
+      "type": "writing",
+      "header": "cinnamon",
+      "answer": "κανέλα"
+    },
+    {
+      "id": "e-f-b1-031",
+      "type": "blocks",
+      "header": "baking soda",
+      "answer": "σόδα",
+      "blocks": ["α", "σ", "δ", "ό"]
+    },
+    {
+      "id": "e-f-b1-032",
+      "type": "writing",
+      "header": "butter",
+      "answer": "βούτυρο"
+    },
+    {
+      "id": "e-f-b1-033",
+      "type": "gap",
+      "header": "Προσθέτω ___ στο κέικ.",
+      "answer": "κανέλα"
+    },
+    {
+      "id": "e-f-b1-034",
+      "type": "writing",
+      "header": "baking soda",
+      "answer": "μαγειρική σόδα"
+    },
+    {
+      "id": "e-f-b1-035",
+      "type": "gap",
+      "header": "Βάζω ___ στο ψωμί μου.",
+      "answer": "βούτυρο"
+    },
+    {
+      "id": "e-f-b1-036",
+      "type": "gap",
+      "header": "Η ___ κάνει το κέικ να φουσκώσει.",
+      "answer": "μαγειρική σόδα"
+    },
+    {
+      "id": "e-f-b1-037",
+      "type": "select",
+      "header": "το μέλι",
+      "options": {"a": "salt", "b": "honey", "c": "sugar", "d": "cinnamon"},
+      "answer": "b"
+    },
+    {
+      "id": "e-f-b1-038",
+      "type": "select",
+      "header": "η βανίλια",
+      "options": {"a": "vanilla", "b": "milk", "c": "egg", "d": "baking soda"},
+      "answer": "a"
+    },
+    {
+      "id": "e-f-b1-039",
+      "type": "blocks",
+      "header": "honey",
+      "answer": "μέλι",
+      "blocks": ["ε", "μ", "ι", "λ"]
+    },
+    {
+      "id": "e-f-b1-040",
+      "type": "select",
+      "header": "η κρέμα γάλακτος",
+      "options": {"a": "butter", "b": "milk", "c": "heavy cream / whipping cream", "d": "yogurt"},
+      "answer": "c"
+    },
+    {
+      "id": "e-f-b1-041",
+      "type": "blocks",
+      "header": "vanilla",
+      "answer": "βανίλια",
+      "blocks": ["ί", "β", "λ", "α", "α", "ν", "ι"]
+    },
+    {
+      "id": "e-f-b1-042",
+      "type": "writing",
+      "header": "honey",
+      "answer": "μέλι"
+    },
+    {
+      "id": "e-f-b1-043",
+      "type": "blocks",
+      "header": "heavy cream",
+      "answer": "κρέμα",
+      "blocks": ["μ", "κ", "α", "ρ", "έ"]
+    },
+    {
+      "id": "e-f-b1-044",
+      "type": "writing",
+      "header": "vanilla",
+      "answer": "βανίλια"
+    },
+    {
+      "id": "e-f-b1-045",
+      "type": "gap",
+      "header": "Βάζω ___ στο γιαούρτι μου.",
+      "answer": "μέλι"
+    },
+    {
+      "id": "e-f-b1-046",
+      "type": "writing",
+      "header": "heavy cream / whipping cream",
+      "answer": "κρέμα γάλακτος"
+    },
+    {
+      "id": "e-f-b1-047",
+      "type": "gap",
+      "header": "Προσθέτω ένα φακελάκι ___ στη ζύμη.",
+      "answer": "βανίλια"
+    },
+    {
+      "id": "e-f-b1-048",
+      "type": "gap",
+      "header": "Χτυπάω την ___ μέχρι να γίνει σφιχτή.",
+      "answer": "κρέμα γάλακτος"
+    }
+  ]
+}

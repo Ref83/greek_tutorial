@@ -1,0 +1,158 @@
+{
+  "exercises": [
+    {
+      "id": "e-sh-b2-073",
+      "type": "writing",
+      "header": "sweet braided bread",
+      "answer": "τσουρέκι"
+    },
+    {
+      "id": "e-sh-b2-074",
+      "type": "gap",
+      "header": "Αγοράζω και ένα ___.",
+      "answer": "τσουρέκι"
+    },
+    {
+      "id": "e-sh-b2-075",
+      "type": "select",
+      "header": "το μάφιν",
+      "options": {"a": "layer cake / torte", "b": "donut", "c": "muffin", "d": "pastry roll / Swiss roll"},
+      "answer": "c"
+    },
+    {
+      "id": "e-sh-b2-076",
+      "type": "blocks",
+      "header": "donut",
+      "answer": "ντόνατ",
+      "blocks": ["τ", "δ", "ο", "ν", "ά", "τ"]
+    },
+    {
+      "id": "e-sh-b2-077",
+      "type": "writing",
+      "header": "baklava",
+      "answer": "μπακλαβάς"
+    },
+    {
+      "id": "e-sh-b2-078",
+      "type": "gap",
+      "header": "Ο ___ με καρύδια φαίνεται νόστιμος.",
+      "answer": "μπακλαβάς"
+    },
+    {
+      "id": "e-sh-b2-079",
+      "type": "select",
+      "header": "η μηλόπιτα",
+      "options": {"a": "muffin", "b": "kataifi (shredded wheat pastry)", "c": "apple pie", "d": "baklava"},
+      "answer": "c"
+    },
+    {
+      "id": "e-sh-b2-080",
+      "type": "blocks",
+      "header": "muffin",
+      "answer": "μάφιν",
+      "blocks": ["φ", "μ", "ν", "ι", "α"]
+    },
+    {
+      "id": "e-sh-b2-081",
+      "type": "writing",
+      "header": "donut",
+      "answer": "ντόνατ"
+    },
+    {
+      "id": "e-sh-b2-082",
+      "type": "gap",
+      "header": "Αγοράζω ένα ___ για τα παιδιά.",
+      "answer": "ντόνατ"
+    },
+    {
+      "id": "e-sh-b2-083",
+      "type": "select",
+      "header": "το κανταΐφι",
+      "options": {"a": "pastry roll / Swiss roll", "b": "kataifi (shredded wheat pastry)", "c": "apple pie", "d": "sweet braided bread"},
+      "answer": "b"
+    },
+    {
+      "id": "e-sh-b2-084",
+      "type": "blocks",
+      "header": "apple pie",
+      "answer": "μηλόπιτα",
+      "blocks": ["τ", "π", "μ", "ό", "α", "η", "λ", "ι"]
+    },
+    {
+      "id": "e-sh-b2-085",
+      "type": "writing",
+      "header": "muffin",
+      "answer": "μάφιν"
+    },
+    {
+      "id": "e-sh-b2-086",
+      "type": "gap",
+      "header": "Τρώω ___ με παγωτό.",
+      "answer": "μηλόπιτα"
+    },
+    {
+      "id": "e-sh-b2-087",
+      "type": "select",
+      "header": "το ρολό",
+      "options": {"a": "donut", "b": "kataifi (shredded wheat pastry)", "c": "muffin", "d": "pastry roll / Swiss roll"},
+      "answer": "d"
+    },
+    {
+      "id": "e-sh-b2-088",
+      "type": "blocks",
+      "header": "kataifi (shredded wheat pastry)",
+      "answer": "κανταΐφι",
+      "blocks": ["α", "κ", "ΐ", "τ", "φ", "ν", "ι", "α"]
+    },
+    {
+      "id": "e-sh-b2-089",
+      "type": "writing",
+      "header": "apple pie",
+      "answer": "μηλόπιτα"
+    },
+    {
+      "id": "e-sh-b2-090",
+      "type": "gap",
+      "header": "Το ___ είναι το αγαπημένο μου γλυκό.",
+      "answer": "κανταΐφι"
+    },
+    {
+      "id": "e-sh-b2-091",
+      "type": "select",
+      "header": "το ρολό",
+      "options": {"a": "cake", "b": "sweet braided bread", "c": "pastry roll / Swiss roll", "d": "apple pie"},
+      "answer": "c"
+    },
+    {
+      "id": "e-sh-b2-092",
+      "type": "blocks",
+      "header": "pastry roll / Swiss roll",
+      "answer": "ρολό",
+      "blocks": ["λ", "ρ", "ό", "ο"]
+    },
+    {
+      "id": "e-sh-b2-093",
+      "type": "writing",
+      "header": "kataifi (shredded wheat pastry)",
+      "answer": "κανταΐφι"
+    },
+    {
+      "id": "e-sh-b2-094",
+      "type": "gap",
+      "header": "Αγοράζω ___ από το ζαχαροπλαστείο.",
+      "answer": "κανταΐφι"
+    },
+    {
+      "id": "e-sh-b2-095",
+      "type": "writing",
+      "header": "pastry roll / Swiss roll",
+      "answer": "ρολό"
+    },
+    {
+      "id": "e-sh-b2-096",
+      "type": "gap",
+      "header": "Το ___ σοκολάτας είναι νόστιμο.",
+      "answer": "ρολό"
+    }
+  ]
+}

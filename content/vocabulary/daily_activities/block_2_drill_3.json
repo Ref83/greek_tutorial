@@ -1,0 +1,160 @@
+{
+  "exercises": [
+    {
+      "id": "e-da-b2-049",
+      "type": "gap",
+      "header": "___ για έξοδο.",
+      "answer": "Ετοιμάζομαι"
+    },
+    {
+      "id": "e-da-b2-050",
+      "type": "select",
+      "header": "ανοίγω το παράθυρο",
+      "options": {"a": "to sweep", "b": "to tidy up", "c": "to open the window", "d": "to plan"},
+      "answer": "c"
+    },
+    {
+      "id": "e-da-b2-051",
+      "type": "blocks",
+      "header": "to sweep / vacuum",
+      "answer": "σκουπίζω",
+      "blocks": ["ο", "κ", "ζ", "π", "σ", "ω", "ί", "υ"]
+    },
+    {
+      "id": "e-da-b2-052",
+      "type": "writing",
+      "header": "to clean",
+      "answer": "καθαρίζω"
+    },
+    {
+      "id": "e-da-b2-053",
+      "type": "gap",
+      "header": "___ στο σούπερ μάρκετ κάθε εβδομάδα.",
+      "answer": "Ψωνίζω"
+    },
+    {
+      "id": "e-da-b2-054",
+      "type": "select",
+      "header": "αερίζω",
+      "options": {"a": "to do the laundry", "b": "to air out / ventilate", "c": "to wash the dishes", "d": "to shop"},
+      "answer": "b"
+    },
+    {
+      "id": "e-da-b2-055",
+      "type": "blocks",
+      "header": "to open the window",
+      "answer": "ανοίγω",
+      "blocks": ["γ", "ο", "α", "ω", "ν", "ί"]
+    },
+    {
+      "id": "e-da-b2-056",
+      "type": "writing",
+      "header": "to sweep / vacuum",
+      "answer": "σκουπίζω"
+    },
+    {
+      "id": "e-da-b2-057",
+      "type": "gap",
+      "header": "Πρέπει να καθαρίσω το μπάνιο.",
+      "answer": "καθαρίσω"
+    },
+    {
+      "id": "e-da-b2-058",
+      "type": "select",
+      "header": "πλένω τα πιάτα",
+      "options": {"a": "to arrange", "b": "to get ready", "c": "to wash the dishes", "d": "to tidy up"},
+      "answer": "c"
+    },
+    {
+      "id": "e-da-b2-059",
+      "type": "blocks",
+      "header": "to air out / ventilate",
+      "answer": "αερίζω",
+      "blocks": ["ί", "ε", "ω", "ζ", "α", "ρ"]
+    },
+    {
+      "id": "e-da-b2-060",
+      "type": "writing",
+      "header": "to open the window",
+      "answer": "ανοίγω το παράθυρο"
+    },
+    {
+      "id": "e-da-b2-061",
+      "type": "gap",
+      "header": "Σκουπίζω με την ηλεκτρική σκούπα κάθε εβδομάδα.",
+      "answer": "Σκουπίζω"
+    },
+    {
+      "id": "e-da-b2-062",
+      "type": "select",
+      "header": "μαζεύω",
+      "options": {"a": "to plan", "b": "to clean", "c": "to make an appointment", "d": "to tidy up / pick up"},
+      "answer": "d"
+    },
+    {
+      "id": "e-da-b2-063",
+      "type": "blocks",
+      "header": "to wash the dishes",
+      "answer": "πλένω",
+      "blocks": ["λ", "ω", "π", "ν", "ε"]
+    },
+    {
+      "id": "e-da-b2-064",
+      "type": "writing",
+      "header": "to air out / ventilate",
+      "answer": "αερίζω"
+    },
+    {
+      "id": "e-da-b2-065",
+      "type": "gap",
+      "header": "Πρέπει να αερίσεις το σπίτι.",
+      "answer": "αερίσεις"
+    },
+    {
+      "id": "e-da-b2-066",
+      "type": "select",
+      "header": "τακτοποιώ",
+      "options": {"a": "to shop", "b": "to do the laundry", "c": "to arrange / put in order", "d": "to air out"},
+      "answer": "c"
+    },
+    {
+      "id": "e-da-b2-067",
+      "type": "blocks",
+      "header": "to tidy up / pick up",
+      "answer": "μαζεύω",
+      "blocks": ["α", "μ", "ζ", "ύ", "ω", "ε"]
+    },
+    {
+      "id": "e-da-b2-068",
+      "type": "writing",
+      "header": "to wash the dishes",
+      "answer": "πλένω τα πιάτα"
+    },
+    {
+      "id": "e-da-b2-069",
+      "type": "gap",
+      "header": "Ποιος πλένει τα πιάτα σήμερα;",
+      "answer": "πλένει"
+    },
+    {
+      "id": "e-da-b2-070",
+      "type": "select",
+      "header": "σχεδιάζω",
+      "options": {"a": "to sweep", "b": "to plan", "c": "to tidy up", "d": "to wash the dishes"},
+      "answer": "b"
+    },
+    {
+      "id": "e-da-b2-071",
+      "type": "blocks",
+      "header": "to arrange / put in order",
+      "answer": "τακτοποιώ",
+      "blocks": ["κ", "τ", "ι", "ώ", "ο", "π", "τ", "α"]
+    },
+    {
+      "id": "e-da-b2-072",
+      "type": "writing",
+      "header": "to tidy up / pick up",
+      "answer": "μαζεύω"
+    }
+  ]
+}

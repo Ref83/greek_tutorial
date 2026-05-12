@@ -1,0 +1,160 @@
+{
+  "exercises": [
+    {
+      "id": "e-hb-b3-049",
+      "type": "select",
+      "header": "ο φόβος",
+      "options": {"a": "breath", "b": "worry", "c": "anxiety", "d": "fear"},
+      "answer": "d"
+    },
+    {
+      "id": "e-hb-b3-050",
+      "type": "select",
+      "header": "φοβάμαι",
+      "options": {"a": "to endure", "b": "to be afraid / to fear", "c": "to trust", "d": "to relax"},
+      "answer": "b"
+    },
+    {
+      "id": "e-hb-b3-051",
+      "type": "blocks",
+      "header": "fear",
+      "answer": "φόβος",
+      "blocks": ["ο", "ς", "β", "ό", "φ"]
+    },
+    {
+      "id": "e-hb-b3-052",
+      "type": "select",
+      "header": "το άγχος",
+      "options": {"a": "worry", "b": "breath", "c": "anxiety / stress", "d": "fear"},
+      "answer": "c"
+    },
+    {
+      "id": "e-hb-b3-053",
+      "type": "blocks",
+      "header": "to be afraid / to fear",
+      "answer": "φοβάμαι",
+      "blocks": ["β", "α", "ο", "μ", "ά", "α", "ι", "φ"]
+    },
+    {
+      "id": "e-hb-b3-054",
+      "type": "writing",
+      "header": "fear",
+      "answer": "φόβος"
+    },
+    {
+      "id": "e-hb-b3-055",
+      "type": "blocks",
+      "header": "anxiety / stress",
+      "answer": "άγχος",
+      "blocks": ["γ", "ο", "ά", "ς", "χ"]
+    },
+    {
+      "id": "e-hb-b3-056",
+      "type": "writing",
+      "header": "to be afraid / to fear",
+      "answer": "φοβάμαι"
+    },
+    {
+      "id": "e-hb-b3-057",
+      "type": "gap",
+      "header": "Ο ___ του είναι κατανοητός.",
+      "answer": "φόβος"
+    },
+    {
+      "id": "e-hb-b3-058",
+      "type": "writing",
+      "header": "anxiety / stress",
+      "answer": "άγχος"
+    },
+    {
+      "id": "e-hb-b3-059",
+      "type": "gap",
+      "header": "Μην ___, δεν πονάει.",
+      "answer": "φοβάσαι"
+    },
+    {
+      "id": "e-hb-b3-060",
+      "type": "gap",
+      "header": "Το ___ με εμποδίζει να κοιμηθώ.",
+      "answer": "άγχος"
+    },
+    {
+      "id": "e-hb-b3-061",
+      "type": "select",
+      "header": "αγχώνομαι",
+      "options": {"a": "to trust", "b": "to feel anxious / to get stressed", "c": "to endure", "d": "to relieve"},
+      "answer": "b"
+    },
+    {
+      "id": "e-hb-b3-062",
+      "type": "select",
+      "header": "ανησυχώ",
+      "options": {"a": "to relax", "b": "to soothe", "c": "to fear", "d": "to worry"},
+      "answer": "d"
+    },
+    {
+      "id": "e-hb-b3-063",
+      "type": "blocks",
+      "header": "to feel anxious / to get stressed",
+      "answer": "αγχώνομαι",
+      "blocks": ["α", "γ", "ο", "χ", "μ", "ν", "ί", "ω", "α"]
+    },
+    {
+      "id": "e-hb-b3-064",
+      "type": "select",
+      "header": "η ανησυχία",
+      "options": {"a": "fear", "b": "anxiety", "c": "worry / concern", "d": "calm"},
+      "answer": "c"
+    },
+    {
+      "id": "e-hb-b3-065",
+      "type": "blocks",
+      "header": "to worry",
+      "answer": "ανησυχώ",
+      "blocks": ["ω", "υ", "ν", "η", "χ", "σ", "α"]
+    },
+    {
+      "id": "e-hb-b3-066",
+      "type": "writing",
+      "header": "to feel anxious / to get stressed",
+      "answer": "αγχώνομαι"
+    },
+    {
+      "id": "e-hb-b3-067",
+      "type": "blocks",
+      "header": "worry / concern",
+      "answer": "ανησυχία",
+      "blocks": ["ί", "υ", "ν", "α", "η", "χ", "σ", "α"]
+    },
+    {
+      "id": "e-hb-b3-068",
+      "type": "writing",
+      "header": "to worry",
+      "answer": "ανησυχώ"
+    },
+    {
+      "id": "e-hb-b3-069",
+      "type": "gap",
+      "header": "Μην ___ τόσο πολύ.",
+      "answer": "ανησυχείς"
+    },
+    {
+      "id": "e-hb-b3-070",
+      "type": "writing",
+      "header": "worry / concern",
+      "answer": "ανησυχία"
+    },
+    {
+      "id": "e-hb-b3-071",
+      "type": "gap",
+      "header": "Μην ___, όλα θα πάνε καλά.",
+      "answer": "αγχώνεσαι"
+    },
+    {
+      "id": "e-hb-b3-072",
+      "type": "gap",
+      "header": "Ο γιατρός καταλαβαίνει την ___ μου.",
+      "answer": "ανησυχία"
+    }
+  ]
+}

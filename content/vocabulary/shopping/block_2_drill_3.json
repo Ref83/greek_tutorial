@@ -1,0 +1,160 @@
+{
+  "exercises": [
+    {
+      "id": "e-sh-b2-049",
+      "type": "writing",
+      "header": "pastry roll / Swiss roll",
+      "answer": "ρολό"
+    },
+    {
+      "id": "e-sh-b2-050",
+      "type": "gap",
+      "header": "Αγοράζω ένα ___ με κρέμα.",
+      "answer": "ρολό"
+    },
+    {
+      "id": "e-sh-b2-051",
+      "type": "select",
+      "header": "η τούρτα",
+      "options": {"a": "biscuit / cookie", "b": "muffin", "c": "layer cake / torte", "d": "baklava"},
+      "answer": "c"
+    },
+    {
+      "id": "e-sh-b2-052",
+      "type": "blocks",
+      "header": "cake",
+      "answer": "κέικ",
+      "blocks": ["έ", "κ", "ι", "κ"]
+    },
+    {
+      "id": "e-sh-b2-053",
+      "type": "writing",
+      "header": "sweet / dessert",
+      "answer": "γλυκό"
+    },
+    {
+      "id": "e-sh-b2-054",
+      "type": "gap",
+      "header": "Βλέπω πολλά ___ στη βιτρίνα.",
+      "answer": "γλυκά"
+    },
+    {
+      "id": "e-sh-b2-055",
+      "type": "select",
+      "header": "το μπισκότο",
+      "options": {"a": "croissant", "b": "apple pie", "c": "donut", "d": "biscuit / cookie"},
+      "answer": "d"
+    },
+    {
+      "id": "e-sh-b2-056",
+      "type": "blocks",
+      "header": "layer cake / torte",
+      "answer": "τούρτα",
+      "blocks": ["ρ", "τ", "α", "τ", "υ", "ό"]
+    },
+    {
+      "id": "e-sh-b2-057",
+      "type": "writing",
+      "header": "cake",
+      "answer": "κέικ"
+    },
+    {
+      "id": "e-sh-b2-058",
+      "type": "gap",
+      "header": "Παραγγέλνω ένα ___ βανίλιας.",
+      "answer": "κέικ"
+    },
+    {
+      "id": "e-sh-b2-059",
+      "type": "select",
+      "header": "το κρουασάν",
+      "options": {"a": "muffin", "b": "croissant", "c": "pastry roll / Swiss roll", "d": "sweet braided bread"},
+      "answer": "b"
+    },
+    {
+      "id": "e-sh-b2-060",
+      "type": "blocks",
+      "header": "biscuit / cookie",
+      "answer": "μπισκότο",
+      "blocks": ["ο", "κ", "π", "τ", "μ", "ό", "ι", "σ"]
+    },
+    {
+      "id": "e-sh-b2-061",
+      "type": "writing",
+      "header": "layer cake / torte",
+      "answer": "τούρτα"
+    },
+    {
+      "id": "e-sh-b2-062",
+      "type": "gap",
+      "header": "Η ___ σοκολάτας είναι η πιο ακριβή.",
+      "answer": "τούρτα"
+    },
+    {
+      "id": "e-sh-b2-063",
+      "type": "select",
+      "header": "το τσουρέκι",
+      "options": {"a": "baklava", "b": "kataifi (shredded wheat pastry)", "c": "donut", "d": "sweet braided bread"},
+      "answer": "d"
+    },
+    {
+      "id": "e-sh-b2-064",
+      "type": "blocks",
+      "header": "croissant",
+      "answer": "κρουασάν",
+      "blocks": ["σ", "ο", "ά", "ν", "υ", "κ", "α", "ρ"]
+    },
+    {
+      "id": "e-sh-b2-065",
+      "type": "writing",
+      "header": "biscuit / cookie",
+      "answer": "μπισκότο"
+    },
+    {
+      "id": "e-sh-b2-066",
+      "type": "gap",
+      "header": "Παίρνω δύο ___ σοκολάτας.",
+      "answer": "μπισκότα"
+    },
+    {
+      "id": "e-sh-b2-067",
+      "type": "select",
+      "header": "ο μπακλαβάς",
+      "options": {"a": "kataifi (shredded wheat pastry)", "b": "pastry roll / Swiss roll", "c": "baklava", "d": "apple pie"},
+      "answer": "c"
+    },
+    {
+      "id": "e-sh-b2-068",
+      "type": "blocks",
+      "header": "sweet braided bread",
+      "answer": "τσουρέκι",
+      "blocks": ["ρ", "τ", "έ", "ι", "ο", "κ", "υ", "σ"]
+    },
+    {
+      "id": "e-sh-b2-069",
+      "type": "writing",
+      "header": "croissant",
+      "answer": "κρουασάν"
+    },
+    {
+      "id": "e-sh-b2-070",
+      "type": "gap",
+      "header": "Τρώω ένα ___ για πρωινό.",
+      "answer": "κρουασάν"
+    },
+    {
+      "id": "e-sh-b2-071",
+      "type": "select",
+      "header": "το ντόνατ",
+      "options": {"a": "muffin", "b": "sweet braided bread", "c": "biscuit / cookie", "d": "donut"},
+      "answer": "d"
+    },
+    {
+      "id": "e-sh-b2-072",
+      "type": "blocks",
+      "header": "baklava",
+      "answer": "μπακλαβάς",
+      "blocks": ["β", "α", "π", "λ", "μ", "ά", "κ", "ά", "σ"]
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "exercises": [
+    {
+      "id": "e-nd-b3-061",
+      "type": "select",
+      "header": "Μάρτιος",
+      "options": {"a": "February", "b": "April", "c": "March", "d": "today"},
+      "answer": "c"
+    },
+    {
+      "id": "e-nd-b3-062",
+      "type": "select",
+      "header": "Απρίλιος",
+      "options": {"a": "May", "b": "April", "c": "March", "d": "date"},
+      "answer": "b"
+    },
+    {
+      "id": "e-nd-b3-063",
+      "type": "blocks",
+      "header": "March",
+      "answer": "Μάρτιος",
+      "blocks": ["ι", "Μ", "σ", "ρ", "τ", "ά", "ο"]
+    },
+    {
+      "id": "e-nd-b3-064",
+      "type": "select",
+      "header": "Μάιος",
+      "options": {"a": "June", "b": "March", "c": "first", "d": "May"},
+      "answer": "d"
+    },
+    {
+      "id": "e-nd-b3-065",
+      "type": "blocks",
+      "header": "April",
+      "answer": "Απρίλιος",
+      "blocks": ["λ", "Α", "ρ", "ο", "ι", "π", "σ", "ί"]
+    },
+    {
+      "id": "e-nd-b3-066",
+      "type": "writing",
+      "header": "March",
+      "answer": "Μάρτιος"
+    },
+    {
+      "id": "e-nd-b3-067",
+      "type": "blocks",
+      "header": "May",
+      "answer": "Μάιος",
+      "blocks": ["σ", "Μ", "ο", "ά", "ι"]
+    },
+    {
+      "id": "e-nd-b3-068",
+      "type": "writing",
+      "header": "April",
+      "answer": "Απρίλιος"
+    },
+    {
+      "id": "e-nd-b3-069",
+      "type": "gap",
+      "header": "Η Άνοιξη αρχίζει τον ___.",
+      "answer": "Μάρτιο"
+    },
+    {
+      "id": "e-nd-b3-070",
+      "type": "writing",
+      "header": "May",
+      "answer": "Μάιος"
+    },
+    {
+      "id": "e-nd-b3-071",
+      "type": "gap",
+      "header": "Η Πρωταπριλιά είναι την πρώτη ___.",
+      "answer": "Απριλίου"
+    },
+    {
+      "id": "e-nd-b3-072",
+      "type": "gap",
+      "header": "Η Πρωτομαγιά είναι την πρώτη ___.",
+      "answer": "Μαΐου"
+    },
+    {
+      "id": "e-nd-b3-073",
+      "type": "select",
+      "header": "Ιούνιος",
+      "options": {"a": "August", "b": "July", "c": "June", "d": "May"},
+      "answer": "c"
+    },
+    {
+      "id": "e-nd-b3-074",
+      "type": "select",
+      "header": "Ιούλιος",
+      "options": {"a": "June", "b": "September", "c": "July", "d": "August"},
+      "answer": "c"
+    },
+    {
+      "id": "e-nd-b3-075",
+      "type": "blocks",
+      "header": "June",
+      "answer": "Ιούνιος",
+      "blocks": ["υ", "Ι", "ο", "σ", "ν", "ο", "ί"]
+    },
+    {
+      "id": "e-nd-b3-076",
+      "type": "select",
+      "header": "Αύγουστος",
+      "options": {"a": "July", "b": "October", "c": "September", "d": "August"},
+      "answer": "d"
+    },
+    {
+      "id": "e-nd-b3-077",
+      "type": "blocks",
+      "header": "July",
+      "answer": "Ιούλιος",
+      "blocks": ["λ", "Ι", "σ", "ο", "ο", "ύ", "ι"]
+    },
+    {
+      "id": "e-nd-b3-078",
+      "type": "writing",
+      "header": "June",
+      "answer": "Ιούνιος"
+    },
+    {
+      "id": "e-nd-b3-079",
+      "type": "blocks",
+      "header": "August",
+      "answer": "Αύγουστος",
+      "blocks": ["υ", "Α", "σ", "ο", "τ", "ύ", "γ", "ο", "σ"]
+    },
+    {
+      "id": "e-nd-b3-080",
+      "type": "writing",
+      "header": "July",
+      "answer": "Ιούλιος"
+    },
+    {
+      "id": "e-nd-b3-081",
+      "type": "gap",
+      "header": "Το καλοκαίρι αρχίζει τον ___.",
+      "answer": "Ιούνιο"
+    },
+    {
+      "id": "e-nd-b3-082",
+      "type": "writing",
+      "header": "August",
+      "answer": "Αύγουστος"
+    },
+    {
+      "id": "e-nd-b3-083",
+      "type": "gap",
+      "header": "Ο ___ είναι ο πιο ζεστός μήνας.",
+      "answer": "Ιούλιος"
+    },
+    {
+      "id": "e-nd-b3-084",
+      "type": "gap",
+      "header": "Η 15η ___ είναι μεγάλη γιορτή στην Ελλάδα.",
+      "answer": "Αυγούστου"
+    },
+    {
+      "id": "e-nd-b3-085",
+      "type": "select",
+      "header": "η ημερομηνία",
+      "options": {"a": "today", "b": "first", "c": "date", "d": "November"},
+      "answer": "c"
+    },
+    {
+      "id": "e-nd-b3-086",
+      "type": "select",
+      "header": "πρώτος / πρώτη / πρώτο",
+      "options": {"a": "date", "b": "today", "c": "December", "d": "first"},
+      "answer": "d"
+    },
+    {
+      "id": "e-nd-b3-087",
+      "type": "blocks",
+      "header": "date",
+      "answer": "ημερομηνία",
+      "blocks": ["ε", "η", "ν", "ο", "μ", "ρ", "η", "α", "ί"]
+    },
+    {
+      "id": "e-nd-b3-088",
+      "type": "blocks",
+      "header": "first",
+      "answer": "πρώτη",
+      "blocks": ["τ", "π", "η", "ώ", "ρ"]
+    },
+    {
+      "id": "e-nd-b3-089",
+      "type": "gap",
+      "header": "Η ___ γέννησής μου είναι η πέμπτη Μαΐου.",
+      "answer": "ημερομηνία"
+    },
+    {
+      "id": "e-nd-b3-090",
+      "type": "gap",
+      "header": "Ο ___ μαθητής πήρε βραβείο.",
+      "answer": "πρώτος"
+    }
+  ]
+}

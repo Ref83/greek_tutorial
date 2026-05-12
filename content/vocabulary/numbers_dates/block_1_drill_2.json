@@ -1,0 +1,160 @@
+{
+  "exercises": [
+    {
+      "id": "e-nd-b1-025",
+      "type": "select",
+      "header": "έξι",
+      "options": {"a": "seven", "b": "five", "c": "eight", "d": "six"},
+      "answer": "d"
+    },
+    {
+      "id": "e-nd-b1-026",
+      "type": "select",
+      "header": "εφτά / επτά",
+      "options": {"a": "six", "b": "eight", "c": "seven", "d": "eleven"},
+      "answer": "c"
+    },
+    {
+      "id": "e-nd-b1-027",
+      "type": "blocks",
+      "header": "six",
+      "answer": "έξι",
+      "blocks": ["ι", "έ", "ξ"]
+    },
+    {
+      "id": "e-nd-b1-028",
+      "type": "select",
+      "header": "οχτώ / οκτώ",
+      "options": {"a": "nine", "b": "seven", "c": "ten", "d": "eight"},
+      "answer": "d"
+    },
+    {
+      "id": "e-nd-b1-029",
+      "type": "blocks",
+      "header": "seven",
+      "answer": "εφτά",
+      "blocks": ["τ", "ε", "ά", "φ"]
+    },
+    {
+      "id": "e-nd-b1-030",
+      "type": "writing",
+      "header": "six",
+      "answer": "έξι"
+    },
+    {
+      "id": "e-nd-b1-031",
+      "type": "blocks",
+      "header": "eight",
+      "answer": "οχτώ",
+      "blocks": ["ώ", "ο", "τ", "χ"]
+    },
+    {
+      "id": "e-nd-b1-032",
+      "type": "writing",
+      "header": "seven",
+      "answer": "εφτά"
+    },
+    {
+      "id": "e-nd-b1-033",
+      "type": "gap",
+      "header": "Ξυπνάω στις ___ το πρωί.",
+      "answer": "έξι"
+    },
+    {
+      "id": "e-nd-b1-034",
+      "type": "writing",
+      "header": "eight",
+      "answer": "οχτώ"
+    },
+    {
+      "id": "e-nd-b1-035",
+      "type": "gap",
+      "header": "Η εβδομάδα έχει ___ μέρες.",
+      "answer": "εφτά"
+    },
+    {
+      "id": "e-nd-b1-036",
+      "type": "gap",
+      "header": "Η παράσταση αρχίζει στις ___.",
+      "answer": "οχτώ"
+    },
+    {
+      "id": "e-nd-b1-037",
+      "type": "select",
+      "header": "εννέα",
+      "options": {"a": "eight", "b": "ten", "c": "nine", "d": "seven"},
+      "answer": "c"
+    },
+    {
+      "id": "e-nd-b1-038",
+      "type": "select",
+      "header": "δέκα",
+      "options": {"a": "nine", "b": "number", "c": "eleven", "d": "ten"},
+      "answer": "d"
+    },
+    {
+      "id": "e-nd-b1-039",
+      "type": "blocks",
+      "header": "nine",
+      "answer": "εννέα",
+      "blocks": ["ν", "α", "ε", "έ", "ν"]
+    },
+    {
+      "id": "e-nd-b1-040",
+      "type": "select",
+      "header": "ο αριθμός",
+      "options": {"a": "ten", "b": "zero", "c": "number", "d": "nine"},
+      "answer": "c"
+    },
+    {
+      "id": "e-nd-b1-041",
+      "type": "blocks",
+      "header": "ten",
+      "answer": "δέκα",
+      "blocks": ["α", "δ", "κ", "έ"]
+    },
+    {
+      "id": "e-nd-b1-042",
+      "type": "writing",
+      "header": "nine",
+      "answer": "εννέα"
+    },
+    {
+      "id": "e-nd-b1-043",
+      "type": "blocks",
+      "header": "number",
+      "answer": "αριθμός",
+      "blocks": ["μ", "α", "ό", "ρ", "ι", "θ", "σ"]
+    },
+    {
+      "id": "e-nd-b1-044",
+      "type": "writing",
+      "header": "ten",
+      "answer": "δέκα"
+    },
+    {
+      "id": "e-nd-b1-045",
+      "type": "gap",
+      "header": "Η μαμά αγόρασε ___ μήλα.",
+      "answer": "εννέα"
+    },
+    {
+      "id": "e-nd-b1-046",
+      "type": "writing",
+      "header": "number",
+      "answer": "αριθμός"
+    },
+    {
+      "id": "e-nd-b1-047",
+      "type": "gap",
+      "header": "Μετράω από ένα μέχρι ___.",
+      "answer": "δέκα"
+    },
+    {
+      "id": "e-nd-b1-048",
+      "type": "gap",
+      "header": "Ποιος είναι ο ___ τηλεφώνου σου;",
+      "answer": "αριθμός"
+    }
+  ]
+}

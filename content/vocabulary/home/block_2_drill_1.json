@@ -1,0 +1,162 @@
+{
+  "exercises": [
+    {
+      "id": "e-home-b2-001",
+      "type": "select",
+      "header": "η κουζίνα",
+      "options": {"a": "dining room", "b": "kitchen", "c": "hallway", "d": "bedroom"},
+      "answer": "b"
+    },
+    {
+      "id": "e-home-b2-002",
+      "type": "select",
+      "header": "το σαλόνι",
+      "options": {"a": "bedroom", "b": "study / home office", "c": "living room / lounge", "d": "dining room"},
+      "answer": "c"
+    },
+    {
+      "id": "e-home-b2-003",
+      "type": "blocks",
+      "header": "kitchen",
+      "answer": "κουζίνα",
+      "blocks": ["ί", "ν", "κ", "α", "ζ", "ο", "υ"]
+    },
+    {
+      "id": "e-home-b2-004",
+      "type": "select",
+      "header": "η τραπεζαρία",
+      "options": {"a": "storage room", "b": "living room", "c": "hallway", "d": "dining room"},
+      "answer": "d"
+    },
+    {
+      "id": "e-home-b2-005",
+      "type": "blocks",
+      "header": "living room / lounge",
+      "answer": "σαλόνι",
+      "blocks": ["ό", "λ", "σ", "ν", "ι", "α"]
+    },
+    {
+      "id": "e-home-b2-006",
+      "type": "select",
+      "header": "η κρεβατοκάμαρα",
+      "options": {"a": "toilet / WC", "b": "dining room", "c": "bedroom", "d": "bathroom"},
+      "answer": "c"
+    },
+    {
+      "id": "e-home-b2-007",
+      "type": "writing",
+      "header": "kitchen",
+      "answer": "κουζίνα"
+    },
+    {
+      "id": "e-home-b2-008",
+      "type": "blocks",
+      "header": "dining room",
+      "answer": "τραπεζαρία",
+      "blocks": ["ε", "τ", "α", "ρ", "ζ", "ί", "π", "α", "α", "ρ"]
+    },
+    {
+      "id": "e-home-b2-009",
+      "type": "select",
+      "header": "το μπάνιο",
+      "options": {"a": "guest room", "b": "bathroom", "c": "bedroom", "d": "storage room"},
+      "answer": "b"
+    },
+    {
+      "id": "e-home-b2-010",
+      "type": "writing",
+      "header": "living room / lounge",
+      "answer": "σαλόνι"
+    },
+    {
+      "id": "e-home-b2-011",
+      "type": "blocks",
+      "header": "bedroom",
+      "answer": "κρεβατοκάμαρα",
+      "blocks": ["α", "κ", "τ", "μ", "ε", "α", "κ", "ο", "α", "ρ", "β", "α", "ρ"]
+    },
+    {
+      "id": "e-home-b2-012",
+      "type": "gap",
+      "header": "Μαγειρεύω στην ___ κάθε βράδυ.",
+      "answer": "κουζίνα"
+    },
+    {
+      "id": "e-home-b2-013",
+      "type": "writing",
+      "header": "dining room",
+      "answer": "τραπεζαρία"
+    },
+    {
+      "id": "e-home-b2-014",
+      "type": "blocks",
+      "header": "bathroom",
+      "answer": "μπάνιο",
+      "blocks": ["ν", "μ", "ά", "ο", "ι", "π"]
+    },
+    {
+      "id": "e-home-b2-015",
+      "type": "gap",
+      "header": "Βλέπουμε τηλεόραση στο ___.",
+      "answer": "σαλόνι"
+    },
+    {
+      "id": "e-home-b2-016",
+      "type": "writing",
+      "header": "bedroom",
+      "answer": "κρεβατοκάμαρα"
+    },
+    {
+      "id": "e-home-b2-017",
+      "type": "select",
+      "header": "η τουαλέτα",
+      "options": {"a": "bathroom", "b": "room", "c": "toilet / WC", "d": "hallway"},
+      "answer": "c"
+    },
+    {
+      "id": "e-home-b2-018",
+      "type": "gap",
+      "header": "Τρώμε μαζί στην ___.",
+      "answer": "τραπεζαρία"
+    },
+    {
+      "id": "e-home-b2-019",
+      "type": "blocks",
+      "header": "toilet / WC",
+      "answer": "τουαλέτα",
+      "blocks": ["τ", "λ", "ε", "α", "ο", "τ", "α", "υ"]
+    },
+    {
+      "id": "e-home-b2-020",
+      "type": "gap",
+      "header": "Κάνω ντους στο ___ κάθε πρωί.",
+      "answer": "μπάνιο"
+    },
+    {
+      "id": "e-home-b2-021",
+      "type": "writing",
+      "header": "bathroom",
+      "answer": "μπάνιο"
+    },
+    {
+      "id": "e-home-b2-022",
+      "type": "select",
+      "header": "το γραφείο",
+      "options": {"a": "hallway", "b": "storage room", "c": "guest room", "d": "study / home office"},
+      "answer": "d"
+    },
+    {
+      "id": "e-home-b2-023",
+      "type": "gap",
+      "header": "Η ___ μου είναι ήσυχη.",
+      "answer": "κρεβατοκάμαρα"
+    },
+    {
+      "id": "e-home-b2-024",
+      "type": "blocks",
+      "header": "study / home office",
+      "answer": "γραφείο",
+      "blocks": ["φ", "ε", "γ", "ο", "ί", "α", "ρ"]
+    }
+  ]
+}

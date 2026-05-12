@@ -1,0 +1,163 @@
+{
+  "exercises": [
+    {
+      "id": "e-pi-b1-001",
+      "type": "select",
+      "header": "το όνομα",
+      "options": {"a": "surname", "b": "age", "c": "name", "d": "nationality"},
+      "answer": "c"
+    },
+    {
+      "id": "e-pi-b1-002",
+      "type": "select",
+      "header": "το επίθετο",
+      "options": {"a": "address", "b": "surname", "c": "city", "d": "age"},
+      "answer": "b"
+    },
+    {
+      "id": "e-pi-b1-003",
+      "type": "blocks",
+      "header": "name",
+      "answer": "όνομα",
+      "blocks": ["μ", "ό", "α", "ν", "ο"]
+    },
+    {
+      "id": "e-pi-b1-004",
+      "type": "select",
+      "header": "η ηλικία",
+      "options": {"a": "telephone", "b": "country", "c": "name", "d": "age"},
+      "answer": "d"
+    },
+    {
+      "id": "e-pi-b1-005",
+      "type": "blocks",
+      "header": "surname",
+      "answer": "επίθετο",
+      "blocks": ["ί", "π", "ε", "θ", "ε", "τ", "ο"]
+    },
+    {
+      "id": "e-pi-b1-006",
+      "type": "writing",
+      "header": "name",
+      "answer": "όνομα"
+    },
+    {
+      "id": "e-pi-b1-007",
+      "type": "select",
+      "header": "η εθνικότητα",
+      "options": {"a": "nationality", "b": "email", "c": "city", "d": "address"},
+      "answer": "a"
+    },
+    {
+      "id": "e-pi-b1-008",
+      "type": "blocks",
+      "header": "age",
+      "answer": "ηλικία",
+      "blocks": ["λ", "ί", "η", "κ", "α", "ι"]
+    },
+    {
+      "id": "e-pi-b1-009",
+      "type": "writing",
+      "header": "surname",
+      "answer": "επίθετο"
+    },
+    {
+      "id": "e-pi-b1-010",
+      "type": "select",
+      "header": "η χώρα",
+      "options": {"a": "age", "b": "city", "c": "country", "d": "telephone"},
+      "answer": "c"
+    },
+    {
+      "id": "e-pi-b1-011",
+      "type": "blocks",
+      "header": "nationality",
+      "answer": "εθνικότητα",
+      "blocks": ["κ", "ε", "θ", "ν", "ι", "ό", "τ", "η", "τ", "α"]
+    },
+    {
+      "id": "e-pi-b1-012",
+      "type": "writing",
+      "header": "age",
+      "answer": "ηλικία"
+    },
+    {
+      "id": "e-pi-b1-013",
+      "type": "gap",
+      "header": "Με ___ Ελένη.",
+      "answer": "λένε"
+    },
+    {
+      "id": "e-pi-b1-014",
+      "type": "select",
+      "header": "η πόλη",
+      "options": {"a": "country", "b": "address", "c": "nationality", "d": "city"},
+      "answer": "d"
+    },
+    {
+      "id": "e-pi-b1-015",
+      "type": "blocks",
+      "header": "country",
+      "answer": "χώρα",
+      "blocks": ["ρ", "χ", "α", "ώ"]
+    },
+    {
+      "id": "e-pi-b1-016",
+      "type": "writing",
+      "header": "nationality",
+      "answer": "εθνικότητα"
+    },
+    {
+      "id": "e-pi-b1-017",
+      "type": "gap",
+      "header": "Το ___ μου είναι Παπαδοπούλου.",
+      "answer": "επίθετό"
+    },
+    {
+      "id": "e-pi-b1-018",
+      "type": "select",
+      "header": "η διεύθυνση",
+      "options": {"a": "email", "b": "address", "c": "telephone", "d": "country"},
+      "answer": "b"
+    },
+    {
+      "id": "e-pi-b1-019",
+      "type": "blocks",
+      "header": "city",
+      "answer": "πόλη",
+      "blocks": ["λ", "π", "η", "ό"]
+    },
+    {
+      "id": "e-pi-b1-020",
+      "type": "writing",
+      "header": "country",
+      "answer": "χώρα"
+    },
+    {
+      "id": "e-pi-b1-021",
+      "type": "gap",
+      "header": "Είμαι τριάντα ___.",
+      "answer": "χρονών"
+    },
+    {
+      "id": "e-pi-b1-022",
+      "type": "select",
+      "header": "το τηλέφωνο",
+      "options": {"a": "address", "b": "email", "c": "married", "d": "telephone"},
+      "answer": "d"
+    },
+    {
+      "id": "e-pi-b1-023",
+      "type": "blocks",
+      "header": "address",
+      "answer": "διεύθυνση",
+      "blocks": ["ε", "ύ", "δ", "θ", "ι", "υ", "ν", "σ", "η"]
+    },
+    {
+      "id": "e-pi-b1-024",
+      "type": "writing",
+      "header": "city",
+      "answer": "πόλη"
+    }
+  ]
+}

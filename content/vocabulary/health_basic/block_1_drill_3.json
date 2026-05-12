@@ -1,0 +1,160 @@
+{
+  "exercises": [
+    {
+      "id": "e-hb-b1-049",
+      "type": "select",
+      "header": "ο γιατρός",
+      "options": {"a": "patient", "b": "doctor", "c": "cold", "d": "clinic"},
+      "answer": "b"
+    },
+    {
+      "id": "e-hb-b1-050",
+      "type": "select",
+      "header": "το νοσοκομείο",
+      "options": {"a": "pain", "b": "cough", "c": "fever", "d": "hospital"},
+      "answer": "d"
+    },
+    {
+      "id": "e-hb-b1-051",
+      "type": "blocks",
+      "header": "doctor",
+      "answer": "γιατρός",
+      "blocks": ["ς", "ι", "γ", "ό", "ρ", "τ", "α"]
+    },
+    {
+      "id": "e-hb-b1-052",
+      "type": "select",
+      "header": "το ιατρείο",
+      "options": {"a": "prescription", "b": "medicine", "c": "hospital", "d": "doctor's office / clinic"},
+      "answer": "d"
+    },
+    {
+      "id": "e-hb-b1-053",
+      "type": "blocks",
+      "header": "hospital",
+      "answer": "νοσοκομείο",
+      "blocks": ["μ", "ν", "ο", "κ", "ο", "σ", "ο", "ε", "ί", "ο"]
+    },
+    {
+      "id": "e-hb-b1-054",
+      "type": "writing",
+      "header": "doctor",
+      "answer": "γιατρός"
+    },
+    {
+      "id": "e-hb-b1-055",
+      "type": "blocks",
+      "header": "doctor's office / clinic",
+      "answer": "ιατρείο",
+      "blocks": ["ο", "τ", "ρ", "ι", "ε", "α", "ί"]
+    },
+    {
+      "id": "e-hb-b1-056",
+      "type": "writing",
+      "header": "hospital",
+      "answer": "νοσοκομείο"
+    },
+    {
+      "id": "e-hb-b1-057",
+      "type": "gap",
+      "header": "Πηγαίνω στον ___ κάθε χρόνο.",
+      "answer": "γιατρό"
+    },
+    {
+      "id": "e-hb-b1-058",
+      "type": "writing",
+      "header": "doctor's office / clinic",
+      "answer": "ιατρείο"
+    },
+    {
+      "id": "e-hb-b1-059",
+      "type": "gap",
+      "header": "Το ___ είναι ανοιχτό όλη νύχτα.",
+      "answer": "νοσοκομείο"
+    },
+    {
+      "id": "e-hb-b1-060",
+      "type": "gap",
+      "header": "Περιμένω στο ___.",
+      "answer": "ιατρείο"
+    },
+    {
+      "id": "e-hb-b1-061",
+      "type": "select",
+      "header": "το ραντεβού",
+      "options": {"a": "cold", "b": "hospital", "c": "appointment", "d": "cough"},
+      "answer": "c"
+    },
+    {
+      "id": "e-hb-b1-062",
+      "type": "select",
+      "header": "ο ασθενής / η ασθενής",
+      "options": {"a": "fever", "b": "patient", "c": "pain", "d": "medicine"},
+      "answer": "b"
+    },
+    {
+      "id": "e-hb-b1-063",
+      "type": "blocks",
+      "header": "appointment",
+      "answer": "ραντεβού",
+      "blocks": ["β", "τ", "ρ", "ύ", "ε", "ο", "ν", "α"]
+    },
+    {
+      "id": "e-hb-b1-064",
+      "type": "select",
+      "header": "η συνταγή",
+      "options": {"a": "medicine", "b": "appointment", "c": "pain", "d": "prescription"},
+      "answer": "d"
+    },
+    {
+      "id": "e-hb-b1-065",
+      "type": "blocks",
+      "header": "patient",
+      "answer": "ασθενής",
+      "blocks": ["ς", "θ", "ε", "ί", "ν", "α", "σ", "η"]
+    },
+    {
+      "id": "e-hb-b1-066",
+      "type": "writing",
+      "header": "appointment",
+      "answer": "ραντεβού"
+    },
+    {
+      "id": "e-hb-b1-067",
+      "type": "blocks",
+      "header": "prescription",
+      "answer": "συνταγή",
+      "blocks": ["α", "ν", "γ", "τ", "η", "ύ", "σ"]
+    },
+    {
+      "id": "e-hb-b1-068",
+      "type": "writing",
+      "header": "patient",
+      "answer": "ασθενής"
+    },
+    {
+      "id": "e-hb-b1-069",
+      "type": "gap",
+      "header": "Έχω ___ στις τρεις.",
+      "answer": "ραντεβού"
+    },
+    {
+      "id": "e-hb-b1-070",
+      "type": "writing",
+      "header": "prescription",
+      "answer": "συνταγή"
+    },
+    {
+      "id": "e-hb-b1-071",
+      "type": "gap",
+      "header": "Η ___ νιώθει καλύτερα σήμερα.",
+      "answer": "ασθενής"
+    },
+    {
+      "id": "e-hb-b1-072",
+      "type": "gap",
+      "header": "Πηγαίνω στο φαρμακείο με τη ___.",
+      "answer": "συνταγή"
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "exercises": [
+    {
+      "id": "e-home-b3-031",
+      "type": "select",
+      "header": "το ράφι",
+      "options": {"a": "lamp", "b": "carpet", "c": "shelf", "d": "armchair"},
+      "answer": "c"
+    },
+    {
+      "id": "e-home-b3-032",
+      "type": "select",
+      "header": "η λάμπα",
+      "options": {"a": "mirror", "b": "lamp / light", "c": "curtain", "d": "rug"},
+      "answer": "b"
+    },
+    {
+      "id": "e-home-b3-033",
+      "type": "blocks",
+      "header": "wardrobe / closet",
+      "answer": "ντουλάπα",
+      "blocks": ["π", "ν", "λ", "τ", "α", "ά", "ο", "υ"]
+    },
+    {
+      "id": "e-home-b3-034",
+      "type": "select",
+      "header": "το χαλί",
+      "options": {"a": "shelf", "b": "table", "c": "bedside table", "d": "carpet / rug"},
+      "answer": "d"
+    },
+    {
+      "id": "e-home-b3-035",
+      "type": "blocks",
+      "header": "shelf",
+      "answer": "ράφι",
+      "blocks": ["ρ", "ι", "φ", "ά"]
+    },
+    {
+      "id": "e-home-b3-036",
+      "type": "select",
+      "header": "η πολυθρόνα",
+      "options": {"a": "sofa", "b": "wardrobe", "c": "armchair", "d": "bed"},
+      "answer": "c"
+    },
+    {
+      "id": "e-home-b3-037",
+      "type": "writing",
+      "header": "wardrobe / closet",
+      "answer": "ντουλάπα"
+    },
+    {
+      "id": "e-home-b3-038",
+      "type": "blocks",
+      "header": "lamp / light",
+      "answer": "λάμπα",
+      "blocks": ["μ", "β", "λ", "α", "ά"]
+    },
+    {
+      "id": "e-home-b3-039",
+      "type": "gap",
+      "header": "Η ___ μου είναι γεμάτη ρούχα.",
+      "answer": "ντουλάπα"
+    },
+    {
+      "id": "e-home-b3-040",
+      "type": "writing",
+      "header": "shelf",
+      "answer": "ράφι"
+    },
+    {
+      "id": "e-home-b3-041",
+      "type": "blocks",
+      "header": "carpet / rug",
+      "answer": "χαλί",
+      "blocks": ["ί", "χ", "λ", "α"]
+    },
+    {
+      "id": "e-home-b3-042",
+      "type": "gap",
+      "header": "Τα βιβλία είναι στο ___.",
+      "answer": "ράφι"
+    },
+    {
+      "id": "e-home-b3-043",
+      "type": "writing",
+      "header": "lamp / light",
+      "answer": "λάμπα"
+    },
+    {
+      "id": "e-home-b3-044",
+      "type": "blocks",
+      "header": "armchair",
+      "answer": "πολυθρόνα",
+      "blocks": ["ρ", "ο", "π", "ν", "ό", "υ", "λ", "α", "θ"]
+    },
+    {
+      "id": "e-home-b3-045",
+      "type": "gap",
+      "header": "Άναψε τη ___, δεν βλέπω καλά.",
+      "answer": "λάμπα"
+    },
+    {
+      "id": "e-home-b3-046",
+      "type": "writing",
+      "header": "carpet / rug",
+      "answer": "χαλί"
+    },
+    {
+      "id": "e-home-b3-047",
+      "type": "select",
+      "header": "το κομοδίνο",
+      "options": {"a": "bookcase", "b": "desk", "c": "wall", "d": "bedside table / nightstand"},
+      "answer": "d"
+    },
+    {
+      "id": "e-home-b3-048",
+      "type": "gap",
+      "header": "Το ___ στο σαλόνι είναι μαλακό.",
+      "answer": "χαλί"
+    },
+    {
+      "id": "e-home-b3-049",
+      "type": "blocks",
+      "header": "bedside table / nightstand",
+      "answer": "κομοδίνο",
+      "blocks": ["ν", "μ", "ο", "κ", "δ", "ο", "ί", "ο"]
+    },
+    {
+      "id": "e-home-b3-050",
+      "type": "writing",
+      "header": "armchair",
+      "answer": "πολυθρόνα"
+    },
+    {
+      "id": "e-home-b3-051",
+      "type": "gap",
+      "header": "Διαβάζω στην ___ δίπλα στο παράθυρο.",
+      "answer": "πολυθρόνα"
+    },
+    {
+      "id": "e-home-b3-052",
+      "type": "select",
+      "header": "η βιβλιοθήκη",
+      "options": {"a": "shelf", "b": "wall", "c": "bookcase / bookshelf", "d": "wardrobe"},
+      "answer": "c"
+    },
+    {
+      "id": "e-home-b3-053",
+      "type": "gap",
+      "header": "Βάζω το βιβλίο στο ___ πριν κοιμηθώ.",
+      "answer": "κομοδίνο"
+    },
+    {
+      "id": "e-home-b3-054",
+      "type": "blocks",
+      "header": "bookcase / bookshelf",
+      "answer": "βιβλιοθήκη",
+      "blocks": ["θ", "β", "η", "λ", "ο", "ή", "ι", "κ", "ι", "β"]
+    },
+    {
+      "id": "e-home-b3-055",
+      "type": "writing",
+      "header": "bedside table / nightstand",
+      "answer": "κομοδίνο"
+    },
+    {
+      "id": "e-home-b3-056",
+      "type": "select",
+      "header": "ο τοίχος",
+      "options": {"a": "carpet", "b": "curtain", "c": "bookcase", "d": "wall"},
+      "answer": "d"
+    },
+    {
+      "id": "e-home-b3-057",
+      "type": "gap",
+      "header": "Η ___ μου είναι γεμάτη βιβλία.",
+      "answer": "βιβλιοθήκη"
+    },
+    {
+      "id": "e-home-b3-058",
+      "type": "blocks",
+      "header": "wall",
+      "answer": "τοίχος",
+      "blocks": ["χ", "τ", "ο", "σ", "ί", "ο"]
+    },
+    {
+      "id": "e-home-b3-059",
+      "type": "writing",
+      "header": "bookcase / bookshelf",
+      "answer": "βιβλιοθήκη"
+    },
+    {
+      "id": "e-home-b3-060",
+      "type": "gap",
+      "header": "Κρεμάσαμε ένα πίνακα στον ___.",
+      "answer": "τοίχο"
+    }
+  ]
+}

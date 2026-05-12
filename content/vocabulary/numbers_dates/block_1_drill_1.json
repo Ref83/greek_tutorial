@@ -1,0 +1,160 @@
+{
+  "exercises": [
+    {
+      "id": "e-nd-b1-001",
+      "type": "select",
+      "header": "μηδέν",
+      "options": {"a": "one", "b": "number", "c": "zero", "d": "ten"},
+      "answer": "c"
+    },
+    {
+      "id": "e-nd-b1-002",
+      "type": "select",
+      "header": "ένας / μία / ένα",
+      "options": {"a": "two", "b": "one", "c": "zero", "d": "five"},
+      "answer": "b"
+    },
+    {
+      "id": "e-nd-b1-003",
+      "type": "blocks",
+      "header": "zero",
+      "answer": "μηδέν",
+      "blocks": ["δ", "μ", "ν", "η", "έ"]
+    },
+    {
+      "id": "e-nd-b1-004",
+      "type": "select",
+      "header": "δύο",
+      "options": {"a": "three", "b": "ten", "c": "one", "d": "two"},
+      "answer": "d"
+    },
+    {
+      "id": "e-nd-b1-005",
+      "type": "blocks",
+      "header": "one",
+      "answer": "ένας",
+      "blocks": ["α", "ν", "έ", "σ"]
+    },
+    {
+      "id": "e-nd-b1-006",
+      "type": "writing",
+      "header": "zero",
+      "answer": "μηδέν"
+    },
+    {
+      "id": "e-nd-b1-007",
+      "type": "blocks",
+      "header": "two",
+      "answer": "δύο",
+      "blocks": ["ο", "δ", "ύ"]
+    },
+    {
+      "id": "e-nd-b1-008",
+      "type": "writing",
+      "header": "one",
+      "answer": "ένας"
+    },
+    {
+      "id": "e-nd-b1-009",
+      "type": "gap",
+      "header": "Η θερμοκρασία είναι ___ βαθμούς.",
+      "answer": "μηδέν"
+    },
+    {
+      "id": "e-nd-b1-010",
+      "type": "writing",
+      "header": "two",
+      "answer": "δύο"
+    },
+    {
+      "id": "e-nd-b1-011",
+      "type": "gap",
+      "header": "Έχω ___ αδελφό.",
+      "answer": "ένα"
+    },
+    {
+      "id": "e-nd-b1-012",
+      "type": "gap",
+      "header": "___ καφέδες, παρακαλώ.",
+      "answer": "Δύο"
+    },
+    {
+      "id": "e-nd-b1-013",
+      "type": "select",
+      "header": "τρεις / τρία",
+      "options": {"a": "four", "b": "two", "c": "three", "d": "nine"},
+      "answer": "c"
+    },
+    {
+      "id": "e-nd-b1-014",
+      "type": "select",
+      "header": "τέσσερις / τέσσερα",
+      "options": {"a": "five", "b": "four", "c": "three", "d": "six"},
+      "answer": "b"
+    },
+    {
+      "id": "e-nd-b1-015",
+      "type": "blocks",
+      "header": "three",
+      "answer": "τρεις",
+      "blocks": ["ε", "τ", "ς", "ι", "ρ"]
+    },
+    {
+      "id": "e-nd-b1-016",
+      "type": "select",
+      "header": "πέντε",
+      "options": {"a": "six", "b": "three", "c": "seven", "d": "five"},
+      "answer": "d"
+    },
+    {
+      "id": "e-nd-b1-017",
+      "type": "blocks",
+      "header": "four",
+      "answer": "τέσσερις",
+      "blocks": ["σ", "τ", "ε", "ρ", "ε", "ί", "σ"]
+    },
+    {
+      "id": "e-nd-b1-018",
+      "type": "writing",
+      "header": "three",
+      "answer": "τρεις"
+    },
+    {
+      "id": "e-nd-b1-019",
+      "type": "blocks",
+      "header": "five",
+      "answer": "πέντε",
+      "blocks": ["ν", "π", "τ", "έ", "ε"]
+    },
+    {
+      "id": "e-nd-b1-020",
+      "type": "writing",
+      "header": "four",
+      "answer": "τέσσερις"
+    },
+    {
+      "id": "e-nd-b1-021",
+      "type": "gap",
+      "header": "Έχω ___ γάτες.",
+      "answer": "τρεις"
+    },
+    {
+      "id": "e-nd-b1-022",
+      "type": "writing",
+      "header": "five",
+      "answer": "πέντε"
+    },
+    {
+      "id": "e-nd-b1-023",
+      "type": "gap",
+      "header": "Ένα τετράγωνο έχει ___ πλευρές.",
+      "answer": "τέσσερις"
+    },
+    {
+      "id": "e-nd-b1-024",
+      "type": "gap",
+      "header": "Το χέρι έχει ___ δάχτυλα.",
+      "answer": "πέντε"
+    }
+  ]
+}

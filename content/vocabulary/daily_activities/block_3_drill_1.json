@@ -1,0 +1,163 @@
+{
+  "exercises": [
+    {
+      "id": "e-da-b3-001",
+      "type": "select",
+      "header": "ελεύθερος χρόνος",
+      "options": {"a": "to enjoy", "b": "free time / leisure time", "c": "to go out", "d": "to rest"},
+      "answer": "b"
+    },
+    {
+      "id": "e-da-b3-002",
+      "type": "select",
+      "header": "ασχολούμαι με",
+      "options": {"a": "to be into / deal with", "b": "to listen to music", "c": "to exercise", "d": "to play"},
+      "answer": "a"
+    },
+    {
+      "id": "e-da-b3-003",
+      "type": "blocks",
+      "header": "free time / leisure time",
+      "answer": "ελεύθερος",
+      "blocks": ["ε", "ς", "ρ", "λ", "θ", "ο", "ύ", "ε"]
+    },
+    {
+      "id": "e-da-b3-004",
+      "type": "select",
+      "header": "διαβάζω",
+      "options": {"a": "to have a good time", "b": "to watch a movie", "c": "to read (for pleasure)", "d": "to exercise"},
+      "answer": "c"
+    },
+    {
+      "id": "e-da-b3-005",
+      "type": "blocks",
+      "header": "to be into / deal with",
+      "answer": "ασχολούμαι",
+      "blocks": ["μ", "α", "ο", "χ", "ύ", "σ", "λ", "α", "ι"]
+    },
+    {
+      "id": "e-da-b3-006",
+      "type": "writing",
+      "header": "free time / leisure time",
+      "answer": "ελεύθερος χρόνος"
+    },
+    {
+      "id": "e-da-b3-007",
+      "type": "select",
+      "header": "ακούω μουσική",
+      "options": {"a": "to go for a walk", "b": "to rest", "c": "to enjoy", "d": "to listen to music"},
+      "answer": "d"
+    },
+    {
+      "id": "e-da-b3-008",
+      "type": "blocks",
+      "header": "to read (for pleasure)",
+      "answer": "διαβάζω",
+      "blocks": ["β", "δ", "ω", "ά", "ζ", "ι", "α"]
+    },
+    {
+      "id": "e-da-b3-009",
+      "type": "writing",
+      "header": "to be into / deal with",
+      "answer": "ασχολούμαι με"
+    },
+    {
+      "id": "e-da-b3-010",
+      "type": "select",
+      "header": "βλέπω ταινία / σειρά",
+      "options": {"a": "to go out", "b": "to watch a movie / series", "c": "to play", "d": "to have a good time"},
+      "answer": "b"
+    },
+    {
+      "id": "e-da-b3-011",
+      "type": "blocks",
+      "header": "to listen to music",
+      "answer": "ακούω",
+      "blocks": ["ύ", "κ", "ο", "ω", "α"]
+    },
+    {
+      "id": "e-da-b3-012",
+      "type": "writing",
+      "header": "to read (for pleasure)",
+      "answer": "διαβάζω (για ευχαρίστηση)"
+    },
+    {
+      "id": "e-da-b3-013",
+      "type": "gap",
+      "header": "Στον ___ χρόνο μου διαβάζω βιβλία.",
+      "answer": "ελεύθερο"
+    },
+    {
+      "id": "e-da-b3-014",
+      "type": "select",
+      "header": "παίζω",
+      "options": {"a": "to rest", "b": "to go for a walk", "c": "to exercise", "d": "to play"},
+      "answer": "d"
+    },
+    {
+      "id": "e-da-b3-015",
+      "type": "blocks",
+      "header": "to watch a movie / series",
+      "answer": "βλέπω",
+      "blocks": ["ε", "β", "ω", "π", "λ"]
+    },
+    {
+      "id": "e-da-b3-016",
+      "type": "writing",
+      "header": "to listen to music",
+      "answer": "ακούω μουσική"
+    },
+    {
+      "id": "e-da-b3-017",
+      "type": "gap",
+      "header": "___ με τη φωτογραφία εδώ και χρόνια.",
+      "answer": "Ασχολούμαι"
+    },
+    {
+      "id": "e-da-b3-018",
+      "type": "select",
+      "header": "κάνω βόλτα",
+      "options": {"a": "to listen to music", "b": "to go for a walk / stroll", "c": "to enjoy", "d": "to read"},
+      "answer": "b"
+    },
+    {
+      "id": "e-da-b3-019",
+      "type": "blocks",
+      "header": "to play",
+      "answer": "παίζω",
+      "blocks": ["ω", "ί", "π", "ζ", "α"]
+    },
+    {
+      "id": "e-da-b3-020",
+      "type": "writing",
+      "header": "to watch a movie / series",
+      "answer": "βλέπω ταινία / σειρά"
+    },
+    {
+      "id": "e-da-b3-021",
+      "type": "gap",
+      "header": "___ ένα βιβλίο στον καναπέ κάθε βράδυ.",
+      "answer": "Διαβάζω"
+    },
+    {
+      "id": "e-da-b3-022",
+      "type": "select",
+      "header": "γυμνάζομαι",
+      "options": {"a": "to have a good time", "b": "to go out", "c": "to exercise / work out", "d": "to rest"},
+      "answer": "c"
+    },
+    {
+      "id": "e-da-b3-023",
+      "type": "blocks",
+      "header": "to go for a walk / stroll",
+      "answer": "βόλτα",
+      "blocks": ["τ", "β", "λ", "ά", "ο"]
+    },
+    {
+      "id": "e-da-b3-024",
+      "type": "writing",
+      "header": "to play",
+      "answer": "παίζω"
+    }
+  ]
+}

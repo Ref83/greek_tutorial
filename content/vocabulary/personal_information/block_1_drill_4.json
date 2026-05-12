@@ -1,0 +1,160 @@
+{
+  "exercises": [
+    {
+      "id": "e-pi-b1-073",
+      "type": "gap",
+      "header": "Από ποια ___ είσαι;",
+      "answer": "χώρα"
+    },
+    {
+      "id": "e-pi-b1-074",
+      "type": "select",
+      "header": "παντρεμένος / παντρεμένη",
+      "options": {"a": "name", "b": "married", "c": "age", "d": "single"},
+      "answer": "b"
+    },
+    {
+      "id": "e-pi-b1-075",
+      "type": "blocks",
+      "header": "telephone",
+      "answer": "τηλέφωνο",
+      "blocks": ["φ", "ω", "τ", "ν", "λ", "ο", "έ", "η"]
+    },
+    {
+      "id": "e-pi-b1-076",
+      "type": "writing",
+      "header": "address",
+      "answer": "διεύθυνση"
+    },
+    {
+      "id": "e-pi-b1-077",
+      "type": "gap",
+      "header": "Σε ποια ___ ζεις;",
+      "answer": "πόλη"
+    },
+    {
+      "id": "e-pi-b1-078",
+      "type": "select",
+      "header": "ελεύθερος / ελεύθερη",
+      "options": {"a": "to be born", "b": "married", "c": "email", "d": "single"},
+      "answer": "d"
+    },
+    {
+      "id": "e-pi-b1-079",
+      "type": "blocks",
+      "header": "email",
+      "answer": "email",
+      "blocks": ["l", "e", "i", "m", "a"]
+    },
+    {
+      "id": "e-pi-b1-080",
+      "type": "writing",
+      "header": "telephone",
+      "answer": "τηλέφωνο"
+    },
+    {
+      "id": "e-pi-b1-081",
+      "type": "gap",
+      "header": "Ποια είναι η ___ σου;",
+      "answer": "διεύθυνσή"
+    },
+    {
+      "id": "e-pi-b1-082",
+      "type": "select",
+      "header": "γεννιέμαι",
+      "options": {"a": "single", "b": "telephone", "c": "to be born", "d": "married"},
+      "answer": "c"
+    },
+    {
+      "id": "e-pi-b1-083",
+      "type": "blocks",
+      "header": "married",
+      "answer": "παντρεμένος",
+      "blocks": ["ε", "ρ", "π", "α", "ν", "τ", "μ", "έ", "ο", "ς"]
+    },
+    {
+      "id": "e-pi-b1-084",
+      "type": "writing",
+      "header": "email",
+      "answer": "email"
+    },
+    {
+      "id": "e-pi-b1-085",
+      "type": "gap",
+      "header": "Μπορείς να μου δώσεις το ___ σου;",
+      "answer": "τηλέφωνό"
+    },
+    {
+      "id": "e-pi-b1-086",
+      "type": "select",
+      "header": "το όνομα",
+      "options": {"a": "nationality", "b": "address", "c": "surname", "d": "name"},
+      "answer": "d"
+    },
+    {
+      "id": "e-pi-b1-087",
+      "type": "blocks",
+      "header": "single",
+      "answer": "ελεύθερος",
+      "blocks": ["θ", "ε", "λ", "ε", "ύ", "ο", "ρ", "ς"]
+    },
+    {
+      "id": "e-pi-b1-088",
+      "type": "writing",
+      "header": "married",
+      "answer": "παντρεμένος"
+    },
+    {
+      "id": "e-pi-b1-089",
+      "type": "gap",
+      "header": "Ποιο είναι το ___ σου;",
+      "answer": "email"
+    },
+    {
+      "id": "e-pi-b1-090",
+      "type": "select",
+      "header": "η εθνικότητα",
+      "options": {"a": "age", "b": "nationality", "c": "name", "d": "country"},
+      "answer": "b"
+    },
+    {
+      "id": "e-pi-b1-091",
+      "type": "blocks",
+      "header": "to be born",
+      "answer": "γεννιέμαι",
+      "blocks": ["έ", "ι", "γ", "μ", "ν", "α", "ε", "ι"]
+    },
+    {
+      "id": "e-pi-b1-092",
+      "type": "writing",
+      "header": "single",
+      "answer": "ελεύθερος"
+    },
+    {
+      "id": "e-pi-b1-093",
+      "type": "gap",
+      "header": "Είσαι ___;",
+      "answer": "παντρεμένος"
+    },
+    {
+      "id": "e-pi-b1-094",
+      "type": "select",
+      "header": "η πόλη",
+      "options": {"a": "address", "b": "email", "c": "city", "d": "surname"},
+      "answer": "c"
+    },
+    {
+      "id": "e-pi-b1-095",
+      "type": "blocks",
+      "header": "name",
+      "answer": "όνομα",
+      "blocks": ["ο", "ό", "α", "μ", "ν"]
+    },
+    {
+      "id": "e-pi-b1-096",
+      "type": "writing",
+      "header": "to be born",
+      "answer": "γεννιέμαι"
+    }
+  ]
+}

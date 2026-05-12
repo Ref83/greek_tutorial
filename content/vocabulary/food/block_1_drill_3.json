@@ -1,0 +1,160 @@
+{
+  "exercises": [
+    {
+      "id": "e-f-b1-049",
+      "type": "select",
+      "header": "το αλεύρι",
+      "options": {"a": "honey", "b": "oil", "c": "baking soda", "d": "flour"},
+      "answer": "d"
+    },
+    {
+      "id": "e-f-b1-050",
+      "type": "select",
+      "header": "η ζάχαρη",
+      "options": {"a": "vanilla", "b": "sugar", "c": "salt", "d": "butter"},
+      "answer": "b"
+    },
+    {
+      "id": "e-f-b1-051",
+      "type": "blocks",
+      "header": "flour",
+      "answer": "αλεύρι",
+      "blocks": ["ε", "ι", "α", "ύ", "ρ", "λ"]
+    },
+    {
+      "id": "e-f-b1-052",
+      "type": "select",
+      "header": "το αλάτι",
+      "options": {"a": "cinnamon", "b": "flour", "c": "salt", "d": "egg"},
+      "answer": "c"
+    },
+    {
+      "id": "e-f-b1-053",
+      "type": "blocks",
+      "header": "sugar",
+      "answer": "ζάχαρη",
+      "blocks": ["ρ", "ά", "η", "α", "ζ", "χ"]
+    },
+    {
+      "id": "e-f-b1-054",
+      "type": "writing",
+      "header": "flour",
+      "answer": "αλεύρι"
+    },
+    {
+      "id": "e-f-b1-055",
+      "type": "blocks",
+      "header": "salt",
+      "answer": "αλάτι",
+      "blocks": ["ι", "τ", "λ", "ά", "α"]
+    },
+    {
+      "id": "e-f-b1-056",
+      "type": "writing",
+      "header": "sugar",
+      "answer": "ζάχαρη"
+    },
+    {
+      "id": "e-f-b1-057",
+      "type": "gap",
+      "header": "Ανακατεύω το ___ με τη ζάχαρη.",
+      "answer": "αλεύρι"
+    },
+    {
+      "id": "e-f-b1-058",
+      "type": "writing",
+      "header": "salt",
+      "answer": "αλάτι"
+    },
+    {
+      "id": "e-f-b1-059",
+      "type": "gap",
+      "header": "Η συνταγή χρειάζεται μισό φλιτζάνι ___.",
+      "answer": "ζάχαρη"
+    },
+    {
+      "id": "e-f-b1-060",
+      "type": "gap",
+      "header": "Το φαγητό δεν έχει αρκετό ___.",
+      "answer": "αλάτι"
+    },
+    {
+      "id": "e-f-b1-061",
+      "type": "select",
+      "header": "το λάδι",
+      "options": {"a": "oil", "b": "flour", "c": "vanilla", "d": "egg"},
+      "answer": "a"
+    },
+    {
+      "id": "e-f-b1-062",
+      "type": "select",
+      "header": "το γάλα",
+      "options": {"a": "butter", "b": "salt", "c": "milk", "d": "cinnamon"},
+      "answer": "c"
+    },
+    {
+      "id": "e-f-b1-063",
+      "type": "blocks",
+      "header": "oil",
+      "answer": "λάδι",
+      "blocks": ["ι", "δ", "ά", "λ"]
+    },
+    {
+      "id": "e-f-b1-064",
+      "type": "select",
+      "header": "το αυγό",
+      "options": {"a": "honey", "b": "butter", "c": "oil", "d": "egg"},
+      "answer": "d"
+    },
+    {
+      "id": "e-f-b1-065",
+      "type": "blocks",
+      "header": "milk",
+      "answer": "γάλα",
+      "blocks": ["λ", "γ", "ά", "α"]
+    },
+    {
+      "id": "e-f-b1-066",
+      "type": "writing",
+      "header": "oil",
+      "answer": "λάδι"
+    },
+    {
+      "id": "e-f-b1-067",
+      "type": "blocks",
+      "header": "egg",
+      "answer": "αυγό",
+      "blocks": ["ό", "υ", "α", "γ"]
+    },
+    {
+      "id": "e-f-b1-068",
+      "type": "writing",
+      "header": "milk",
+      "answer": "γάλα"
+    },
+    {
+      "id": "e-f-b1-069",
+      "type": "gap",
+      "header": "Χρησιμοποιούμε ελαιόλαδο στη σαλάτα.",
+      "answer": "ελαιόλαδο"
+    },
+    {
+      "id": "e-f-b1-070",
+      "type": "writing",
+      "header": "egg",
+      "answer": "αυγό"
+    },
+    {
+      "id": "e-f-b1-071",
+      "type": "gap",
+      "header": "Η συνταγή χρειάζεται ___ και αυγά.",
+      "answer": "γάλα"
+    },
+    {
+      "id": "e-f-b1-072",
+      "type": "gap",
+      "header": "Η συνταγή χρειάζεται δύο ___.",
+      "answer": "αυγά"
+    }
+  ]
+}

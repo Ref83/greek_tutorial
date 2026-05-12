@@ -1,0 +1,160 @@
+{
+  "exercises": [
+    {
+      "id": "e-pi-b1-049",
+      "type": "gap",
+      "header": "Είμαι ___ με έναν υπέροχο άνδρα.",
+      "answer": "παντρεμένη"
+    },
+    {
+      "id": "e-pi-b1-050",
+      "type": "select",
+      "header": "η εθνικότητα",
+      "options": {"a": "city", "b": "age", "c": "address", "d": "nationality"},
+      "answer": "d"
+    },
+    {
+      "id": "e-pi-b1-051",
+      "type": "blocks",
+      "header": "surname",
+      "answer": "επίθετο",
+      "blocks": ["τ", "ε", "π", "θ", "ε", "ί", "ο"]
+    },
+    {
+      "id": "e-pi-b1-052",
+      "type": "writing",
+      "header": "name",
+      "answer": "όνομα"
+    },
+    {
+      "id": "e-pi-b1-053",
+      "type": "gap",
+      "header": "Ο αδελφός μου είναι ___.",
+      "answer": "ελεύθερος"
+    },
+    {
+      "id": "e-pi-b1-054",
+      "type": "select",
+      "header": "η χώρα",
+      "options": {"a": "telephone", "b": "country", "c": "email", "d": "name"},
+      "answer": "b"
+    },
+    {
+      "id": "e-pi-b1-055",
+      "type": "blocks",
+      "header": "age",
+      "answer": "ηλικία",
+      "blocks": ["κ", "η", "α", "ι", "λ", "ί"]
+    },
+    {
+      "id": "e-pi-b1-056",
+      "type": "writing",
+      "header": "surname",
+      "answer": "επίθετο"
+    },
+    {
+      "id": "e-pi-b1-057",
+      "type": "gap",
+      "header": "___ στην Αθήνα.",
+      "answer": "Γεννήθηκα"
+    },
+    {
+      "id": "e-pi-b1-058",
+      "type": "select",
+      "header": "η πόλη",
+      "options": {"a": "surname", "b": "name", "c": "city", "d": "email"},
+      "answer": "c"
+    },
+    {
+      "id": "e-pi-b1-059",
+      "type": "blocks",
+      "header": "nationality",
+      "answer": "εθνικότητα",
+      "blocks": ["τ", "η", "ν", "ε", "κ", "ό", "ι", "τ", "α", "η"]
+    },
+    {
+      "id": "e-pi-b1-060",
+      "type": "writing",
+      "header": "age",
+      "answer": "ηλικία"
+    },
+    {
+      "id": "e-pi-b1-061",
+      "type": "gap",
+      "header": "Πώς σε ___;",
+      "answer": "λένε"
+    },
+    {
+      "id": "e-pi-b1-062",
+      "type": "select",
+      "header": "η διεύθυνση",
+      "options": {"a": "telephone", "b": "married", "c": "address", "d": "single"},
+      "answer": "c"
+    },
+    {
+      "id": "e-pi-b1-063",
+      "type": "blocks",
+      "header": "country",
+      "answer": "χώρα",
+      "blocks": ["α", "ώ", "χ", "ρ"]
+    },
+    {
+      "id": "e-pi-b1-064",
+      "type": "writing",
+      "header": "nationality",
+      "answer": "εθνικότητα"
+    },
+    {
+      "id": "e-pi-b1-065",
+      "type": "gap",
+      "header": "Ποιο είναι το ___ σου;",
+      "answer": "επίθετό"
+    },
+    {
+      "id": "e-pi-b1-066",
+      "type": "select",
+      "header": "το τηλέφωνο",
+      "options": {"a": "email", "b": "telephone", "c": "address", "d": "to be born"},
+      "answer": "b"
+    },
+    {
+      "id": "e-pi-b1-067",
+      "type": "blocks",
+      "header": "city",
+      "answer": "πόλη",
+      "blocks": ["η", "ό", "λ", "π"]
+    },
+    {
+      "id": "e-pi-b1-068",
+      "type": "writing",
+      "header": "country",
+      "answer": "χώρα"
+    },
+    {
+      "id": "e-pi-b1-069",
+      "type": "gap",
+      "header": "Ποια είναι η ___ σου;",
+      "answer": "εθνικότητά"
+    },
+    {
+      "id": "e-pi-b1-070",
+      "type": "select",
+      "header": "το email",
+      "options": {"a": "telephone", "b": "address", "c": "to be born", "d": "email"},
+      "answer": "d"
+    },
+    {
+      "id": "e-pi-b1-071",
+      "type": "blocks",
+      "header": "address",
+      "answer": "διεύθυνση",
+      "blocks": ["ύ", "θ", "ι", "δ", "ν", "ε", "σ", "υ", "η"]
+    },
+    {
+      "id": "e-pi-b1-072",
+      "type": "writing",
+      "header": "city",
+      "answer": "πόλη"
+    }
+  ]
+}

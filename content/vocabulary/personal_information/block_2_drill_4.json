@@ -1,0 +1,160 @@
+{
+  "exercises": [
+    {
+      "id": "e-pi-b2-073",
+      "type": "gap",
+      "header": "Ο ___ μου δουλεύει πολύ.",
+      "answer": "πατέρας"
+    },
+    {
+      "id": "e-pi-b2-074",
+      "type": "select",
+      "header": "η μητέρα",
+      "options": {"a": "to live", "b": "mother", "c": "language", "d": "sister"},
+      "answer": "b"
+    },
+    {
+      "id": "e-pi-b2-075",
+      "type": "blocks",
+      "header": "father",
+      "answer": "πατέρας",
+      "blocks": ["α", "τ", "π", "ρ", "έ", "ς", "α"]
+    },
+    {
+      "id": "e-pi-b2-076",
+      "type": "writing",
+      "header": "parents",
+      "answer": "γονείς"
+    },
+    {
+      "id": "e-pi-b2-077",
+      "type": "gap",
+      "header": "Το παιδί μου πηγαίνει στο ___.",
+      "answer": "σχολείο"
+    },
+    {
+      "id": "e-pi-b2-078",
+      "type": "select",
+      "header": "κατάγομαι",
+      "options": {"a": "to live", "b": "parents", "c": "language", "d": "to come from"},
+      "answer": "d"
+    },
+    {
+      "id": "e-pi-b2-079",
+      "type": "blocks",
+      "header": "mother",
+      "answer": "μητέρα",
+      "blocks": ["έ", "η", "τ", "μ", "α", "ρ"]
+    },
+    {
+      "id": "e-pi-b2-080",
+      "type": "writing",
+      "header": "father",
+      "answer": "πατέρας"
+    },
+    {
+      "id": "e-pi-b2-081",
+      "type": "gap",
+      "header": "Οι ___ μου είναι ηλικιωμένοι.",
+      "answer": "γονείς"
+    },
+    {
+      "id": "e-pi-b2-082",
+      "type": "select",
+      "header": "μένω",
+      "options": {"a": "sister", "b": "to live", "c": "family", "d": "to come from"},
+      "answer": "b"
+    },
+    {
+      "id": "e-pi-b2-083",
+      "type": "blocks",
+      "header": "to come from",
+      "answer": "κατάγομαι",
+      "blocks": ["ο", "τ", "κ", "μ", "α", "γ", "ά", "ι", "α"]
+    },
+    {
+      "id": "e-pi-b2-084",
+      "type": "writing",
+      "header": "mother",
+      "answer": "μητέρα"
+    },
+    {
+      "id": "e-pi-b2-085",
+      "type": "gap",
+      "header": "Από πού ___;",
+      "answer": "κατάγεσαι"
+    },
+    {
+      "id": "e-pi-b2-086",
+      "type": "select",
+      "header": "η γλώσσα",
+      "options": {"a": "to come from", "b": "father", "c": "language", "d": "family"},
+      "answer": "c"
+    },
+    {
+      "id": "e-pi-b2-087",
+      "type": "blocks",
+      "header": "to live",
+      "answer": "μένω",
+      "blocks": ["ω", "ν", "έ", "μ"]
+    },
+    {
+      "id": "e-pi-b2-088",
+      "type": "writing",
+      "header": "to come from",
+      "answer": "κατάγομαι"
+    },
+    {
+      "id": "e-pi-b2-089",
+      "type": "gap",
+      "header": "Πού ___;",
+      "answer": "μένεις"
+    },
+    {
+      "id": "e-pi-b2-090",
+      "type": "select",
+      "header": "η οικογένεια",
+      "options": {"a": "husband", "b": "to live", "c": "language", "d": "family"},
+      "answer": "d"
+    },
+    {
+      "id": "e-pi-b2-091",
+      "type": "blocks",
+      "header": "language",
+      "answer": "γλώσσα",
+      "blocks": ["σ", "ώ", "γ", "α", "λ", "σ"]
+    },
+    {
+      "id": "e-pi-b2-092",
+      "type": "writing",
+      "header": "to live",
+      "answer": "μένω"
+    },
+    {
+      "id": "e-pi-b2-093",
+      "type": "gap",
+      "header": "Ποιες ___ μιλάς;",
+      "answer": "γλώσσες"
+    },
+    {
+      "id": "e-pi-b2-094",
+      "type": "select",
+      "header": "ο αδελφός",
+      "options": {"a": "language", "b": "father", "c": "brother", "d": "to come from"},
+      "answer": "c"
+    },
+    {
+      "id": "e-pi-b2-095",
+      "type": "blocks",
+      "header": "family",
+      "answer": "οικογένεια",
+      "blocks": ["ν", "κ", "ο", "γ", "ε", "ο", "ε", "α", "ι", "ί"]
+    },
+    {
+      "id": "e-pi-b2-096",
+      "type": "writing",
+      "header": "language",
+      "answer": "γλώσσα"
+    }
+  ]
+}

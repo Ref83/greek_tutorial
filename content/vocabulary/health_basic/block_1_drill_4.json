@@ -1,0 +1,160 @@
+{
+  "exercises": [
+    {
+      "id": "e-hb-b1-073",
+      "type": "select",
+      "header": "το φάρμακο",
+      "options": {"a": "cold", "b": "prescription", "c": "fever", "d": "medicine / medication"},
+      "answer": "d"
+    },
+    {
+      "id": "e-hb-b1-074",
+      "type": "select",
+      "header": "ο πόνος",
+      "options": {"a": "cough", "b": "pain", "c": "appointment", "d": "hospital"},
+      "answer": "b"
+    },
+    {
+      "id": "e-hb-b1-075",
+      "type": "blocks",
+      "header": "medicine / medication",
+      "answer": "φάρμακο",
+      "blocks": ["α", "ο", "ρ", "φ", "κ", "μ", "ά"]
+    },
+    {
+      "id": "e-hb-b1-076",
+      "type": "select",
+      "header": "πονάω",
+      "options": {"a": "to hurt / to be in pain", "b": "to prescribe", "c": "to cough", "d": "doctor"},
+      "answer": "a"
+    },
+    {
+      "id": "e-hb-b1-077",
+      "type": "blocks",
+      "header": "pain",
+      "answer": "πόνος",
+      "blocks": ["ς", "ο", "ν", "ό", "π"]
+    },
+    {
+      "id": "e-hb-b1-078",
+      "type": "writing",
+      "header": "medicine / medication",
+      "answer": "φάρμακο"
+    },
+    {
+      "id": "e-hb-b1-079",
+      "type": "blocks",
+      "header": "to hurt / to be in pain",
+      "answer": "πονάω",
+      "blocks": ["ά", "ν", "π", "ο", "ω"]
+    },
+    {
+      "id": "e-hb-b1-080",
+      "type": "writing",
+      "header": "pain",
+      "answer": "πόνος"
+    },
+    {
+      "id": "e-hb-b1-081",
+      "type": "gap",
+      "header": "Αυτό το ___ με βοηθάει.",
+      "answer": "φάρμακο"
+    },
+    {
+      "id": "e-hb-b1-082",
+      "type": "writing",
+      "header": "to hurt / to be in pain",
+      "answer": "πονάω"
+    },
+    {
+      "id": "e-hb-b1-083",
+      "type": "gap",
+      "header": "Ο ___ δεν με αφήνει να κοιμηθώ.",
+      "answer": "πόνος"
+    },
+    {
+      "id": "e-hb-b1-084",
+      "type": "gap",
+      "header": "___ κάπου;",
+      "answer": "Πονάς"
+    },
+    {
+      "id": "e-hb-b1-085",
+      "type": "select",
+      "header": "ο πυρετός",
+      "options": {"a": "pain", "b": "cold", "c": "fever", "d": "cough"},
+      "answer": "c"
+    },
+    {
+      "id": "e-hb-b1-086",
+      "type": "select",
+      "header": "ο βήχας",
+      "options": {"a": "prescription", "b": "fever", "c": "medicine", "d": "cough"},
+      "answer": "d"
+    },
+    {
+      "id": "e-hb-b1-087",
+      "type": "blocks",
+      "header": "fever",
+      "answer": "πυρετός",
+      "blocks": ["ε", "υ", "π", "ό", "ς", "ρ", "τ"]
+    },
+    {
+      "id": "e-hb-b1-088",
+      "type": "select",
+      "header": "το κρυολόγημα",
+      "options": {"a": "appointment", "b": "patient", "c": "cold (illness)", "d": "pain"},
+      "answer": "c"
+    },
+    {
+      "id": "e-hb-b1-089",
+      "type": "blocks",
+      "header": "cough",
+      "answer": "βήχας",
+      "blocks": ["χ", "η", "α", "β", "ς"]
+    },
+    {
+      "id": "e-hb-b1-090",
+      "type": "writing",
+      "header": "fever",
+      "answer": "πυρετός"
+    },
+    {
+      "id": "e-hb-b1-091",
+      "type": "blocks",
+      "header": "cold (illness)",
+      "answer": "κρυολόγημα",
+      "blocks": ["ο", "λ", "κ", "μ", "ύ", "ο", "γ", "η", "ρ", "α"]
+    },
+    {
+      "id": "e-hb-b1-092",
+      "type": "writing",
+      "header": "cough",
+      "answer": "βήχας"
+    },
+    {
+      "id": "e-hb-b1-093",
+      "type": "gap",
+      "header": "Ο ___ έπεσε χθες το βράδυ.",
+      "answer": "πυρετός"
+    },
+    {
+      "id": "e-hb-b1-094",
+      "type": "writing",
+      "header": "cold (illness)",
+      "answer": "κρυολόγημα"
+    },
+    {
+      "id": "e-hb-b1-095",
+      "type": "gap",
+      "header": "Ο ___ με ξυπνάει τη νύχτα.",
+      "answer": "βήχας"
+    },
+    {
+      "id": "e-hb-b1-096",
+      "type": "gap",
+      "header": "Το ___ περνάει σε μια εβδομάδα.",
+      "answer": "κρυολόγημα"
+    }
+  ]
+}

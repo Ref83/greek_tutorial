@@ -1,0 +1,160 @@
+{
+  "exercises": [
+    {
+      "id": "e-hb-b2-001",
+      "type": "select",
+      "header": "αισθάνομαι",
+      "options": {"a": "to feel dizzy", "b": "to feel", "c": "to be sick", "d": "to worry"},
+      "answer": "b"
+    },
+    {
+      "id": "e-hb-b2-002",
+      "type": "select",
+      "header": "άρρωστος / άρρωστη",
+      "options": {"a": "tired / exhausted", "b": "sick / ill", "c": "dizzy", "d": "nausea"},
+      "answer": "b"
+    },
+    {
+      "id": "e-hb-b2-003",
+      "type": "blocks",
+      "header": "to feel",
+      "answer": "αισθάνομαι",
+      "blocks": ["ο", "α", "ν", "θ", "σ", "μ", "ι", "α", "ε", "ά"]
+    },
+    {
+      "id": "e-hb-b2-004",
+      "type": "select",
+      "header": "κουρασμένος / κουρασμένη",
+      "options": {"a": "sick", "b": "flu", "c": "tired / exhausted", "d": "headache"},
+      "answer": "c"
+    },
+    {
+      "id": "e-hb-b2-005",
+      "type": "blocks",
+      "header": "sick / ill",
+      "answer": "άρρωστος",
+      "blocks": ["σ", "ά", "ο", "ω", "τ", "ρ", "ρ", "ο"]
+    },
+    {
+      "id": "e-hb-b2-006",
+      "type": "writing",
+      "header": "to feel",
+      "answer": "αισθάνομαι"
+    },
+    {
+      "id": "e-hb-b2-007",
+      "type": "blocks",
+      "header": "tired / exhausted",
+      "answer": "κουρασμένος",
+      "blocks": ["ε", "κ", "σ", "ρ", "ν", "ο", "μ", "α", "ο", "ς", "υ"]
+    },
+    {
+      "id": "e-hb-b2-008",
+      "type": "writing",
+      "header": "sick / ill",
+      "answer": "άρρωστος"
+    },
+    {
+      "id": "e-hb-b2-009",
+      "type": "gap",
+      "header": "Αισθάνομαι πολύ άσχημα σήμερα.",
+      "answer": "Αισθάνομαι"
+    },
+    {
+      "id": "e-hb-b2-010",
+      "type": "writing",
+      "header": "tired / exhausted",
+      "answer": "κουρασμένος"
+    },
+    {
+      "id": "e-hb-b2-011",
+      "type": "gap",
+      "header": "Είμαι ___ και δεν πηγαίνω στη δουλειά.",
+      "answer": "άρρωστος"
+    },
+    {
+      "id": "e-hb-b2-012",
+      "type": "gap",
+      "header": "Είμαι πολύ ___ και θέλω να ξεκουραστώ.",
+      "answer": "κουρασμένη"
+    },
+    {
+      "id": "e-hb-b2-013",
+      "type": "select",
+      "header": "ο πονοκέφαλος",
+      "options": {"a": "sore throat", "b": "headache", "c": "nausea", "d": "flu"},
+      "answer": "b"
+    },
+    {
+      "id": "e-hb-b2-014",
+      "type": "select",
+      "header": "ο πονόλαιμος",
+      "options": {"a": "headache", "b": "nausea", "c": "sore throat", "d": "injection"},
+      "answer": "c"
+    },
+    {
+      "id": "e-hb-b2-015",
+      "type": "blocks",
+      "header": "headache",
+      "answer": "πονοκέφαλος",
+      "blocks": ["α", "π", "λ", "ο", "φ", "ν", "κ", "ο", "ο", "ε", "ς"]
+    },
+    {
+      "id": "e-hb-b2-016",
+      "type": "select",
+      "header": "ζαλίζομαι",
+      "options": {"a": "to feel nausea", "b": "to feel sick", "c": "to worry", "d": "to feel dizzy"},
+      "answer": "d"
+    },
+    {
+      "id": "e-hb-b2-017",
+      "type": "blocks",
+      "header": "sore throat",
+      "answer": "πονόλαιμος",
+      "blocks": ["ι", "π", "ο", "λ", "μ", "ό", "α", "ς", "ν", "ο"]
+    },
+    {
+      "id": "e-hb-b2-018",
+      "type": "writing",
+      "header": "headache",
+      "answer": "πονοκέφαλος"
+    },
+    {
+      "id": "e-hb-b2-019",
+      "type": "blocks",
+      "header": "to feel dizzy",
+      "answer": "ζαλίζομαι",
+      "blocks": ["μ", "ζ", "ι", "ο", "λ", "α", "ί", "α", "ζ"]
+    },
+    {
+      "id": "e-hb-b2-020",
+      "type": "writing",
+      "header": "sore throat",
+      "answer": "πονόλαιμος"
+    },
+    {
+      "id": "e-hb-b2-021",
+      "type": "gap",
+      "header": "Έχω φοβερό ___.",
+      "answer": "πονοκέφαλο"
+    },
+    {
+      "id": "e-hb-b2-022",
+      "type": "writing",
+      "header": "to feel dizzy",
+      "answer": "ζαλίζομαι"
+    },
+    {
+      "id": "e-hb-b2-023",
+      "type": "gap",
+      "header": "Έχω ___ και δυσκολεύομαι να καταπιώ.",
+      "answer": "πονόλαιμο"
+    },
+    {
+      "id": "e-hb-b2-024",
+      "type": "gap",
+      "header": "___ όταν σηκώνομαι γρήγορα.",
+      "answer": "Ζαλίζομαι"
+    }
+  ]
+}

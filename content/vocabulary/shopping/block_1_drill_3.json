@@ -1,0 +1,160 @@
+{
+  "exercises": [
+    {
+      "id": "e-sh-b1-049",
+      "type": "writing",
+      "header": "bakery / oven",
+      "answer": "φούρνος"
+    },
+    {
+      "id": "e-sh-b1-050",
+      "type": "gap",
+      "header": "Αγοράζω ___ ψωμί κάθε μέρα.",
+      "answer": "φρέσκο"
+    },
+    {
+      "id": "e-sh-b1-051",
+      "type": "select",
+      "header": "το ψωμάκι",
+      "options": {"a": "flatbread / pita", "b": "wheat bread", "c": "bread roll", "d": "fresh"},
+      "answer": "c"
+    },
+    {
+      "id": "e-sh-b1-052",
+      "type": "blocks",
+      "header": "loaf (of bread)",
+      "answer": "φραντζόλα",
+      "blocks": ["α", "λ", "ν", "τ", "ζ", "φ", "α", "ό", "ρ"]
+    },
+    {
+      "id": "e-sh-b1-053",
+      "type": "writing",
+      "header": "loaf (of bread)",
+      "answer": "φραντζόλα"
+    },
+    {
+      "id": "e-sh-b1-054",
+      "type": "gap",
+      "header": "Πηγαίνω στον ___ κάθε πρωί.",
+      "answer": "φούρνο"
+    },
+    {
+      "id": "e-sh-b1-055",
+      "type": "select",
+      "header": "το κουλούρι",
+      "options": {"a": "bread roll", "b": "sesame ring bread", "c": "baguette", "d": "loaf (of bread)"},
+      "answer": "b"
+    },
+    {
+      "id": "e-sh-b1-056",
+      "type": "blocks",
+      "header": "bread roll",
+      "answer": "ψωμάκι",
+      "blocks": ["ά", "μ", "κ", "ψ", "ι", "ω"]
+    },
+    {
+      "id": "e-sh-b1-057",
+      "type": "writing",
+      "header": "bread roll",
+      "answer": "ψωμάκι"
+    },
+    {
+      "id": "e-sh-b1-058",
+      "type": "gap",
+      "header": "Κόβω τη ___ σε φέτες.",
+      "answer": "φραντζόλα"
+    },
+    {
+      "id": "e-sh-b1-059",
+      "type": "select",
+      "header": "η πίτα",
+      "options": {"a": "loaf (of bread)", "b": "baguette", "c": "bread roll", "d": "flatbread / pita"},
+      "answer": "d"
+    },
+    {
+      "id": "e-sh-b1-060",
+      "type": "blocks",
+      "header": "sesame ring bread",
+      "answer": "κουλούρι",
+      "blocks": ["ύ", "λ", "κ", "ο", "ι", "ο", "ρ", "υ"]
+    },
+    {
+      "id": "e-sh-b1-061",
+      "type": "writing",
+      "header": "sesame ring bread",
+      "answer": "κουλούρι"
+    },
+    {
+      "id": "e-sh-b1-062",
+      "type": "gap",
+      "header": "Τα ___ είναι ζεστά.",
+      "answer": "ψωμάκια"
+    },
+    {
+      "id": "e-sh-b1-063",
+      "type": "select",
+      "header": "το μπαγκέτ",
+      "options": {"a": "toast", "b": "baguette", "c": "flatbread / pita", "d": "fresh"},
+      "answer": "b"
+    },
+    {
+      "id": "e-sh-b1-064",
+      "type": "blocks",
+      "header": "flatbread / pita",
+      "answer": "πίτα",
+      "blocks": ["α", "ί", "τ", "π"]
+    },
+    {
+      "id": "e-sh-b1-065",
+      "type": "writing",
+      "header": "flatbread / pita",
+      "answer": "πίτα"
+    },
+    {
+      "id": "e-sh-b1-066",
+      "type": "gap",
+      "header": "Σήμερα υπάρχουν φρέσκα ___.",
+      "answer": "κουλούρια"
+    },
+    {
+      "id": "e-sh-b1-067",
+      "type": "select",
+      "header": "το τοστ",
+      "options": {"a": "whole grain bread", "b": "sesame ring bread", "c": "toast", "d": "slice"},
+      "answer": "c"
+    },
+    {
+      "id": "e-sh-b1-068",
+      "type": "blocks",
+      "header": "baguette",
+      "answer": "μπαγκέτ",
+      "blocks": ["γ", "π", "έ", "α", "τ", "κ", "μ", "μ"]
+    },
+    {
+      "id": "e-sh-b1-069",
+      "type": "writing",
+      "header": "baguette",
+      "answer": "μπαγκέτ"
+    },
+    {
+      "id": "e-sh-b1-070",
+      "type": "gap",
+      "header": "Η ___ είναι ζεστή.",
+      "answer": "πίτα"
+    },
+    {
+      "id": "e-sh-b1-071",
+      "type": "select",
+      "header": "το ψωμί ολικής άλεσης",
+      "options": {"a": "bakery / oven", "b": "wheat bread", "c": "whole grain bread", "d": "loaf (of bread)"},
+      "answer": "c"
+    },
+    {
+      "id": "e-sh-b1-072",
+      "type": "blocks",
+      "header": "toast",
+      "answer": "τοστ",
+      "blocks": ["ο", "σ", "τ", "τ"]
+    }
+  ]
+}

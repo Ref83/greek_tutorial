@@ -1,0 +1,160 @@
+{
+  "exercises": [
+    {
+      "id": "e-nd-b1-073",
+      "type": "select",
+      "header": "έξι",
+      "options": {"a": "eight", "b": "four", "c": "six", "d": "two"},
+      "answer": "c"
+    },
+    {
+      "id": "e-nd-b1-074",
+      "type": "select",
+      "header": "εφτά / επτά",
+      "options": {"a": "nine", "b": "seven", "c": "five", "d": "eight"},
+      "answer": "b"
+    },
+    {
+      "id": "e-nd-b1-075",
+      "type": "blocks",
+      "header": "six",
+      "answer": "έξι",
+      "blocks": ["ξ", "έ", "ι"]
+    },
+    {
+      "id": "e-nd-b1-076",
+      "type": "select",
+      "header": "οχτώ / οκτώ",
+      "options": {"a": "six", "b": "ten", "c": "eight", "d": "seven"},
+      "answer": "c"
+    },
+    {
+      "id": "e-nd-b1-077",
+      "type": "blocks",
+      "header": "seven",
+      "answer": "εφτά",
+      "blocks": ["φ", "ά", "ε", "τ"]
+    },
+    {
+      "id": "e-nd-b1-078",
+      "type": "writing",
+      "header": "six",
+      "answer": "έξι"
+    },
+    {
+      "id": "e-nd-b1-079",
+      "type": "blocks",
+      "header": "eight",
+      "answer": "οχτώ",
+      "blocks": ["χ", "τ", "ώ", "ο"]
+    },
+    {
+      "id": "e-nd-b1-080",
+      "type": "writing",
+      "header": "seven",
+      "answer": "εφτά"
+    },
+    {
+      "id": "e-nd-b1-081",
+      "type": "gap",
+      "header": "Στο πάρκο είδαμε ___ σκύλους.",
+      "answer": "έξι"
+    },
+    {
+      "id": "e-nd-b1-082",
+      "type": "writing",
+      "header": "eight",
+      "answer": "οχτώ"
+    },
+    {
+      "id": "e-nd-b1-083",
+      "type": "gap",
+      "header": "Αγόρασα ___ εισιτήρια για την παράσταση.",
+      "answer": "εφτά"
+    },
+    {
+      "id": "e-nd-b1-084",
+      "type": "gap",
+      "header": "Έχω ___ κάρτες στο πορτοφόλι μου.",
+      "answer": "οχτώ"
+    },
+    {
+      "id": "e-nd-b1-085",
+      "type": "select",
+      "header": "εννέα",
+      "options": {"a": "ten", "b": "seven", "c": "nine", "d": "number"},
+      "answer": "c"
+    },
+    {
+      "id": "e-nd-b1-086",
+      "type": "select",
+      "header": "δέκα",
+      "options": {"a": "zero", "b": "ten", "c": "eight", "d": "one"},
+      "answer": "b"
+    },
+    {
+      "id": "e-nd-b1-087",
+      "type": "blocks",
+      "header": "nine",
+      "answer": "εννέα",
+      "blocks": ["έ", "ε", "α", "ν", "ν"]
+    },
+    {
+      "id": "e-nd-b1-088",
+      "type": "select",
+      "header": "ο αριθμός",
+      "options": {"a": "nine", "b": "zero", "c": "eight", "d": "number"},
+      "answer": "d"
+    },
+    {
+      "id": "e-nd-b1-089",
+      "type": "blocks",
+      "header": "ten",
+      "answer": "δέκα",
+      "blocks": ["κ", "έ", "α", "δ"]
+    },
+    {
+      "id": "e-nd-b1-090",
+      "type": "writing",
+      "header": "nine",
+      "answer": "εννέα"
+    },
+    {
+      "id": "e-nd-b1-091",
+      "type": "blocks",
+      "header": "number",
+      "answer": "αριθμός",
+      "blocks": ["θ", "ρ", "α", "ι", "ό", "σ", "μ"]
+    },
+    {
+      "id": "e-nd-b1-092",
+      "type": "writing",
+      "header": "ten",
+      "answer": "δέκα"
+    },
+    {
+      "id": "e-nd-b1-093",
+      "type": "gap",
+      "header": "Έχω ___ βιβλία στο ράφι.",
+      "answer": "εννέα"
+    },
+    {
+      "id": "e-nd-b1-094",
+      "type": "writing",
+      "header": "number",
+      "answer": "αριθμός"
+    },
+    {
+      "id": "e-nd-b1-095",
+      "type": "gap",
+      "header": "Έχω ___ βιβλία στο τσαντάκι μου.",
+      "answer": "δέκα"
+    },
+    {
+      "id": "e-nd-b1-096",
+      "type": "gap",
+      "header": "Ο ___ του σπιτιού μου είναι δεκαπέντε.",
+      "answer": "αριθμός"
+    }
+  ]
+}

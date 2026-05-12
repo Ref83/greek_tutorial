@@ -1,0 +1,160 @@
+{
+  "exercises": [
+    {
+      "id": "e-f-b2-001",
+      "type": "select",
+      "header": "ο καφές",
+      "options": {"a": "juice", "b": "tea", "c": "coffee", "d": "milk"},
+      "answer": "c"
+    },
+    {
+      "id": "e-f-b2-002",
+      "type": "select",
+      "header": "η ομελέτα",
+      "options": {"a": "omelette", "b": "cake", "c": "soup", "d": "salad"},
+      "answer": "a"
+    },
+    {
+      "id": "e-f-b2-003",
+      "type": "blocks",
+      "header": "coffee",
+      "answer": "καφές",
+      "blocks": ["έ", "φ", "α", "σ", "κ"]
+    },
+    {
+      "id": "e-f-b2-004",
+      "type": "select",
+      "header": "το κέικ",
+      "options": {"a": "bread", "b": "pasta", "c": "cake", "d": "rice"},
+      "answer": "c"
+    },
+    {
+      "id": "e-f-b2-005",
+      "type": "blocks",
+      "header": "omelette",
+      "answer": "ομελέτα",
+      "blocks": ["λ", "ο", "τ", "μ", "έ", "α", "ε"]
+    },
+    {
+      "id": "e-f-b2-006",
+      "type": "writing",
+      "header": "coffee",
+      "answer": "καφές"
+    },
+    {
+      "id": "e-f-b2-007",
+      "type": "blocks",
+      "header": "cake",
+      "answer": "κέικ",
+      "blocks": ["ι", "κ", "έ", "κ"]
+    },
+    {
+      "id": "e-f-b2-008",
+      "type": "writing",
+      "header": "omelette",
+      "answer": "ομελέτα"
+    },
+    {
+      "id": "e-f-b2-009",
+      "type": "gap",
+      "header": "Πίνω έναν ___ κάθε πρωί.",
+      "answer": "καφέ"
+    },
+    {
+      "id": "e-f-b2-010",
+      "type": "writing",
+      "header": "cake",
+      "answer": "κέικ"
+    },
+    {
+      "id": "e-f-b2-011",
+      "type": "gap",
+      "header": "Φτιάχνω μια ___ με τυρί για πρωινό.",
+      "answer": "ομελέτα"
+    },
+    {
+      "id": "e-f-b2-012",
+      "type": "gap",
+      "header": "Ψήνω ένα ___ σοκολάτας για τα γενέθλια.",
+      "answer": "κέικ"
+    },
+    {
+      "id": "e-f-b2-013",
+      "type": "select",
+      "header": "το ψωμί",
+      "options": {"a": "salad", "b": "bread", "c": "soup", "d": "yogurt"},
+      "answer": "b"
+    },
+    {
+      "id": "e-f-b2-014",
+      "type": "select",
+      "header": "η σαλάτα",
+      "options": {"a": "cheese", "b": "rice", "c": "salad", "d": "pasta"},
+      "answer": "c"
+    },
+    {
+      "id": "e-f-b2-015",
+      "type": "blocks",
+      "header": "bread",
+      "answer": "ψωμί",
+      "blocks": ["μ", "ψ", "ί", "ω"]
+    },
+    {
+      "id": "e-f-b2-016",
+      "type": "select",
+      "header": "η σούπα",
+      "options": {"a": "omelette", "b": "soup", "c": "coffee", "d": "juice"},
+      "answer": "b"
+    },
+    {
+      "id": "e-f-b2-017",
+      "type": "blocks",
+      "header": "salad",
+      "answer": "σαλάτα",
+      "blocks": ["τ", "σ", "ά", "α", "λ", "α"]
+    },
+    {
+      "id": "e-f-b2-018",
+      "type": "writing",
+      "header": "bread",
+      "answer": "ψωμί"
+    },
+    {
+      "id": "e-f-b2-019",
+      "type": "blocks",
+      "header": "soup",
+      "answer": "σούπα",
+      "blocks": ["π", "σ", "α", "ύ", "ο"]
+    },
+    {
+      "id": "e-f-b2-020",
+      "type": "writing",
+      "header": "salad",
+      "answer": "σαλάτα"
+    },
+    {
+      "id": "e-f-b2-021",
+      "type": "gap",
+      "header": "Αγοράζω φρέσκο ___ κάθε πρωί.",
+      "answer": "ψωμί"
+    },
+    {
+      "id": "e-f-b2-022",
+      "type": "writing",
+      "header": "soup",
+      "answer": "σούπα"
+    },
+    {
+      "id": "e-f-b2-023",
+      "type": "gap",
+      "header": "Φτιάχνω χωριάτικη ___ με ελαιόλαδο.",
+      "answer": "σαλάτα"
+    },
+    {
+      "id": "e-f-b2-024",
+      "type": "gap",
+      "header": "Μαγειρεύω ___ λαχανικών για μεσημέρι.",
+      "answer": "σούπα"
+    }
+  ]
+}

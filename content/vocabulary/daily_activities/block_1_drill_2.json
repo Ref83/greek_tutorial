@@ -1,0 +1,160 @@
+{
+  "exercises": [
+    {
+      "id": "e-da-b1-025",
+      "type": "gap",
+      "header": "___ γρήγορα και φεύγω.",
+      "answer": "Ντύνομαι"
+    },
+    {
+      "id": "e-da-b1-026",
+      "type": "select",
+      "header": "δειπνώ",
+      "options": {"a": "to have dinner", "b": "to cook", "c": "to relax", "d": "to wake up"},
+      "answer": "a"
+    },
+    {
+      "id": "e-da-b1-027",
+      "type": "blocks",
+      "header": "to cook",
+      "answer": "μαγειρεύω",
+      "blocks": ["ε", "μ", "ω", "ι", "ύ", "α", "ρ", "γ"]
+    },
+    {
+      "id": "e-da-b1-028",
+      "type": "writing",
+      "header": "to return home",
+      "answer": "επιστρέφω σπίτι"
+    },
+    {
+      "id": "e-da-b1-029",
+      "type": "gap",
+      "header": "___ κάθε πρωί πριν τη δουλειά.",
+      "answer": "Τρώω πρωινό"
+    },
+    {
+      "id": "e-da-b1-030",
+      "type": "select",
+      "header": "κοιμάμαι",
+      "options": {"a": "to have dinner", "b": "to be in a hurry", "c": "to sleep", "d": "to get up"},
+      "answer": "c"
+    },
+    {
+      "id": "e-da-b1-031",
+      "type": "blocks",
+      "header": "to have dinner",
+      "answer": "δειπνώ",
+      "blocks": ["ν", "δ", "ώ", "ι", "π", "ε"]
+    },
+    {
+      "id": "e-da-b1-032",
+      "type": "writing",
+      "header": "to cook",
+      "answer": "μαγειρεύω"
+    },
+    {
+      "id": "e-da-b1-033",
+      "type": "gap",
+      "header": "___ στις οκτώ.",
+      "answer": "Φεύγω για τη δουλειά"
+    },
+    {
+      "id": "e-da-b1-034",
+      "type": "select",
+      "header": "χαλαρώνω",
+      "options": {"a": "to be in a hurry", "b": "to relax", "c": "to sleep", "d": "to have dinner"},
+      "answer": "b"
+    },
+    {
+      "id": "e-da-b1-035",
+      "type": "blocks",
+      "header": "to sleep",
+      "answer": "κοιμάμαι",
+      "blocks": ["μ", "κ", "ι", "ά", "α", "ο", "α"]
+    },
+    {
+      "id": "e-da-b1-036",
+      "type": "writing",
+      "header": "to have dinner",
+      "answer": "δειπνώ"
+    },
+    {
+      "id": "e-da-b1-037",
+      "type": "gap",
+      "header": "___ σπίτι κάθε βράδυ στις έξι.",
+      "answer": "Επιστρέφω"
+    },
+    {
+      "id": "e-da-b1-038",
+      "type": "select",
+      "header": "βιάζομαι",
+      "options": {"a": "to wake up", "b": "to relax", "c": "to cook", "d": "to be in a hurry"},
+      "answer": "d"
+    },
+    {
+      "id": "e-da-b1-039",
+      "type": "blocks",
+      "header": "to relax",
+      "answer": "χαλαρώνω",
+      "blocks": ["ν", "ω", "χ", "ώ", "ρ", "α", "λ", "α"]
+    },
+    {
+      "id": "e-da-b1-040",
+      "type": "writing",
+      "header": "to sleep",
+      "answer": "κοιμάμαι"
+    },
+    {
+      "id": "e-da-b1-041",
+      "type": "gap",
+      "header": "___ κάθε βράδυ για την οικογένειά μου.",
+      "answer": "Μαγειρεύω"
+    },
+    {
+      "id": "e-da-b1-042",
+      "type": "select",
+      "header": "ξυπνώ",
+      "options": {"a": "to sleep", "b": "to be in a hurry", "c": "to get dressed", "d": "to wake up"},
+      "answer": "d"
+    },
+    {
+      "id": "e-da-b1-043",
+      "type": "blocks",
+      "header": "to be in a hurry",
+      "answer": "βιάζομαι",
+      "blocks": ["ο", "β", "ά", "μ", "ζ", "α", "ι"]
+    },
+    {
+      "id": "e-da-b1-044",
+      "type": "writing",
+      "header": "to relax",
+      "answer": "χαλαρώνω"
+    },
+    {
+      "id": "e-da-b1-045",
+      "type": "gap",
+      "header": "___ με την οικογένειά μου κάθε βράδυ.",
+      "answer": "Δειπνώ"
+    },
+    {
+      "id": "e-da-b1-046",
+      "type": "select",
+      "header": "σηκώνομαι",
+      "options": {"a": "to have breakfast", "b": "to get up", "c": "to wash (oneself)", "d": "to leave for work"},
+      "answer": "b"
+    },
+    {
+      "id": "e-da-b1-047",
+      "type": "blocks",
+      "header": "to wake up",
+      "answer": "ξυπνώ",
+      "blocks": ["ώ", "υ", "ν", "ξ", "π"]
+    },
+    {
+      "id": "e-da-b1-048",
+      "type": "writing",
+      "header": "to be in a hurry",
+      "answer": "βιάζομαι"
+    }
+  ]
+}

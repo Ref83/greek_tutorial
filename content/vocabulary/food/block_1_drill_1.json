@@ -1,0 +1,160 @@
+{
+  "exercises": [
+    {
+      "id": "e-f-b1-001",
+      "type": "select",
+      "header": "το αλεύρι",
+      "options": {"a": "sugar", "b": "salt", "c": "flour", "d": "oil"},
+      "answer": "c"
+    },
+    {
+      "id": "e-f-b1-002",
+      "type": "select",
+      "header": "η ζάχαρη",
+      "options": {"a": "sugar", "b": "milk", "c": "egg", "d": "honey"},
+      "answer": "a"
+    },
+    {
+      "id": "e-f-b1-003",
+      "type": "blocks",
+      "header": "flour",
+      "answer": "αλεύρι",
+      "blocks": ["ρ", "λ", "ύ", "α", "ι", "ε"]
+    },
+    {
+      "id": "e-f-b1-004",
+      "type": "select",
+      "header": "το αλάτι",
+      "options": {"a": "butter", "b": "oil", "c": "honey", "d": "salt"},
+      "answer": "d"
+    },
+    {
+      "id": "e-f-b1-005",
+      "type": "blocks",
+      "header": "sugar",
+      "answer": "ζάχαρη",
+      "blocks": ["χ", "ζ", "η", "ά", "ρ", "α"]
+    },
+    {
+      "id": "e-f-b1-006",
+      "type": "writing",
+      "header": "flour",
+      "answer": "αλεύρι"
+    },
+    {
+      "id": "e-f-b1-007",
+      "type": "blocks",
+      "header": "salt",
+      "answer": "αλάτι",
+      "blocks": ["τ", "α", "λ", "ά", "ι"]
+    },
+    {
+      "id": "e-f-b1-008",
+      "type": "writing",
+      "header": "sugar",
+      "answer": "ζάχαρη"
+    },
+    {
+      "id": "e-f-b1-009",
+      "type": "gap",
+      "header": "Χρειαζόμαστε δύο φλιτζάνια ___ για το κέικ.",
+      "answer": "αλεύρι"
+    },
+    {
+      "id": "e-f-b1-010",
+      "type": "writing",
+      "header": "salt",
+      "answer": "αλάτι"
+    },
+    {
+      "id": "e-f-b1-011",
+      "type": "gap",
+      "header": "Θέλεις ___ στον καφέ σου;",
+      "answer": "ζάχαρη"
+    },
+    {
+      "id": "e-f-b1-012",
+      "type": "gap",
+      "header": "Πρόσθεσε λίγο ___ στη σούπα.",
+      "answer": "αλάτι"
+    },
+    {
+      "id": "e-f-b1-013",
+      "type": "select",
+      "header": "το λάδι",
+      "options": {"a": "milk", "b": "oil", "c": "egg", "d": "flour"},
+      "answer": "b"
+    },
+    {
+      "id": "e-f-b1-014",
+      "type": "select",
+      "header": "το γάλα",
+      "options": {"a": "honey", "b": "vanilla", "c": "butter", "d": "milk"},
+      "answer": "d"
+    },
+    {
+      "id": "e-f-b1-015",
+      "type": "blocks",
+      "header": "oil",
+      "answer": "λάδι",
+      "blocks": ["δ", "λ", "ι", "ά"]
+    },
+    {
+      "id": "e-f-b1-016",
+      "type": "select",
+      "header": "το αυγό",
+      "options": {"a": "egg", "b": "salt", "c": "sugar", "d": "cinnamon"},
+      "answer": "a"
+    },
+    {
+      "id": "e-f-b1-017",
+      "type": "blocks",
+      "header": "milk",
+      "answer": "γάλα",
+      "blocks": ["α", "γ", "λ", "ά"]
+    },
+    {
+      "id": "e-f-b1-018",
+      "type": "writing",
+      "header": "oil",
+      "answer": "λάδι"
+    },
+    {
+      "id": "e-f-b1-019",
+      "type": "blocks",
+      "header": "egg",
+      "answer": "αυγό",
+      "blocks": ["γ", "α", "ό", "υ"]
+    },
+    {
+      "id": "e-f-b1-020",
+      "type": "writing",
+      "header": "milk",
+      "answer": "γάλα"
+    },
+    {
+      "id": "e-f-b1-021",
+      "type": "gap",
+      "header": "Ζεσταίνω λίγο ___ στο τηγάνι.",
+      "answer": "λάδι"
+    },
+    {
+      "id": "e-f-b1-022",
+      "type": "writing",
+      "header": "egg",
+      "answer": "αυγό"
+    },
+    {
+      "id": "e-f-b1-023",
+      "type": "gap",
+      "header": "Πίνω ένα ποτήρι ___ κάθε πρωί.",
+      "answer": "γάλα"
+    },
+    {
+      "id": "e-f-b1-024",
+      "type": "gap",
+      "header": "Χτυπάω τρία ___ για την ομελέτα.",
+      "answer": "αυγά"
+    }
+  ]
+}

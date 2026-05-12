@@ -1,0 +1,160 @@
+{
+  "exercises": [
+    {
+      "id": "e-da-b3-073",
+      "type": "gap",
+      "header": "Πάμε βόλτα στην παραλία;",
+      "answer": "βόλτα"
+    },
+    {
+      "id": "e-da-b3-074",
+      "type": "select",
+      "header": "βγαίνω έξω",
+      "options": {"a": "to rest", "b": "to exercise", "c": "to go out", "d": "to enjoy"},
+      "answer": "c"
+    },
+    {
+      "id": "e-da-b3-075",
+      "type": "blocks",
+      "header": "to exercise / work out",
+      "answer": "γυμνάζομαι",
+      "blocks": ["ν", "υ", "γ", "α", "ο", "μ", "ζ", "ά", "μ"]
+    },
+    {
+      "id": "e-da-b3-076",
+      "type": "writing",
+      "header": "to go for a walk / stroll",
+      "answer": "κάνω βόλτα"
+    },
+    {
+      "id": "e-da-b3-077",
+      "type": "gap",
+      "header": "___ τρεις φορές την εβδομάδα στο γυμναστήριο.",
+      "answer": "Γυμνάζομαι"
+    },
+    {
+      "id": "e-da-b3-078",
+      "type": "select",
+      "header": "περνώ καλά",
+      "options": {"a": "to go for a walk", "b": "to read", "c": "to exercise", "d": "to have a good time"},
+      "answer": "d"
+    },
+    {
+      "id": "e-da-b3-079",
+      "type": "blocks",
+      "header": "to go out",
+      "answer": "βγαίνω",
+      "blocks": ["ί", "γ", "ν", "α", "β", "ω"]
+    },
+    {
+      "id": "e-da-b3-080",
+      "type": "writing",
+      "header": "to exercise / work out",
+      "answer": "γυμνάζομαι"
+    },
+    {
+      "id": "e-da-b3-081",
+      "type": "gap",
+      "header": "Θέλεις να βγούμε έξω απόψε;",
+      "answer": "βγούμε"
+    },
+    {
+      "id": "e-da-b3-082",
+      "type": "select",
+      "header": "απολαμβάνω",
+      "options": {"a": "to go out", "b": "to enjoy", "c": "to have a good time", "d": "to be into"},
+      "answer": "b"
+    },
+    {
+      "id": "e-da-b3-083",
+      "type": "blocks",
+      "header": "to have a good time",
+      "answer": "περνώ",
+      "blocks": ["ρ", "π", "ν", "ώ", "ε"]
+    },
+    {
+      "id": "e-da-b3-084",
+      "type": "writing",
+      "header": "to go out",
+      "answer": "βγαίνω έξω"
+    },
+    {
+      "id": "e-da-b3-085",
+      "type": "gap",
+      "header": "Περνάμε πάντα καλά μαζί.",
+      "answer": "καλά"
+    },
+    {
+      "id": "e-da-b3-086",
+      "type": "select",
+      "header": "ξεκουράζομαι",
+      "options": {"a": "to play", "b": "to have a good time", "c": "to rest / take a rest", "d": "to go out"},
+      "answer": "c"
+    },
+    {
+      "id": "e-da-b3-087",
+      "type": "blocks",
+      "header": "to enjoy",
+      "answer": "απολαμβάνω",
+      "blocks": ["α", "π", "ο", "β", "λ", "ν", "ά", "ω", "α"]
+    },
+    {
+      "id": "e-da-b3-088",
+      "type": "writing",
+      "header": "to have a good time",
+      "answer": "περνώ καλά"
+    },
+    {
+      "id": "e-da-b3-089",
+      "type": "gap",
+      "header": "___ τη ζωή με απλά πράγματα.",
+      "answer": "Απολαμβάνω"
+    },
+    {
+      "id": "e-da-b3-090",
+      "type": "select",
+      "header": "ελεύθερος χρόνος",
+      "options": {"a": "to enjoy", "b": "to rest", "c": "to exercise", "d": "free time / leisure time"},
+      "answer": "d"
+    },
+    {
+      "id": "e-da-b3-091",
+      "type": "blocks",
+      "header": "to rest / take a rest",
+      "answer": "ξεκουράζομαι",
+      "blocks": ["κ", "ξ", "ά", "ο", "ε", "μ", "ζ", "ρ", "ι", "α"]
+    },
+    {
+      "id": "e-da-b3-092",
+      "type": "writing",
+      "header": "to enjoy",
+      "answer": "απολαμβάνω"
+    },
+    {
+      "id": "e-da-b3-093",
+      "type": "gap",
+      "header": "___ το απόγευμα μετά το μεσημεριανό.",
+      "answer": "Ξεκουράζομαι"
+    },
+    {
+      "id": "e-da-b3-094",
+      "type": "select",
+      "header": "ασχολούμαι με",
+      "options": {"a": "to rest", "b": "to go for a walk", "c": "to watch a movie", "d": "to be into / deal with"},
+      "answer": "d"
+    },
+    {
+      "id": "e-da-b3-095",
+      "type": "blocks",
+      "header": "free time / leisure time",
+      "answer": "ελεύθερος",
+      "blocks": ["ύ", "ε", "ς", "ε", "λ", "ρ", "θ", "ο"]
+    },
+    {
+      "id": "e-da-b3-096",
+      "type": "writing",
+      "header": "to rest / take a rest",
+      "answer": "ξεκουράζομαι"
+    }
+  ]
+}

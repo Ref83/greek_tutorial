@@ -1,0 +1,160 @@
+{
+  "exercises": [
+    {
+      "id": "e-pi-b2-025",
+      "type": "gap",
+      "header": "Έχουμε τρία ___.",
+      "answer": "παιδιά"
+    },
+    {
+      "id": "e-pi-b2-026",
+      "type": "select",
+      "header": "η μητέρα",
+      "options": {"a": "sister", "b": "wife", "c": "mother", "d": "language"},
+      "answer": "c"
+    },
+    {
+      "id": "e-pi-b2-027",
+      "type": "blocks",
+      "header": "father",
+      "answer": "πατέρας",
+      "blocks": ["έ", "π", "τ", "α", "ρ", "α", "ς"]
+    },
+    {
+      "id": "e-pi-b2-028",
+      "type": "writing",
+      "header": "parents",
+      "answer": "γονείς"
+    },
+    {
+      "id": "e-pi-b2-029",
+      "type": "gap",
+      "header": "Ο ___ μου ζει στην Αθήνα.",
+      "answer": "αδελφός"
+    },
+    {
+      "id": "e-pi-b2-030",
+      "type": "select",
+      "header": "κατάγομαι",
+      "options": {"a": "to live", "b": "to come from", "c": "language", "d": "parents"},
+      "answer": "b"
+    },
+    {
+      "id": "e-pi-b2-031",
+      "type": "blocks",
+      "header": "mother",
+      "answer": "μητέρα",
+      "blocks": ["τ", "μ", "ρ", "η", "έ", "α"]
+    },
+    {
+      "id": "e-pi-b2-032",
+      "type": "writing",
+      "header": "father",
+      "answer": "πατέρας"
+    },
+    {
+      "id": "e-pi-b2-033",
+      "type": "gap",
+      "header": "Η ___ μου είναι γιατρός.",
+      "answer": "αδελφή"
+    },
+    {
+      "id": "e-pi-b2-034",
+      "type": "select",
+      "header": "μένω",
+      "options": {"a": "to come from", "b": "family", "c": "to live", "d": "child"},
+      "answer": "c"
+    },
+    {
+      "id": "e-pi-b2-035",
+      "type": "blocks",
+      "header": "to come from",
+      "answer": "κατάγομαι",
+      "blocks": ["ά", "κ", "τ", "γ", "α", "ο", "μ", "ι", "α"]
+    },
+    {
+      "id": "e-pi-b2-036",
+      "type": "writing",
+      "header": "mother",
+      "answer": "μητέρα"
+    },
+    {
+      "id": "e-pi-b2-037",
+      "type": "gap",
+      "header": "Οι ___ μου μένουν στην Κρήτη.",
+      "answer": "γονείς"
+    },
+    {
+      "id": "e-pi-b2-038",
+      "type": "select",
+      "header": "η γλώσσα",
+      "options": {"a": "to come from", "b": "language", "c": "mother", "d": "to live"},
+      "answer": "b"
+    },
+    {
+      "id": "e-pi-b2-039",
+      "type": "blocks",
+      "header": "to live",
+      "answer": "μένω",
+      "blocks": ["ν", "μ", "ω", "έ"]
+    },
+    {
+      "id": "e-pi-b2-040",
+      "type": "writing",
+      "header": "to come from",
+      "answer": "κατάγομαι"
+    },
+    {
+      "id": "e-pi-b2-041",
+      "type": "gap",
+      "header": "Ο ___ μου λέγεται Μιχάλης.",
+      "answer": "πατέρας"
+    },
+    {
+      "id": "e-pi-b2-042",
+      "type": "select",
+      "header": "η οικογένεια",
+      "options": {"a": "to live", "b": "language", "c": "family", "d": "father"},
+      "answer": "c"
+    },
+    {
+      "id": "e-pi-b2-043",
+      "type": "blocks",
+      "header": "language",
+      "answer": "γλώσσα",
+      "blocks": ["σ", "γ", "ώ", "λ", "σ", "α"]
+    },
+    {
+      "id": "e-pi-b2-044",
+      "type": "writing",
+      "header": "to live",
+      "answer": "μένω"
+    },
+    {
+      "id": "e-pi-b2-045",
+      "type": "gap",
+      "header": "Η ___ μου είναι πολύ καλή μαγείρισσα.",
+      "answer": "μητέρα"
+    },
+    {
+      "id": "e-pi-b2-046",
+      "type": "select",
+      "header": "ο σύζυγος",
+      "options": {"a": "language", "b": "father", "c": "child", "d": "husband"},
+      "answer": "d"
+    },
+    {
+      "id": "e-pi-b2-047",
+      "type": "blocks",
+      "header": "family",
+      "answer": "οικογένεια",
+      "blocks": ["ε", "ι", "ο", "κ", "γ", "ν", "ο", "έ", "α", "ι"]
+    },
+    {
+      "id": "e-pi-b2-048",
+      "type": "writing",
+      "header": "language",
+      "answer": "γλώσσα"
+    }
+  ]
+}

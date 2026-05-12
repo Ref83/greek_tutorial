@@ -1,0 +1,161 @@
+{
+  "exercises": [
+    {
+      "id": "e-home-b2-025",
+      "type": "select",
+      "header": "ο διάδρομος",
+      "options": {"a": "stairs / staircase", "b": "hallway / corridor", "c": "storage room", "d": "guest room"},
+      "answer": "b"
+    },
+    {
+      "id": "e-home-b2-026",
+      "type": "select",
+      "header": "η αποθήκη",
+      "options": {"a": "bathroom", "b": "hallway", "c": "storage room / storeroom", "d": "children's room"},
+      "answer": "c"
+    },
+    {
+      "id": "e-home-b2-027",
+      "type": "blocks",
+      "header": "hallway / corridor",
+      "answer": "διάδρομος",
+      "blocks": ["ο", "δ", "μ", "ά", "ι", "ρ", "ο", "δ", "σ"]
+    },
+    {
+      "id": "e-home-b2-028",
+      "type": "gap",
+      "header": "Η ___ είναι στο τέλος του διαδρόμου.",
+      "answer": "τουαλέτα"
+    },
+    {
+      "id": "e-home-b2-029",
+      "type": "blocks",
+      "header": "storage room / storeroom",
+      "answer": "αποθήκη",
+      "blocks": ["θ", "κ", "α", "ή", "π", "η", "ο"]
+    },
+    {
+      "id": "e-home-b2-030",
+      "type": "select",
+      "header": "το δωμάτιο",
+      "options": {"a": "kitchen", "b": "room", "c": "dining room", "d": "study"},
+      "answer": "b"
+    },
+    {
+      "id": "e-home-b2-031",
+      "type": "writing",
+      "header": "toilet / WC",
+      "answer": "τουαλέτα"
+    },
+    {
+      "id": "e-home-b2-032",
+      "type": "blocks",
+      "header": "room",
+      "answer": "δωμάτιο",
+      "blocks": ["ο", "δ", "τ", "μ", "ά", "ω", "ι"]
+    },
+    {
+      "id": "e-home-b2-033",
+      "type": "gap",
+      "header": "Δουλεύω από το ___ στο σπίτι.",
+      "answer": "γραφείο"
+    },
+    {
+      "id": "e-home-b2-034",
+      "type": "writing",
+      "header": "hallway / corridor",
+      "answer": "διάδρομος"
+    },
+    {
+      "id": "e-home-b2-035",
+      "type": "select",
+      "header": "το παιδικό δωμάτιο",
+      "options": {"a": "guest room", "b": "room", "c": "children's room / kids' room", "d": "storage room"},
+      "answer": "c"
+    },
+    {
+      "id": "e-home-b2-036",
+      "type": "gap",
+      "header": "Ο ___ συνδέει όλα τα δωμάτια.",
+      "answer": "διάδρομος"
+    },
+    {
+      "id": "e-home-b2-037",
+      "type": "blocks",
+      "header": "children's room / kids' room",
+      "answer": "παιδικό",
+      "blocks": ["δ", "π", "ό", "ι", "α", "κ", "ι"]
+    },
+    {
+      "id": "e-home-b2-038",
+      "type": "writing",
+      "header": "storage room / storeroom",
+      "answer": "αποθήκη"
+    },
+    {
+      "id": "e-home-b2-039",
+      "type": "gap",
+      "header": "Βάζουμε τα εργαλεία στην ___.",
+      "answer": "αποθήκη"
+    },
+    {
+      "id": "e-home-b2-040",
+      "type": "select",
+      "header": "το δωμάτιο φιλοξενίας",
+      "options": {"a": "children's room", "b": "guest room", "c": "hallway", "d": "bedroom"},
+      "answer": "b"
+    },
+    {
+      "id": "e-home-b2-041",
+      "type": "blocks",
+      "header": "guest room",
+      "answer": "φιλοξενίας",
+      "blocks": ["ν", "ί", "φ", "ο", "λ", "α", "σ", "ι", "ε", "ξ"]
+    },
+    {
+      "id": "e-home-b2-042",
+      "type": "writing",
+      "header": "room",
+      "answer": "δωμάτιο"
+    },
+    {
+      "id": "e-home-b2-043",
+      "type": "gap",
+      "header": "Κάθε ___ έχει το δικό του χρώμα.",
+      "answer": "δωμάτιο"
+    },
+    {
+      "id": "e-home-b2-044",
+      "type": "blocks",
+      "header": "toilet / WC",
+      "answer": "τουαλέτα",
+      "blocks": ["α", "ε", "τ", "υ", "τ", "λ", "ο", "α"]
+    },
+    {
+      "id": "e-home-b2-045",
+      "type": "select",
+      "header": "η σκάλα",
+      "options": {"a": "hallway", "b": "storage room", "c": "stairs / staircase", "d": "guest room"},
+      "answer": "c"
+    },
+    {
+      "id": "e-home-b2-046",
+      "type": "gap",
+      "header": "Τα παιδιά παίζουν στο ___.",
+      "answer": "παιδικό δωμάτιο"
+    },
+    {
+      "id": "e-home-b2-047",
+      "type": "blocks",
+      "header": "stairs / staircase",
+      "answer": "σκάλα",
+      "blocks": ["κ", "σ", "α", "λ", "ά"]
+    },
+    {
+      "id": "e-home-b2-048",
+      "type": "writing",
+      "header": "children's room / kids' room",
+      "answer": "παιδικό δωμάτιο"
+    }
+  ]
+}

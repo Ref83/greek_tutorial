@@ -1,0 +1,160 @@
+{
+  "exercises": [
+    {
+      "id": "e-f-b3-025",
+      "type": "select",
+      "header": "προσθέτω",
+      "options": {"a": "to boil", "b": "to add", "c": "to fry", "d": "to bake"},
+      "answer": "b"
+    },
+    {
+      "id": "e-f-b3-026",
+      "type": "select",
+      "header": "η συνταγή",
+      "options": {"a": "oven", "b": "recipe", "c": "pot", "d": "dough"},
+      "answer": "b"
+    },
+    {
+      "id": "e-f-b3-027",
+      "type": "blocks",
+      "header": "to add",
+      "answer": "προσθέτω",
+      "blocks": ["σ", "ρ", "θ", "τ", "π", "έ", "ο", "ω"]
+    },
+    {
+      "id": "e-f-b3-028",
+      "type": "select",
+      "header": "ο φούρνος",
+      "options": {"a": "frying pan", "b": "pot", "c": "oven", "d": "dough"},
+      "answer": "c"
+    },
+    {
+      "id": "e-f-b3-029",
+      "type": "blocks",
+      "header": "recipe",
+      "answer": "συνταγή",
+      "blocks": ["τ", "γ", "ή", "υ", "ν", "σ", "α"]
+    },
+    {
+      "id": "e-f-b3-030",
+      "type": "writing",
+      "header": "to add",
+      "answer": "προσθέτω"
+    },
+    {
+      "id": "e-f-b3-031",
+      "type": "blocks",
+      "header": "oven",
+      "answer": "φούρνος",
+      "blocks": ["ρ", "ο", "ς", "ν", "ύ", "φ", "ο"]
+    },
+    {
+      "id": "e-f-b3-032",
+      "type": "writing",
+      "header": "recipe",
+      "answer": "συνταγή"
+    },
+    {
+      "id": "e-f-b3-033",
+      "type": "gap",
+      "header": "___ αλάτι και πιπέρι.",
+      "answer": "Προσθέτω"
+    },
+    {
+      "id": "e-f-b3-034",
+      "type": "writing",
+      "header": "oven",
+      "answer": "φούρνος"
+    },
+    {
+      "id": "e-f-b3-035",
+      "type": "gap",
+      "header": "Ακολουθώ τη ___ της μαμάς.",
+      "answer": "συνταγή"
+    },
+    {
+      "id": "e-f-b3-036",
+      "type": "gap",
+      "header": "Ζεσταίνω τον ___ στους 180 βαθμούς.",
+      "answer": "φούρνο"
+    },
+    {
+      "id": "e-f-b3-037",
+      "type": "select",
+      "header": "το τηγάνι",
+      "options": {"a": "pot", "b": "recipe", "c": "dough", "d": "frying pan"},
+      "answer": "d"
+    },
+    {
+      "id": "e-f-b3-038",
+      "type": "select",
+      "header": "η κατσαρόλα",
+      "options": {"a": "oven", "b": "frying pan", "c": "pot / saucepan", "d": "recipe"},
+      "answer": "c"
+    },
+    {
+      "id": "e-f-b3-039",
+      "type": "blocks",
+      "header": "frying pan",
+      "answer": "τηγάνι",
+      "blocks": ["γ", "τ", "ι", "ά", "η", "ν"]
+    },
+    {
+      "id": "e-f-b3-040",
+      "type": "select",
+      "header": "η ζύμη",
+      "options": {"a": "dough / batter", "b": "frying pan", "c": "recipe", "d": "oven"},
+      "answer": "a"
+    },
+    {
+      "id": "e-f-b3-041",
+      "type": "blocks",
+      "header": "pot / saucepan",
+      "answer": "κατσαρόλα",
+      "blocks": ["ρ", "κ", "λ", "α", "σ", "τ", "ό", "α"]
+    },
+    {
+      "id": "e-f-b3-042",
+      "type": "writing",
+      "header": "frying pan",
+      "answer": "τηγάνι"
+    },
+    {
+      "id": "e-f-b3-043",
+      "type": "blocks",
+      "header": "dough / batter",
+      "answer": "ζύμη",
+      "blocks": ["η", "μ", "ζ", "ύ"]
+    },
+    {
+      "id": "e-f-b3-044",
+      "type": "writing",
+      "header": "pot / saucepan",
+      "answer": "κατσαρόλα"
+    },
+    {
+      "id": "e-f-b3-045",
+      "type": "gap",
+      "header": "Ζεσταίνω το ___ πριν βάλω το λάδι.",
+      "answer": "τηγάνι"
+    },
+    {
+      "id": "e-f-b3-046",
+      "type": "writing",
+      "header": "dough / batter",
+      "answer": "ζύμη"
+    },
+    {
+      "id": "e-f-b3-047",
+      "type": "gap",
+      "header": "Μαγειρεύω τη σούπα σε μεγάλη ___.",
+      "answer": "κατσαρόλα"
+    },
+    {
+      "id": "e-f-b3-048",
+      "type": "gap",
+      "header": "Ζυμώνω τη ___ για δέκα λεπτά.",
+      "answer": "ζύμη"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "exercises": [
+    {
+      "id": "e-hb-b3-073",
+      "type": "select",
+      "header": "ήρεμος / ήρεμη",
+      "options": {"a": "afraid", "b": "anxious", "c": "calm", "d": "worried"},
+      "answer": "c"
+    },
+    {
+      "id": "e-hb-b3-074",
+      "type": "select",
+      "header": "χαλαρώνω",
+      "options": {"a": "to fear", "b": "to relax", "c": "to worry", "d": "to endure"},
+      "answer": "b"
+    },
+    {
+      "id": "e-hb-b3-075",
+      "type": "blocks",
+      "header": "calm",
+      "answer": "ήρεμος",
+      "blocks": ["ρ", "μ", "ο", "ς", "ή", "ε"]
+    },
+    {
+      "id": "e-hb-b3-076",
+      "type": "select",
+      "header": "εμπιστεύομαι",
+      "options": {"a": "to soothe", "b": "to be afraid", "c": "to trust", "d": "to breathe"},
+      "answer": "c"
+    },
+    {
+      "id": "e-hb-b3-077",
+      "type": "blocks",
+      "header": "to relax",
+      "answer": "χαλαρώνω",
+      "blocks": ["ω", "ρ", "χ", "α", "ώ", "ν", "ο", "λ", "α"]
+    },
+    {
+      "id": "e-hb-b3-078",
+      "type": "writing",
+      "header": "calm",
+      "answer": "ήρεμος"
+    },
+    {
+      "id": "e-hb-b3-079",
+      "type": "blocks",
+      "header": "to trust",
+      "answer": "εμπιστεύομαι",
+      "blocks": ["τ", "μ", "π", "υ", "ε", "ο", "ε", "ί", "σ", "μ", "α"]
+    },
+    {
+      "id": "e-hb-b3-080",
+      "type": "writing",
+      "header": "to relax",
+      "answer": "χαλαρώνω"
+    },
+    {
+      "id": "e-hb-b3-081",
+      "type": "gap",
+      "header": "Η νοσοκόμα είναι πάντα ___.",
+      "answer": "ήρεμη"
+    },
+    {
+      "id": "e-hb-b3-082",
+      "type": "writing",
+      "header": "to trust",
+      "answer": "εμπιστεύομαι"
+    },
+    {
+      "id": "e-hb-b3-083",
+      "type": "gap",
+      "header": "Χαλάρωσε, δεν υπάρχει τίποτα σοβαρό.",
+      "answer": "Χαλάρωσε"
+    },
+    {
+      "id": "e-hb-b3-084",
+      "type": "gap",
+      "header": "Μπορείς να με ___.",
+      "answer": "εμπιστευτείς"
+    },
+    {
+      "id": "e-hb-b3-085",
+      "type": "select",
+      "header": "η αναπνοή",
+      "options": {"a": "anxiety", "b": "concern", "c": "fear", "d": "breath / breathing"},
+      "answer": "d"
+    },
+    {
+      "id": "e-hb-b3-086",
+      "type": "select",
+      "header": "ανακουφίζω",
+      "options": {"a": "to worry", "b": "to relieve / to soothe", "c": "to trust", "d": "to fear"},
+      "answer": "b"
+    },
+    {
+      "id": "e-hb-b3-087",
+      "type": "blocks",
+      "header": "breath / breathing",
+      "answer": "αναπνοή",
+      "blocks": ["ν", "η", "α", "ο", "ά", "π", "ν"]
+    },
+    {
+      "id": "e-hb-b3-088",
+      "type": "select",
+      "header": "αντέχω",
+      "options": {"a": "to breathe", "b": "to endure / to bear / to handle", "c": "to relax", "d": "to soothe"},
+      "answer": "b"
+    },
+    {
+      "id": "e-hb-b3-089",
+      "type": "blocks",
+      "header": "to relieve / to soothe",
+      "answer": "ανακουφίζω",
+      "blocks": ["φ", "κ", "ο", "ν", "α", "ω", "ζ", "υ", "α", "ί"]
+    },
+    {
+      "id": "e-hb-b3-090",
+      "type": "writing",
+      "header": "breath / breathing",
+      "answer": "αναπνοή"
+    },
+    {
+      "id": "e-hb-b3-091",
+      "type": "blocks",
+      "header": "to endure / to bear / to handle",
+      "answer": "αντέχω",
+      "blocks": ["τ", "α", "ω", "έ", "ν", "χ"]
+    },
+    {
+      "id": "e-hb-b3-092",
+      "type": "writing",
+      "header": "to relieve / to soothe",
+      "answer": "ανακουφίζω"
+    },
+    {
+      "id": "e-hb-b3-093",
+      "type": "gap",
+      "header": "Η ___ μου είναι βαριά.",
+      "answer": "αναπνοή"
+    },
+    {
+      "id": "e-hb-b3-094",
+      "type": "writing",
+      "header": "to endure / to bear / to handle",
+      "answer": "αντέχω"
+    },
+    {
+      "id": "e-hb-b3-095",
+      "type": "gap",
+      "header": "Ο γιατρός ___ τις ανησυχίες μου.",
+      "answer": "ανακουφίζει"
+    },
+    {
+      "id": "e-hb-b3-096",
+      "type": "gap",
+      "header": "«___;» ρωτάει η νοσοκόμα.",
+      "answer": "Αντέχεις"
+    }
+  ]
+}

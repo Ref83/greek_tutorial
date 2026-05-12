@@ -1,0 +1,161 @@
+{
+  "exercises": [
+    {
+      "id": "e-home-b2-049",
+      "type": "select",
+      "header": "η κουζίνα",
+      "options": {"a": "dining room", "b": "hallway", "c": "bathroom", "d": "kitchen"},
+      "answer": "d"
+    },
+    {
+      "id": "e-home-b2-050",
+      "type": "gap",
+      "header": "Οι φίλοι μας κοιμούνται στο ___.",
+      "answer": "δωμάτιο φιλοξενίας"
+    },
+    {
+      "id": "e-home-b2-051",
+      "type": "blocks",
+      "header": "kitchen",
+      "answer": "κουζίνα",
+      "blocks": ["α", "ζ", "υ", "κ", "ν", "ο", "ί"]
+    },
+    {
+      "id": "e-home-b2-052",
+      "type": "select",
+      "header": "το σαλόνι",
+      "options": {"a": "dining room", "b": "kitchen", "c": "toilet", "d": "living room / lounge"},
+      "answer": "d"
+    },
+    {
+      "id": "e-home-b2-053",
+      "type": "gap",
+      "header": "Ανεβαίνω τη ___ κάθε μέρα.",
+      "answer": "σκάλα"
+    },
+    {
+      "id": "e-home-b2-054",
+      "type": "blocks",
+      "header": "living room / lounge",
+      "answer": "σαλόνι",
+      "blocks": ["α", "ν", "σ", "ι", "λ", "ό"]
+    },
+    {
+      "id": "e-home-b2-055",
+      "type": "writing",
+      "header": "guest room",
+      "answer": "δωμάτιο φιλοξενίας"
+    },
+    {
+      "id": "e-home-b2-056",
+      "type": "gap",
+      "header": "Η ___ είναι δίπλα στην κουζίνα.",
+      "answer": "τραπεζαρία"
+    },
+    {
+      "id": "e-home-b2-057",
+      "type": "blocks",
+      "header": "stairs / staircase",
+      "answer": "σκάλα",
+      "blocks": ["α", "λ", "κ", "ά", "σ"]
+    },
+    {
+      "id": "e-home-b2-058",
+      "type": "select",
+      "header": "η τραπεζαρία",
+      "options": {"a": "kitchen", "b": "dining room", "c": "bedroom", "d": "hallway"},
+      "answer": "b"
+    },
+    {
+      "id": "e-home-b2-059",
+      "type": "writing",
+      "header": "stairs / staircase",
+      "answer": "σκάλα"
+    },
+    {
+      "id": "e-home-b2-060",
+      "type": "gap",
+      "header": "Η κουζίνα είναι μεγάλη και ___.",
+      "answer": "φωτεινή"
+    },
+    {
+      "id": "e-home-b2-061",
+      "type": "blocks",
+      "header": "dining room",
+      "answer": "τραπεζαρία",
+      "blocks": ["ί", "ρ", "α", "τ", "π", "α", "ζ", "α", "ε", "ρ"]
+    },
+    {
+      "id": "e-home-b2-062",
+      "type": "select",
+      "header": "η κρεβατοκάμαρα",
+      "options": {"a": "guest room", "b": "children's room", "c": "study", "d": "bedroom"},
+      "answer": "d"
+    },
+    {
+      "id": "e-home-b2-063",
+      "type": "gap",
+      "header": "Αφήσαμε τα παπούτσια στον ___.",
+      "answer": "διάδρομο"
+    },
+    {
+      "id": "e-home-b2-064",
+      "type": "blocks",
+      "header": "bedroom",
+      "answer": "κρεβατοκάμαρα",
+      "blocks": ["ά", "τ", "κ", "κ", "α", "ρ", "ε", "ο", "μ", "α", "α", "β", "ρ"]
+    },
+    {
+      "id": "e-home-b2-065",
+      "type": "select",
+      "header": "το μπάνιο",
+      "options": {"a": "toilet", "b": "room", "c": "bathroom", "d": "storage room"},
+      "answer": "c"
+    },
+    {
+      "id": "e-home-b2-066",
+      "type": "writing",
+      "header": "study / home office",
+      "answer": "γραφείο"
+    },
+    {
+      "id": "e-home-b2-067",
+      "type": "blocks",
+      "header": "bathroom",
+      "answer": "μπάνιο",
+      "blocks": ["ο", "π", "ν", "ά", "ι", "μ"]
+    },
+    {
+      "id": "e-home-b2-068",
+      "type": "gap",
+      "header": "Έχουμε τρεις ___ στο σπίτι.",
+      "answer": "κρεβατοκάμαρες"
+    },
+    {
+      "id": "e-home-b2-069",
+      "type": "select",
+      "header": "ο διάδρομος",
+      "options": {"a": "guest room", "b": "stairs", "c": "toilet", "d": "hallway / corridor"},
+      "answer": "d"
+    },
+    {
+      "id": "e-home-b2-070",
+      "type": "blocks",
+      "header": "study / home office",
+      "answer": "γραφείο",
+      "blocks": ["ε", "ρ", "ί", "γ", "ο", "φ", "α"]
+    },
+    {
+      "id": "e-home-b2-071",
+      "type": "gap",
+      "header": "Η ___ είναι γεμάτη παλιά πράγματα.",
+      "answer": "αποθήκη"
+    },
+    {
+      "id": "e-home-b2-072",
+      "type": "writing",
+      "header": "hallway / corridor",
+      "answer": "διάδρομος"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "exercises": [
+    {
+      "id": "e-hb-b2-025",
+      "type": "select",
+      "header": "η ναυτία",
+      "options": {"a": "flu", "b": "fever", "c": "nausea", "d": "injection"},
+      "answer": "c"
+    },
+    {
+      "id": "e-hb-b2-026",
+      "type": "select",
+      "header": "η γρίπη",
+      "options": {"a": "nausea", "b": "flu", "c": "examination", "d": "temperature"},
+      "answer": "b"
+    },
+    {
+      "id": "e-hb-b2-027",
+      "type": "blocks",
+      "header": "nausea",
+      "answer": "ναυτία",
+      "blocks": ["τ", "ν", "ί", "α", "υ", "α"]
+    },
+    {
+      "id": "e-hb-b2-028",
+      "type": "select",
+      "header": "η εξέταση",
+      "options": {"a": "temperature", "b": "nausea", "c": "examination / medical test", "d": "injection"},
+      "answer": "c"
+    },
+    {
+      "id": "e-hb-b2-029",
+      "type": "blocks",
+      "header": "flu",
+      "answer": "γρίπη",
+      "blocks": ["ί", "γ", "η", "π", "ρ"]
+    },
+    {
+      "id": "e-hb-b2-030",
+      "type": "writing",
+      "header": "nausea",
+      "answer": "ναυτία"
+    },
+    {
+      "id": "e-hb-b2-031",
+      "type": "blocks",
+      "header": "examination / medical test",
+      "answer": "εξέταση",
+      "blocks": ["σ", "ε", "τ", "ξ", "η", "έ", "α"]
+    },
+    {
+      "id": "e-hb-b2-032",
+      "type": "writing",
+      "header": "flu",
+      "answer": "γρίπη"
+    },
+    {
+      "id": "e-hb-b2-033",
+      "type": "gap",
+      "header": "Έχω ___ και δεν μπορώ να φάω.",
+      "answer": "ναυτία"
+    },
+    {
+      "id": "e-hb-b2-034",
+      "type": "writing",
+      "header": "examination / medical test",
+      "answer": "εξέταση"
+    },
+    {
+      "id": "e-hb-b2-035",
+      "type": "gap",
+      "header": "Έχω ___ και μένω σπίτι μια εβδομάδα.",
+      "answer": "γρίπη"
+    },
+    {
+      "id": "e-hb-b2-036",
+      "type": "gap",
+      "header": "Ο γιατρός κάνει μια ___ αίματος.",
+      "answer": "εξέταση"
+    },
+    {
+      "id": "e-hb-b2-037",
+      "type": "select",
+      "header": "μετράω τη θερμοκρασία",
+      "options": {"a": "to take someone's temperature", "b": "to give an injection", "c": "to examine", "d": "to feel tired"},
+      "answer": "a"
+    },
+    {
+      "id": "e-hb-b2-038",
+      "type": "select",
+      "header": "η θερμοκρασία",
+      "options": {"a": "injection", "b": "examination", "c": "flu", "d": "temperature"},
+      "answer": "d"
+    },
+    {
+      "id": "e-hb-b2-039",
+      "type": "blocks",
+      "header": "to take someone's temperature",
+      "answer": "μετράω",
+      "blocks": ["ω", "μ", "ά", "τ", "ε", "ρ"]
+    },
+    {
+      "id": "e-hb-b2-040",
+      "type": "select",
+      "header": "η ένεση",
+      "options": {"a": "temperature", "b": "injection / shot", "c": "nausea", "d": "headache"},
+      "answer": "b"
+    },
+    {
+      "id": "e-hb-b2-041",
+      "type": "blocks",
+      "header": "temperature",
+      "answer": "θερμοκρασία",
+      "blocks": ["σ", "θ", "ο", "ρ", "κ", "α", "ε", "ί", "μ", "ρ", "α"]
+    },
+    {
+      "id": "e-hb-b2-042",
+      "type": "writing",
+      "header": "to take someone's temperature",
+      "answer": "μετράω"
+    },
+    {
+      "id": "e-hb-b2-043",
+      "type": "blocks",
+      "header": "injection / shot",
+      "answer": "ένεση",
+      "blocks": ["σ", "ε", "ν", "η", "έ"]
+    },
+    {
+      "id": "e-hb-b2-044",
+      "type": "writing",
+      "header": "temperature",
+      "answer": "θερμοκρασία"
+    },
+    {
+      "id": "e-hb-b2-045",
+      "type": "gap",
+      "header": "Ο γιατρός ___ τη θερμοκρασία μου.",
+      "answer": "μετράει"
+    },
+    {
+      "id": "e-hb-b2-046",
+      "type": "writing",
+      "header": "injection / shot",
+      "answer": "ένεση"
+    },
+    {
+      "id": "e-hb-b2-047",
+      "type": "gap",
+      "header": "Η ___ μου είναι 39 βαθμοί.",
+      "answer": "θερμοκρασία"
+    },
+    {
+      "id": "e-hb-b2-048",
+      "type": "gap",
+      "header": "Ο γιατρός μου κάνει μια ___.",
+      "answer": "ένεση"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "exercises": [
+    {
+      "id": "e-nd-b2-001",
+      "type": "select",
+      "header": "η Δευτέρα",
+      "options": {"a": "Tuesday", "b": "Sunday", "c": "Monday", "d": "Wednesday"},
+      "answer": "c"
+    },
+    {
+      "id": "e-nd-b2-002",
+      "type": "select",
+      "header": "η Τρίτη",
+      "options": {"a": "Monday", "b": "Tuesday", "c": "Thursday", "d": "Saturday"},
+      "answer": "b"
+    },
+    {
+      "id": "e-nd-b2-003",
+      "type": "blocks",
+      "header": "Monday",
+      "answer": "Δευτέρα",
+      "blocks": ["τ", "Δ", "α", "ε", "υ", "έ", "ρ"]
+    },
+    {
+      "id": "e-nd-b2-004",
+      "type": "select",
+      "header": "η Τετάρτη",
+      "options": {"a": "Thursday", "b": "Tuesday", "c": "Friday", "d": "Wednesday"},
+      "answer": "d"
+    },
+    {
+      "id": "e-nd-b2-005",
+      "type": "blocks",
+      "header": "Tuesday",
+      "answer": "Τρίτη",
+      "blocks": ["ί", "Τ", "η", "τ", "ρ"]
+    },
+    {
+      "id": "e-nd-b2-006",
+      "type": "writing",
+      "header": "Monday",
+      "answer": "Δευτέρα"
+    },
+    {
+      "id": "e-nd-b2-007",
+      "type": "blocks",
+      "header": "Wednesday",
+      "answer": "Τετάρτη",
+      "blocks": ["τ", "τ", "Τ", "η", "ά", "ε", "ρ"]
+    },
+    {
+      "id": "e-nd-b2-008",
+      "type": "writing",
+      "header": "Tuesday",
+      "answer": "Τρίτη"
+    },
+    {
+      "id": "e-nd-b2-009",
+      "type": "gap",
+      "header": "Τη ___ πηγαίνω στη δουλειά.",
+      "answer": "Δευτέρα"
+    },
+    {
+      "id": "e-nd-b2-010",
+      "type": "writing",
+      "header": "Wednesday",
+      "answer": "Τετάρτη"
+    },
+    {
+      "id": "e-nd-b2-011",
+      "type": "gap",
+      "header": "Την ___ έχω μάθημα ελληνικών.",
+      "answer": "Τρίτη"
+    },
+    {
+      "id": "e-nd-b2-012",
+      "type": "gap",
+      "header": "Την ___ γυμνάζομαι.",
+      "answer": "Τετάρτη"
+    },
+    {
+      "id": "e-nd-b2-013",
+      "type": "select",
+      "header": "η Πέμπτη",
+      "options": {"a": "Wednesday", "b": "Thursday", "c": "Friday", "d": "Sunday"},
+      "answer": "b"
+    },
+    {
+      "id": "e-nd-b2-014",
+      "type": "select",
+      "header": "η Παρασκευή",
+      "options": {"a": "Saturday", "b": "Thursday", "c": "Friday", "d": "Monday"},
+      "answer": "c"
+    },
+    {
+      "id": "e-nd-b2-015",
+      "type": "blocks",
+      "header": "Thursday",
+      "answer": "Πέμπτη",
+      "blocks": ["μ", "η", "Π", "έ", "π", "τ"]
+    },
+    {
+      "id": "e-nd-b2-016",
+      "type": "select",
+      "header": "το Σάββατο",
+      "options": {"a": "Sunday", "b": "Friday", "c": "Saturday", "d": "Tuesday"},
+      "answer": "c"
+    },
+    {
+      "id": "e-nd-b2-017",
+      "type": "blocks",
+      "header": "Friday",
+      "answer": "Παρασκευή",
+      "blocks": ["α", "Π", "κ", "ρ", "ε", "υ", "α", "σ", "ή"]
+    },
+    {
+      "id": "e-nd-b2-018",
+      "type": "writing",
+      "header": "Thursday",
+      "answer": "Πέμπτη"
+    },
+    {
+      "id": "e-nd-b2-019",
+      "type": "blocks",
+      "header": "Saturday",
+      "answer": "Σάββατο",
+      "blocks": ["τ", "Σ", "β", "ά", "ο", "β", "α"]
+    },
+    {
+      "id": "e-nd-b2-020",
+      "type": "writing",
+      "header": "Friday",
+      "answer": "Παρασκευή"
+    },
+    {
+      "id": "e-nd-b2-021",
+      "type": "gap",
+      "header": "Την ___ βλέπω τους φίλους μου.",
+      "answer": "Πέμπτη"
+    },
+    {
+      "id": "e-nd-b2-022",
+      "type": "writing",
+      "header": "Saturday",
+      "answer": "Σάββατο"
+    },
+    {
+      "id": "e-nd-b2-023",
+      "type": "gap",
+      "header": "Χαίρομαι που είναι ___!",
+      "answer": "Παρασκευή"
+    },
+    {
+      "id": "e-nd-b2-024",
+      "type": "gap",
+      "header": "Το ___ κάνω ψώνια.",
+      "answer": "Σάββατο"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "exercises": [
+    {
+      "id": "e-pi-b2-049",
+      "type": "gap",
+      "header": "___ από τη Θεσσαλονίκη.",
+      "answer": "Κατάγομαι"
+    },
+    {
+      "id": "e-pi-b2-050",
+      "type": "select",
+      "header": "η γυναίκα",
+      "options": {"a": "sister", "b": "mother", "c": "language", "d": "wife"},
+      "answer": "d"
+    },
+    {
+      "id": "e-pi-b2-051",
+      "type": "blocks",
+      "header": "husband",
+      "answer": "σύζυγος",
+      "blocks": ["υ", "σ", "ζ", "γ", "ύ", "ς", "ο"]
+    },
+    {
+      "id": "e-pi-b2-052",
+      "type": "writing",
+      "header": "family",
+      "answer": "οικογένεια"
+    },
+    {
+      "id": "e-pi-b2-053",
+      "type": "gap",
+      "header": "Τώρα ___ στη Λεμεσό.",
+      "answer": "μένω"
+    },
+    {
+      "id": "e-pi-b2-054",
+      "type": "select",
+      "header": "το παιδί",
+      "options": {"a": "parents", "b": "child", "c": "husband", "d": "brother"},
+      "answer": "b"
+    },
+    {
+      "id": "e-pi-b2-055",
+      "type": "blocks",
+      "header": "wife",
+      "answer": "γυναίκα",
+      "blocks": ["κ", "ν", "γ", "α", "υ", "ί", "α"]
+    },
+    {
+      "id": "e-pi-b2-056",
+      "type": "writing",
+      "header": "husband",
+      "answer": "σύζυγος"
+    },
+    {
+      "id": "e-pi-b2-057",
+      "type": "gap",
+      "header": "Μιλώ δύο ___, ελληνικά και αγγλικά.",
+      "answer": "γλώσσες"
+    },
+    {
+      "id": "e-pi-b2-058",
+      "type": "select",
+      "header": "ο αδελφός",
+      "options": {"a": "father", "b": "child", "c": "brother", "d": "family"},
+      "answer": "c"
+    },
+    {
+      "id": "e-pi-b2-059",
+      "type": "blocks",
+      "header": "child",
+      "answer": "παιδί",
+      "blocks": ["δ", "π", "ι", "α", "ί"]
+    },
+    {
+      "id": "e-pi-b2-060",
+      "type": "writing",
+      "header": "wife",
+      "answer": "γυναίκα"
+    },
+    {
+      "id": "e-pi-b2-061",
+      "type": "gap",
+      "header": "Αγαπώ πολύ την ___ μου.",
+      "answer": "οικογένειά"
+    },
+    {
+      "id": "e-pi-b2-062",
+      "type": "select",
+      "header": "η αδελφή",
+      "options": {"a": "mother", "b": "sister", "c": "child", "d": "to come from"},
+      "answer": "b"
+    },
+    {
+      "id": "e-pi-b2-063",
+      "type": "blocks",
+      "header": "brother",
+      "answer": "αδελφός",
+      "blocks": ["φ", "ε", "λ", "ά", "δ", "ο", "ς"]
+    },
+    {
+      "id": "e-pi-b2-064",
+      "type": "writing",
+      "header": "child",
+      "answer": "παιδί"
+    },
+    {
+      "id": "e-pi-b2-065",
+      "type": "gap",
+      "header": "Ο ___ μου δουλεύει ως γιατρός.",
+      "answer": "σύζυγός"
+    },
+    {
+      "id": "e-pi-b2-066",
+      "type": "select",
+      "header": "οι γονείς",
+      "options": {"a": "language", "b": "to live", "c": "parents", "d": "wife"},
+      "answer": "c"
+    },
+    {
+      "id": "e-pi-b2-067",
+      "type": "blocks",
+      "header": "sister",
+      "answer": "αδελφή",
+      "blocks": ["φ", "η", "ε", "λ", "α", "δ"]
+    },
+    {
+      "id": "e-pi-b2-068",
+      "type": "writing",
+      "header": "brother",
+      "answer": "αδελφός"
+    },
+    {
+      "id": "e-pi-b2-069",
+      "type": "gap",
+      "header": "Η ___ μου μένει κοντά μας.",
+      "answer": "μητέρα"
+    },
+    {
+      "id": "e-pi-b2-070",
+      "type": "select",
+      "header": "ο πατέρας",
+      "options": {"a": "brother", "b": "family", "c": "to come from", "d": "father"},
+      "answer": "d"
+    },
+    {
+      "id": "e-pi-b2-071",
+      "type": "blocks",
+      "header": "parents",
+      "answer": "γονείς",
+      "blocks": ["ε", "γ", "ς", "ν", "ο", "ί"]
+    },
+    {
+      "id": "e-pi-b2-072",
+      "type": "writing",
+      "header": "sister",
+      "answer": "αδελφή"
+    }
+  ]
+}

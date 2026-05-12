@@ -1,0 +1,163 @@
+{
+  "exercises": [
+    {
+      "id": "e-sh-b2-001",
+      "type": "select",
+      "header": "το γλυκό",
+      "options": {"a": "cake", "b": "sweet / dessert", "c": "croissant", "d": "donut"},
+      "answer": "b"
+    },
+    {
+      "id": "e-sh-b2-002",
+      "type": "select",
+      "header": "το κέικ",
+      "options": {"a": "layer cake / torte", "b": "biscuit / cookie", "c": "cake", "d": "muffin"},
+      "answer": "c"
+    },
+    {
+      "id": "e-sh-b2-003",
+      "type": "blocks",
+      "header": "sweet / dessert",
+      "answer": "γλυκό",
+      "blocks": ["κ", "λ", "ό", "γ", "υ"]
+    },
+    {
+      "id": "e-sh-b2-004",
+      "type": "select",
+      "header": "η τούρτα",
+      "options": {"a": "cake", "b": "croissant", "c": "sweet braided bread", "d": "layer cake / torte"},
+      "answer": "d"
+    },
+    {
+      "id": "e-sh-b2-005",
+      "type": "blocks",
+      "header": "cake",
+      "answer": "κέικ",
+      "blocks": ["ι", "κ", "κ", "έ"]
+    },
+    {
+      "id": "e-sh-b2-006",
+      "type": "writing",
+      "header": "sweet / dessert",
+      "answer": "γλυκό"
+    },
+    {
+      "id": "e-sh-b2-007",
+      "type": "select",
+      "header": "το μπισκότο",
+      "options": {"a": "donut", "b": "biscuit / cookie", "c": "muffin", "d": "apple pie"},
+      "answer": "b"
+    },
+    {
+      "id": "e-sh-b2-008",
+      "type": "blocks",
+      "header": "layer cake / torte",
+      "answer": "τούρτα",
+      "blocks": ["α", "τ", "ρ", "ύ", "τ", "ο"]
+    },
+    {
+      "id": "e-sh-b2-009",
+      "type": "writing",
+      "header": "cake",
+      "answer": "κέικ"
+    },
+    {
+      "id": "e-sh-b2-010",
+      "type": "gap",
+      "header": "Θέλω ένα ___ με τον καφέ μου.",
+      "answer": "γλυκό"
+    },
+    {
+      "id": "e-sh-b2-011",
+      "type": "select",
+      "header": "το κρουασάν",
+      "options": {"a": "sweet braided bread", "b": "baklava", "c": "croissant", "d": "pastry roll / Swiss roll"},
+      "answer": "c"
+    },
+    {
+      "id": "e-sh-b2-012",
+      "type": "blocks",
+      "header": "biscuit / cookie",
+      "answer": "μπισκότο",
+      "blocks": ["σ", "τ", "μ", "π", "ο", "κ", "ό", "ι"]
+    },
+    {
+      "id": "e-sh-b2-013",
+      "type": "writing",
+      "header": "layer cake / torte",
+      "answer": "τούρτα"
+    },
+    {
+      "id": "e-sh-b2-014",
+      "type": "gap",
+      "header": "Φτιάχνω ένα ___ σοκολάτας.",
+      "answer": "κέικ"
+    },
+    {
+      "id": "e-sh-b2-015",
+      "type": "select",
+      "header": "το τσουρέκι",
+      "options": {"a": "kataifi (shredded wheat pastry)", "b": "sweet braided bread", "c": "donut", "d": "biscuit / cookie"},
+      "answer": "b"
+    },
+    {
+      "id": "e-sh-b2-016",
+      "type": "blocks",
+      "header": "croissant",
+      "answer": "κρουασάν",
+      "blocks": ["α", "σ", "κ", "υ", "ο", "ά", "ρ", "ν"]
+    },
+    {
+      "id": "e-sh-b2-017",
+      "type": "writing",
+      "header": "biscuit / cookie",
+      "answer": "μπισκότο"
+    },
+    {
+      "id": "e-sh-b2-018",
+      "type": "gap",
+      "header": "Παραγγέλνω ___ για τα γενέθλιά μου.",
+      "answer": "τούρτα"
+    },
+    {
+      "id": "e-sh-b2-019",
+      "type": "select",
+      "header": "ο μπακλαβάς",
+      "options": {"a": "donut", "b": "pastry roll / Swiss roll", "c": "baklava", "d": "muffin"},
+      "answer": "c"
+    },
+    {
+      "id": "e-sh-b2-020",
+      "type": "blocks",
+      "header": "sweet braided bread",
+      "answer": "τσουρέκι",
+      "blocks": ["κ", "σ", "τ", "ι", "ε", "ρ", "ύ", "ο"]
+    },
+    {
+      "id": "e-sh-b2-021",
+      "type": "writing",
+      "header": "croissant",
+      "answer": "κρουασάν"
+    },
+    {
+      "id": "e-sh-b2-022",
+      "type": "gap",
+      "header": "Τρώω μπισκότα με τον ___ μου.",
+      "answer": "καφέ"
+    },
+    {
+      "id": "e-sh-b2-023",
+      "type": "select",
+      "header": "το ντόνατ",
+      "options": {"a": "muffin", "b": "apple pie", "c": "biscuit / cookie", "d": "donut"},
+      "answer": "d"
+    },
+    {
+      "id": "e-sh-b2-024",
+      "type": "blocks",
+      "header": "baklava",
+      "answer": "μπακλαβάς",
+      "blocks": ["λ", "ά", "β", "κ", "μ", "π", "α", "ά", "σ"]
+    }
+  ]
+}

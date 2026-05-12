@@ -1,0 +1,160 @@
+{
+  "exercises": [
+    {
+      "id": "e-sh-b2-025",
+      "type": "writing",
+      "header": "sweet braided bread",
+      "answer": "τσουρέκι"
+    },
+    {
+      "id": "e-sh-b2-026",
+      "type": "gap",
+      "header": "Θέλω ___ με βούτυρο.",
+      "answer": "κρουασάν"
+    },
+    {
+      "id": "e-sh-b2-027",
+      "type": "select",
+      "header": "το μάφιν",
+      "options": {"a": "donut", "b": "pastry roll / Swiss roll", "c": "muffin", "d": "baklava"},
+      "answer": "c"
+    },
+    {
+      "id": "e-sh-b2-028",
+      "type": "blocks",
+      "header": "donut",
+      "answer": "ντόνατ",
+      "blocks": ["ά", "ν", "τ", "ο", "τ", "δ"]
+    },
+    {
+      "id": "e-sh-b2-029",
+      "type": "writing",
+      "header": "baklava",
+      "answer": "μπακλαβάς"
+    },
+    {
+      "id": "e-sh-b2-030",
+      "type": "gap",
+      "header": "Τρώμε ___ το Πάσχα.",
+      "answer": "τσουρέκι"
+    },
+    {
+      "id": "e-sh-b2-031",
+      "type": "select",
+      "header": "η μηλόπιτα",
+      "options": {"a": "kataifi (shredded wheat pastry)", "b": "apple pie", "c": "muffin", "d": "sweet braided bread"},
+      "answer": "b"
+    },
+    {
+      "id": "e-sh-b2-032",
+      "type": "blocks",
+      "header": "muffin",
+      "answer": "μάφιν",
+      "blocks": ["ν", "α", "ι", "φ", "μ"]
+    },
+    {
+      "id": "e-sh-b2-033",
+      "type": "writing",
+      "header": "donut",
+      "answer": "ντόνατ"
+    },
+    {
+      "id": "e-sh-b2-034",
+      "type": "gap",
+      "header": "Αγοράζω ___ από το ζαχαροπλαστείο.",
+      "answer": "μπακλαβά"
+    },
+    {
+      "id": "e-sh-b2-035",
+      "type": "select",
+      "header": "το κανταΐφι",
+      "options": {"a": "pastry roll / Swiss roll", "b": "apple pie", "c": "donut", "d": "kataifi (shredded wheat pastry)"},
+      "answer": "d"
+    },
+    {
+      "id": "e-sh-b2-036",
+      "type": "blocks",
+      "header": "apple pie",
+      "answer": "μηλόπιτα",
+      "blocks": ["π", "η", "ι", "α", "λ", "τ", "ό", "μ"]
+    },
+    {
+      "id": "e-sh-b2-037",
+      "type": "writing",
+      "header": "muffin",
+      "answer": "μάφιν"
+    },
+    {
+      "id": "e-sh-b2-038",
+      "type": "gap",
+      "header": "Τα παιδιά αγαπούν τα ___.",
+      "answer": "ντόνατ"
+    },
+    {
+      "id": "e-sh-b2-039",
+      "type": "select",
+      "header": "το ρολό",
+      "options": {"a": "kataifi (shredded wheat pastry)", "b": "sweet braided bread", "c": "pastry roll / Swiss roll", "d": "cake"},
+      "answer": "c"
+    },
+    {
+      "id": "e-sh-b2-040",
+      "type": "blocks",
+      "header": "kataifi (shredded wheat pastry)",
+      "answer": "κανταΐφι",
+      "blocks": ["ΐ", "τ", "ν", "α", "κ", "α", "φ", "ι"]
+    },
+    {
+      "id": "e-sh-b2-041",
+      "type": "writing",
+      "header": "apple pie",
+      "answer": "μηλόπιτα"
+    },
+    {
+      "id": "e-sh-b2-042",
+      "type": "gap",
+      "header": "Φτιάχνω ___ με μύρτιλα.",
+      "answer": "μάφιν"
+    },
+    {
+      "id": "e-sh-b2-043",
+      "type": "select",
+      "header": "το γλυκό",
+      "options": {"a": "croissant", "b": "layer cake / torte", "c": "sweet / dessert", "d": "biscuit / cookie"},
+      "answer": "c"
+    },
+    {
+      "id": "e-sh-b2-044",
+      "type": "blocks",
+      "header": "pastry roll / Swiss roll",
+      "answer": "ρολό",
+      "blocks": ["ό", "ο", "ρ", "λ"]
+    },
+    {
+      "id": "e-sh-b2-045",
+      "type": "writing",
+      "header": "kataifi (shredded wheat pastry)",
+      "answer": "κανταΐφι"
+    },
+    {
+      "id": "e-sh-b2-046",
+      "type": "gap",
+      "header": "Η ___ μυρίζει κανέλα.",
+      "answer": "μηλόπιτα"
+    },
+    {
+      "id": "e-sh-b2-047",
+      "type": "select",
+      "header": "το κέικ",
+      "options": {"a": "pastry roll / Swiss roll", "b": "cake", "c": "sweet braided bread", "d": "apple pie"},
+      "answer": "b"
+    },
+    {
+      "id": "e-sh-b2-048",
+      "type": "blocks",
+      "header": "sweet / dessert",
+      "answer": "γλυκό",
+      "blocks": ["υ", "γ", "ό", "κ", "λ"]
+    }
+  ]
+}

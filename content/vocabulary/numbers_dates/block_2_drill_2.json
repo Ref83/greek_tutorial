@@ -1,0 +1,160 @@
+{
+  "exercises": [
+    {
+      "id": "e-nd-b2-025",
+      "type": "select",
+      "header": "η Κυριακή",
+      "options": {"a": "Saturday", "b": "Monday", "c": "Friday", "d": "Sunday"},
+      "answer": "d"
+    },
+    {
+      "id": "e-nd-b2-026",
+      "type": "select",
+      "header": "έντεκα",
+      "options": {"a": "twelve", "b": "eleven", "c": "twenty", "d": "fifty"},
+      "answer": "b"
+    },
+    {
+      "id": "e-nd-b2-027",
+      "type": "blocks",
+      "header": "Sunday",
+      "answer": "Κυριακή",
+      "blocks": ["α", "Κ", "κ", "υ", "ρ", "ι", "ή"]
+    },
+    {
+      "id": "e-nd-b2-028",
+      "type": "select",
+      "header": "δώδεκα",
+      "options": {"a": "eleven", "b": "one hundred", "c": "twelve", "d": "twenty"},
+      "answer": "c"
+    },
+    {
+      "id": "e-nd-b2-029",
+      "type": "blocks",
+      "header": "eleven",
+      "answer": "έντεκα",
+      "blocks": ["ε", "έ", "κ", "τ", "ν", "α"]
+    },
+    {
+      "id": "e-nd-b2-030",
+      "type": "writing",
+      "header": "Sunday",
+      "answer": "Κυριακή"
+    },
+    {
+      "id": "e-nd-b2-031",
+      "type": "blocks",
+      "header": "twelve",
+      "answer": "δώδεκα",
+      "blocks": ["ε", "δ", "κ", "ώ", "δ", "α"]
+    },
+    {
+      "id": "e-nd-b2-032",
+      "type": "writing",
+      "header": "eleven",
+      "answer": "έντεκα"
+    },
+    {
+      "id": "e-nd-b2-033",
+      "type": "gap",
+      "header": "Την ___ ξεκουράζομαι.",
+      "answer": "Κυριακή"
+    },
+    {
+      "id": "e-nd-b2-034",
+      "type": "writing",
+      "header": "twelve",
+      "answer": "δώδεκα"
+    },
+    {
+      "id": "e-nd-b2-035",
+      "type": "gap",
+      "header": "Μένω ξύπνιος μέχρι τις ___.",
+      "answer": "έντεκα"
+    },
+    {
+      "id": "e-nd-b2-036",
+      "type": "gap",
+      "header": "Ο χρόνος έχει ___ μήνες.",
+      "answer": "δώδεκα"
+    },
+    {
+      "id": "e-nd-b2-037",
+      "type": "select",
+      "header": "είκοσι",
+      "options": {"a": "fifty", "b": "twelve", "c": "one hundred", "d": "twenty"},
+      "answer": "d"
+    },
+    {
+      "id": "e-nd-b2-038",
+      "type": "select",
+      "header": "πενήντα",
+      "options": {"a": "twenty", "b": "fifty", "c": "eleven", "d": "one hundred"},
+      "answer": "b"
+    },
+    {
+      "id": "e-nd-b2-039",
+      "type": "blocks",
+      "header": "twenty",
+      "answer": "είκοσι",
+      "blocks": ["κ", "ε", "ο", "ί", "σ", "ι"]
+    },
+    {
+      "id": "e-nd-b2-040",
+      "type": "select",
+      "header": "εκατό",
+      "options": {"a": "twenty", "b": "eleven", "c": "one hundred", "d": "fifty"},
+      "answer": "c"
+    },
+    {
+      "id": "e-nd-b2-041",
+      "type": "blocks",
+      "header": "fifty",
+      "answer": "πενήντα",
+      "blocks": ["ή", "ν", "π", "τ", "ε", "α", "ν"]
+    },
+    {
+      "id": "e-nd-b2-042",
+      "type": "writing",
+      "header": "twenty",
+      "answer": "είκοσι"
+    },
+    {
+      "id": "e-nd-b2-043",
+      "type": "blocks",
+      "header": "one hundred",
+      "answer": "εκατό",
+      "blocks": ["τ", "α", "ε", "ό", "κ"]
+    },
+    {
+      "id": "e-nd-b2-044",
+      "type": "writing",
+      "header": "fifty",
+      "answer": "πενήντα"
+    },
+    {
+      "id": "e-nd-b2-045",
+      "type": "gap",
+      "header": "Η τάξη μου έχει ___ μαθητές.",
+      "answer": "είκοσι"
+    },
+    {
+      "id": "e-nd-b2-046",
+      "type": "writing",
+      "header": "one hundred",
+      "answer": "εκατό"
+    },
+    {
+      "id": "e-nd-b2-047",
+      "type": "gap",
+      "header": "Αυτό κοστίζει ___ ευρώ.",
+      "answer": "πενήντα"
+    },
+    {
+      "id": "e-nd-b2-048",
+      "type": "gap",
+      "header": "Η τιμή ήταν ακριβώς ___ ευρώ.",
+      "answer": "εκατό"
+    }
+  ]
+}

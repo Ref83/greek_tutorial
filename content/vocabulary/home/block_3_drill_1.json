@@ -1,0 +1,200 @@
+{
+  "exercises": [
+    {
+      "id": "e-home-b3-001",
+      "type": "select",
+      "header": "το κρεβάτι",
+      "options": {"a": "wardrobe", "b": "desk", "c": "bed", "d": "shelf"},
+      "answer": "c"
+    },
+    {
+      "id": "e-home-b3-002",
+      "type": "select",
+      "header": "το γραφείο",
+      "options": {"a": "chair", "b": "lamp", "c": "sofa", "d": "desk"},
+      "answer": "d"
+    },
+    {
+      "id": "e-home-b3-003",
+      "type": "blocks",
+      "header": "bed",
+      "answer": "κρεβάτι",
+      "blocks": ["τ", "κ", "ά", "β", "ε", "ι", "ρ"]
+    },
+    {
+      "id": "e-home-b3-004",
+      "type": "select",
+      "header": "η καρέκλα",
+      "options": {"a": "bed", "b": "chair", "c": "sofa", "d": "wardrobe"},
+      "answer": "b"
+    },
+    {
+      "id": "e-home-b3-005",
+      "type": "blocks",
+      "header": "desk",
+      "answer": "γραφείο",
+      "blocks": ["ί", "α", "φ", "ε", "ρ", "γ", "ο"]
+    },
+    {
+      "id": "e-home-b3-006",
+      "type": "select",
+      "header": "ο καναπές",
+      "options": {"a": "armchair", "b": "curtain", "c": "sofa / couch", "d": "mirror"},
+      "answer": "c"
+    },
+    {
+      "id": "e-home-b3-007",
+      "type": "writing",
+      "header": "bed",
+      "answer": "κρεβάτι"
+    },
+    {
+      "id": "e-home-b3-008",
+      "type": "blocks",
+      "header": "chair",
+      "answer": "καρέκλα",
+      "blocks": ["λ", "έ", "κ", "α", "α", "ρ", "κ"]
+    },
+    {
+      "id": "e-home-b3-009",
+      "type": "select",
+      "header": "η κουρτίνα",
+      "options": {"a": "carpet", "b": "curtain", "c": "shelf", "d": "lamp"},
+      "answer": "b"
+    },
+    {
+      "id": "e-home-b3-010",
+      "type": "writing",
+      "header": "desk",
+      "answer": "γραφείο"
+    },
+    {
+      "id": "e-home-b3-011",
+      "type": "blocks",
+      "header": "sofa / couch",
+      "answer": "καναπές",
+      "blocks": ["ν", "α", "π", "έ", "κ", "σ", "α"]
+    },
+    {
+      "id": "e-home-b3-012",
+      "type": "gap",
+      "header": "Στρώνω το ___ κάθε πρωί.",
+      "answer": "κρεβάτι"
+    },
+    {
+      "id": "e-home-b3-013",
+      "type": "writing",
+      "header": "chair",
+      "answer": "καρέκλα"
+    },
+    {
+      "id": "e-home-b3-014",
+      "type": "blocks",
+      "header": "curtain",
+      "answer": "κουρτίνα",
+      "blocks": ["ν", "τ", "ί", "κ", "α", "ο", "ρ", "υ"]
+    },
+    {
+      "id": "e-home-b3-015",
+      "type": "gap",
+      "header": "Διαβάζω στο ___ μου.",
+      "answer": "γραφείο"
+    },
+    {
+      "id": "e-home-b3-016",
+      "type": "writing",
+      "header": "sofa / couch",
+      "answer": "καναπές"
+    },
+    {
+      "id": "e-home-b3-017",
+      "type": "select",
+      "header": "ο καθρέφτης",
+      "options": {"a": "table", "b": "wardrobe", "c": "mirror", "d": "rug"},
+      "answer": "c"
+    },
+    {
+      "id": "e-home-b3-018",
+      "type": "gap",
+      "header": "Κάθομαι στην ___ μπροστά στο γραφείο.",
+      "answer": "καρέκλα"
+    },
+    {
+      "id": "e-home-b3-019",
+      "type": "blocks",
+      "header": "mirror",
+      "answer": "καθρέφτης",
+      "blocks": ["ρ", "τ", "κ", "φ", "η", "ε", "θ", "ά", "σ"]
+    },
+    {
+      "id": "e-home-b3-020",
+      "type": "gap",
+      "header": "Κάθομαι στον ___ και βλέπω τηλεόραση.",
+      "answer": "καναπέ"
+    },
+    {
+      "id": "e-home-b3-021",
+      "type": "writing",
+      "header": "curtain",
+      "answer": "κουρτίνα"
+    },
+    {
+      "id": "e-home-b3-022",
+      "type": "select",
+      "header": "το τραπέζι",
+      "options": {"a": "shelf", "b": "bedside table", "c": "table", "d": "lamp"},
+      "answer": "c"
+    },
+    {
+      "id": "e-home-b3-023",
+      "type": "gap",
+      "header": "Κλείνω τις ___ τη νύχτα.",
+      "answer": "κουρτίνες"
+    },
+    {
+      "id": "e-home-b3-024",
+      "type": "blocks",
+      "header": "table",
+      "answer": "τραπέζι",
+      "blocks": ["ζ", "τ", "έ", "π", "ι", "α", "ρ"]
+    },
+    {
+      "id": "e-home-b3-025",
+      "type": "writing",
+      "header": "mirror",
+      "answer": "καθρέφτης"
+    },
+    {
+      "id": "e-home-b3-026",
+      "type": "gap",
+      "header": "Κοιτάζομαι στον ___ κάθε πρωί.",
+      "answer": "καθρέφτη"
+    },
+    {
+      "id": "e-home-b3-027",
+      "type": "blocks",
+      "header": "bed",
+      "answer": "κρεβάτι",
+      "blocks": ["ε", "ί", "β", "κ", "τ", "ρ", "α"]
+    },
+    {
+      "id": "e-home-b3-028",
+      "type": "select",
+      "header": "η ντουλάπα",
+      "options": {"a": "table", "b": "wardrobe / closet", "c": "bookcase", "d": "chair"},
+      "answer": "b"
+    },
+    {
+      "id": "e-home-b3-029",
+      "type": "gap",
+      "header": "Τρώμε στο ___ της κουζίνας.",
+      "answer": "τραπέζι"
+    },
+    {
+      "id": "e-home-b3-030",
+      "type": "writing",
+      "header": "table",
+      "answer": "τραπέζι"
+    }
+  ]
+}

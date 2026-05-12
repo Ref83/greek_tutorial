@@ -1,0 +1,160 @@
+{
+  "exercises": [
+    {
+      "id": "e-da-b3-049",
+      "type": "gap",
+      "header": "Πέρασα πολύ καλά χθες το βράδυ!",
+      "answer": "καλά"
+    },
+    {
+      "id": "e-da-b3-050",
+      "type": "select",
+      "header": "διαβάζω",
+      "options": {"a": "to go out", "b": "to exercise", "c": "to listen to music", "d": "to read (for pleasure)"},
+      "answer": "d"
+    },
+    {
+      "id": "e-da-b3-051",
+      "type": "blocks",
+      "header": "to be into / deal with",
+      "answer": "ασχολούμαι",
+      "blocks": ["σ", "α", "λ", "μ", "ο", "χ", "ά", "υ", "ι"]
+    },
+    {
+      "id": "e-da-b3-052",
+      "type": "writing",
+      "header": "free time / leisure time",
+      "answer": "ελεύθερος χρόνος"
+    },
+    {
+      "id": "e-da-b3-053",
+      "type": "gap",
+      "header": "___ τον καφέ μου κάθε πρωί.",
+      "answer": "Απολαμβάνω"
+    },
+    {
+      "id": "e-da-b3-054",
+      "type": "select",
+      "header": "ακούω μουσική",
+      "options": {"a": "to rest", "b": "to enjoy", "c": "to listen to music", "d": "to have a good time"},
+      "answer": "c"
+    },
+    {
+      "id": "e-da-b3-055",
+      "type": "blocks",
+      "header": "to read (for pleasure)",
+      "answer": "διαβάζω",
+      "blocks": ["ά", "ι", "ω", "ζ", "α", "β", "δ"]
+    },
+    {
+      "id": "e-da-b3-056",
+      "type": "writing",
+      "header": "to be into / deal with",
+      "answer": "ασχολούμαι με"
+    },
+    {
+      "id": "e-da-b3-057",
+      "type": "gap",
+      "header": "Με τι ασχολείσαι στον ελεύθερο χρόνο σου;",
+      "answer": "ασχολείσαι"
+    },
+    {
+      "id": "e-da-b3-058",
+      "type": "select",
+      "header": "βλέπω ταινία / σειρά",
+      "options": {"a": "to play", "b": "to watch a movie / series", "c": "to go for a walk", "d": "to exercise"},
+      "answer": "b"
+    },
+    {
+      "id": "e-da-b3-059",
+      "type": "blocks",
+      "header": "to listen to music",
+      "answer": "ακούω",
+      "blocks": ["κ", "α", "ω", "ο", "ύ"]
+    },
+    {
+      "id": "e-da-b3-060",
+      "type": "writing",
+      "header": "to read (for pleasure)",
+      "answer": "διαβάζω (για ευχαρίστηση)"
+    },
+    {
+      "id": "e-da-b3-061",
+      "type": "gap",
+      "header": "Τι μουσική ακούς συνήθως;",
+      "answer": "ακούς"
+    },
+    {
+      "id": "e-da-b3-062",
+      "type": "select",
+      "header": "παίζω",
+      "options": {"a": "to go out", "b": "to read", "c": "to play", "d": "to rest"},
+      "answer": "c"
+    },
+    {
+      "id": "e-da-b3-063",
+      "type": "blocks",
+      "header": "to watch a movie / series",
+      "answer": "βλέπω",
+      "blocks": ["λ", "β", "π", "ω", "ε"]
+    },
+    {
+      "id": "e-da-b3-064",
+      "type": "writing",
+      "header": "to listen to music",
+      "answer": "ακούω μουσική"
+    },
+    {
+      "id": "e-da-b3-065",
+      "type": "gap",
+      "header": "Θέλεις να δούμε μια σειρά μαζί;",
+      "answer": "σειρά"
+    },
+    {
+      "id": "e-da-b3-066",
+      "type": "select",
+      "header": "κάνω βόλτα",
+      "options": {"a": "to enjoy", "b": "to have a good time", "c": "to listen to music", "d": "to go for a walk / stroll"},
+      "answer": "d"
+    },
+    {
+      "id": "e-da-b3-067",
+      "type": "blocks",
+      "header": "to play",
+      "answer": "παίζω",
+      "blocks": ["ζ", "π", "ί", "ω", "α"]
+    },
+    {
+      "id": "e-da-b3-068",
+      "type": "writing",
+      "header": "to watch a movie / series",
+      "answer": "βλέπω ταινία / σειρά"
+    },
+    {
+      "id": "e-da-b3-069",
+      "type": "gap",
+      "header": "Τα παιδιά παίζουν στο πάρκο.",
+      "answer": "παίζουν"
+    },
+    {
+      "id": "e-da-b3-070",
+      "type": "select",
+      "header": "γυμνάζομαι",
+      "options": {"a": "to go for a walk", "b": "to read", "c": "to be into", "d": "to exercise / work out"},
+      "answer": "d"
+    },
+    {
+      "id": "e-da-b3-071",
+      "type": "blocks",
+      "header": "to go for a walk / stroll",
+      "answer": "βόλτα",
+      "blocks": ["α", "τ", "β", "ό", "λ"]
+    },
+    {
+      "id": "e-da-b3-072",
+      "type": "writing",
+      "header": "to play",
+      "answer": "παίζω"
+    }
+  ]
+}

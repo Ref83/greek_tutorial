@@ -1,0 +1,163 @@
+{
+  "exercises": [
+    {
+      "id": "e-pi-b3-001",
+      "type": "select",
+      "header": "το επάγγελμα",
+      "options": {"a": "work", "b": "school", "c": "profession", "d": "hobby"},
+      "answer": "c"
+    },
+    {
+      "id": "e-pi-b3-002",
+      "type": "select",
+      "header": "η εργασία",
+      "options": {"a": "company", "b": "work", "c": "school", "d": "passport"},
+      "answer": "b"
+    },
+    {
+      "id": "e-pi-b3-003",
+      "type": "blocks",
+      "header": "profession",
+      "answer": "επάγγελμα",
+      "blocks": ["γ", "ε", "π", "λ", "ά", "ε", "μ", "γ", "α"]
+    },
+    {
+      "id": "e-pi-b3-004",
+      "type": "select",
+      "header": "δουλεύω",
+      "options": {"a": "to study", "b": "to speak", "c": "to work", "d": "to learn"},
+      "answer": "c"
+    },
+    {
+      "id": "e-pi-b3-005",
+      "type": "blocks",
+      "header": "work",
+      "answer": "εργασία",
+      "blocks": ["σ", "ε", "γ", "α", "ρ", "ί", "α"]
+    },
+    {
+      "id": "e-pi-b3-006",
+      "type": "writing",
+      "header": "profession",
+      "answer": "επάγγελμα"
+    },
+    {
+      "id": "e-pi-b3-007",
+      "type": "select",
+      "header": "η εταιρεία",
+      "options": {"a": "school", "b": "passport", "c": "work", "d": "company"},
+      "answer": "d"
+    },
+    {
+      "id": "e-pi-b3-008",
+      "type": "blocks",
+      "header": "to work",
+      "answer": "δουλεύω",
+      "blocks": ["λ", "ω", "δ", "ε", "ύ", "υ", "ο"]
+    },
+    {
+      "id": "e-pi-b3-009",
+      "type": "writing",
+      "header": "work",
+      "answer": "εργασία"
+    },
+    {
+      "id": "e-pi-b3-010",
+      "type": "select",
+      "header": "το σχολείο",
+      "options": {"a": "university", "b": "ID card", "c": "school", "d": "hobby"},
+      "answer": "c"
+    },
+    {
+      "id": "e-pi-b3-011",
+      "type": "blocks",
+      "header": "company",
+      "answer": "εταιρεία",
+      "blocks": ["ε", "α", "τ", "ι", "ρ", "ε", "ί", "α"]
+    },
+    {
+      "id": "e-pi-b3-012",
+      "type": "writing",
+      "header": "to work",
+      "answer": "δουλεύω"
+    },
+    {
+      "id": "e-pi-b3-013",
+      "type": "gap",
+      "header": "Το ___ μου είναι μηχανικός.",
+      "answer": "επάγγελμά"
+    },
+    {
+      "id": "e-pi-b3-014",
+      "type": "select",
+      "header": "το πανεπιστήμιο",
+      "options": {"a": "company", "b": "university", "c": "to work", "d": "school"},
+      "answer": "b"
+    },
+    {
+      "id": "e-pi-b3-015",
+      "type": "blocks",
+      "header": "school",
+      "answer": "σχολείο",
+      "blocks": ["λ", "χ", "σ", "ο", "ε", "ί", "ο"]
+    },
+    {
+      "id": "e-pi-b3-016",
+      "type": "writing",
+      "header": "company",
+      "answer": "εταιρεία"
+    },
+    {
+      "id": "e-pi-b3-017",
+      "type": "gap",
+      "header": "Η ___ μου είναι πολύ ενδιαφέρουσα.",
+      "answer": "εργασία"
+    },
+    {
+      "id": "e-pi-b3-018",
+      "type": "select",
+      "header": "σπουδάζω",
+      "options": {"a": "to work", "b": "to learn", "c": "to speak", "d": "to study"},
+      "answer": "d"
+    },
+    {
+      "id": "e-pi-b3-019",
+      "type": "blocks",
+      "header": "university",
+      "answer": "πανεπιστήμιο",
+      "blocks": ["ε", "ν", "π", "ι", "σ", "τ", "ή", "α", "μ", "ι", "ο"]
+    },
+    {
+      "id": "e-pi-b3-020",
+      "type": "writing",
+      "header": "school",
+      "answer": "σχολείο"
+    },
+    {
+      "id": "e-pi-b3-021",
+      "type": "gap",
+      "header": "___ κάθε μέρα από τις εννέα το πρωί.",
+      "answer": "Δουλεύω"
+    },
+    {
+      "id": "e-pi-b3-022",
+      "type": "select",
+      "header": "το χόμπι",
+      "options": {"a": "to study", "b": "school", "c": "hobby", "d": "passport"},
+      "answer": "c"
+    },
+    {
+      "id": "e-pi-b3-023",
+      "type": "blocks",
+      "header": "to study",
+      "answer": "σπουδάζω",
+      "blocks": ["ά", "π", "σ", "δ", "ο", "ω", "υ", "ζ"]
+    },
+    {
+      "id": "e-pi-b3-024",
+      "type": "writing",
+      "header": "university",
+      "answer": "πανεπιστήμιο"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "exercises": [
+    {
+      "id": "e-hb-b2-049",
+      "type": "select",
+      "header": "αισθάνομαι",
+      "options": {"a": "to be sick", "b": "to feel dizzy", "c": "to feel", "d": "to examine"},
+      "answer": "c"
+    },
+    {
+      "id": "e-hb-b2-050",
+      "type": "select",
+      "header": "άρρωστος / άρρωστη",
+      "options": {"a": "nausea", "b": "injection", "c": "tired", "d": "sick / ill"},
+      "answer": "d"
+    },
+    {
+      "id": "e-hb-b2-051",
+      "type": "blocks",
+      "header": "to feel",
+      "answer": "αισθάνομαι",
+      "blocks": ["ε", "ι", "σ", "α", "ά", "ο", "ν", "θ", "μ", "α"]
+    },
+    {
+      "id": "e-hb-b2-052",
+      "type": "select",
+      "header": "κουρασμένος / κουρασμένη",
+      "options": {"a": "headache", "b": "tired / exhausted", "c": "flu", "d": "temperature"},
+      "answer": "b"
+    },
+    {
+      "id": "e-hb-b2-053",
+      "type": "blocks",
+      "header": "sick / ill",
+      "answer": "άρρωστος",
+      "blocks": ["ο", "ρ", "τ", "ά", "ω", "ο", "ς", "ρ"]
+    },
+    {
+      "id": "e-hb-b2-054",
+      "type": "writing",
+      "header": "to feel",
+      "answer": "αισθάνομαι"
+    },
+    {
+      "id": "e-hb-b2-055",
+      "type": "blocks",
+      "header": "tired / exhausted",
+      "answer": "κουρασμένος",
+      "blocks": ["ν", "ο", "σ", "υ", "μ", "κ", "ο", "ε", "ρ", "ς", "α"]
+    },
+    {
+      "id": "e-hb-b2-056",
+      "type": "writing",
+      "header": "sick / ill",
+      "answer": "άρρωστος"
+    },
+    {
+      "id": "e-hb-b2-057",
+      "type": "gap",
+      "header": "Πώς ___;",
+      "answer": "αισθάνεσαι"
+    },
+    {
+      "id": "e-hb-b2-058",
+      "type": "writing",
+      "header": "tired / exhausted",
+      "answer": "κουρασμένος"
+    },
+    {
+      "id": "e-hb-b2-059",
+      "type": "gap",
+      "header": "Η κόρη μου είναι ___.",
+      "answer": "άρρωστη"
+    },
+    {
+      "id": "e-hb-b2-060",
+      "type": "gap",
+      "header": "Αισθάνομαι ___ όλη μέρα.",
+      "answer": "κουρασμένος"
+    },
+    {
+      "id": "e-hb-b2-061",
+      "type": "select",
+      "header": "ο πονοκέφαλος",
+      "options": {"a": "flu", "b": "sore throat", "c": "nausea", "d": "headache"},
+      "answer": "d"
+    },
+    {
+      "id": "e-hb-b2-062",
+      "type": "select",
+      "header": "ο πονόλαιμος",
+      "options": {"a": "sore throat", "b": "headache", "c": "temperature", "d": "injection"},
+      "answer": "a"
+    },
+    {
+      "id": "e-hb-b2-063",
+      "type": "blocks",
+      "header": "headache",
+      "answer": "πονοκέφαλος",
+      "blocks": ["κ", "ο", "ε", "π", "ς", "λ", "ο", "φ", "α", "ν", "ο"]
+    },
+    {
+      "id": "e-hb-b2-064",
+      "type": "select",
+      "header": "ζαλίζομαι",
+      "options": {"a": "to feel", "b": "to feel dizzy", "c": "to be sick", "d": "to examine"},
+      "answer": "b"
+    },
+    {
+      "id": "e-hb-b2-065",
+      "type": "blocks",
+      "header": "sore throat",
+      "answer": "πονόλαιμος",
+      "blocks": ["α", "ν", "λ", "ο", "π", "ο", "μ", "ς", "ό", "ι"]
+    },
+    {
+      "id": "e-hb-b2-066",
+      "type": "writing",
+      "header": "headache",
+      "answer": "πονοκέφαλος"
+    },
+    {
+      "id": "e-hb-b2-067",
+      "type": "blocks",
+      "header": "to feel dizzy",
+      "answer": "ζαλίζομαι",
+      "blocks": ["α", "ζ", "ί", "ο", "λ", "μ", "ζ", "α", "ι"]
+    },
+    {
+      "id": "e-hb-b2-068",
+      "type": "writing",
+      "header": "sore throat",
+      "answer": "πονόλαιμος"
+    },
+    {
+      "id": "e-hb-b2-069",
+      "type": "gap",
+      "header": "Ο ___ δεν φεύγει.",
+      "answer": "πονοκέφαλος"
+    },
+    {
+      "id": "e-hb-b2-070",
+      "type": "writing",
+      "header": "to feel dizzy",
+      "answer": "ζαλίζομαι"
+    },
+    {
+      "id": "e-hb-b2-071",
+      "type": "gap",
+      "header": "Με πονάει ο ___ μου.",
+      "answer": "λαιμός"
+    },
+    {
+      "id": "e-hb-b2-072",
+      "type": "gap",
+      "header": "Μην οδηγείς αν ___.",
+      "answer": "ζαλίζεσαι"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "exercises": [
+    {
+      "id": "e-home-b1-051",
+      "type": "blocks",
+      "header": "garage",
+      "answer": "γκαράζ",
+      "blocks": ["ά", "γ", "ζ", "κ", "α", "ρ"]
+    },
+    {
+      "id": "e-home-b1-052",
+      "type": "select",
+      "header": "το σπίτι",
+      "options": {"a": "floor / storey", "b": "house / home", "c": "garden", "d": "two-story house"},
+      "answer": "b"
+    },
+    {
+      "id": "e-home-b1-053",
+      "type": "gap",
+      "header": "Άνοιξε το ___ γιατί κάνει ζέστη.",
+      "answer": "παράθυρο"
+    },
+    {
+      "id": "e-home-b1-054",
+      "type": "writing",
+      "header": "door",
+      "answer": "πόρτα"
+    },
+    {
+      "id": "e-home-b1-055",
+      "type": "blocks",
+      "header": "house / home",
+      "answer": "σπίτι",
+      "blocks": ["τ", "ι", "ί", "π", "σ"]
+    },
+    {
+      "id": "e-home-b1-056",
+      "type": "select",
+      "header": "η πόρτα",
+      "options": {"a": "garden", "b": "window", "c": "balcony", "d": "door"},
+      "answer": "d"
+    },
+    {
+      "id": "e-home-b1-057",
+      "type": "gap",
+      "header": "Ο ___ έχει πολλά λουλούδια.",
+      "answer": "κήπος"
+    },
+    {
+      "id": "e-home-b1-058",
+      "type": "writing",
+      "header": "garden",
+      "answer": "κήπος"
+    },
+    {
+      "id": "e-home-b1-059",
+      "type": "blocks",
+      "header": "door",
+      "answer": "πόρτα",
+      "blocks": ["ά", "ρ", "π", "τ", "ο"]
+    },
+    {
+      "id": "e-home-b1-060",
+      "type": "select",
+      "header": "ο κήπος",
+      "options": {"a": "roof terrace", "b": "garage", "c": "garden", "d": "balcony"},
+      "answer": "c"
+    },
+    {
+      "id": "e-home-b1-061",
+      "type": "gap",
+      "header": "Ανεβήκαμε στην ___ για να δούμε τα πυροτεχνήματα.",
+      "answer": "ταράτσα"
+    },
+    {
+      "id": "e-home-b1-062",
+      "type": "writing",
+      "header": "roof terrace / flat roof",
+      "answer": "ταράτσα"
+    },
+    {
+      "id": "e-home-b1-063",
+      "type": "blocks",
+      "header": "garage",
+      "answer": "γκαράζ",
+      "blocks": ["ζ", "α", "κ", "ρ", "γ", "ά"]
+    },
+    {
+      "id": "e-home-b1-064",
+      "type": "select",
+      "header": "το γκαράζ",
+      "options": {"a": "window", "b": "entrance / entry", "c": "garage", "d": "basement"},
+      "answer": "c"
+    },
+    {
+      "id": "e-home-b1-065",
+      "type": "gap",
+      "header": "Κλείσε την ___, παρακαλώ.",
+      "answer": "πόρτα"
+    },
+    {
+      "id": "e-home-b1-066",
+      "type": "writing",
+      "header": "garage",
+      "answer": "γκαράζ"
+    },
+    {
+      "id": "e-home-b1-067",
+      "type": "select",
+      "header": "η ταράτσα",
+      "options": {"a": "garden", "b": "front door", "c": "garage", "d": "roof terrace / flat roof"},
+      "answer": "d"
+    },
+    {
+      "id": "e-home-b1-068",
+      "type": "gap",
+      "header": "Σε περιμένω στην ___.",
+      "answer": "είσοδο"
+    },
+    {
+      "id": "e-home-b1-069",
+      "type": "blocks",
+      "header": "window",
+      "answer": "παράθυρο",
+      "blocks": ["υ", "ρ", "π", "θ", "α", "ο", "α", "ρ"]
+    },
+    {
+      "id": "e-home-b1-070",
+      "type": "select",
+      "header": "το υπόγειο",
+      "options": {"a": "floor / storey", "b": "basement / underground level", "c": "building", "d": "two-story house"},
+      "answer": "b"
+    },
+    {
+      "id": "e-home-b1-071",
+      "type": "gap",
+      "header": "Παρκάρω το αυτοκίνητό μου στο ___.",
+      "answer": "γκαράζ"
+    },
+    {
+      "id": "e-home-b1-072",
+      "type": "writing",
+      "header": "floor / storey",
+      "answer": "όροφος"
+    },
+    {
+      "id": "e-home-b1-073",
+      "type": "blocks",
+      "header": "basement / underground level",
+      "answer": "υπόγειο",
+      "blocks": ["γ", "ο", "υ", "ι", "π", "ε", "ό"]
+    },
+    {
+      "id": "e-home-b1-074",
+      "type": "gap",
+      "header": "Χτύπησε την ___.",
+      "answer": "εξώπορτα"
+    },
+    {
+      "id": "e-home-b1-075",
+      "type": "writing",
+      "header": "entrance / entry",
+      "answer": "είσοδος"
+    }
+  ]
+}

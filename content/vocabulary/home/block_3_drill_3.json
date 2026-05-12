@@ -1,0 +1,200 @@
+{
+  "exercises": [
+    {
+      "id": "e-home-b3-061",
+      "type": "select",
+      "header": "το κρεβάτι",
+      "options": {"a": "sofa", "b": "armchair", "c": "bed", "d": "desk"},
+      "answer": "c"
+    },
+    {
+      "id": "e-home-b3-062",
+      "type": "select",
+      "header": "ο καναπές",
+      "options": {"a": "chair", "b": "sofa / couch", "c": "bed", "d": "wardrobe"},
+      "answer": "b"
+    },
+    {
+      "id": "e-home-b3-063",
+      "type": "blocks",
+      "header": "wall",
+      "answer": "τοίχος",
+      "blocks": ["ο", "σ", "ί", "χ", "τ", "ο"]
+    },
+    {
+      "id": "e-home-b3-064",
+      "type": "gap",
+      "header": "Ο ___ είναι βαμμένος γαλάζιο.",
+      "answer": "τοίχος"
+    },
+    {
+      "id": "e-home-b3-065",
+      "type": "blocks",
+      "header": "sofa / couch",
+      "answer": "καναπές",
+      "blocks": ["α", "έ", "π", "σ", "κ", "ν", "α"]
+    },
+    {
+      "id": "e-home-b3-066",
+      "type": "select",
+      "header": "η καρέκλα",
+      "options": {"a": "desk", "b": "table", "c": "armchair", "d": "chair"},
+      "answer": "d"
+    },
+    {
+      "id": "e-home-b3-067",
+      "type": "writing",
+      "header": "wall",
+      "answer": "τοίχος"
+    },
+    {
+      "id": "e-home-b3-068",
+      "type": "blocks",
+      "header": "chair",
+      "answer": "καρέκλα",
+      "blocks": ["κ", "ρ", "α", "έ", "λ", "κ", "α"]
+    },
+    {
+      "id": "e-home-b3-069",
+      "type": "gap",
+      "header": "Ο ___ είναι πολύ άνετος.",
+      "answer": "καναπές"
+    },
+    {
+      "id": "e-home-b3-070",
+      "type": "writing",
+      "header": "sofa / couch",
+      "answer": "καναπές"
+    },
+    {
+      "id": "e-home-b3-071",
+      "type": "select",
+      "header": "η κουρτίνα",
+      "options": {"a": "rug", "b": "shelf", "c": "lamp", "d": "curtain"},
+      "answer": "d"
+    },
+    {
+      "id": "e-home-b3-072",
+      "type": "gap",
+      "header": "Αγοράσαμε καινούργιες ___ για την τραπεζαρία.",
+      "answer": "καρέκλες"
+    },
+    {
+      "id": "e-home-b3-073",
+      "type": "blocks",
+      "header": "curtain",
+      "answer": "κουρτίνα",
+      "blocks": ["υ", "ο", "τ", "ί", "κ", "ρ", "ν", "α"]
+    },
+    {
+      "id": "e-home-b3-074",
+      "type": "select",
+      "header": "το ράφι",
+      "options": {"a": "lamp", "b": "bedside table", "c": "shelf", "d": "mirror"},
+      "answer": "c"
+    },
+    {
+      "id": "e-home-b3-075",
+      "type": "gap",
+      "header": "Βάλε αυτό στο πάνω ___.",
+      "answer": "ράφι"
+    },
+    {
+      "id": "e-home-b3-076",
+      "type": "writing",
+      "header": "chair",
+      "answer": "καρέκλα"
+    },
+    {
+      "id": "e-home-b3-077",
+      "type": "blocks",
+      "header": "shelf",
+      "answer": "ράφι",
+      "blocks": ["ά", "φ", "ι", "ρ"]
+    },
+    {
+      "id": "e-home-b3-078",
+      "type": "select",
+      "header": "ο καθρέφτης",
+      "options": {"a": "curtain", "b": "mirror", "c": "rug", "d": "lamp"},
+      "answer": "b"
+    },
+    {
+      "id": "e-home-b3-079",
+      "type": "gap",
+      "header": "Ο ___ στον τοίχο κάνει το δωμάτιο να φαίνεται μεγαλύτερο.",
+      "answer": "καθρέφτης"
+    },
+    {
+      "id": "e-home-b3-080",
+      "type": "writing",
+      "header": "curtain",
+      "answer": "κουρτίνα"
+    },
+    {
+      "id": "e-home-b3-081",
+      "type": "blocks",
+      "header": "mirror",
+      "answer": "καθρέφτης",
+      "blocks": ["φ", "α", "η", "ρ", "κ", "τ", "έ", "θ", "σ"]
+    },
+    {
+      "id": "e-home-b3-082",
+      "type": "select",
+      "header": "η πολυθρόνα",
+      "options": {"a": "desk", "b": "sofa", "c": "chair", "d": "armchair"},
+      "answer": "d"
+    },
+    {
+      "id": "e-home-b3-083",
+      "type": "gap",
+      "header": "Η ___ είναι η αγαπημένη μου θέση στο σαλόνι.",
+      "answer": "πολυθρόνα"
+    },
+    {
+      "id": "e-home-b3-084",
+      "type": "blocks",
+      "header": "armchair",
+      "answer": "πολυθρόνα",
+      "blocks": ["θ", "υ", "ν", "ρ", "ο", "π", "ά", "λ", "ο"]
+    },
+    {
+      "id": "e-home-b3-085",
+      "type": "writing",
+      "header": "mirror",
+      "answer": "καθρέφτης"
+    },
+    {
+      "id": "e-home-b3-086",
+      "type": "select",
+      "header": "το κομοδίνο",
+      "options": {"a": "bookcase", "b": "bedside table / nightstand", "c": "wardrobe", "d": "wall"},
+      "answer": "b"
+    },
+    {
+      "id": "e-home-b3-087",
+      "type": "gap",
+      "header": "Το ρολόι είναι πάνω στο ___.",
+      "answer": "κομοδίνο"
+    },
+    {
+      "id": "e-home-b3-088",
+      "type": "blocks",
+      "header": "bedside table / nightstand",
+      "answer": "κομοδίνο",
+      "blocks": ["ο", "ί", "δ", "μ", "ο", "κ", "ν", "ο"]
+    },
+    {
+      "id": "e-home-b3-089",
+      "type": "writing",
+      "header": "armchair",
+      "answer": "πολυθρόνα"
+    },
+    {
+      "id": "e-home-b3-090",
+      "type": "gap",
+      "header": "Αγοράσαμε μια νέα ___ για το γραφείο.",
+      "answer": "βιβλιοθήκη"
+    }
+  ]
+}

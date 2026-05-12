@@ -1,0 +1,160 @@
+{
+  "exercises": [
+    {
+      "id": "e-nd-b1-049",
+      "type": "select",
+      "header": "μηδέν",
+      "options": {"a": "two", "b": "zero", "c": "number", "d": "nine"},
+      "answer": "b"
+    },
+    {
+      "id": "e-nd-b1-050",
+      "type": "select",
+      "header": "ένας / μία / ένα",
+      "options": {"a": "one", "b": "three", "c": "ten", "d": "six"},
+      "answer": "a"
+    },
+    {
+      "id": "e-nd-b1-051",
+      "type": "blocks",
+      "header": "zero",
+      "answer": "μηδέν",
+      "blocks": ["ν", "έ", "μ", "δ", "η"]
+    },
+    {
+      "id": "e-nd-b1-052",
+      "type": "select",
+      "header": "δύο",
+      "options": {"a": "four", "b": "one", "c": "two", "d": "eight"},
+      "answer": "c"
+    },
+    {
+      "id": "e-nd-b1-053",
+      "type": "blocks",
+      "header": "one",
+      "answer": "ένας",
+      "blocks": ["σ", "έ", "α", "ν"]
+    },
+    {
+      "id": "e-nd-b1-054",
+      "type": "writing",
+      "header": "zero",
+      "answer": "μηδέν"
+    },
+    {
+      "id": "e-nd-b1-055",
+      "type": "blocks",
+      "header": "two",
+      "answer": "δύο",
+      "blocks": ["ύ", "ο", "δ"]
+    },
+    {
+      "id": "e-nd-b1-056",
+      "type": "writing",
+      "header": "one",
+      "answer": "ένας"
+    },
+    {
+      "id": "e-nd-b1-057",
+      "type": "gap",
+      "header": "Ο βαθμός μου ήταν ___.",
+      "answer": "μηδέν"
+    },
+    {
+      "id": "e-nd-b1-058",
+      "type": "writing",
+      "header": "two",
+      "answer": "δύο"
+    },
+    {
+      "id": "e-nd-b1-059",
+      "type": "gap",
+      "header": "Θέλω ___ μπύρα, παρακαλώ.",
+      "answer": "μία"
+    },
+    {
+      "id": "e-nd-b1-060",
+      "type": "gap",
+      "header": "Έχω ___ παιδιά.",
+      "answer": "δύο"
+    },
+    {
+      "id": "e-nd-b1-061",
+      "type": "select",
+      "header": "τρεις / τρία",
+      "options": {"a": "five", "b": "four", "c": "two", "d": "three"},
+      "answer": "d"
+    },
+    {
+      "id": "e-nd-b1-062",
+      "type": "select",
+      "header": "τέσσερις / τέσσερα",
+      "options": {"a": "four", "b": "six", "c": "two", "d": "three"},
+      "answer": "a"
+    },
+    {
+      "id": "e-nd-b1-063",
+      "type": "blocks",
+      "header": "three",
+      "answer": "τρεις",
+      "blocks": ["ς", "ι", "ρ", "τ", "ε"]
+    },
+    {
+      "id": "e-nd-b1-064",
+      "type": "select",
+      "header": "πέντε",
+      "options": {"a": "four", "b": "five", "c": "six", "d": "seven"},
+      "answer": "b"
+    },
+    {
+      "id": "e-nd-b1-065",
+      "type": "blocks",
+      "header": "four",
+      "answer": "τέσσερις",
+      "blocks": ["ε", "ρ", "σ", "τ", "ε", "ί", "σ"]
+    },
+    {
+      "id": "e-nd-b1-066",
+      "type": "writing",
+      "header": "three",
+      "answer": "τρεις"
+    },
+    {
+      "id": "e-nd-b1-067",
+      "type": "blocks",
+      "header": "five",
+      "answer": "πέντε",
+      "blocks": ["τ", "π", "ε", "ν", "έ"]
+    },
+    {
+      "id": "e-nd-b1-068",
+      "type": "writing",
+      "header": "four",
+      "answer": "τέσσερις"
+    },
+    {
+      "id": "e-nd-b1-069",
+      "type": "gap",
+      "header": "___ παιδιά παίζουν στην αυλή.",
+      "answer": "Τρία"
+    },
+    {
+      "id": "e-nd-b1-070",
+      "type": "writing",
+      "header": "five",
+      "answer": "πέντε"
+    },
+    {
+      "id": "e-nd-b1-071",
+      "type": "gap",
+      "header": "Έχουμε ___ δωμάτια στο σπίτι.",
+      "answer": "τέσσερα"
+    },
+    {
+      "id": "e-nd-b1-072",
+      "type": "gap",
+      "header": "Στις ___ το απόγευμα τελειώνω τη δουλειά.",
+      "answer": "πέντε"
+    }
+  ]
+}

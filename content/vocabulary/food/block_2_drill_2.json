@@ -1,0 +1,160 @@
+{
+  "exercises": [
+    {
+      "id": "e-f-b2-025",
+      "type": "select",
+      "header": "τα μακαρόνια",
+      "options": {"a": "bread", "b": "pasta / spaghetti", "c": "rice", "d": "salad"},
+      "answer": "b"
+    },
+    {
+      "id": "e-f-b2-026",
+      "type": "select",
+      "header": "το ρύζι",
+      "options": {"a": "pasta", "b": "cheese", "c": "rice", "d": "yogurt"},
+      "answer": "c"
+    },
+    {
+      "id": "e-f-b2-027",
+      "type": "blocks",
+      "header": "pasta / spaghetti",
+      "answer": "μακαρόνια",
+      "blocks": ["ό", "μ", "ι", "α", "κ", "ν", "ρ", "α", "α"]
+    },
+    {
+      "id": "e-f-b2-028",
+      "type": "select",
+      "header": "το γιαούρτι",
+      "options": {"a": "soup", "b": "tea", "c": "bread", "d": "yogurt"},
+      "answer": "d"
+    },
+    {
+      "id": "e-f-b2-029",
+      "type": "blocks",
+      "header": "rice",
+      "answer": "ρύζι",
+      "blocks": ["ζ", "ρ", "ι", "ύ"]
+    },
+    {
+      "id": "e-f-b2-030",
+      "type": "writing",
+      "header": "pasta / spaghetti",
+      "answer": "μακαρόνια"
+    },
+    {
+      "id": "e-f-b2-031",
+      "type": "blocks",
+      "header": "yogurt",
+      "answer": "γιαούρτι",
+      "blocks": ["ρ", "γ", "ι", "ο", "τ", "ύ", "α", "ι"]
+    },
+    {
+      "id": "e-f-b2-032",
+      "type": "writing",
+      "header": "rice",
+      "answer": "ρύζι"
+    },
+    {
+      "id": "e-f-b2-033",
+      "type": "gap",
+      "header": "Βράζω ___ για δέκα λεπτά.",
+      "answer": "μακαρόνια"
+    },
+    {
+      "id": "e-f-b2-034",
+      "type": "writing",
+      "header": "yogurt",
+      "answer": "γιαούρτι"
+    },
+    {
+      "id": "e-f-b2-035",
+      "type": "gap",
+      "header": "Μαγειρεύω ___ με λαχανικά.",
+      "answer": "ρύζι"
+    },
+    {
+      "id": "e-f-b2-036",
+      "type": "gap",
+      "header": "Τρώω ___ με μέλι κάθε πρωί.",
+      "answer": "γιαούρτι"
+    },
+    {
+      "id": "e-f-b2-037",
+      "type": "select",
+      "header": "το τυρί",
+      "options": {"a": "juice", "b": "tea", "c": "cheese", "d": "omelette"},
+      "answer": "c"
+    },
+    {
+      "id": "e-f-b2-038",
+      "type": "select",
+      "header": "ο χυμός",
+      "options": {"a": "coffee", "b": "juice", "c": "soup", "d": "cake"},
+      "answer": "b"
+    },
+    {
+      "id": "e-f-b2-039",
+      "type": "blocks",
+      "header": "cheese",
+      "answer": "τυρί",
+      "blocks": ["ρ", "τ", "ί", "υ"]
+    },
+    {
+      "id": "e-f-b2-040",
+      "type": "select",
+      "header": "το τσάι",
+      "options": {"a": "rice", "b": "bread", "c": "yogurt", "d": "tea"},
+      "answer": "d"
+    },
+    {
+      "id": "e-f-b2-041",
+      "type": "blocks",
+      "header": "juice",
+      "answer": "χυμός",
+      "blocks": ["μ", "χ", "ς", "ό", "υ"]
+    },
+    {
+      "id": "e-f-b2-042",
+      "type": "writing",
+      "header": "cheese",
+      "answer": "τυρί"
+    },
+    {
+      "id": "e-f-b2-043",
+      "type": "blocks",
+      "header": "tea",
+      "answer": "τσάι",
+      "blocks": ["ά", "σ", "ι", "τ"]
+    },
+    {
+      "id": "e-f-b2-044",
+      "type": "writing",
+      "header": "juice",
+      "answer": "χυμός"
+    },
+    {
+      "id": "e-f-b2-045",
+      "type": "gap",
+      "header": "Βάζω ___ στην ομελέτα.",
+      "answer": "τυρί"
+    },
+    {
+      "id": "e-f-b2-046",
+      "type": "writing",
+      "header": "tea",
+      "answer": "τσάι"
+    },
+    {
+      "id": "e-f-b2-047",
+      "type": "gap",
+      "header": "Πίνω ___ πορτοκαλιού κάθε πρωί.",
+      "answer": "χυμό"
+    },
+    {
+      "id": "e-f-b2-048",
+      "type": "gap",
+      "header": "Πίνω ___ με μέλι το βράδυ.",
+      "answer": "τσάι"
+    }
+  ]
+}

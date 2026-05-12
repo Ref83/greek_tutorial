@@ -1,0 +1,168 @@
+{
+  "exercises": [
+    {
+      "id": "e-home-b1-026",
+      "type": "select",
+      "header": "το υπόγειο",
+      "options": {"a": "roof terrace", "b": "balcony", "c": "basement / underground level", "d": "floor / storey"},
+      "answer": "c"
+    },
+    {
+      "id": "e-home-b1-027",
+      "type": "select",
+      "header": "το μπαλκόνι",
+      "options": {"a": "window", "b": "balcony", "c": "garden", "d": "front door"},
+      "answer": "b"
+    },
+    {
+      "id": "e-home-b1-028",
+      "type": "blocks",
+      "header": "floor / storey",
+      "answer": "όροφος",
+      "blocks": ["σ", "ό", "ο", "φ", "ο", "ρ"]
+    },
+    {
+      "id": "e-home-b1-029",
+      "type": "select",
+      "header": "το παράθυρο",
+      "options": {"a": "door", "b": "entrance / entry", "c": "front door", "d": "window"},
+      "answer": "d"
+    },
+    {
+      "id": "e-home-b1-030",
+      "type": "blocks",
+      "header": "basement / underground level",
+      "answer": "υπόγειο",
+      "blocks": ["ε", "υ", "ό", "γ", "ο", "π", "ι"]
+    },
+    {
+      "id": "e-home-b1-031",
+      "type": "writing",
+      "header": "entrance / entry",
+      "answer": "είσοδος"
+    },
+    {
+      "id": "e-home-b1-032",
+      "type": "blocks",
+      "header": "balcony",
+      "answer": "μπαλκόνι",
+      "blocks": ["κ", "μ", "ν", "ό", "α", "π", "λ", "ι"]
+    },
+    {
+      "id": "e-home-b1-033",
+      "type": "select",
+      "header": "η πόρτα",
+      "options": {"a": "front door", "b": "door", "c": "window", "d": "entrance / entry"},
+      "answer": "b"
+    },
+    {
+      "id": "e-home-b1-034",
+      "type": "writing",
+      "header": "front door",
+      "answer": "εξώπορτα"
+    },
+    {
+      "id": "e-home-b1-035",
+      "type": "blocks",
+      "header": "window",
+      "answer": "παράθυρο",
+      "blocks": ["θ", "π", "ο", "ύ", "ρ", "α", "α", "ρ"]
+    },
+    {
+      "id": "e-home-b1-036",
+      "type": "gap",
+      "header": "Η ___ του κτιρίου είναι στα αριστερά.",
+      "answer": "είσοδος"
+    },
+    {
+      "id": "e-home-b1-037",
+      "type": "writing",
+      "header": "floor / storey",
+      "answer": "όροφος"
+    },
+    {
+      "id": "e-home-b1-038",
+      "type": "select",
+      "header": "ο κήπος",
+      "options": {"a": "roof terrace", "b": "balcony", "c": "garage", "d": "garden"},
+      "answer": "d"
+    },
+    {
+      "id": "e-home-b1-039",
+      "type": "blocks",
+      "header": "door",
+      "answer": "πόρτα",
+      "blocks": ["τ", "π", "α", "ό", "ρ"]
+    },
+    {
+      "id": "e-home-b1-040",
+      "type": "gap",
+      "header": "Κλείδωσε η ___.",
+      "answer": "εξώπορτα"
+    },
+    {
+      "id": "e-home-b1-041",
+      "type": "writing",
+      "header": "basement / underground level",
+      "answer": "υπόγειο"
+    },
+    {
+      "id": "e-home-b1-042",
+      "type": "blocks",
+      "header": "garden",
+      "answer": "κήπος",
+      "blocks": ["ο", "κ", "σ", "π", "η"]
+    },
+    {
+      "id": "e-home-b1-043",
+      "type": "select",
+      "header": "η ταράτσα",
+      "options": {"a": "basement", "b": "balcony", "c": "roof terrace / flat roof", "d": "floor / storey"},
+      "answer": "c"
+    },
+    {
+      "id": "e-home-b1-044",
+      "type": "gap",
+      "header": "Μένω στον τρίτο ___.",
+      "answer": "όροφο"
+    },
+    {
+      "id": "e-home-b1-045",
+      "type": "writing",
+      "header": "balcony",
+      "answer": "μπαλκόνι"
+    },
+    {
+      "id": "e-home-b1-046",
+      "type": "blocks",
+      "header": "roof terrace / flat roof",
+      "answer": "ταράτσα",
+      "blocks": ["σ", "τ", "α", "τ", "α", "ά", "ρ"]
+    },
+    {
+      "id": "e-home-b1-047",
+      "type": "gap",
+      "header": "Το ___ χρησιμεύει ως αποθήκη.",
+      "answer": "υπόγειο"
+    },
+    {
+      "id": "e-home-b1-048",
+      "type": "writing",
+      "header": "window",
+      "answer": "παράθυρο"
+    },
+    {
+      "id": "e-home-b1-049",
+      "type": "select",
+      "header": "το γκαράζ",
+      "options": {"a": "basement", "b": "garden", "c": "two-story house", "d": "garage"},
+      "answer": "d"
+    },
+    {
+      "id": "e-home-b1-050",
+      "type": "gap",
+      "header": "Πίνω τον καφέ μου στο ___.",
+      "answer": "μπαλκόνι"
+    }
+  ]
+}

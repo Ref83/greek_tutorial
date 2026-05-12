@@ -1,0 +1,160 @@
+{
+  "exercises": [
+    {
+      "id": "e-f-b2-049",
+      "type": "select",
+      "header": "ο καφές",
+      "options": {"a": "tea", "b": "yogurt", "c": "coffee", "d": "juice"},
+      "answer": "c"
+    },
+    {
+      "id": "e-f-b2-050",
+      "type": "select",
+      "header": "η ομελέτα",
+      "options": {"a": "bread", "b": "omelette", "c": "soup", "d": "rice"},
+      "answer": "b"
+    },
+    {
+      "id": "e-f-b2-051",
+      "type": "blocks",
+      "header": "coffee",
+      "answer": "καφές",
+      "blocks": ["σ", "κ", "α", "έ", "φ"]
+    },
+    {
+      "id": "e-f-b2-052",
+      "type": "select",
+      "header": "το κέικ",
+      "options": {"a": "omelette", "b": "salad", "c": "pasta", "d": "cake"},
+      "answer": "d"
+    },
+    {
+      "id": "e-f-b2-053",
+      "type": "blocks",
+      "header": "omelette",
+      "answer": "ομελέτα",
+      "blocks": ["έ", "τ", "μ", "α", "ο", "ε", "λ"]
+    },
+    {
+      "id": "e-f-b2-054",
+      "type": "writing",
+      "header": "coffee",
+      "answer": "καφές"
+    },
+    {
+      "id": "e-f-b2-055",
+      "type": "blocks",
+      "header": "cake",
+      "answer": "κέικ",
+      "blocks": ["κ", "έ", "ι", "κ"]
+    },
+    {
+      "id": "e-f-b2-056",
+      "type": "writing",
+      "header": "omelette",
+      "answer": "ομελέτα"
+    },
+    {
+      "id": "e-f-b2-057",
+      "type": "gap",
+      "header": "Θέλεις τον ___ σου με γάλα;",
+      "answer": "καφέ"
+    },
+    {
+      "id": "e-f-b2-058",
+      "type": "writing",
+      "header": "cake",
+      "answer": "κέικ"
+    },
+    {
+      "id": "e-f-b2-059",
+      "type": "gap",
+      "header": "Χτυπάω δύο αυγά για να φτιάξω ___.",
+      "answer": "ομελέτα"
+    },
+    {
+      "id": "e-f-b2-060",
+      "type": "gap",
+      "header": "Το ___ είναι πολύ νόστιμο.",
+      "answer": "κέικ"
+    },
+    {
+      "id": "e-f-b2-061",
+      "type": "select",
+      "header": "το ψωμί",
+      "options": {"a": "juice", "b": "tea", "c": "bread", "d": "coffee"},
+      "answer": "c"
+    },
+    {
+      "id": "e-f-b2-062",
+      "type": "select",
+      "header": "η σαλάτα",
+      "options": {"a": "soup", "b": "salad", "c": "omelette", "d": "bread"},
+      "answer": "b"
+    },
+    {
+      "id": "e-f-b2-063",
+      "type": "blocks",
+      "header": "bread",
+      "answer": "ψωμί",
+      "blocks": ["ω", "ί", "ψ", "μ"]
+    },
+    {
+      "id": "e-f-b2-064",
+      "type": "select",
+      "header": "η σούπα",
+      "options": {"a": "pasta", "b": "rice", "c": "yogurt", "d": "soup"},
+      "answer": "d"
+    },
+    {
+      "id": "e-f-b2-065",
+      "type": "blocks",
+      "header": "salad",
+      "answer": "σαλάτα",
+      "blocks": ["α", "λ", "τ", "ά", "α", "σ"]
+    },
+    {
+      "id": "e-f-b2-066",
+      "type": "writing",
+      "header": "bread",
+      "answer": "ψωμί"
+    },
+    {
+      "id": "e-f-b2-067",
+      "type": "blocks",
+      "header": "soup",
+      "answer": "σούπα",
+      "blocks": ["α", "ύ", "σ", "ο", "π"]
+    },
+    {
+      "id": "e-f-b2-068",
+      "type": "writing",
+      "header": "salad",
+      "answer": "σαλάτα"
+    },
+    {
+      "id": "e-f-b2-069",
+      "type": "gap",
+      "header": "Τρώω ___ με βούτυρο και μέλι.",
+      "answer": "ψωμί"
+    },
+    {
+      "id": "e-f-b2-070",
+      "type": "writing",
+      "header": "soup",
+      "answer": "σούπα"
+    },
+    {
+      "id": "e-f-b2-071",
+      "type": "gap",
+      "header": "Τρώω ___ σε κάθε γεύμα.",
+      "answer": "σαλάτα"
+    },
+    {
+      "id": "e-f-b2-072",
+      "type": "gap",
+      "header": "Η ___ είναι ζεστή και νόστιμη.",
+      "answer": "σούπα"
+    }
+  ]
+}

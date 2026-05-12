@@ -1,0 +1,158 @@
+{
+  "exercises": [
+    {
+      "id": "e-sh-b1-073",
+      "type": "writing",
+      "header": "toast",
+      "answer": "τοστ"
+    },
+    {
+      "id": "e-sh-b1-074",
+      "type": "gap",
+      "header": "Θέλω ___ με βούτυρο.",
+      "answer": "τοστ"
+    },
+    {
+      "id": "e-sh-b1-075",
+      "type": "select",
+      "header": "το σταρένιο ψωμί",
+      "options": {"a": "fresh", "b": "wheat bread", "c": "slice", "d": "toast"},
+      "answer": "b"
+    },
+    {
+      "id": "e-sh-b1-076",
+      "type": "blocks",
+      "header": "whole grain bread",
+      "answer": "ψωμί",
+      "blocks": ["ί", "μ", "ω", "ψ"]
+    },
+    {
+      "id": "e-sh-b1-077",
+      "type": "writing",
+      "header": "whole grain bread",
+      "answer": "ψωμί ολικής άλεσης"
+    },
+    {
+      "id": "e-sh-b1-078",
+      "type": "gap",
+      "header": "Παίρνω ένα τραγανό ___.",
+      "answer": "μπαγκέτ"
+    },
+    {
+      "id": "e-sh-b1-079",
+      "type": "select",
+      "header": "η φέτα",
+      "options": {"a": "wheat bread", "b": "fresh", "c": "bread roll", "d": "slice"},
+      "answer": "d"
+    },
+    {
+      "id": "e-sh-b1-080",
+      "type": "blocks",
+      "header": "wheat bread",
+      "answer": "σταρένιο",
+      "blocks": ["τ", "ι", "ε", "σ", "ό", "ν", "ρ", "α"]
+    },
+    {
+      "id": "e-sh-b1-081",
+      "type": "writing",
+      "header": "wheat bread",
+      "answer": "σταρένιο ψωμί"
+    },
+    {
+      "id": "e-sh-b1-082",
+      "type": "gap",
+      "header": "Αγοράζω συνήθως ___ ολικής άλεσης.",
+      "answer": "ψωμί"
+    },
+    {
+      "id": "e-sh-b1-083",
+      "type": "select",
+      "header": "φρέσκος / φρέσκια / φρέσκο",
+      "options": {"a": "loaf (of bread)", "b": "whole grain bread", "c": "fresh", "d": "sesame ring bread"},
+      "answer": "c"
+    },
+    {
+      "id": "e-sh-b1-084",
+      "type": "blocks",
+      "header": "slice",
+      "answer": "φέτα",
+      "blocks": ["ε", "α", "φ", "τ"]
+    },
+    {
+      "id": "e-sh-b1-085",
+      "type": "writing",
+      "header": "slice",
+      "answer": "φέτα"
+    },
+    {
+      "id": "e-sh-b1-086",
+      "type": "gap",
+      "header": "Το ___ ψωμί έχει ωραία γεύση.",
+      "answer": "σταρένιο"
+    },
+    {
+      "id": "e-sh-b1-087",
+      "type": "select",
+      "header": "ο φούρνος",
+      "options": {"a": "toast", "b": "slice", "c": "flatbread / pita", "d": "bakery / oven"},
+      "answer": "d"
+    },
+    {
+      "id": "e-sh-b1-088",
+      "type": "blocks",
+      "header": "fresh",
+      "answer": "φρέσκο",
+      "blocks": ["σ", "ο", "έ", "ρ", "κ", "φ"]
+    },
+    {
+      "id": "e-sh-b1-089",
+      "type": "writing",
+      "header": "fresh",
+      "answer": "φρέσκο"
+    },
+    {
+      "id": "e-sh-b1-090",
+      "type": "gap",
+      "header": "Θέλω δύο ___ ψωμί.",
+      "answer": "φέτες"
+    },
+    {
+      "id": "e-sh-b1-091",
+      "type": "select",
+      "header": "ο φούρνος",
+      "options": {"a": "bread roll", "b": "bakery / oven", "c": "wheat bread", "d": "baguette"},
+      "answer": "b"
+    },
+    {
+      "id": "e-sh-b1-092",
+      "type": "blocks",
+      "header": "bakery / oven",
+      "answer": "φούρνος",
+      "blocks": ["ο", "ύ", "σ", "φ", "ν", "ο", "ρ"]
+    },
+    {
+      "id": "e-sh-b1-093",
+      "type": "writing",
+      "header": "bakery / oven",
+      "answer": "φούρνος"
+    },
+    {
+      "id": "e-sh-b1-094",
+      "type": "gap",
+      "header": "Ο ___ ανοίγει στις 7.",
+      "answer": "φούρνος"
+    },
+    {
+      "id": "e-sh-b1-095",
+      "type": "gap",
+      "header": "Κάνω ___ για πρωινό.",
+      "answer": "τοστ"
+    },
+    {
+      "id": "e-sh-b1-096",
+      "type": "gap",
+      "header": "Κόβω το ψωμί σε ___.",
+      "answer": "φέτες"
+    }
+  ]
+}

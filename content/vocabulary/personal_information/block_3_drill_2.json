@@ -1,0 +1,160 @@
+{
+  "exercises": [
+    {
+      "id": "e-pi-b3-025",
+      "type": "gap",
+      "header": "Δουλεύω σε μια μεγάλη ___.",
+      "answer": "εταιρεία"
+    },
+    {
+      "id": "e-pi-b3-026",
+      "type": "select",
+      "header": "μιλώ",
+      "options": {"a": "to learn", "b": "to speak", "c": "to study", "d": "to work"},
+      "answer": "b"
+    },
+    {
+      "id": "e-pi-b3-027",
+      "type": "blocks",
+      "header": "hobby",
+      "answer": "χόμπι",
+      "blocks": ["π", "χ", "μ", "ι", "ό"]
+    },
+    {
+      "id": "e-pi-b3-028",
+      "type": "writing",
+      "header": "to study",
+      "answer": "σπουδάζω"
+    },
+    {
+      "id": "e-pi-b3-029",
+      "type": "gap",
+      "header": "Πήγα σε ένα καλό ___ στην Αθήνα.",
+      "answer": "σχολείο"
+    },
+    {
+      "id": "e-pi-b3-030",
+      "type": "select",
+      "header": "μαθαίνω",
+      "options": {"a": "to speak", "b": "to work", "c": "to learn", "d": "to study"},
+      "answer": "c"
+    },
+    {
+      "id": "e-pi-b3-031",
+      "type": "blocks",
+      "header": "to speak",
+      "answer": "μιλώ",
+      "blocks": ["λ", "μ", "ώ", "ι"]
+    },
+    {
+      "id": "e-pi-b3-032",
+      "type": "writing",
+      "header": "hobby",
+      "answer": "χόμπι"
+    },
+    {
+      "id": "e-pi-b3-033",
+      "type": "gap",
+      "header": "Σπούδασα στο ___ στην Αθήνα.",
+      "answer": "πανεπιστήμιο"
+    },
+    {
+      "id": "e-pi-b3-034",
+      "type": "select",
+      "header": "το διαβατήριο",
+      "options": {"a": "ID card", "b": "hobby", "c": "passport", "d": "university"},
+      "answer": "c"
+    },
+    {
+      "id": "e-pi-b3-035",
+      "type": "blocks",
+      "header": "to learn",
+      "answer": "μαθαίνω",
+      "blocks": ["ί", "α", "θ", "ν", "μ", "α", "ω"]
+    },
+    {
+      "id": "e-pi-b3-036",
+      "type": "writing",
+      "header": "to speak",
+      "answer": "μιλώ"
+    },
+    {
+      "id": "e-pi-b3-037",
+      "type": "gap",
+      "header": "___ τώρα ελληνική γλώσσα.",
+      "answer": "Σπουδάζω"
+    },
+    {
+      "id": "e-pi-b3-038",
+      "type": "select",
+      "header": "η ταυτότητα",
+      "options": {"a": "passport", "b": "to learn", "c": "ID card", "d": "hobby"},
+      "answer": "c"
+    },
+    {
+      "id": "e-pi-b3-039",
+      "type": "blocks",
+      "header": "passport",
+      "answer": "διαβατήριο",
+      "blocks": ["τ", "β", "ι", "α", "ή", "δ", "ρ", "ο", "ι", "α"]
+    },
+    {
+      "id": "e-pi-b3-040",
+      "type": "writing",
+      "header": "to learn",
+      "answer": "μαθαίνω"
+    },
+    {
+      "id": "e-pi-b3-041",
+      "type": "gap",
+      "header": "Τα ___ μου είναι η φωτογραφία και η μουσική.",
+      "answer": "χόμπι"
+    },
+    {
+      "id": "e-pi-b3-042",
+      "type": "select",
+      "header": "το επάγγελμα",
+      "options": {"a": "to work", "b": "school", "c": "ID card", "d": "profession"},
+      "answer": "d"
+    },
+    {
+      "id": "e-pi-b3-043",
+      "type": "blocks",
+      "header": "ID card",
+      "answer": "ταυτότητα",
+      "blocks": ["τ", "υ", "α", "ό", "τ", "η", "τ", "α"]
+    },
+    {
+      "id": "e-pi-b3-044",
+      "type": "writing",
+      "header": "passport",
+      "answer": "διαβατήριο"
+    },
+    {
+      "id": "e-pi-b3-045",
+      "type": "gap",
+      "header": "___ ελληνικά, αγγλικά και λίγο γαλλικά.",
+      "answer": "Μιλώ"
+    },
+    {
+      "id": "e-pi-b3-046",
+      "type": "select",
+      "header": "η εργασία",
+      "options": {"a": "company", "b": "work", "c": "to learn", "d": "school"},
+      "answer": "b"
+    },
+    {
+      "id": "e-pi-b3-047",
+      "type": "blocks",
+      "header": "profession",
+      "answer": "επάγγελμα",
+      "blocks": ["ά", "λ", "γ", "π", "ε", "μ", "ε", "γ", "α"]
+    },
+    {
+      "id": "e-pi-b3-048",
+      "type": "writing",
+      "header": "ID card",
+      "answer": "ταυτότητα"
+    }
+  ]
+}

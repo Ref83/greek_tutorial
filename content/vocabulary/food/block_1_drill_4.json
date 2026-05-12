@@ -1,0 +1,160 @@
+{
+  "exercises": [
+    {
+      "id": "e-f-b1-073",
+      "type": "select",
+      "header": "η κανέλα",
+      "options": {"a": "sugar", "b": "cinnamon", "c": "baking soda", "d": "flour"},
+      "answer": "b"
+    },
+    {
+      "id": "e-f-b1-074",
+      "type": "select",
+      "header": "το βούτυρο",
+      "options": {"a": "honey", "b": "egg", "c": "oil", "d": "butter"},
+      "answer": "d"
+    },
+    {
+      "id": "e-f-b1-075",
+      "type": "blocks",
+      "header": "cinnamon",
+      "answer": "κανέλα",
+      "blocks": ["λ", "ά", "ν", "ε", "κ", "α"]
+    },
+    {
+      "id": "e-f-b1-076",
+      "type": "select",
+      "header": "η μαγειρική σόδα",
+      "options": {"a": "cinnamon", "b": "vanilla", "c": "baking soda", "d": "flour"},
+      "answer": "c"
+    },
+    {
+      "id": "e-f-b1-077",
+      "type": "blocks",
+      "header": "butter",
+      "answer": "βούτυρο",
+      "blocks": ["ύ", "ο", "β", "ρ", "τ", "υ"]
+    },
+    {
+      "id": "e-f-b1-078",
+      "type": "writing",
+      "header": "cinnamon",
+      "answer": "κανέλα"
+    },
+    {
+      "id": "e-f-b1-079",
+      "type": "blocks",
+      "header": "baking soda",
+      "answer": "σόδα",
+      "blocks": ["δ", "ό", "α", "σ"]
+    },
+    {
+      "id": "e-f-b1-080",
+      "type": "writing",
+      "header": "butter",
+      "answer": "βούτυρο"
+    },
+    {
+      "id": "e-f-b1-081",
+      "type": "gap",
+      "header": "Ο καφές με ___ είναι πολύ αρωματικός.",
+      "answer": "κανέλα"
+    },
+    {
+      "id": "e-f-b1-082",
+      "type": "writing",
+      "header": "baking soda",
+      "answer": "μαγειρική σόδα"
+    },
+    {
+      "id": "e-f-b1-083",
+      "type": "gap",
+      "header": "Λιώνω ___ σε χαμηλή φωτιά.",
+      "answer": "βούτυρο"
+    },
+    {
+      "id": "e-f-b1-084",
+      "type": "gap",
+      "header": "Η συνταγή χρειάζεται μία κουταλιά ___.",
+      "answer": "μαγειρική σόδα"
+    },
+    {
+      "id": "e-f-b1-085",
+      "type": "select",
+      "header": "το μέλι",
+      "options": {"a": "baking soda", "b": "vanilla", "c": "milk", "d": "honey"},
+      "answer": "d"
+    },
+    {
+      "id": "e-f-b1-086",
+      "type": "select",
+      "header": "η βανίλια",
+      "options": {"a": "cinnamon", "b": "vanilla", "c": "honey", "d": "butter"},
+      "answer": "b"
+    },
+    {
+      "id": "e-f-b1-087",
+      "type": "blocks",
+      "header": "honey",
+      "answer": "μέλι",
+      "blocks": ["λ", "ε", "ι", "μ"]
+    },
+    {
+      "id": "e-f-b1-088",
+      "type": "select",
+      "header": "η κρέμα γάλακτος",
+      "options": {"a": "heavy cream / whipping cream", "b": "milk", "c": "egg", "d": "baking soda"},
+      "answer": "a"
+    },
+    {
+      "id": "e-f-b1-089",
+      "type": "blocks",
+      "header": "vanilla",
+      "answer": "βανίλια",
+      "blocks": ["α", "ν", "β", "ί", "λ", "α", "ι"]
+    },
+    {
+      "id": "e-f-b1-090",
+      "type": "writing",
+      "header": "honey",
+      "answer": "μέλι"
+    },
+    {
+      "id": "e-f-b1-091",
+      "type": "blocks",
+      "header": "heavy cream",
+      "answer": "κρέμα",
+      "blocks": ["έ", "α", "ρ", "μ", "κ"]
+    },
+    {
+      "id": "e-f-b1-092",
+      "type": "writing",
+      "header": "vanilla",
+      "answer": "βανίλια"
+    },
+    {
+      "id": "e-f-b1-093",
+      "type": "gap",
+      "header": "Το ελληνικό ___ είναι πολύ γλυκό.",
+      "answer": "μέλι"
+    },
+    {
+      "id": "e-f-b1-094",
+      "type": "writing",
+      "header": "heavy cream / whipping cream",
+      "answer": "κρέμα γάλακτος"
+    },
+    {
+      "id": "e-f-b1-095",
+      "type": "gap",
+      "header": "Το κέικ έχει γεύση ___.",
+      "answer": "βανίλιας"
+    },
+    {
+      "id": "e-f-b1-096",
+      "type": "gap",
+      "header": "Προσθέτω ___ στη σούπα.",
+      "answer": "κρέμα γάλακτος"
+    }
+  ]
+}

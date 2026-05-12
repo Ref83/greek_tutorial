@@ -1,0 +1,158 @@
+{
+  "exercises": [
+    {
+      "id": "e-sh-b3-073",
+      "type": "writing",
+      "header": "to order",
+      "answer": "παραγγέλνω"
+    },
+    {
+      "id": "e-sh-b3-074",
+      "type": "gap",
+      "header": "Μπορώ να ___ εδώ;",
+      "answer": "παραγγείλω"
+    },
+    {
+      "id": "e-sh-b3-075",
+      "type": "select",
+      "header": "η μερίδα",
+      "options": {"a": "receipt", "b": "kilogram", "c": "change (money)", "d": "portion"},
+      "answer": "d"
+    },
+    {
+      "id": "e-sh-b3-076",
+      "type": "blocks",
+      "header": "kilogram",
+      "answer": "κιλό",
+      "blocks": ["ό", "ι", "λ", "κ"]
+    },
+    {
+      "id": "e-sh-b3-077",
+      "type": "writing",
+      "header": "how much does it cost?",
+      "answer": "πόσο κάνει;"
+    },
+    {
+      "id": "e-sh-b3-078",
+      "type": "gap",
+      "header": "Πόσο ___ το κιλό;",
+      "answer": "κάνει"
+    },
+    {
+      "id": "e-sh-b3-079",
+      "type": "select",
+      "header": "ζυγίζω",
+      "options": {"a": "to order", "b": "baker", "c": "to pay", "d": "to weigh"},
+      "answer": "d"
+    },
+    {
+      "id": "e-sh-b3-080",
+      "type": "blocks",
+      "header": "portion",
+      "answer": "μερίδα",
+      "blocks": ["ί", "ε", "α", "δ", "μ", "ρ"]
+    },
+    {
+      "id": "e-sh-b3-081",
+      "type": "writing",
+      "header": "kilogram",
+      "answer": "κιλό"
+    },
+    {
+      "id": "e-sh-b3-082",
+      "type": "gap",
+      "header": "Θέλω ένα ___ μπισκότα.",
+      "answer": "κιλό"
+    },
+    {
+      "id": "e-sh-b3-083",
+      "type": "select",
+      "header": "τα ρέστα",
+      "options": {"a": "to weigh", "b": "price", "c": "change (money)", "d": "bag"},
+      "answer": "c"
+    },
+    {
+      "id": "e-sh-b3-084",
+      "type": "blocks",
+      "header": "to weigh",
+      "answer": "ζυγίζω",
+      "blocks": ["ί", "υ", "ω", "ι", "γ", "ζ"]
+    },
+    {
+      "id": "e-sh-b3-085",
+      "type": "writing",
+      "header": "portion",
+      "answer": "μερίδα"
+    },
+    {
+      "id": "e-sh-b3-086",
+      "type": "gap",
+      "header": "Θέλω μια μεγάλη ___.",
+      "answer": "μερίδα"
+    },
+    {
+      "id": "e-sh-b3-087",
+      "type": "select",
+      "header": "ο αρτοποιός",
+      "options": {"a": "portion", "b": "baker", "c": "to buy", "d": "change (money)"},
+      "answer": "b"
+    },
+    {
+      "id": "e-sh-b3-088",
+      "type": "blocks",
+      "header": "change (money)",
+      "answer": "ρέστα",
+      "blocks": ["τ", "ε", "σ", "ρ", "α"]
+    },
+    {
+      "id": "e-sh-b3-089",
+      "type": "writing",
+      "header": "to weigh",
+      "answer": "ζυγίζω"
+    },
+    {
+      "id": "e-sh-b3-090",
+      "type": "gap",
+      "header": "Ο αρτοποιός ___ τα μπισκότα.",
+      "answer": "ζυγίζει"
+    },
+    {
+      "id": "e-sh-b3-091",
+      "type": "select",
+      "header": "ο αρτοποιός",
+      "options": {"a": "to weigh", "b": "kilogram", "c": "receipt", "d": "baker"},
+      "answer": "d"
+    },
+    {
+      "id": "e-sh-b3-092",
+      "type": "blocks",
+      "header": "baker",
+      "answer": "αρτοποιός",
+      "blocks": ["τ", "ς", "π", "ι", "α", "ό", "ρ", "ο", "ο"]
+    },
+    {
+      "id": "e-sh-b3-093",
+      "type": "writing",
+      "header": "change (money)",
+      "answer": "ρέστα"
+    },
+    {
+      "id": "e-sh-b3-094",
+      "type": "gap",
+      "header": "Πάρτε τα ___ σας.",
+      "answer": "ρέστα"
+    },
+    {
+      "id": "e-sh-b3-095",
+      "type": "writing",
+      "header": "baker",
+      "answer": "αρτοποιός"
+    },
+    {
+      "id": "e-sh-b3-096",
+      "type": "gap",
+      "header": "Ο ___ φτιάχνει φρέσκο ψωμί.",
+      "answer": "αρτοποιός"
+    }
+  ]
+}

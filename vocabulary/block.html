@@ -38,6 +38,8 @@
         .exercises-btn:hover { background: #e0e7ff; }
         .read-btn { color: #059669; background: #ecfdf5; }
         .read-btn:hover { background: #d1fae5; }
+        .drill-btn { color: #d97706; background: #fffbeb; }
+        .drill-btn:hover { background: #fef3c7; }
         .items-list {
             max-width: 680px;
             margin: 0 auto;
@@ -113,6 +115,7 @@
 <body>
     <div class="top-panel">
         <a class="action-btn exercises-btn" id="exercisesBtn" href="#">✏️ Exercises</a>
+        <a class="action-btn drill-btn" id="drillBtn" href="#">🔁 Drill</a>
         <a class="action-btn read-btn" id="readBtn" href="#">📖 Read</a>
     </div>
     <div class="items-list" id="itemsList"></div>
@@ -126,6 +129,8 @@
         } else {
             document.getElementById('exercisesBtn').href =
                 `exercises.html?id=${encodeURIComponent(topicId)}&block=${blockIndex}`;
+            document.getElementById('drillBtn').href =
+                `exercises.html?id=${encodeURIComponent(topicId)}&block=${blockIndex}&drill=1`;
             document.getElementById('readBtn').href =
                 `read.html?id=${encodeURIComponent(topicId)}&block=${blockIndex}`;
 

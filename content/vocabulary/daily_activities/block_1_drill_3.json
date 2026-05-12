@@ -1,0 +1,160 @@
+{
+  "exercises": [
+    {
+      "id": "e-da-b1-049",
+      "type": "gap",
+      "header": "___ σήμερα, δεν έχω χρόνο.",
+      "answer": "Βιάζομαι"
+    },
+    {
+      "id": "e-da-b1-050",
+      "type": "select",
+      "header": "πλένομαι",
+      "options": {"a": "to get dressed", "b": "to cook", "c": "to wake up", "d": "to wash (oneself)"},
+      "answer": "d"
+    },
+    {
+      "id": "e-da-b1-051",
+      "type": "blocks",
+      "header": "to get up",
+      "answer": "σηκώνομαι",
+      "blocks": ["ω", "σ", "α", "κ", "ι", "ν", "ό", "μ", "η"]
+    },
+    {
+      "id": "e-da-b1-052",
+      "type": "writing",
+      "header": "to wake up",
+      "answer": "ξυπνώ"
+    },
+    {
+      "id": "e-da-b1-053",
+      "type": "gap",
+      "header": "___ στον καναπέ μετά τη δουλειά.",
+      "answer": "Χαλαρώνω"
+    },
+    {
+      "id": "e-da-b1-054",
+      "type": "select",
+      "header": "ντύνομαι",
+      "options": {"a": "to return home", "b": "to sleep", "c": "to get dressed", "d": "to have dinner"},
+      "answer": "c"
+    },
+    {
+      "id": "e-da-b1-055",
+      "type": "blocks",
+      "header": "to wash (oneself)",
+      "answer": "πλένομαι",
+      "blocks": ["ο", "λ", "α", "π", "μ", "ν", "ι", "έ"]
+    },
+    {
+      "id": "e-da-b1-056",
+      "type": "writing",
+      "header": "to get up",
+      "answer": "σηκώνομαι"
+    },
+    {
+      "id": "e-da-b1-057",
+      "type": "gap",
+      "header": "Τι ώρα ξυπνάς;",
+      "answer": "ξυπνάς"
+    },
+    {
+      "id": "e-da-b1-058",
+      "type": "select",
+      "header": "τρώω πρωινό",
+      "options": {"a": "to have breakfast", "b": "to relax", "c": "to cook", "d": "to get up"},
+      "answer": "a"
+    },
+    {
+      "id": "e-da-b1-059",
+      "type": "blocks",
+      "header": "to get dressed",
+      "answer": "ντύνομαι",
+      "blocks": ["ο", "τ", "μ", "ν", "α", "ι", "ύ"]
+    },
+    {
+      "id": "e-da-b1-060",
+      "type": "writing",
+      "header": "to wash (oneself)",
+      "answer": "πλένομαι"
+    },
+    {
+      "id": "e-da-b1-061",
+      "type": "gap",
+      "header": "Δεν θέλω να σηκωθώ σήμερα.",
+      "answer": "σηκωθώ"
+    },
+    {
+      "id": "e-da-b1-062",
+      "type": "select",
+      "header": "φεύγω για τη δουλειά",
+      "options": {"a": "to have dinner", "b": "to leave for work", "c": "to wake up", "d": "to sleep"},
+      "answer": "b"
+    },
+    {
+      "id": "e-da-b1-063",
+      "type": "blocks",
+      "header": "to have breakfast",
+      "answer": "τρώω",
+      "blocks": ["ώ", "τ", "ω", "ρ"]
+    },
+    {
+      "id": "e-da-b1-064",
+      "type": "writing",
+      "header": "to get dressed",
+      "answer": "ντύνομαι"
+    },
+    {
+      "id": "e-da-b1-065",
+      "type": "gap",
+      "header": "Ποτέ δεν παραλείπω το πρωινό.",
+      "answer": "πρωινό"
+    },
+    {
+      "id": "e-da-b1-066",
+      "type": "select",
+      "header": "επιστρέφω σπίτι",
+      "options": {"a": "to be in a hurry", "b": "to cook", "c": "to return home", "d": "to wash (oneself)"},
+      "answer": "c"
+    },
+    {
+      "id": "e-da-b1-067",
+      "type": "blocks",
+      "header": "to leave for work",
+      "answer": "φεύγω",
+      "blocks": ["ύ", "ω", "γ", "ε", "φ"]
+    },
+    {
+      "id": "e-da-b1-068",
+      "type": "writing",
+      "header": "to have breakfast",
+      "answer": "τρώω πρωινό"
+    },
+    {
+      "id": "e-da-b1-069",
+      "type": "gap",
+      "header": "Πότε φεύγεις συνήθως;",
+      "answer": "φεύγεις"
+    },
+    {
+      "id": "e-da-b1-070",
+      "type": "select",
+      "header": "μαγειρεύω",
+      "options": {"a": "to relax", "b": "to get up", "c": "to have breakfast", "d": "to cook"},
+      "answer": "d"
+    },
+    {
+      "id": "e-da-b1-071",
+      "type": "blocks",
+      "header": "to return home",
+      "answer": "επιστρέφω",
+      "blocks": ["σ", "π", "ι", "έ", "ε", "ρ", "τ", "φ", "ω"]
+    },
+    {
+      "id": "e-da-b1-072",
+      "type": "writing",
+      "header": "to leave for work",
+      "answer": "φεύγω για τη δουλειά"
+    }
+  ]
+}

@@ -11,6 +11,37 @@
             "type": "translate",
             "header": "Are you well today 1?",
             "answer": "Εσύ είσαι καλά σήμερα 1;"
+        },
+        {
+            "id": "e-pi-d1-001",
+            "type": "select",
+            "header": "η ηλικία",
+            "options": {
+                "a": "country",
+                "b": "nationality",
+                "c": "age",
+                "d": "address"
+            },
+            "answer": "c"
+        },
+        {
+            "id": "e-pi-d1-002",
+            "type": "blocks",
+            "header": "city",
+            "answer": "πόλη",
+            "blocks": ["π", "ό", "λ", "η"]
+        },
+        {
+            "id": "e-pi-d1-003",
+            "type": "writing",
+            "header": "telephone",
+            "answer": "τηλέφωνο"
+        },
+        {
+            "id": "e-pi-d1-004",
+            "type": "gap",
+            "header": "Μένω σε μια μεγάλη ___.",
+            "answer": "πόλη"
         }
     ]
 }

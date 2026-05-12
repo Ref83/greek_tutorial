@@ -1,0 +1,201 @@
+{
+  "exercises": [
+    {
+      "id": "e-nd-b3-001",
+      "type": "select",
+      "header": "Ιανουάριος",
+      "options": {"a": "February", "b": "March", "c": "January", "d": "date"},
+      "answer": "c"
+    },
+    {
+      "id": "e-nd-b3-002",
+      "type": "select",
+      "header": "Φεβρουάριος",
+      "options": {"a": "January", "b": "February", "c": "March", "d": "April"},
+      "answer": "b"
+    },
+    {
+      "id": "e-nd-b3-003",
+      "type": "blocks",
+      "header": "January",
+      "answer": "Ιανουάριος",
+      "blocks": ["ο", "Ι", "υ", "ν", "ά", "α", "ρ", "ι", "σ"]
+    },
+    {
+      "id": "e-nd-b3-004",
+      "type": "select",
+      "header": "Μάρτιος",
+      "options": {"a": "May", "b": "April", "c": "February", "d": "March"},
+      "answer": "d"
+    },
+    {
+      "id": "e-nd-b3-005",
+      "type": "blocks",
+      "header": "February",
+      "answer": "Φεβρουάριος",
+      "blocks": ["υ", "Φ", "ι", "ο", "β", "ά", "ε", "ρ", "ο", "σ"]
+    },
+    {
+      "id": "e-nd-b3-006",
+      "type": "writing",
+      "header": "January",
+      "answer": "Ιανουάριος"
+    },
+    {
+      "id": "e-nd-b3-007",
+      "type": "select",
+      "header": "Απρίλιος",
+      "options": {"a": "March", "b": "June", "c": "April", "d": "May"},
+      "answer": "c"
+    },
+    {
+      "id": "e-nd-b3-008",
+      "type": "blocks",
+      "header": "March",
+      "answer": "Μάρτιος",
+      "blocks": ["τ", "Μ", "ο", "ά", "ι", "ρ", "σ"]
+    },
+    {
+      "id": "e-nd-b3-009",
+      "type": "gap",
+      "header": "Τον ___ κάνει πολύ κρύο.",
+      "answer": "Ιανουάριο"
+    },
+    {
+      "id": "e-nd-b3-010",
+      "type": "writing",
+      "header": "February",
+      "answer": "Φεβρουάριος"
+    },
+    {
+      "id": "e-nd-b3-011",
+      "type": "gap",
+      "header": "Ο ___ έχει είκοσι οχτώ μέρες.",
+      "answer": "Φεβρουάριος"
+    },
+    {
+      "id": "e-nd-b3-012",
+      "type": "gap",
+      "header": "Τον ___ ανθίζουν τα λουλούδια.",
+      "answer": "Μάρτιο"
+    },
+    {
+      "id": "e-nd-b3-013",
+      "type": "select",
+      "header": "Μάιος",
+      "options": {"a": "June", "b": "April", "c": "May", "d": "January"},
+      "answer": "c"
+    },
+    {
+      "id": "e-nd-b3-014",
+      "type": "select",
+      "header": "Ιούνιος",
+      "options": {"a": "July", "b": "May", "c": "August", "d": "June"},
+      "answer": "d"
+    },
+    {
+      "id": "e-nd-b3-015",
+      "type": "blocks",
+      "header": "April",
+      "answer": "Απρίλιος",
+      "blocks": ["ι", "Α", "ο", "ρ", "λ", "π", "ί", "σ"]
+    },
+    {
+      "id": "e-nd-b3-016",
+      "type": "select",
+      "header": "Ιούλιος",
+      "options": {"a": "June", "b": "August", "c": "September", "d": "July"},
+      "answer": "d"
+    },
+    {
+      "id": "e-nd-b3-017",
+      "type": "blocks",
+      "header": "May",
+      "answer": "Μάιος",
+      "blocks": ["α", "Μ", "σ", "ο", "ί"]
+    },
+    {
+      "id": "e-nd-b3-018",
+      "type": "writing",
+      "header": "April",
+      "answer": "Απρίλιος"
+    },
+    {
+      "id": "e-nd-b3-019",
+      "type": "blocks",
+      "header": "June",
+      "answer": "Ιούνιος",
+      "blocks": ["ν", "Ι", "ο", "ί", "υ", "ο", "σ"]
+    },
+    {
+      "id": "e-nd-b3-020",
+      "type": "writing",
+      "header": "May",
+      "answer": "Μάιος"
+    },
+    {
+      "id": "e-nd-b3-021",
+      "type": "gap",
+      "header": "Τον ___ γιορτάζουμε συχνά το Πάσχα.",
+      "answer": "Απρίλιο"
+    },
+    {
+      "id": "e-nd-b3-022",
+      "type": "writing",
+      "header": "June",
+      "answer": "Ιούνιος"
+    },
+    {
+      "id": "e-nd-b3-023",
+      "type": "gap",
+      "header": "Τον ___ ο καιρός είναι πολύ ωραίος.",
+      "answer": "Μάιο"
+    },
+    {
+      "id": "e-nd-b3-024",
+      "type": "gap",
+      "header": "Τον ___ τελειώνει το σχολείο.",
+      "answer": "Ιούνιο"
+    },
+    {
+      "id": "e-nd-b3-025",
+      "type": "select",
+      "header": "Αύγουστος",
+      "options": {"a": "September", "b": "July", "c": "August", "d": "October"},
+      "answer": "c"
+    },
+    {
+      "id": "e-nd-b3-026",
+      "type": "select",
+      "header": "Σεπτέμβριος",
+      "options": {"a": "October", "b": "August", "c": "November", "d": "September"},
+      "answer": "d"
+    },
+    {
+      "id": "e-nd-b3-027",
+      "type": "blocks",
+      "header": "July",
+      "answer": "Ιούλιος",
+      "blocks": ["ο", "Ι", "λ", "ύ", "ι", "σ", "ο"]
+    },
+    {
+      "id": "e-nd-b3-028",
+      "type": "blocks",
+      "header": "August",
+      "answer": "Αύγουστος",
+      "blocks": ["γ", "Α", "τ", "ύ", "ο", "υ", "σ", "ο", "σ"]
+    },
+    {
+      "id": "e-nd-b3-029",
+      "type": "gap",
+      "header": "Τον ___ πηγαίνουμε διακοπές.",
+      "answer": "Ιούλιο"
+    },
+    {
+      "id": "e-nd-b3-030",
+      "type": "gap",
+      "header": "Τον ___ πηγαίνουμε στη θάλασσα.",
+      "answer": "Αύγουστο"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "exercises": [
+    {
+      "id": "e-hb-b3-025",
+      "type": "select",
+      "header": "ήρεμος / ήρεμη",
+      "options": {"a": "anxious", "b": "calm", "c": "afraid", "d": "tired"},
+      "answer": "b"
+    },
+    {
+      "id": "e-hb-b3-026",
+      "type": "select",
+      "header": "χαλαρώνω",
+      "options": {"a": "to worry", "b": "to endure", "c": "to relax", "d": "to trust"},
+      "answer": "c"
+    },
+    {
+      "id": "e-hb-b3-027",
+      "type": "blocks",
+      "header": "calm",
+      "answer": "ήρεμος",
+      "blocks": ["ε", "ή", "μ", "ο", "ρ", "ς"]
+    },
+    {
+      "id": "e-hb-b3-028",
+      "type": "select",
+      "header": "εμπιστεύομαι",
+      "options": {"a": "to relax", "b": "to feel", "c": "to soothe", "d": "to trust"},
+      "answer": "d"
+    },
+    {
+      "id": "e-hb-b3-029",
+      "type": "blocks",
+      "header": "to relax",
+      "answer": "χαλαρώνω",
+      "blocks": ["ν", "χ", "ρ", "α", "ω", "λ", "ώ", "ο", "α"]
+    },
+    {
+      "id": "e-hb-b3-030",
+      "type": "writing",
+      "header": "calm",
+      "answer": "ήρεμος"
+    },
+    {
+      "id": "e-hb-b3-031",
+      "type": "blocks",
+      "header": "to trust",
+      "answer": "εμπιστεύομαι",
+      "blocks": ["ε", "π", "ο", "τ", "σ", "μ", "υ", "ε", "ί", "α", "μ"]
+    },
+    {
+      "id": "e-hb-b3-032",
+      "type": "writing",
+      "header": "to relax",
+      "answer": "χαλαρώνω"
+    },
+    {
+      "id": "e-hb-b3-033",
+      "type": "gap",
+      "header": "Προσπαθώ να μείνω ___ στον γιατρό.",
+      "answer": "ήρεμος"
+    },
+    {
+      "id": "e-hb-b3-034",
+      "type": "writing",
+      "header": "to trust",
+      "answer": "εμπιστεύομαι"
+    },
+    {
+      "id": "e-hb-b3-035",
+      "type": "gap",
+      "header": "Προσπαθώ να ___ πριν την εξέταση.",
+      "answer": "χαλαρώσω"
+    },
+    {
+      "id": "e-hb-b3-036",
+      "type": "gap",
+      "header": "___ πολύ τον γιατρό μου.",
+      "answer": "Εμπιστεύομαι"
+    },
+    {
+      "id": "e-hb-b3-037",
+      "type": "select",
+      "header": "η αναπνοή",
+      "options": {"a": "worry", "b": "fear", "c": "breath / breathing", "d": "calm"},
+      "answer": "c"
+    },
+    {
+      "id": "e-hb-b3-038",
+      "type": "select",
+      "header": "ανακουφίζω",
+      "options": {"a": "to endure", "b": "to relieve / to soothe", "c": "to worry", "d": "to breathe"},
+      "answer": "b"
+    },
+    {
+      "id": "e-hb-b3-039",
+      "type": "blocks",
+      "header": "breath / breathing",
+      "answer": "αναπνοή",
+      "blocks": ["π", "α", "ή", "ν", "ο", "α", "ν"]
+    },
+    {
+      "id": "e-hb-b3-040",
+      "type": "select",
+      "header": "αντέχω",
+      "options": {"a": "to trust", "b": "to relax", "c": "to soothe", "d": "to endure / to bear / to handle"},
+      "answer": "d"
+    },
+    {
+      "id": "e-hb-b3-041",
+      "type": "blocks",
+      "header": "to relieve / to soothe",
+      "answer": "ανακουφίζω",
+      "blocks": ["ί", "α", "ζ", "κ", "υ", "ν", "ο", "ω", "φ", "α"]
+    },
+    {
+      "id": "e-hb-b3-042",
+      "type": "writing",
+      "header": "breath / breathing",
+      "answer": "αναπνοή"
+    },
+    {
+      "id": "e-hb-b3-043",
+      "type": "blocks",
+      "header": "to endure / to bear / to handle",
+      "answer": "αντέχω",
+      "blocks": ["χ", "ν", "α", "τ", "ω", "έ"]
+    },
+    {
+      "id": "e-hb-b3-044",
+      "type": "writing",
+      "header": "to relieve / to soothe",
+      "answer": "ανακουφίζω"
+    },
+    {
+      "id": "e-hb-b3-045",
+      "type": "gap",
+      "header": "Πάρε βαθιά ___.",
+      "answer": "αναπνοή"
+    },
+    {
+      "id": "e-hb-b3-046",
+      "type": "writing",
+      "header": "to endure / to bear / to handle",
+      "answer": "αντέχω"
+    },
+    {
+      "id": "e-hb-b3-047",
+      "type": "gap",
+      "header": "Το φάρμακο ___ τον πόνο.",
+      "answer": "ανακουφίζει"
+    },
+    {
+      "id": "e-hb-b3-048",
+      "type": "gap",
+      "header": "___ τον πόνο για λίγο ακόμα.",
+      "answer": "Αντέχω"
+    }
+  ]
+}

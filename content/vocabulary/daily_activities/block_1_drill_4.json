@@ -1,0 +1,160 @@
+{
+  "exercises": [
+    {
+      "id": "e-da-b1-073",
+      "type": "gap",
+      "header": "Πότε επιστρέφεις από τη δουλειά;",
+      "answer": "επιστρέφεις"
+    },
+    {
+      "id": "e-da-b1-074",
+      "type": "select",
+      "header": "δειπνώ",
+      "options": {"a": "to cook", "b": "to have breakfast", "c": "to wake up", "d": "to have dinner"},
+      "answer": "d"
+    },
+    {
+      "id": "e-da-b1-075",
+      "type": "blocks",
+      "header": "to cook",
+      "answer": "μαγειρεύω",
+      "blocks": ["ρ", "μ", "υ", "α", "γ", "ε", "ω", "ί"]
+    },
+    {
+      "id": "e-da-b1-076",
+      "type": "writing",
+      "header": "to return home",
+      "answer": "επιστρέφω σπίτι"
+    },
+    {
+      "id": "e-da-b1-077",
+      "type": "gap",
+      "header": "Μου αρέσει να μαγειρεύω νέες συνταγές.",
+      "answer": "μαγειρεύω"
+    },
+    {
+      "id": "e-da-b1-078",
+      "type": "select",
+      "header": "κοιμάμαι",
+      "options": {"a": "to get dressed", "b": "to sleep", "c": "to leave for work", "d": "to wake up"},
+      "answer": "b"
+    },
+    {
+      "id": "e-da-b1-079",
+      "type": "blocks",
+      "header": "to have dinner",
+      "answer": "δειπνώ",
+      "blocks": ["π", "ώ", "ε", "ν", "ι", "δ"]
+    },
+    {
+      "id": "e-da-b1-080",
+      "type": "writing",
+      "header": "to cook",
+      "answer": "μαγειρεύω"
+    },
+    {
+      "id": "e-da-b1-081",
+      "type": "gap",
+      "header": "Τι ώρα δειπνάτε συνήθως;",
+      "answer": "δειπνάτε"
+    },
+    {
+      "id": "e-da-b1-082",
+      "type": "select",
+      "header": "χαλαρώνω",
+      "options": {"a": "to be in a hurry", "b": "to have dinner", "c": "to relax", "d": "to get up"},
+      "answer": "c"
+    },
+    {
+      "id": "e-da-b1-083",
+      "type": "blocks",
+      "header": "to sleep",
+      "answer": "κοιμάμαι",
+      "blocks": ["α", "κ", "μ", "ά", "ο", "ι", "α"]
+    },
+    {
+      "id": "e-da-b1-084",
+      "type": "writing",
+      "header": "to have dinner",
+      "answer": "δειπνώ"
+    },
+    {
+      "id": "e-da-b1-085",
+      "type": "gap",
+      "header": "Πότε κοιμάσαι συνήθως;",
+      "answer": "κοιμάσαι"
+    },
+    {
+      "id": "e-da-b1-086",
+      "type": "select",
+      "header": "βιάζομαι",
+      "options": {"a": "to relax", "b": "to return home", "c": "to sleep", "d": "to be in a hurry"},
+      "answer": "d"
+    },
+    {
+      "id": "e-da-b1-087",
+      "type": "blocks",
+      "header": "to relax",
+      "answer": "χαλαρώνω",
+      "blocks": ["α", "χ", "ω", "ν", "λ", "ρ", "ώ", "α"]
+    },
+    {
+      "id": "e-da-b1-088",
+      "type": "writing",
+      "header": "to sleep",
+      "answer": "κοιμάμαι"
+    },
+    {
+      "id": "e-da-b1-089",
+      "type": "gap",
+      "header": "Χρειάζομαι λίγη χαλάρωση σήμερα.",
+      "answer": "χαλάρωση"
+    },
+    {
+      "id": "e-da-b1-090",
+      "type": "select",
+      "header": "ξυπνώ",
+      "options": {"a": "to wash (oneself)", "b": "to wake up", "c": "to have dinner", "d": "to cook"},
+      "answer": "b"
+    },
+    {
+      "id": "e-da-b1-091",
+      "type": "blocks",
+      "header": "to be in a hurry",
+      "answer": "βιάζομαι",
+      "blocks": ["ζ", "β", "μ", "ι", "α", "ο", "ά"]
+    },
+    {
+      "id": "e-da-b1-092",
+      "type": "writing",
+      "header": "to relax",
+      "answer": "χαλαρώνω"
+    },
+    {
+      "id": "e-da-b1-093",
+      "type": "gap",
+      "header": "Μην βιάζεσαι, έχουμε ώρα!",
+      "answer": "βιάζεσαι"
+    },
+    {
+      "id": "e-da-b1-094",
+      "type": "select",
+      "header": "σηκώνομαι",
+      "options": {"a": "to sleep", "b": "to have breakfast", "c": "to be in a hurry", "d": "to get up"},
+      "answer": "d"
+    },
+    {
+      "id": "e-da-b1-095",
+      "type": "blocks",
+      "header": "to wake up",
+      "answer": "ξυπνώ",
+      "blocks": ["π", "ώ", "ξ", "ν", "υ"]
+    },
+    {
+      "id": "e-da-b1-096",
+      "type": "writing",
+      "header": "to be in a hurry",
+      "answer": "βιάζομαι"
+    }
+  ]
+}

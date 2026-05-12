@@ -1,0 +1,160 @@
+{
+  "exercises": [
+    {
+      "id": "e-hb-b2-073",
+      "type": "select",
+      "header": "η ναυτία",
+      "options": {"a": "injection", "b": "nausea", "c": "headache", "d": "temperature"},
+      "answer": "b"
+    },
+    {
+      "id": "e-hb-b2-074",
+      "type": "select",
+      "header": "η γρίπη",
+      "options": {"a": "examination", "b": "sore throat", "c": "flu", "d": "tired"},
+      "answer": "c"
+    },
+    {
+      "id": "e-hb-b2-075",
+      "type": "blocks",
+      "header": "nausea",
+      "answer": "ναυτία",
+      "blocks": ["α", "υ", "τ", "ν", "α", "ί"]
+    },
+    {
+      "id": "e-hb-b2-076",
+      "type": "select",
+      "header": "η εξέταση",
+      "options": {"a": "sick", "b": "injection", "c": "flu", "d": "examination / medical test"},
+      "answer": "d"
+    },
+    {
+      "id": "e-hb-b2-077",
+      "type": "blocks",
+      "header": "flu",
+      "answer": "γρίπη",
+      "blocks": ["π", "ρ", "γ", "η", "ί"]
+    },
+    {
+      "id": "e-hb-b2-078",
+      "type": "writing",
+      "header": "nausea",
+      "answer": "ναυτία"
+    },
+    {
+      "id": "e-hb-b2-079",
+      "type": "blocks",
+      "header": "examination / medical test",
+      "answer": "εξέταση",
+      "blocks": ["η", "τ", "ξ", "ε", "σ", "έ", "α"]
+    },
+    {
+      "id": "e-hb-b2-080",
+      "type": "writing",
+      "header": "flu",
+      "answer": "γρίπη"
+    },
+    {
+      "id": "e-hb-b2-081",
+      "type": "gap",
+      "header": "Η ___ εμφανίζεται το πρωί.",
+      "answer": "ναυτία"
+    },
+    {
+      "id": "e-hb-b2-082",
+      "type": "writing",
+      "header": "examination / medical test",
+      "answer": "εξέταση"
+    },
+    {
+      "id": "e-hb-b2-083",
+      "type": "gap",
+      "header": "Η ___ εξαπλώνεται το χειμώνα.",
+      "answer": "γρίπη"
+    },
+    {
+      "id": "e-hb-b2-084",
+      "type": "gap",
+      "header": "Η ___ δεν πονάει.",
+      "answer": "εξέταση"
+    },
+    {
+      "id": "e-hb-b2-085",
+      "type": "select",
+      "header": "μετράω τη θερμοκρασία",
+      "options": {"a": "to feel sick", "b": "to give an injection", "c": "to feel dizzy", "d": "to take someone's temperature"},
+      "answer": "d"
+    },
+    {
+      "id": "e-hb-b2-086",
+      "type": "select",
+      "header": "η θερμοκρασία",
+      "options": {"a": "nausea", "b": "temperature", "c": "examination", "d": "headache"},
+      "answer": "b"
+    },
+    {
+      "id": "e-hb-b2-087",
+      "type": "blocks",
+      "header": "to take someone's temperature",
+      "answer": "μετράω",
+      "blocks": ["ρ", "μ", "ω", "ά", "ε", "τ"]
+    },
+    {
+      "id": "e-hb-b2-088",
+      "type": "select",
+      "header": "η ένεση",
+      "options": {"a": "sore throat", "b": "flu", "c": "injection / shot", "d": "temperature"},
+      "answer": "c"
+    },
+    {
+      "id": "e-hb-b2-089",
+      "type": "blocks",
+      "header": "temperature",
+      "answer": "θερμοκρασία",
+      "blocks": ["ρ", "ε", "μ", "ί", "α", "θ", "κ", "σ", "α", "ο", "ρ"]
+    },
+    {
+      "id": "e-hb-b2-090",
+      "type": "writing",
+      "header": "to take someone's temperature",
+      "answer": "μετράω"
+    },
+    {
+      "id": "e-hb-b2-091",
+      "type": "blocks",
+      "header": "injection / shot",
+      "answer": "ένεση",
+      "blocks": ["η", "ν", "έ", "ε", "σ"]
+    },
+    {
+      "id": "e-hb-b2-092",
+      "type": "writing",
+      "header": "temperature",
+      "answer": "θερμοκρασία"
+    },
+    {
+      "id": "e-hb-b2-093",
+      "type": "gap",
+      "header": "Μέτρησέ του τη ___.",
+      "answer": "θερμοκρασία"
+    },
+    {
+      "id": "e-hb-b2-094",
+      "type": "writing",
+      "header": "injection / shot",
+      "answer": "ένεση"
+    },
+    {
+      "id": "e-hb-b2-095",
+      "type": "gap",
+      "header": "Έχεις υψηλή ___.",
+      "answer": "θερμοκρασία"
+    },
+    {
+      "id": "e-hb-b2-096",
+      "type": "gap",
+      "header": "Η ___ με βοήθησε γρήγορα.",
+      "answer": "ένεση"
+    }
+  ]
+}

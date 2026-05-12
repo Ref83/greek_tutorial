@@ -1,0 +1,160 @@
+{
+  "exercises": [
+    {
+      "id": "e-f-b3-049",
+      "type": "select",
+      "header": "μαγειρεύω",
+      "options": {"a": "to fry", "b": "to add", "c": "to cook", "d": "to cut"},
+      "answer": "c"
+    },
+    {
+      "id": "e-f-b3-050",
+      "type": "select",
+      "header": "ψήνω",
+      "options": {"a": "to boil", "b": "to bake / to grill / to roast", "c": "to mix", "d": "to cook"},
+      "answer": "b"
+    },
+    {
+      "id": "e-f-b3-051",
+      "type": "blocks",
+      "header": "to cook",
+      "answer": "μαγειρεύω",
+      "blocks": ["γ", "ύ", "ω", "ε", "ι", "ρ", "μ", "α"]
+    },
+    {
+      "id": "e-f-b3-052",
+      "type": "select",
+      "header": "βράζω",
+      "options": {"a": "to mix", "b": "to roast", "c": "to add", "d": "to boil"},
+      "answer": "d"
+    },
+    {
+      "id": "e-f-b3-053",
+      "type": "blocks",
+      "header": "to bake / to grill / to roast",
+      "answer": "ψήνω",
+      "blocks": ["ν", "ή", "ω", "ψ"]
+    },
+    {
+      "id": "e-f-b3-054",
+      "type": "writing",
+      "header": "to cook",
+      "answer": "μαγειρεύω"
+    },
+    {
+      "id": "e-f-b3-055",
+      "type": "blocks",
+      "header": "to boil",
+      "answer": "βράζω",
+      "blocks": ["ρ", "ω", "ά", "ζ", "β"]
+    },
+    {
+      "id": "e-f-b3-056",
+      "type": "writing",
+      "header": "to bake / to grill / to roast",
+      "answer": "ψήνω"
+    },
+    {
+      "id": "e-f-b3-057",
+      "type": "gap",
+      "header": "___ κάθε βράδυ στο σπίτι.",
+      "answer": "Μαγειρεύω"
+    },
+    {
+      "id": "e-f-b3-058",
+      "type": "writing",
+      "header": "to boil",
+      "answer": "βράζω"
+    },
+    {
+      "id": "e-f-b3-059",
+      "type": "gap",
+      "header": "___ κοτόπουλο στη σχάρα.",
+      "answer": "Ψήνω"
+    },
+    {
+      "id": "e-f-b3-060",
+      "type": "gap",
+      "header": "___ τα αυγά για δέκα λεπτά.",
+      "answer": "Βράζω"
+    },
+    {
+      "id": "e-f-b3-061",
+      "type": "select",
+      "header": "τηγανίζω",
+      "options": {"a": "to stir", "b": "to cut", "c": "to cook", "d": "to fry"},
+      "answer": "d"
+    },
+    {
+      "id": "e-f-b3-062",
+      "type": "select",
+      "header": "κόβω",
+      "options": {"a": "to boil", "b": "to cut / to chop", "c": "to add", "d": "to fry"},
+      "answer": "b"
+    },
+    {
+      "id": "e-f-b3-063",
+      "type": "blocks",
+      "header": "to fry",
+      "answer": "τηγανίζω",
+      "blocks": ["ί", "η", "α", "ζ", "γ", "τ", "ω", "ν"]
+    },
+    {
+      "id": "e-f-b3-064",
+      "type": "select",
+      "header": "ανακατεύω",
+      "options": {"a": "to cut", "b": "to bake", "c": "to mix / to stir", "d": "to boil"},
+      "answer": "c"
+    },
+    {
+      "id": "e-f-b3-065",
+      "type": "blocks",
+      "header": "to cut / to chop",
+      "answer": "κόβω",
+      "blocks": ["β", "ό", "ω", "κ"]
+    },
+    {
+      "id": "e-f-b3-066",
+      "type": "writing",
+      "header": "to fry",
+      "answer": "τηγανίζω"
+    },
+    {
+      "id": "e-f-b3-067",
+      "type": "blocks",
+      "header": "to mix / to stir",
+      "answer": "ανακατεύω",
+      "blocks": ["κ", "ύ", "ω", "α", "ε", "τ", "α", "ν"]
+    },
+    {
+      "id": "e-f-b3-068",
+      "type": "writing",
+      "header": "to cut / to chop",
+      "answer": "κόβω"
+    },
+    {
+      "id": "e-f-b3-069",
+      "type": "gap",
+      "header": "___ τα λαχανικά σε ζεστό λάδι.",
+      "answer": "Τηγανίζω"
+    },
+    {
+      "id": "e-f-b3-070",
+      "type": "writing",
+      "header": "to mix / to stir",
+      "answer": "ανακατεύω"
+    },
+    {
+      "id": "e-f-b3-071",
+      "type": "gap",
+      "header": "___ το ψωμί με μαχαίρι.",
+      "answer": "Κόβω"
+    },
+    {
+      "id": "e-f-b3-072",
+      "type": "gap",
+      "header": "___ τη σούπα να μην κολλήσει.",
+      "answer": "Ανακατεύω"
+    }
+  ]
+}
